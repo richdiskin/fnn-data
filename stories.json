@@ -1,7 +1,7 @@
 {
   "edition": "2026-10-22-am",
   "date": "2026-10-22",
-  "updated_at": "2026-10-22T07:00:00-04:00",
+  "updated_at": "2026-10-22T07:05:00-04:00",
   "lead": "no-ties",
   "stories": [
     {
@@ -196,6 +196,109 @@
         "provider": "file",
         "id": "/fnn/clips/no-ties.mp4",
         "label": "Watch"
+      }
+    },
+    {
+      "slug": "in-their-own-words",
+      "date": "2026-10-22",
+      "section": "freedom",
+      "kicker": "FREEDOM NEWS NETWORK",
+      "headline": "THEN: “Of course alcohol would be banned… There would be no monarchy.”",
+      "headline_now": "NOW: “Extremism is not prohibited.”",
+      "deck": "Islamists told Britain and Germany exactly what they wanted, on camera. Officials said the law tied their hands. It took years to stop them.",
+      "byline": "By FNN Desk",
+      "body": "Oct. 2009, London. Anjem Choudary, Al-Muhajiroun’s leader, under a “Sharia for Britain” sign. If they took over Britain? “Of course alcohol would be banned.” “There would be no monarchy.”\n\nHis group’s spokesman: “We hope, one day, to eradicate man-made law from Britain.”\n\nApril 27, 2024, Hamburg. About 1,100 march with Muslim Interaktiv. Signs: “The caliphate is the solution.”\n\nMay 8, 2024. Hamburg’s interior senator, Andy Grote: “Extremism is not prohibited.” He called the rally disgusting. The law, he said, barred a ban.\n\nChoudary got life in 2024. Germany banned Muslim Interaktiv in Nov. 2025.\n\nThey told us. It took years.",
+      "pull_quote": "“We hope, one day, to eradicate man-made law from Britain.”",
+      "then": {
+        "text": "If you took over Britain, you’d ban alcohol? “Of course alcohol would be banned, drugs would be banned, pornography would be banned, gambling would be banned.” The Queen? “There would be no monarchy.”",
+        "date": "2009-10-01",
+        "date_label": "Oct. 2009",
+        "source": "https://www.youtube.com/watch?v=UC2VQjSgpso",
+        "source_name": "VICE, “Islamic Extremists in London” (aired 2011)",
+        "who": "Anjem Choudary, Al-Muhajiroun leader, London"
+      },
+      "now": {
+        "text": "Und Extremismus ist nicht verboten. (“And extremism is not prohibited.”) Even if “I don’t like it either,” he said, a ban “just isn’t possible.”",
+        "date": "2024-05-08",
+        "source": "https://www.youtube.com/watch?v=_c9s3QvOmEg",
+        "source_name": "Hamburg 1 Fernsehen",
+        "who": "Andy Grote (SPD), Hamburg interior senator"
+      },
+      "record": [
+        {
+          "date": "2009-10-01",
+          "date_label": "Oct. 2009",
+          "label": "Choudary at a London rally: “Of course alcohol would be banned,” “There would be no monarchy”",
+          "source": "VICE (YouTube)",
+          "url": "https://www.youtube.com/watch?v=UC2VQjSgpso",
+          "role": "then"
+        },
+        {
+          "date": "2024-05-08",
+          "label": "Grote: “Extremism is not prohibited,” and a ban “just isn’t possible”",
+          "source": "Hamburg 1 Fernsehen (YouTube)",
+          "url": "https://www.youtube.com/watch?v=_c9s3QvOmEg",
+          "role": "now"
+        },
+        {
+          "date": "2012-07-25",
+          "date_label": "Aired 2011",
+          "label": "Al-Muhajiroun spokesman: “we hope, one day, to eradicate man-made law from Britain”",
+          "source": "VICE (YouTube)",
+          "url": "https://www.youtube.com/watch?v=UC2VQjSgpso",
+          "role": null
+        },
+        {
+          "date": "2024-04-28",
+          "label": "Footage of the Muslim Interaktiv rally in Hamburg, “Kalifat ist die Lösung” signs",
+          "source": "NIUS on X",
+          "url": "https://x.com/niusde_/status/1784526083548758355",
+          "role": null
+        },
+        {
+          "date": "2024-04-29",
+          "label": "About 1,100 marched; police chief calls it “unbearable” but found no legal basis for a ban",
+          "source": "tag24",
+          "url": "https://www.tag24.de/thema/demonstration/polizeipraesident-falk-schnabel-darum-durften-islamisten-in-hamburg-demonstrieren-3173296",
+          "role": null
+        },
+        {
+          "date": "2024-04-29",
+          "label": "Grote: the rally “disgusts me”; police: a ban was legally ruled out",
+          "source": "BILD",
+          "url": "https://www.bild.de/politik/inland/demo-in-hamburg-kalifat-islamisten-tanzen-uns-auf-der-nase-herum-662e2065ea3d1b6187eb8185",
+          "role": null
+        },
+        {
+          "date": "2024-07-30",
+          "label": "Choudary jailed for life, minimum 28 years, for directing al-Muhajiroun",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c3geqp8vx08o",
+          "role": null
+        },
+        {
+          "date": "2025-11-05",
+          "label": "Federal Interior Ministry bans Muslim Interaktiv",
+          "source": "Bundesamt für Verfassungsschutz",
+          "url": "https://www.verfassungsschutz.de/SharedDocs/kurzmeldungen/DE/2025/2025-11-05-verbot.html",
+          "role": null
+        }
+      ],
+      "image": {
+        "alt": "Anjem Choudary at a 2009 London rally and Hamburg’s 2024 caliphate rally",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "THEN: “Of course alcohol would be banned.” NOW: “Extremism is not prohibited.” They told us. On camera. On the record.",
+        "caption": "IN THEIR OWN WORDS · THEN vs. NOW"
+      },
+      "video": {
+        "provider": "file",
+        "id": "https://richdiskin.github.io/fnn-data/clips/freedom-day-one.mp4",
+        "label": "Watch",
+        "width": 720,
+        "height": 900,
+        "poster": "https://richdiskin.github.io/fnn-data/clips/freedom-day-one.jpg"
       }
     },
     {
