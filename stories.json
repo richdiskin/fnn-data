@@ -1,0 +1,1205 @@
+{
+  "edition": "2026-10-22-am",
+  "date": "2026-10-22",
+  "updated_at": "2026-10-22T07:00:00-04:00",
+  "lead": "no-ties",
+  "stories": [
+    {
+      "slug": "no-ties",
+      "date": "2026-10-21",
+      "section": "fake",
+      "kicker": "MICHIGAN",
+      "headline": "No Ties? His Half-Sister: “My Family Has Long Been MB.”",
+      "deck": "El-Sayed told NBC “We have no ties” and called the proof “hearsay evidence from a tweet.” His half-sister’s posts are still up.",
+      "byline": "By FNN Desk",
+      "body": "Oct. 11, Meet the Press: asked whether he or his family has Muslim Brotherhood ties, Michigan’s Democratic Senate nominee said, “No.”\n\nOct. 14, NBC: “I have no ties. We have no ties.” The proof, he said, was “hearsay evidence from a tweet.”\n\nThe “tweet” is at least eight 2012–2013 posts by his half-sister, Eman Abdelhadi. Same mother. All still up.\n\nOct. 21, the debate: “an organization I’ve never been a part of, because my mom, who’s a nurse in Missouri?”\n\nIn 2012 he signed a letter urging President Morsi to “purge the media and the police.”\n\nNo ties. Just family.",
+      "pull_quote": "From “we have no ties” to “I’ve never been a part of” in ten days.",
+      "then": {
+        "text": "My family has long been MB, but I’ve always felt that it has navigated the political sphere poorly/destructively.",
+        "date": "2012-06-24",
+        "source": "https://x.com/emanabdelhadi/status/216974809626710016",
+        "source_name": "her own post on X",
+        "who": "Eman Abdelhadi, his half-sister"
+      },
+      "now": {
+        "text": "I have no ties. We have no ties.",
+        "date": "2026-10-14",
+        "source": "https://freebeacon.com/democrats/hearsay-abdul-el-sayed-dismisses-sisters-claims-about-familys-muslim-brotherhood-activism/",
+        "source_name": "Washington Free Beacon, NBC interview with Tom Llamas",
+        "who": "Abdul El-Sayed, Democratic Senate nominee, Michigan"
+      },
+      "record": [
+        {
+          "date": "2012-06-24",
+          "label": "Abdelhadi: “My family has long been MB”",
+          "source": "X",
+          "url": "https://x.com/emanabdelhadi/status/216974809626710016",
+          "role": "then"
+        },
+        {
+          "date": "2026-10-14",
+          "label": "El-Sayed to NBC’s Tom Llamas: “We have no ties,” “hearsay evidence from a tweet”",
+          "source": "Washington Free Beacon",
+          "url": "https://freebeacon.com/democrats/hearsay-abdul-el-sayed-dismisses-sisters-claims-about-familys-muslim-brotherhood-activism/",
+          "role": "now"
+        },
+        {
+          "date": "2004-10-13",
+          "label": "Treasury designates the worldwide IARA network",
+          "source": "U.S. Treasury",
+          "url": "https://home.treasury.gov/news/press-releases/js2025",
+          "role": null
+        },
+        {
+          "date": "2012-06-24",
+          "label": "Abdelhadi: their mother’s “activism in the Muslim Brotherhood during the early 70s”",
+          "source": "X",
+          "url": "https://x.com/emanabdelhadi/status/216967370747551744",
+          "role": null
+        },
+        {
+          "date": "2012-06-24",
+          "label": "Abdelhadi: “Asked my Aunt about the MB”",
+          "source": "X",
+          "url": "https://x.com/emanabdelhadi/status/216911228176576513",
+          "role": null
+        },
+        {
+          "date": "2012-11-25",
+          "label": "Al-Ahram letter to President Morsi, “purge the media and the police”; signer No. 33",
+          "source": "Al-Ahram Gate (Wayback, Arabic)",
+          "url": "https://web.archive.org/web/20260909132033/https://gate.ahram.org.eg/News/276648.aspx",
+          "role": null
+        },
+        {
+          "date": "2012-12-06",
+          "label": "Abdelhadi: “family who support the ikhwan”",
+          "source": "X",
+          "url": "https://x.com/emanabdelhadi/status/276852616783360000",
+          "role": null
+        },
+        {
+          "date": "2013-07-03",
+          "label": "Abdelhadi: “family jailed for being a part of it”",
+          "source": "X",
+          "url": "https://x.com/emanabdelhadi/status/352466691256623104",
+          "role": null
+        },
+        {
+          "date": "2013-07-03",
+          "label": "Abdelhadi: “#MB family in #Egypt has been saying the same thing”",
+          "source": "X",
+          "url": "https://x.com/emanabdelhadi/status/352498191926702080",
+          "role": null
+        },
+        {
+          "date": "2013-07-03",
+          "label": "Abdelhadi: “Praying for all my family that supports the #MB in #Egypt”",
+          "source": "X",
+          "url": "https://x.com/emanabdelhadi/status/352513610104324096",
+          "role": null
+        },
+        {
+          "date": "2013-07-05",
+          "label": "Abdelhadi: “it’s not over”",
+          "source": "X",
+          "url": "https://x.com/emanabdelhadi/status/353199089497808898",
+          "role": null
+        },
+        {
+          "date": "2017-07-19",
+          "label": "Abdelhadi: “proud of my big brother!”",
+          "source": "X",
+          "url": "https://x.com/emanabdelhadi/status/887686904971485184",
+          "role": null
+        },
+        {
+          "date": "2025-04-17",
+          "label": "Abdelhadi: “I am a proud little sister”",
+          "source": "X",
+          "url": "https://x.com/emanabdelhadi/status/1912864138058948608",
+          "role": null
+        },
+        {
+          "date": "2026-08-25",
+          "label": "His mother worked for IARA-USA; “never charged with anything”",
+          "source": "Snopes",
+          "url": "https://www.snopes.com/news/2026/08/25/el-sayed-mother-charity-terrorism/",
+          "role": null
+        },
+        {
+          "date": "2026-10-11",
+          "label": "Meet the Press: Welker asks about ties for him or his family; “No.”",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/meet-the-press/video/oct-11-abdul-el-sayed-sen-thom-tillis-and-michael-lewis-271410757557",
+          "role": null
+        },
+        {
+          "date": "2026-10-15",
+          "label": "El-Sayed again denies ties; “his half sister”",
+          "source": "Washington Post",
+          "url": "https://www.washingtonpost.com/politics/2026/10/15/el-sayed-again-denies-ties-muslim-brotherhood/",
+          "role": null
+        },
+        {
+          "date": "2026-10-15",
+          "label": "Free Beacon posts the Llamas clip",
+          "source": "Washington Free Beacon on X",
+          "url": "https://x.com/FreeBeacon/status/2110723033165869468",
+          "role": null
+        },
+        {
+          "date": "2026-10-19",
+          "label": "Oct. 14 NBC quotes; same mother; “El-Sayed also signed a 2012 statement”",
+          "source": "PolitiFact",
+          "url": "https://www.politifact.com/factchecks/2026/oct/19/mike-rogers/el-sayed-muslim-brotherhood-michigan-senate/",
+          "role": null
+        },
+        {
+          "date": "2026-10-19",
+          "label": "“signed an open letter supporting then-Egyptian President Mohamed Morsi”",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/10/19/politics/abdul-el-sayed-muslim-brotherhood-michigan-senate-race",
+          "role": null
+        },
+        {
+          "date": "2026-10-21",
+          "label": "WXYZ debate: “because my mom, who’s a nurse in Missouri?”",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/final-michigan-senate-debate-abdul-el-sayed-mike-rogers/",
+          "role": null
+        },
+        {
+          "date": "2026-10-21",
+          "label": "WXYZ debate, full video (about 30:26)",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=82Q7rikz9q4",
+          "role": null
+        },
+        {
+          "date": "2026-10-21",
+          "label": "Rogers and El-Sayed clash at second debate",
+          "source": "Michigan Advance",
+          "url": "https://michiganadvance.com/2026/10/21/rogers-el-sayed-clash-over-iran-healthcare-and-muslim-brotherhood-during-second-debate/",
+          "role": null
+        }
+      ],
+      "image": {
+        "alt": "Abdul El-Sayed, Michigan’s Democratic Senate nominee",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "El-Sayed: “We have no ties.” His half-sister, 2012: “My family has long been MB.” The posts are still up.",
+        "caption": "NO TIES? · THEN vs. NOW"
+      },
+      "video": {
+        "provider": "file",
+        "id": "/fnn/clips/no-ties.mp4",
+        "label": "Watch"
+      }
+    },
+    {
+      "slug": "revenge-agenda",
+      "date": "2026-10-21",
+      "section": "thenvsnow",
+      "kicker": "THEN vs. NOW",
+      "headline": "Every Accusation Is a Confession: Democrats Swore Off “Weaponizing” Government.",
+      "headline_now": "Now They’re Writing the Subpoena List.",
+      "deck": "Their words, with dates. We checked every one.",
+      "byline": "By FNN Desk",
+      "body": "Washington runs on one law: every accusation is a confession.\n\nFeb. 10: Sen. Elissa Slotkin said President Trump “continues to weaponize our justice system against his perceived enemies.”\n\nNine days later, Susan Rice, Obama’s national security adviser, laid out the plan: an “accountability agenda.” Companies had “better be ready for subpoenas.” She promised Democrats would “play by the law.” Then: “That also will be noted and remembered.”\n\nOct. 13, Slotkin, on young people weighing Trump administration jobs: “I want that deterrence message.”\n\nNoted. Remembered.",
+      "pull_quote": "Every accusation is a confession. This time they read it into a microphone.",
+      "then": {
+        "text": "President Trump continues to weaponize our justice system against his perceived enemies.",
+        "date": "2026-02-10",
+        "source": "https://www.nbcnews.com/politics/trump-administration/doj-fails-secure-indictment-democrats-involved-illegal-orders-video-rcna258385",
+        "source_name": "NBC News, quoting her post on X",
+        "who": "Sen. Elissa Slotkin (D-Mich.)"
+      },
+      "now": {
+        "text": "There will be an accountability agenda. Companies already are starting to hear they better preserve their documents, they better be ready for subpoenas.",
+        "date": "2026-02-19",
+        "source": "https://cafe.com/stay-tuned/democrats-done-playing-nice-with-susan-ricep-trump/",
+        "source_name": "“Stay Tuned with Preet,” transcript",
+        "who": "Susan Rice, Obama’s national security adviser"
+      },
+      "record": [
+        {
+          "date": "2026-02-10",
+          "label": "Slotkin after grand jury declines to indict: “weaponize our justice system”",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/politics/trump-administration/doj-fails-secure-indictment-democrats-involved-illegal-orders-video-rcna258385",
+          "role": "then"
+        },
+        {
+          "date": "2026-02-19",
+          "label": "Rice: “accountability agenda,” “ready for subpoenas,” “noted and remembered”",
+          "source": "CAFE, Stay Tuned with Preet",
+          "url": "https://cafe.com/stay-tuned/democrats-done-playing-nice-with-susan-ricep-trump/",
+          "role": "now"
+        },
+        {
+          "date": "2017-10-27",
+          "label": "IRS apologizes for scrutiny of conservative groups",
+          "source": "NPR",
+          "url": "https://www.npr.org/2017/10/27/560308997/irs-apologizes-for-aggressive-scrutiny-of-conservative-groups",
+          "role": null
+        },
+        {
+          "date": "2026-01-14",
+          "label": "Slotkin: “meant to get you to shut up”",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/01/14/g-s1-105989/slotkin-investigation-illegal-orders",
+          "role": null
+        },
+        {
+          "date": "2026-02-19",
+          "label": "Rice remarks, clip",
+          "source": "X",
+          "url": "https://x.com/WesternLensman/status/2024661247296172486",
+          "role": null
+        },
+        {
+          "date": "2026-02-19",
+          "label": "Rice episode, full video",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=SZql8uCboYY",
+          "role": null
+        },
+        {
+          "date": "2026-10-18",
+          "label": "Slotkin’s Oct. 13 University of Chicago remarks",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/politics/slotkin-wants-gop-prosecutions-deter-young-people-trump-administration-jobs",
+          "role": null
+        },
+        {
+          "date": "2026-10-19",
+          "label": "Slotkin clip as aired on CNN NewsNight",
+          "source": "X",
+          "url": "https://x.com/SteveGuest/status/2112374745630916825",
+          "role": null
+        },
+        {
+          "date": "2026-10-19",
+          "label": "Speaker Johnson: “They’re coming after YOU”",
+          "source": "X",
+          "url": "https://x.com/SpeakerJohnson/status/2112271847190602149",
+          "role": null
+        },
+        {
+          "date": "2026-10-20",
+          "label": "“Few loom larger than Elon Musk”",
+          "source": "Politico on X",
+          "url": "https://x.com/politico/status/2112556996818051434",
+          "role": null
+        }
+      ],
+      "image": {
+        "alt": "Democrats’ “weaponization” warnings next to their subpoena plans",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Democrats warned about “weaponizing” government. Then Susan Rice told companies to “be ready for subpoenas.”",
+        "caption": "EVERY ACCUSATION IS A CONFESSION"
+      },
+      "video": {
+        "provider": "file",
+        "id": "/fnn/clips/revenge-agenda.mp4",
+        "label": "Watch"
+      }
+    },
+    {
+      "slug": "check-the-stock",
+      "date": "2026-10-21",
+      "section": "thenvsnow",
+      "kicker": "MONEY",
+      "headline": "THEN: “225 and dropping.”",
+      "headline_now": "NOW: Tesla up 66%, SpaceX’s $4.4B quarter",
+      "deck": "Walz watched Tesla fall “for a little boost.” Democrats cheered the drop. Check the stock, Tim.",
+      "byline": "By FNN Desk",
+      "body": "Democrats didn’t just disagree with Elon Musk in 2025. They cheered for him to lose.\n\nMarch 18, 2025, Eau Claire, Wis.: Gov. Tim Walz said watching Tesla gave him “a little boost.” “225 and dropping.” Fair is fair: he was right that day. Tesla closed at $225.31.\n\nOct. 20, 2026: Tesla closed at $373.71, up 65.9%. SpaceX reported $14.6 billion in quarterly revenue, up 161%, and $4.4 billion in net income.\n\nIn the interest of honesty: the 66% is measured from the day Walz picked.\n\nGood news, Governor. It’s working. Check the stock, Tim.",
+      "pull_quote": "Crockett said the only language they understand is money. Turns out Musk is fluent.",
+      "then": {
+        "text": "If you need a little boost during the day, check out Tesla stock.",
+        "date": "2025-03-18",
+        "source": "https://x.com/Tim_Walz/status/1902197581586833643",
+        "source_name": "his own post on X, with his town hall clip",
+        "who": "Gov. Tim Walz (D-Minn.), Eau Claire, Wis."
+      },
+      "now": {
+        "text": "Achieved income from operations of $2.8 billion, net income of $4.4 billion, and Adjusted EBITDA of $8.8 billion",
+        "date": "2026-10-20",
+        "source": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm",
+        "source_name": "SEC EDGAR filing",
+        "who": "SpaceX Q3 2026 earnings release",
+        "big": "$4.4B"
+      },
+      "record": [
+        {
+          "date": "2025-03-18",
+          "label": "Walz posts his Eau Claire town hall clip",
+          "source": "his own post on X",
+          "url": "https://x.com/Tim_Walz/status/1902197581586833643",
+          "role": "then"
+        },
+        {
+          "date": "2026-10-20",
+          "label": "SpaceX Q3 2026 earnings release",
+          "source": "SEC EDGAR filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm",
+          "role": "now"
+        },
+        {
+          "date": "2025-03-03",
+          "label": "AOC: “a billionaire con man,” posted by the Democrats",
+          "source": "@TheDemocrats on X",
+          "url": "https://x.com/TheDemocrats/status/1896602056376434749",
+          "role": null
+        },
+        {
+          "date": "2025-03-18",
+          "label": "Tesla close, $225.31",
+          "source": "Exa market data",
+          "url": "https://exa.ai/library/markets/stocks/TSLA?date=2025-03-18",
+          "role": null
+        },
+        {
+          "date": "2025-03-19",
+          "label": "Walz: “give[s] me a little boost … 225 and dropping”",
+          "source": "TheWrap",
+          "url": "https://www.thewrap.com/tim-walz-watching-tesla-stock-fall-elon-musk-video/",
+          "role": null
+        },
+        {
+          "date": "2025-03-20",
+          "label": "Crockett: “for Elon to be taken down,” clip",
+          "source": "X",
+          "url": "https://x.com/ResisttheMS/status/1902862654042964179",
+          "role": null
+        },
+        {
+          "date": "2025-04-12",
+          "label": "Sanders, “Fighting Oligarchy” rally, Los Angeles",
+          "source": "clip on X",
+          "url": "https://x.com/Acyn/status/1911175411939328344",
+          "role": null
+        },
+        {
+          "date": "2026-10-20",
+          "label": "Tesla close, $373.71",
+          "source": "Exa market data",
+          "url": "https://exa.ai/library/markets/stocks/TSLA?date=2026-10-20",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "/fnn/heroes/check-the-stock.jpg",
+        "alt": "Tim Walz at the Eau Claire town hall and Tesla’s stock chart",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Walz, March 2025: Tesla “225 and dropping.” Oct. 20, 2026: Tesla $373.71, and SpaceX made $4.4 billion in one quarter.",
+        "caption": "CHECK THE STOCK, TIM"
+      },
+      "video": {
+        "provider": "file",
+        "id": "/fnn/clips/check-the-stock.mp4",
+        "label": "Watch",
+        "poster": "/fnn/heroes/check-the-stock.jpg"
+      }
+    },
+    {
+      "slug": "globe-the-article",
+      "date": "2026-10-20",
+      "section": "fake",
+      "kicker": "CORRECTION",
+      "headline": "CORRECTION: The Boston Globe Regrets the Article",
+      "deck": "The Globe said voters think Massachusetts is “a worse place to live.” Then it reported they’ll reelect the management.",
+      "byline": "By FNN Desk",
+      "body": "Oct. 20, the Boston Globe: “Many voters believe Massachusetts has become a worse place to live, a Suffolk University/Boston Globe poll found. They want to reelect Governor Maura Healey anyway.”\n\nThe numbers: 42% say worse. 15% say better. 55% say taxes are too high. Healey leads Republican Mike Minogue, 59% to 36%.\n\nMassachusetts has a Democratic governor and Democratic supermajorities in both chambers: 35 of 40 Senate seats, 131 House seats.\n\nOne party owns the results. The Globe called it “a worse place.” FNN fixed one word: the worst.",
+      "pull_quote": "Not “a” worse place. The worst. We regret the Globe’s error.",
+      "record": [
+        {
+          "date": "2026-10-20",
+          "label": "Globe: “a worse place to live … reelect Governor Maura Healey anyway”",
+          "source": "Boston Globe on X",
+          "url": "https://x.com/BostonGlobe/status/2112535372638863770",
+          "role": null
+        },
+        {
+          "date": "2026-10-20",
+          "label": "Globe article on the poll",
+          "source": "Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/10/20/metro/healey-minogue-globe-suffolk-poll-2026-election/",
+          "role": null
+        },
+        {
+          "date": "2026-10-20",
+          "label": "Suffolk/Globe poll marginals: 42.2% worse, 15.4% better, 55.2% taxes too high",
+          "source": "Suffolk University (PDF)",
+          "url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/massachusetts/2026/10_20_2026_massachusetts_statewide_marginals.pdf",
+          "role": null
+        },
+        {
+          "date": "2026-10-20",
+          "label": "Suffolk press release: Healey 59%, Minogue 36%",
+          "source": "Suffolk University (PDF)",
+          "url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/massachusetts/2026/10_20_2026_massachusetts_press_release.pdf",
+          "role": null
+        },
+        {
+          "date": "2026-10-22",
+          "date_label": "current roster",
+          "label": "Mass. Senate: 35 Democrats of 40",
+          "source": "malegislature.gov",
+          "url": "https://malegislature.gov/Legislators/Members/Senate",
+          "role": null
+        },
+        {
+          "date": "2026-10-22",
+          "date_label": "current roster",
+          "label": "Mass. House: 131 Democrats",
+          "source": "malegislature.gov",
+          "url": "https://malegislature.gov/Legislators/Members/House",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "/fnn/heroes/globe-the-article.jpg",
+        "alt": "The Boston Globe’s post on the Suffolk poll",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "The Globe: voters think Massachusetts is “a worse place to live.” Also the Globe: they’ll reelect the governor anyway.",
+        "caption": "NOT “A” WORSE PLACE. THE WORST."
+      }
+    },
+    {
+      "slug": "obama-smoking-gun",
+      "date": "2026-10-19",
+      "section": "thenvsnow",
+      "kicker": "THEN vs. NOW",
+      "headline": "Obama Lectures on Omar’s ‘Nonexistent Smoking Gun.’ Brennan’s Notes Say He Was Briefed on the Clinton Plan.",
+      "deck": "NBC and CNN quoted the sermon. They skipped the notes.",
+      "byline": "By FNN Desk",
+      "body": "Oct. 18: Barack Obama posted a sermon. The government “can’t selectively target individuals” for their politics. The Omar probe, he wrote, hunts “a nonexistent smoking gun.”\n\nNBC and CNN quoted the sermon. Neither mentioned the notes.\n\nIn 2016, CIA Director John Brennan briefed Obama on intelligence alleging Hillary Clinton approved a plan to “vilify” Trump with a Russia scandal. U.S. intelligence says it can’t vouch for that claim. The FBI never checked: Durham found it “never opened any type of inquiry,” while running a full investigation of Trump associates on raw, uncorroborated information.\n\nSelective targeting. He would know.",
+      "pull_quote": "Selective targeting. He would know.",
+      "then": {
+        "text": "Brennan briefed President Obama on the “alleged approval by Hillary Clinton on July 26, 2016 of a proposal … to vilify Donald Trump by stirring up a scandal claiming interference by Russian security services.”",
+        "date": "2020-09-29",
+        "source": "https://www.judiciary.senate.gov/imo/media/doc/09-29-20_Letter%20to%20Sen.%20Graham_Declassification%20of%20FBI%27s%20Crossfire%20Hurricane%20Investigations_20-00912_U_SIGNED-FINAL.pdf",
+        "source_name": "DNI letter to the Senate Judiciary Committee",
+        "who": "DNI John Ratcliffe, declassifying Brennan’s handwritten notes"
+      },
+      "now": {
+        "text": "It is a basic principle of American democracy that the government can’t selectively target individuals simply because of their political beliefs or what they say.",
+        "date": "2026-10-18",
+        "source": "https://x.com/BarackObama/status/2111819687524774170",
+        "source_name": "his own post on X",
+        "who": "Barack Obama, defending Rep. Ilhan Omar"
+      },
+      "record": [
+        {
+          "date": "2020-09-29",
+          "label": "Ratcliffe declassifies Brennan’s notes of the Obama briefing",
+          "source": "Senate Judiciary Committee (PDF)",
+          "url": "https://www.judiciary.senate.gov/imo/media/doc/09-29-20_Letter%20to%20Sen.%20Graham_Declassification%20of%20FBI%27s%20Crossfire%20Hurricane%20Investigations_20-00912_U_SIGNED-FINAL.pdf",
+          "role": "then"
+        },
+        {
+          "date": "2026-10-18",
+          "label": "Obama on Omar: “selectively target,” “nonexistent smoking gun”",
+          "source": "his own post on X",
+          "url": "https://x.com/BarackObama/status/2111819687524774170",
+          "role": "now"
+        },
+        {
+          "date": "2020-10-06",
+          "label": "Brennan’s handwritten notes, “vilify Donald Trump”",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/politics/dni-brennan-notes-cia-memo-clinton",
+          "role": null
+        },
+        {
+          "date": "2023-05-12",
+          "date_label": "May 2023",
+          "label": "Durham report: FBI “never opened any type of inquiry” on the Clinton plan intelligence",
+          "source": "Durham report p. 20, Wikisource",
+          "url": "https://en.wikisource.org/wiki/Page:Durham_Report.pdf/20",
+          "role": null
+        },
+        {
+          "date": "2023-05-19",
+          "label": "Durham: Brennan met Obama, Biden and others on Aug. 3, 2016",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/politics/obama-clapper-briefed-clinton-campaigns-russia-collusion-narrative-durham-report-shows",
+          "role": null
+        },
+        {
+          "date": "2025-07-31",
+          "label": "Declassified Durham annex on the Clinton plan",
+          "source": "Senate Judiciary Committee",
+          "url": "https://www.judiciary.senate.gov/press/rep/releases/newly-declassified-appendix-to-durham-report-sheds-additional-light-on-clinton-campaign-plan-to-falsely-tie-trump-to-russia-and-fbis-failure-to-investigate",
+          "role": null
+        },
+        {
+          "date": "2026-10-18",
+          "label": "Obama’s post, as covered",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/politics/politics-news/obama-calls-trump-officials-investigation-ilhan-omar-appalling-rcna604235",
+          "role": null
+        },
+        {
+          "date": "2026-10-18",
+          "label": "Obama’s post, as covered",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/10/18/politics/obama-ilhan-omar-investigation",
+          "role": null
+        },
+        {
+          "date": "2026-10-18",
+          "label": "Benny Johnson posts the Brennan notes",
+          "source": "X",
+          "url": "https://x.com/bennyjohnson/status/2111934153025315002",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "/fnn/heroes/obama-smoking-gun.jpg",
+        "alt": "Barack Obama and John Brennan’s declassified handwritten notes",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Obama: the government “can’t selectively target individuals.” Brennan’s notes: Obama was briefed on the Clinton plan. The FBI never checked it.",
+        "caption": "SELECTIVE TARGETING · HE WOULD KNOW"
+      }
+    },
+    {
+      "slug": "slotkin-deterrence",
+      "date": "2026-10-19",
+      "section": "thenvsnow",
+      "kicker": "THEN vs. NOW",
+      "headline": "Slotkin Spent January Crying ‘Intimidation.’",
+      "headline_now": "In October She Wants a ‘Deterrence Message.’",
+      "deck": "The senator who said probes are “meant to get you to shut up” now wants graduates scared off Trump jobs.",
+      "byline": "By FNN Desk",
+      "body": "Jan. 14: Sen. Elissa Slotkin, under investigation over her “illegal orders” video, called it “legal intimidation and physical intimidation meant to get you to shut up.” A grand jury later refused to indict.\n\nOct. 13, University of Chicago: Slotkin wants “signature cases” against “the people who enabled him,” so graduates think twice before taking Trump administration jobs. “I want that deterrence message.”\n\nHer defense on CNN: “do not get yourself involved in illegal activity.”\n\nThen why aim the message at people who haven’t graduated?\n\nSame senator. Nine months.",
+      "pull_quote": "In January, scaring people with probes was intimidation. In October, it’s a deterrence message.",
+      "then": {
+        "text": "It’s legal intimidation and physical intimidation meant to get you to shut up.",
+        "date": "2026-01-14",
+        "source": "https://www.npr.org/2026/01/14/g-s1-105989/slotkin-investigation-illegal-orders",
+        "source_name": "NPR, quoting her video",
+        "who": "Sen. Elissa Slotkin (D-Mich.), in a video she posted"
+      },
+      "now": {
+        "text": "I want them to be like, Lord, that might be buying myself a ton of problems that I don’t want, and so let me avoid participating in that.",
+        "date": "2026-10-13",
+        "source": "https://www.foxnews.com/politics/slotkin-wants-gop-prosecutions-deter-young-people-trump-administration-jobs",
+        "source_name": "Fox News",
+        "who": "Sen. Slotkin, University of Chicago event"
+      },
+      "record": [
+        {
+          "date": "2026-01-14",
+          "label": "Slotkin: “meant to get you to shut up”",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/01/14/g-s1-105989/slotkin-investigation-illegal-orders",
+          "role": "then"
+        },
+        {
+          "date": "2026-10-18",
+          "label": "Slotkin’s Oct. 13 University of Chicago remarks",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/politics/slotkin-wants-gop-prosecutions-deter-young-people-trump-administration-jobs",
+          "role": "now"
+        },
+        {
+          "date": "2026-01-14",
+          "label": "Slotkin’s video: “The intimidation *is the point*”",
+          "source": "her own post on X",
+          "url": "https://x.com/SenatorSlotkin/status/2011472739693912187",
+          "role": null
+        },
+        {
+          "date": "2026-02-10",
+          "label": "Grand jury declines to indict",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/politics/trump-administration/doj-fails-secure-indictment-democrats-involved-illegal-orders-video-rcna258385",
+          "role": null
+        },
+        {
+          "date": "2026-10-17",
+          "label": "Clip of the University of Chicago remarks",
+          "source": "X",
+          "url": "https://x.com/ThinkerChicago/status/2111560599167795418",
+          "role": null
+        },
+        {
+          "date": "2026-10-19",
+          "label": "Slotkin on CNN: “do not get yourself involved in illegal activity”",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/10/19/politics/elissa-slotkin-trump-young-republicans",
+          "role": null
+        },
+        {
+          "date": "2026-10-19",
+          "label": "Slotkin calls backlash “manufactured outrage”",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/media/elissa-slotkin-calls-backlash-threat-prosecution-comments-manufactured-outrage",
+          "role": null
+        },
+        {
+          "date": "2026-10-19",
+          "label": "“I want that deterrence message sent,” as aired on CNN NewsNight",
+          "source": "clip on X",
+          "url": "https://x.com/SteveGuest/status/2112374745630916825",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "/fnn/heroes/slotkin-deterrence.jpg",
+        "alt": "Sen. Elissa Slotkin",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Slotkin, January: probes are “meant to get you to shut up.” Slotkin, October: “I want that deterrence message.”",
+        "caption": "SAME SENATOR · NINE MONTHS"
+      }
+    },
+    {
+      "slug": "markey-matches",
+      "date": "2026-10-19",
+      "section": "thenvsnow",
+      "kicker": "MASSACHUSETTS",
+      "headline": "Ed Markey Wants to Abolish the Fire Department While His State Hands Out Matches",
+      "deck": "Markey calls ICE “thugs” over street arrests. His own state’s rules are why ICE makes street arrests.",
+      "byline": "By FNN Desk",
+      "body": "Sen. Ed Markey, Oct. 19: “Trump’s ICE thugs.” In September he called ICE “a domestic terror organization.”\n\nHere’s why agents are on the street. In 2017, Massachusetts’ highest court ruled local officials can’t hold anyone solely on an ICE detainer. Boston’s Trust Act limits cooperation with federal immigration authorities. In January, Gov. Healey barred ICE from using state property as a staging area.\n\nIn May 2025, ICE said many of its 1,461 Massachusetts arrests came after local jurisdictions “refused to honor immigration detainer requests.”\n\nLock the jailhouse door. Then complain about the sidewalk.",
+      "pull_quote": "Every street arrest he posts about started at a jailhouse door Massachusetts refused to open.",
+      "then": {
+        "text": "Where we’d only take us two agents … going into a secure facility or a police station, county jail to arrest a public safety threat, well, we have to send out four to five agents",
+        "date": "2025-07-20",
+        "source": "https://www.cbsnews.com/news/todd-lyons-ice-director-face-the-nation-transcript-07-20-2025/",
+        "source_name": "CBS “Face the Nation” transcript",
+        "who": "Acting ICE Director Todd Lyons"
+      },
+      "now": {
+        "text": "Once again, an American has been viciously assaulted by Trump’s ICE thugs. We can’t keep funding this terror. Abolish ICE now.",
+        "date": "2026-10-19",
+        "source": "https://x.com/EdMarkey/status/2112344506691383665",
+        "source_name": "his own post on X",
+        "who": "Sen. Ed Markey (D-Mass.)"
+      },
+      "record": [
+        {
+          "date": "2025-07-20",
+          "label": "Lyons: sanctuary rules mean “four to five agents” per arrest",
+          "source": "CBS News transcript",
+          "url": "https://www.cbsnews.com/news/todd-lyons-ice-director-face-the-nation-transcript-07-20-2025/",
+          "role": "then"
+        },
+        {
+          "date": "2026-10-19",
+          "label": "Markey: “Trump’s ICE thugs”",
+          "source": "his own post on X",
+          "url": "https://x.com/EdMarkey/status/2112344506691383665",
+          "role": "now"
+        },
+        {
+          "date": "2017-07-24",
+          "label": "SJC rules local officials can’t detain solely on ICE detainers (Lunn v. Commonwealth)",
+          "source": "WBUR",
+          "url": "https://www.wbur.org/news/2017/07/24/sjc-ruling-sreynoun-lunn-case",
+          "role": null
+        },
+        {
+          "date": "2025-06-02",
+          "label": "Operation Patriot: 1,461 arrests; detainers “refused”",
+          "source": "ICE news release",
+          "url": "https://www.ice.gov/news/releases/ice-federal-partners-arrest-nearly-1500-illegal-aliens-massachusetts-during",
+          "role": null
+        },
+        {
+          "date": "2025-08-20",
+          "label": "Markey: “we will not bow down”",
+          "source": "his own post on X",
+          "url": "https://x.com/EdMarkey/status/1958247260522783141",
+          "role": null
+        },
+        {
+          "date": "2026-01-29",
+          "label": "Executive Order No. 650: no ICE staging on state property, limits on new 287(g) deals",
+          "source": "Mass.gov",
+          "url": "https://www.mass.gov/executive-orders/no-650-protecting-access-to-essential-services-and-keeping-massachusetts-communities-safe",
+          "role": null
+        },
+        {
+          "date": "2026-01-29",
+          "label": "What Mass. can and can’t do about ICE; Boston’s Trust Act; Healey “not a sanctuary state”",
+          "source": "CommonWealth Beacon",
+          "url": "https://commonwealthbeacon.org/explainers/what-mass-can-and-cant-do-about-ice/",
+          "role": null
+        },
+        {
+          "date": "2026-09-21",
+          "label": "Markey: ICE is “a domestic terror organization”",
+          "source": "his own post on X",
+          "url": "https://x.com/EdMarkey/status/2102126140244754805",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "/fnn/heroes/markey-matches.jpg",
+        "alt": "Sen. Ed Markey",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Markey calls ICE “thugs” for street arrests. Massachusetts won’t let ICE pick people up at the jail.",
+        "caption": "WHO LIT THE MATCH"
+      }
+    },
+    {
+      "slug": "sworn-statement-lawsuit",
+      "date": "2026-10-19",
+      "section": "fake",
+      "kicker": "THE RECORD",
+      "headline": "The DA Published Her Sworn Statement. The Story Stayed the Lawsuit.",
+      "deck": "Sept. 28, the sworn page. Oct. 2, “utterly unspeakable.” The page didn’t change. The headlines didn’t either.",
+      "byline": "By FNN Desk",
+      "body": "Sept. 28: the Tompkins County DA quoted the six-page statement Jane Doe signed in November 2024 under a perjury warning. It “did not allege that she was drugged against her will or gang raped.”\n\nOct. 2: Gov. Kathy Hochul called what happened “utterly unspeakable” and named Letitia James special prosecutor. The DA said Cornell had not given him “the full picture.”\n\nA lawsuit is an allegation. A sworn statement is evidence. Neither is a verdict.\n\nThe coverage treated the lawsuit as settled and the sworn statement as a footnote.",
+      "pull_quote": "A lawsuit is an allegation. A sworn statement is evidence. Neither is a verdict.",
+      "then": {
+        "text": "Jane Doe’s statement described her participation in drug use and sexual conduct as voluntary, conscious, and consensual.",
+        "date": "2026-09-28",
+        "source": "https://www.localsyr.com/wp-content/uploads/sites/63/2026/09/Tompkins-County-District-Attorney-Public-Statement-9-28-26.pdf",
+        "source_name": "DA’s public statement (PDF)",
+        "who": "Tompkins County DA Matthew Van Houten"
+      },
+      "now": {
+        "text": "This woman, this young woman, had already endured something that is utterly unspeakable.",
+        "date": "2026-10-02",
+        "source": "https://www.nbcnews.com/news/us-news/new-york-gov-kathy-hochul-speak-appointing-attorney-general-investigat-rcna601099",
+        "source_name": "NBC News",
+        "who": "Gov. Kathy Hochul (D-N.Y.)"
+      },
+      "record": [
+        {
+          "date": "2026-09-28",
+          "label": "DA’s public statement quoting the sworn statement",
+          "source": "WSYR (PDF)",
+          "url": "https://www.localsyr.com/wp-content/uploads/sites/63/2026/09/Tompkins-County-District-Attorney-Public-Statement-9-28-26.pdf",
+          "role": "then"
+        },
+        {
+          "date": "2026-10-02",
+          "label": "Hochul: “utterly unspeakable”; James named special prosecutor; DA: not given “the full picture”",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/news/us-news/new-york-gov-kathy-hochul-speak-appointing-attorney-general-investigat-rcna601099",
+          "role": "now"
+        },
+        {
+          "date": "2026-10-02",
+          "label": "Hochul: “In what world does the district attorney not even interview her”",
+          "source": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/nation/watch-live-cornell-sexual-assault-investigation-update-with-gov-hochul-ny-attorney-general-james",
+          "role": null
+        },
+        {
+          "date": "2026-10-13",
+          "label": "Full text exchange, including her Nov. 3, 2024 text",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/jane-doe-text-messages-cornell-fraternity-member/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "/fnn/heroes/sworn-statement-lawsuit.jpg",
+        "alt": "The Tompkins County DA’s Sept. 28 statement",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "The DA published her sworn statement on Sept. 28. Four days later the story was still the lawsuit.",
+        "caption": "THE SWORN PAGE"
+      }
+    },
+    {
+      "slug": "patel-virginia",
+      "date": "2026-10-15",
+      "section": "fake",
+      "kicker": "FAKE NEWS",
+      "headline": "Network Cites Two People Familiar With the Matter, Neither Familiar With Virginia",
+      "deck": "Patel was not in Russia. He was at Liberty University in Lynchburg, Virginia.",
+      "byline": "By FNN Desk",
+      "body": "Oct. 14: MS NOW anchor Peter Alexander broke in with news. The FBI director had “landed in Russia,” “according to two people familiar with the matter.” Ken Dilanian added the trip was hosted by the FSB.\n\nKash Patel was at Liberty University in Lynchburg, Virginia, at a law enforcement appreciation event, in front of cameras.\n\nHours later, on a different MS NOW show, Dilanian: “We’ve since learned that Patel did not, in fact, land in Russia today and remains in the U.S.”\n\nA public event should have taken one phone call to confirm.",
+      "pull_quote": "A public event in front of cameras should have taken one phone call to confirm.",
+      "then": {
+        "text": "MS NOW has learned that Patel has landed in Russia for a meeting scheduled to take place there. That’s according to two people familiar with the matter.",
+        "date": "2026-10-14",
+        "source": "https://x.com/alexchristy17/status/2110428535311503647",
+        "source_name": "broadcast clip on X",
+        "who": "MS NOW anchor Peter Alexander"
+      },
+      "now": {
+        "text": "We’ve since learned that Patel did not, in fact, land in Russia today and remains in the U.S.",
+        "date": "2026-10-14",
+        "source": "https://x.com/alexchristy17/status/2110447810499797168",
+        "source_name": "broadcast clip on X",
+        "who": "MS NOW’s Ken Dilanian, on-air correction"
+      },
+      "record": [
+        {
+          "date": "2026-10-14",
+          "label": "MS NOW: Patel “landed in Russia,” two people familiar",
+          "source": "broadcast clip on X",
+          "url": "https://x.com/alexchristy17/status/2110428535311503647",
+          "role": "then"
+        },
+        {
+          "date": "2026-10-14",
+          "label": "MS NOW on-air correction",
+          "source": "broadcast clip on X",
+          "url": "https://x.com/alexchristy17/status/2110447810499797168",
+          "role": "now"
+        },
+        {
+          "date": "2026-10-14",
+          "label": "FBI shows Patel at Liberty University",
+          "source": "@FBI_Response on X",
+          "url": "https://x.com/FBI_Response/status/2110418419862610189",
+          "role": null
+        },
+        {
+          "date": "2026-10-14",
+          "label": "Dilanian: “hosted by the FSB”",
+          "source": "broadcast clip on X",
+          "url": "https://x.com/alexchristy17/status/2110429365930504463",
+          "role": null
+        },
+        {
+          "date": "2026-10-14",
+          "label": "MS NOW corrects the Patel report",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/10/ms-now-fbi-kash-patel-russia-1237157601/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "/fnn/heroes/patel-virginia.jpg",
+        "alt": "FBI Director Kash Patel at Liberty University",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "MS NOW put the FBI director in Russia. He was in Lynchburg, Virginia, on camera.",
+        "caption": "NEITHER FAMILIAR WITH VIRGINIA"
+      },
+      "video": {
+        "provider": "file",
+        "id": "/fnn/clips/patel-virginia.mp4",
+        "label": "Watch",
+        "poster": "/fnn/heroes/patel-virginia.jpg"
+      }
+    },
+    {
+      "slug": "jpmorgan-debank",
+      "date": "2026-10-15",
+      "section": "freedom",
+      "kicker": "FREEDOM NEWS",
+      "headline": "JPMorgan Said It Never Debanks for Politics. Here’s What the Federal Regulator Found.",
+      "deck": "A bank’s CEO can say anything at a shareholder meeting. A watch list is harder to argue with.",
+      "byline": "By FNN Staff",
+      "body": "May 21, 2019, JPMorgan’s shareholder meeting. Jamie Dimon: “We have not and do not debank people because of their political views.”\n\nOct. 14, 2026: the Office of the Comptroller of the Currency found that from 2020 to September 2025, all nine of the largest banks had such policies.\n\nJPMorgan’s payment company flagged “MAGA, Make America Great, and America First.” An employee scrubbed “right wing” and “religious” from a nonprofit’s file.\n\nTo be fair: one bank turned away a group whose political arm endorsed only Democrats. The weight of the examples is not close.",
+      "pull_quote": "JPMorgan says it closes accounts for compliance reasons. Its own list included “America First.”",
+      "then": {
+        "text": "We have not and do not debank people because of their political views. We have not and do not.",
+        "date": "2019-05-21",
+        "source": "https://nationalcenter.org/ncppr/2019/05/21/chase-ceo-denies-debanking-conservatives/",
+        "source_name": "National Center for Public Policy Research",
+        "who": "JPMorgan CEO Jamie Dimon, shareholder meeting"
+      },
+      "now": {
+        "text": "The OCC’s findings show that, between 2020 and September 2025, all nine banks had such policies.",
+        "date": "2026-10-14",
+        "source": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-90.html",
+        "source_name": "OCC news release 2026-90",
+        "who": "Office of the Comptroller of the Currency"
+      },
+      "record": [
+        {
+          "date": "2019-05-21",
+          "label": "Dimon at JPMorgan shareholder meeting",
+          "source": "National Center for Public Policy Research",
+          "url": "https://nationalcenter.org/ncppr/2019/05/21/chase-ceo-denies-debanking-conservatives/",
+          "role": "then"
+        },
+        {
+          "date": "2026-10-14",
+          "label": "OCC news release 2026-90",
+          "source": "occ.gov",
+          "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-90.html",
+          "role": "now"
+        },
+        {
+          "date": "2026-10-14",
+          "label": "OCC report on the nine largest banks",
+          "source": "occ.gov (PDF)",
+          "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-90a.pdf",
+          "role": null
+        },
+        {
+          "date": "2026-10-14",
+          "label": "“a practice that President Trump has claimed discriminates against conservatives”",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/debanking-top-us-banks-occ-report/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "/fnn/heroes/jpmorgan-debank.jpg",
+        "alt": "JPMorgan Chase headquarters",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Dimon: “We have not and do not debank people because of their political views.” The regulator found a watch list with “America First” on it.",
+        "caption": "THE WATCH LIST"
+      },
+      "video": {
+        "provider": "file",
+        "id": "/fnn/clips/jpmorgan-debank.mp4",
+        "label": "Watch",
+        "poster": "/fnn/heroes/jpmorgan-debank.jpg"
+      }
+    },
+    {
+      "slug": "had-the-texts",
+      "date": "2026-10-21",
+      "section": "fake",
+      "kicker": "FAKE NEWS",
+      "headline": "CBS Had the Whole Text Thread. Its First Story Left Out “Our Body Our Choice.”",
+      "deck": "CBS says its reporter read every line before publishing. Readers got the full thread two weeks later.",
+      "byline": "By FNN Desk",
+      "body": "Sept. 29: CBS New York reported on Jane Doe’s texts to one of the men she later accused. It left out her line “our body our choice,” and her own word for that night.\n\nCBS says its reporter “reviewed the full text exchange before publishing.”\n\nOct. 13: CBS published the full exchange, “including messages that have not previously been reported.” That includes a Nov. 3 text in which she wrote “90% of what happened that night was not consensual.”\n\nReaders deserved every line, the first time.",
+      "pull_quote": "Readers deserved every line, the first time.",
+      "then": {
+        "text": "Our reporter reviewed the full text exchange before publishing, and our editorial decisions reflected that review.",
+        "date": "2026-10-09",
+        "source": "https://thefederalist.com/2026/10/09/legacy-media-reports-on-cornell-jane-does-texts-left-out-our-body-our-choice-comment/",
+        "source_name": "The Federalist",
+        "who": "CBS New York spokeswoman"
+      },
+      "now": {
+        "text": "Here are the full text exchanges, as obtained by CBS News, including messages that have not previously been reported.",
+        "date": "2026-10-13",
+        "source": "https://www.cbsnews.com/news/jane-doe-text-messages-cornell-fraternity-member/",
+        "source_name": "CBS News",
+        "who": "CBS News"
+      },
+      "record": [
+        {
+          "date": "2026-10-09",
+          "label": "CBS NY: reporter “reviewed the full text exchange before publishing”",
+          "source": "The Federalist",
+          "url": "https://thefederalist.com/2026/10/09/legacy-media-reports-on-cornell-jane-does-texts-left-out-our-body-our-choice-comment/",
+          "role": "then"
+        },
+        {
+          "date": "2026-10-13",
+          "label": "CBS publishes the full exchange",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/jane-doe-text-messages-cornell-fraternity-member/",
+          "role": "now"
+        },
+        {
+          "date": "2026-09-28",
+          "label": "DA’s public statement quoting her sworn statement",
+          "source": "WSYR (PDF)",
+          "url": "https://www.localsyr.com/wp-content/uploads/sites/63/2026/09/Tompkins-County-District-Attorney-Public-Statement-9-28-26.pdf",
+          "role": null
+        },
+        {
+          "date": "2026-10-11",
+          "label": "CBS NY’s Sept. 29 report left out key lines",
+          "source": "Mediaite",
+          "url": "https://www.mediaite.com/media/cbs-ny-confirms-it-chose-not-to-publish-key-parts-of-cornell-7-texts-including-jane-doe-saying-our-body-our-choice/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "/fnn/heroes/had-the-texts.jpg",
+        "alt": "A phone showing a text thread",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "CBS read the whole thread before its first story. It left out “our body our choice.” Two weeks later it published everything.",
+        "caption": "EVERY LINE, THE FIRST TIME"
+      }
+    },
+    {
+      "slug": "james-middleman",
+      "date": "2026-10-14",
+      "section": "fake",
+      "kicker": "NEW YORK",
+      "headline": "Letitia James Unveils Justice System That Cuts Out the Middleman: the Facts and the Law",
+      "deck": "New York’s top law enforcement officer, on camera: “You don’t have to look at the facts and the law.”",
+      "byline": "By FNN Staff",
+      "body": "Oct. 8, the New York attorney general debate on Spectrum News NY1. The topic was prediction markets. Republican Saritha Komatireddy, a former federal prosecutor, said she has to look at the facts and the law.\n\nAttorney General Letitia James corrected her: “You don’t have to look at the facts and the law. All you have to do is study what they do. It is illegal in the state of New York, period.”\n\nAsked to name a past attorney general she admires, James paused. She later named Bob Abrams.\n\nThe job is looking at the facts and the law.",
+      "pull_quote": "“You don’t have to look at the facts and the law.” — New York’s attorney general",
+      "record": [
+        {
+          "date": "2026-10-08",
+          "label": "James: “You don’t have to look at the facts and the law,” clip",
+          "source": "Saritha Komatireddy on X",
+          "url": "https://x.com/sarithaforny/status/2108349038768828421",
+          "role": null
+        },
+        {
+          "date": "2026-10-08",
+          "label": "Full debate, James vs. Komatireddy",
+          "source": "Spectrum News NY1",
+          "url": "https://ny1.com/nyc/all-boroughs/politics/2026/10/08/full-debate--letitia-james--saritha-komatireddy-go-head-to-head-in-state-attorney-general-debate",
+          "role": null
+        },
+        {
+          "date": "2026-10-11",
+          "label": "The exchange was about prediction markets",
+          "source": "Althouse",
+          "url": "https://althouse.blogspot.com/2026/10/you-dont-have-to-look-at-facts-and-law.html",
+          "role": null
+        },
+        {
+          "date": "2026-10-15",
+          "label": "James pauses on an attorney general she admires; later names Bob Abrams",
+          "source": "KLZ",
+          "url": "https://www.klzradio.com/for-freedom-and-truth/2026/10/15/letitia-james-debate-clips-draw-sharp-reactions/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "/fnn/heroes/james-middleman.jpg",
+        "alt": "New York Attorney General Letitia James at the NY1 debate",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "New York’s attorney general, at her debate: “You don’t have to look at the facts and the law.”",
+        "caption": "CUTS OUT THE MIDDLEMAN"
+      }
+    },
+    {
+      "slug": "globe-unmasked",
+      "date": "2026-10-21",
+      "section": "fake",
+      "kicker": "BOSTON",
+      "headline": "The Boston Globe Finally Unmasked the Man Behind Mass Daily News",
+      "deck": "He is a software engineer. He has a laptop. Readers follow him. The Globe ran a profile.",
+      "byline": "By FNN Staff",
+      "body": "Oct. 10: the Boston Globe combed through public records and named the man behind Mass Daily News. Simon Pacheco, 36, a Boston software engineer. He runs the site alone, nights and weekends.\n\nThe Globe’s case: the site is largely AI-written, and its posts attack Mayor Michelle Wu.\n\nThe Globe’s own admission: the site “has broken some news, including the arrest of a City Hall employee that the Globe subsequently reported on.”\n\nOne man and a phone beat the Globe to a City Hall arrest. The Globe responded by finding out his name.",
+      "pull_quote": "One man and a phone beat the Globe to a City Hall story. The Globe found out his name.",
+      "record": [
+        {
+          "date": "2026-10-10",
+          "label": "Globe names Simon Pacheco as the man behind Mass Daily News",
+          "source": "Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/10/10/business/mass-daily-news-wu-boston/",
+          "role": null
+        },
+        {
+          "date": "2026-10-10",
+          "label": "Pacheco: “The story behind Mass Daily News, in my own words”",
+          "source": "Mass Daily News",
+          "url": "https://www.massdailynews.com/2026/10/10/why-i-built-mass-daily-news-where-we-go-here",
+          "role": null
+        },
+        {
+          "date": "2026-10-19",
+          "label": "Globe profile republished: “has broken some news”",
+          "source": "Boston.com",
+          "url": "https://www.boston.com/news/the-boston-globe/2026/10/19/anonymous-no-more-meet-the-36-year-old-boston-software-engineer-behind-the-viral-mass-daily-news-website/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "/fnn/heroes/globe-unmasked.jpg",
+        "alt": "The Mass Daily News website",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "The Globe’s big reveal: the man who beat it to a City Hall story is a software engineer with a phone.",
+        "caption": "UNMASKED"
+      }
+    },
+    {
+      "slug": "deport-sneako",
+      "date": "2026-10-21",
+      "section": "streamer",
+      "kicker": "STREAMER NEWS",
+      "headline": "Clavicular Flips His Sign to “DEPORT SNEAKO.” One Problem: Sneako Is From New York.",
+      "deck": "No hearing. No paperwork. One sign, one flip.",
+      "byline": "By FNN Staff",
+      "body": "Oct. 10: streamer Clavicular noticed Sneako was watching his stream. He flipped his sign around. It read “DEPORT SNEAKO.”\n\nNo hearing. No paperwork. One sign, one flip.\n\nThere is one snag for anyone drafting the paperwork. Sneako, born Nicolas Kenn De Balinthazy, was born in New York City on Sept. 8, 1998. He is a New Yorker. There is nowhere to send him.\n\nThe sign does not care. It said what it said, in capital letters, to his face, on Clavicular’s stream.\n\nFrame dominance, by cardboard.",
+      "pull_quote": "No hearing. No paperwork. One sign, one flip.",
+      "record": [
+        {
+          "date": "2026-10-10",
+          "label": "Clavicular flips the “DEPORT SNEAKO” sign, clip",
+          "source": "X",
+          "url": "https://x.com/Pulcys/status/2109068134724333900",
+          "role": null
+        },
+        {
+          "date": "2026-10-22",
+          "date_label": "accessed Oct. 22, 2026",
+          "label": "Sneako: born Sept. 8, 1998, New York City",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sneako",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "/fnn/heroes/deport-sneako.jpg",
+        "alt": "Clavicular holding a sign reading DEPORT SNEAKO",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Clavicular flipped his sign: “DEPORT SNEAKO.” Sneako was born in New York City.",
+        "caption": "DEPORT SNEAKO"
+      }
+    },
+    {
+      "slug": "clavicular-blackpill",
+      "date": "2026-10-21",
+      "section": "streamer",
+      "kicker": "STREAMER NEWS",
+      "headline": "Clavicular Issues Four-Word Policy Directive to Trump: “Trump Needs the Blackpill”",
+      "deck": "Four words, one quote-post, the State Department’s new anti-trafficking lead.",
+      "byline": "By FNN Staff",
+      "body": "Oct. 13: the Trump administration announced that Barbera Thornhill had joined the State Department to lead U.S. efforts against human trafficking.\n\nLooksmaxxing streamer Clavicular quote-posted the news with a four-word directive to the President of the United States: “Trump needs the blackpill.”\n\nHe did not say what the blackpill means for anti-trafficking policy. He did not say what it means for anything. He did not add a fifth word.\n\nWashington writes thousand-page bills. Clavicular wrote four words and hit post.\n\nNo elaboration. Elaborating is cope.",
+      "pull_quote": "Four words. No elaboration.",
+      "record": [
+        {
+          "date": "2026-10-13",
+          "label": "Clavicular: “Trump needs the blackpill”",
+          "source": "X",
+          "url": "https://x.com/clavicular/status/2110082243586892194",
+          "role": null
+        },
+        {
+          "date": "2026-10-13",
+          "label": "The post he quoted: Thornhill joins State to lead anti-trafficking efforts",
+          "source": "Polymarket on X",
+          "url": "https://x.com/Polymarket/status/2110048417674121706",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "/fnn/heroes/clavicular-blackpill.jpg",
+        "alt": "Clavicular’s post on X",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Clavicular to the President of the United States, in four words: “Trump needs the blackpill.”",
+        "caption": "FOUR WORDS"
+      }
+    }
+  ]
+}

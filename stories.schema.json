@@ -1,0 +1,292 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/richdiskin/fnn-data/main/stories.schema.json",
+  "title": "FNN stories feed",
+  "type": "object",
+  "required": [
+    "edition",
+    "date",
+    "stories"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "edition": {
+      "type": "string",
+      "description": "Edition id, e.g. 2026-10-22-am. Changes on every publish."
+    },
+    "date": {
+      "type": "string",
+      "format": "date",
+      "description": "Edition date (America/New_York)."
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "lead": {
+      "type": "string",
+      "description": "Slug of the cover story. Defaults to stories[0]."
+    },
+    "stories": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/story"
+      }
+    }
+  },
+  "$defs": {
+    "dated": {
+      "type": "object",
+      "required": [
+        "text",
+        "date",
+        "source"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "text": {
+          "type": "string",
+          "maxLength": 220,
+          "description": "The quote or fact, their own words where possible."
+        },
+        "date": {
+          "type": "string",
+          "format": "date"
+        },
+        "date_label": {
+          "type": "string"
+        },
+        "source": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://"
+        },
+        "source_name": {
+          "type": "string",
+          "description": "e.g. 'his own post on X', 'SEC EDGAR filing'."
+        },
+        "who": {
+          "type": "string",
+          "description": "Speaker and place, e.g. 'Gov. Tim Walz, Eau Claire, Wis.'"
+        },
+        "big": {
+          "type": "string",
+          "maxLength": 12,
+          "description": "Optional big figure for NOW, e.g. '$4.4B'."
+        }
+      }
+    },
+    "record": {
+      "type": "object",
+      "required": [
+        "date",
+        "label",
+        "url"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "date": {
+          "type": "string",
+          "format": "date"
+        },
+        "date_label": {
+          "type": "string"
+        },
+        "label": {
+          "type": "string",
+          "description": "What it is, e.g. 'Slotkin at University of Chicago event'."
+        },
+        "source": {
+          "type": "string",
+          "description": "Outlet or kind, e.g. 'Fox News', 'court filing'."
+        },
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://"
+        },
+        "role": {
+          "enum": [
+            "then",
+            "now",
+            null
+          ]
+        }
+      }
+    },
+    "story": {
+      "type": "object",
+      "required": [
+        "slug",
+        "date",
+        "headline",
+        "body",
+        "record",
+        "image",
+        "share"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "slug": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+        },
+        "date": {
+          "type": "string",
+          "format": "date"
+        },
+        "section": {
+          "enum": [
+            "thenvsnow",
+            "fake",
+            "freedom",
+            "streamer",
+            "hoax",
+            "crypto",
+            "faith",
+            "fraud",
+            "sports",
+            "money",
+            "dating"
+          ]
+        },
+        "kicker": {
+          "type": "string",
+          "maxLength": 40
+        },
+        "headline": {
+          "type": "string",
+          "maxLength": 120
+        },
+        "headline_now": {
+          "type": "string",
+          "maxLength": 90,
+          "description": "Optional second headline line shown in blue (the NOW half)."
+        },
+        "deck": {
+          "type": "string",
+          "maxLength": 160,
+          "description": "Serif italic line under the headline. The fit engine hides it first."
+        },
+        "byline": {
+          "type": "string",
+          "default": "By FNN Desk"
+        },
+        "body": {
+          "type": "string",
+          "description": "80-100 words. No URLs."
+        },
+        "pull_quote": {
+          "type": "string",
+          "maxLength": 140
+        },
+        "then": {
+          "$ref": "#/$defs/dated",
+          "description": "Optional. With now, turns on the THEN | NOW layout. Omit both for the plain one-page layout."
+        },
+        "now": {
+          "$ref": "#/$defs/dated",
+          "description": "Optional. Required whenever then is present."
+        },
+        "record": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/record"
+          }
+        },
+        "image": {
+          "type": "object",
+          "required": [
+            "alt"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "src": {
+              "type": "string",
+              "pattern": "^(https://|/)",
+              "description": "Absolute https URL, or a root-relative path served by the app (e.g. /fnn/heroes/<slug>.jpg). Omit when there is no photo; the app shows the light fallback card."
+            },
+            "alt": {
+              "type": "string"
+            },
+            "credit": {
+              "type": "string"
+            },
+            "caption": {
+              "type": "string"
+            }
+          }
+        },
+        "share": {
+          "type": "object",
+          "required": [
+            "line",
+            "caption"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "line": {
+              "type": "string",
+              "maxLength": 200,
+              "description": "Text sent with the link. The app appends the brand URL."
+            },
+            "caption": {
+              "type": "string",
+              "maxLength": 90,
+              "description": "Line printed on the share image."
+            }
+          }
+        },
+        "video": {
+          "type": "object",
+          "required": [
+            "provider",
+            "id"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "provider": {
+              "enum": [
+                "youtube",
+                "x",
+                "file"
+              ]
+            },
+            "id": {
+              "type": "string",
+              "description": "YouTube id, X status id, or for 'file' an https mp4 URL or root-relative app path (e.g. /fnn/clips/<slug>.mp4)."
+            },
+            "start": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "poster": {
+              "type": "string",
+              "pattern": "^(https://|/)"
+            },
+            "label": {
+              "type": "string",
+              "default": "Watch"
+            },
+            "width": {
+              "type": "integer"
+            },
+            "height": {
+              "type": "integer"
+            }
+          }
+        }
+      },
+      "dependentRequired": {
+        "then": [
+          "now"
+        ],
+        "now": [
+          "then"
+        ]
+      }
+    }
+  }
+}
