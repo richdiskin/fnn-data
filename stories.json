@@ -1,9 +1,244 @@
 {
-  "edition": "2026-10-22-am",
-  "date": "2026-10-22",
-  "updated_at": "2026-10-22T07:05:00-04:00",
-  "lead": "no-ties",
+  "edition": "2026-11-02-am",
+  "date": "2026-11-02",
+  "updated_at": "2026-11-02T06:00:00-05:00",
+  "lead": "the-mb-file",
   "stories": [
+    {
+      "slug": "the-mb-file",
+      "date": "2026-11-02",
+      "section": "thenvsnow",
+      "kicker": "MICHIGAN SENATE · THE MB FILE",
+      "headline": "He Signed a Letter Urging Morsi to “Purge the Media and the Police.”",
+      "headline_now": "Asked About It in 2026: “I’m Not Interested.”",
+      "deck": "Abdul El-Sayed told NBC “We have no ties.” His half-sister, in 2012: “My family has long been MB.” Michigan votes Tuesday, Nov. 3.",
+      "byline": "By FNN Desk",
+      "body": "Nov. 25, 2012: Al-Ahram Gate publishes a letter backing Egyptian President Mohamed Morsi’s new powers. It urges him to “purge the media and the police as quickly as possible.” Signer No. 33, per the Free Beacon: Abdul El-Sayed.\n\nOct. 23, 2026: Fox News’ Bret Baier asks Michigan’s Democratic Senate nominee about it. His answer: “I’m not interested.”\n\nOct. 14, to NBC: “I have no ties. We have no ties.”\n\nJune 24, 2012, his half-sister, as reported by CBS News, the Free Beacon and the Times: “My family has long been MB.”\n\nMichigan votes Tuesday.",
+      "pull_quote": "2012: “Purge the media and the police.” 2026: “I’m not interested.”",
+      "then": {
+        "text": "We, leaders of the Egyptian community, support the revolutionary decisions taken by the president, and we call on him to purge the media and the police as quickly as possible.",
+        "date": "2012-11-25",
+        "source": "https://freebeacon.com/democrats/abdul-el-sayed-called-on-egypts-muslim-brotherhood-to-purge-the-media-and-police-shortly-before-islamic-government-arrested-reporters-for-insulting-islam/",
+        "source_name": "Washington Free Beacon’s translation of the letter in Al-Ahram Gate",
+        "who": "Letter to Egypt’s President Morsi; signer No. 33 is Abdul El-Sayed, per the Free Beacon"
+      },
+      "now": {
+        "text": "I’m not interested in anything you’re going to pull out from a 2012 statement, a letter, you’re going to pull that out of context, you’re going to ask questions about my allegiance.",
+        "date": "2026-10-23",
+        "source": "https://nypost.com/2026/10/23/us-news/el-sayed-refuses-to-answer-questions-about-muslim-brotherhood-letter-im-not-interested/",
+        "source_name": "New York Post, on his Fox News interview with Bret Baier",
+        "who": "Abdul El-Sayed, Democratic Senate nominee, Michigan"
+      },
+      "record": [
+        {
+          "date": "2012-11-25",
+          "label": "The letter to Morsi: “purge the media and the police”; signer No. 33",
+          "source": "Washington Free Beacon (Sept. 23, 2026)",
+          "url": "https://freebeacon.com/democrats/abdul-el-sayed-called-on-egypts-muslim-brotherhood-to-purge-the-media-and-police-shortly-before-islamic-government-arrested-reporters-for-insulting-islam/",
+          "role": "then"
+        },
+        {
+          "date": "2026-10-23",
+          "label": "El-Sayed to Bret Baier on the letter: “I’m not interested”",
+          "source": "New York Post",
+          "url": "https://nypost.com/2026/10/23/us-news/el-sayed-refuses-to-answer-questions-about-muslim-brotherhood-letter-im-not-interested/",
+          "role": "now"
+        },
+        {
+          "date": "2026-10-23",
+          "label": "Fox News clip of the interview, titled “Abdul El-Sayed: I have never been a member of the Muslim Brotherhood and never will be”",
+          "source": "Fox News (video)",
+          "url": "https://www.foxnews.com/video/6407312719112",
+          "role": null
+        },
+        {
+          "date": "2012-11-25",
+          "label": "The letter in Arabic, signer No. 33",
+          "source": "Al-Ahram Gate (Wayback, Arabic)",
+          "url": "https://web.archive.org/web/20260909132033/https://gate.ahram.org.eg/News/276648.aspx",
+          "role": null
+        },
+        {
+          "date": "2026-10-19",
+          "label": "PolitiFact: he signed it; the statement backed Morsi’s decree until a new constitution and was “not a pledge of support for the Muslim Brotherhood as a whole”",
+          "source": "PolitiFact",
+          "url": "https://politifact.com/factchecks/2026/oct/19/mike-rogers/el-sayed-muslim-brotherhood-michigan-senate/",
+          "role": null
+        },
+        {
+          "date": "2026-10-14",
+          "label": "To NBC’s Tom Llamas: “We have no ties,” “hearsay evidence from a tweet”",
+          "source": "Washington Free Beacon",
+          "url": "https://freebeacon.com/democrats/hearsay-abdul-el-sayed-dismisses-sisters-claims-about-familys-muslim-brotherhood-activism/",
+          "role": null
+        },
+        {
+          "date": "2012-06-24",
+          "label": "His half-sister, Eman Abdelhadi: “My family has long been MB”",
+          "source": "X",
+          "url": "https://x.com/emanabdelhadi/status/216974809626710016",
+          "role": null
+        },
+        {
+          "date": "2026-10-29",
+          "label": "His mother, his half-sister’s posts, his father-in-law, and the letter",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/abdul-el-sayed-faith-family-michigan-senate-campaign/",
+          "role": null
+        },
+        {
+          "date": "2026-10-21",
+          "label": "His faith and family ties, and the letter",
+          "source": "The New York Times (via DNYUZ)",
+          "url": "https://dnyuz.com/2026/10/21/abdul-el-sayed-confronts-attacks-on-his-faith-and-family-ties/",
+          "role": null
+        },
+        {
+          "date": "2026-10-17",
+          "label": "Caro town hall: asked to disavow the Brotherhood, he said “absolutely”",
+          "source": "CBS Detroit",
+          "url": "https://www.cbsnews.com/detroit/news/el-sayed-muslim-brotherhood-question-caro-town-hall-michigan-senate/",
+          "role": null
+        },
+        {
+          "date": "2026-10-28",
+          "label": "Mitchell Research poll: El-Sayed 51%, Rogers 44%",
+          "source": "CBS News Detroit",
+          "url": "https://www.cbsnews.com/detroit/news/abdul-el-sayed-makes-final-push-in-michigan-senate-race/",
+          "role": null
+        },
+        {
+          "date": "2026-11-02",
+          "label": "The full file: “Delete, Deny, Repeat,” every reversal with receipts",
+          "source": "FNN",
+          "url": "https://richdiskin.github.io/fnn-data/a/the-mb-file/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/the-mb-file.jpg",
+        "alt": "Frame from FNN’s video The MB File",
+        "credit": "FNN; Fox News footage"
+      },
+      "share": {
+        "line": "El-Sayed signed a 2012 letter urging Morsi to “purge the media and the police.” Asked about it in 2026: “I’m not interested.”",
+        "caption": "THE MB FILE · THEN vs. NOW"
+      },
+      "video": {
+        "provider": "file",
+        "id": "https://richdiskin.github.io/fnn-data/clips/the-mb-file.mp4",
+        "label": "Watch: The MB File",
+        "width": 720,
+        "height": 1280,
+        "poster": "https://richdiskin.github.io/fnn-data/clips/the-mb-file.jpg"
+      }
+    },
+    {
+      "slug": "six-sexes-zero-spine",
+      "date": "2026-11-02",
+      "section": "thenvsnow",
+      "kicker": "TEXAS SENATE · THEN vs. NOW",
+      "headline": "Six Sexes, Zero Spine: James Talarico’s Greatest Reverse Hits",
+      "deck": "Texas picks a senator Tuesday, Nov. 3. ICE, biology, oil and gas: what he said, then what he says now.",
+      "byline": "By FNN Desk",
+      "body": "Jan. 24, primary debate, asked about abolishing ICE: “It’s time to tear down this secret police force and replace it with an agency.”\n\nOct. 14, CNN town hall: “Do you support abolishing ICE or not?” “No, and I never have.”\n\nApril 20, 2021, Texas House hearing: “In fact, there are six” biological sexes.\n\nSept. 9, 2026, Fox News: “There are not six sexes. There are two.”\n\n2020, Sierra Club forum: leading in oil and gas is “like being the leader in cassette tapes in the 1980s.”\n\nOct. 14, 2026: “I owe a lot to that industry.”\n\nTexas votes Tuesday.",
+      "pull_quote": "January: “Tear down this secret police force.” October: “No, and I never have.”",
+      "then": {
+        "text": "It’s time to tear down this secret police force and replace it with an agency that actually is going to focus on public safety.",
+        "date": "2026-01-24",
+        "source": "https://www.cnn.com/2026/01/24/politics/takeaways-from-the-first-debate-in-the-texas-senate-democratic-primary-race",
+        "source_name": "CNN, Democratic primary debate",
+        "who": "James Talarico, asked whether he would abolish or defund ICE"
+      },
+      "now": {
+        "text": "No, and I never have. We need Immigration and Customs Enforcement in this country, but that’s not what we’re seeing.",
+        "date": "2026-10-14",
+        "source": "https://www.tpr.org/government-politics/2026-10-15/talarico-says-he-doesnt-support-abolishing-ice-but-criticizes-their-work-under-trump-as-secret-police",
+        "source_name": "Houston Public Media via TPR, CNN/Jubilee town hall",
+        "who": "James Talarico, Democratic Senate nominee, Texas"
+      },
+      "record": [
+        {
+          "date": "2026-01-24",
+          "label": "Primary debate on ICE: “tear down this secret police force and replace it with an agency”",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/01/24/politics/takeaways-from-the-first-debate-in-the-texas-senate-democratic-primary-race",
+          "role": "then"
+        },
+        {
+          "date": "2026-10-14",
+          "label": "Asked if he supports abolishing ICE: “No, and I never have”",
+          "source": "Houston Public Media via TPR",
+          "url": "https://www.tpr.org/government-politics/2026-10-15/talarico-says-he-doesnt-support-abolishing-ice-but-criticizes-their-work-under-trump-as-secret-police",
+          "role": "now"
+        },
+        {
+          "date": "2026-01-25",
+          "label": "His post: “It’s time to tear down this secret police force”",
+          "source": "X",
+          "url": "https://x.com/jamestalarico/status/2015639016951992453",
+          "role": null
+        },
+        {
+          "date": "2026-10-14",
+          "label": "CNN/Jubilee town hall, rush transcript (ICE, oil and gas)",
+          "source": "CNN",
+          "url": "https://transcripts.cnn.com/show/se/date/2026-10-14/segment/03",
+          "role": null
+        },
+        {
+          "date": "2021-04-26",
+          "label": "Transcription of his April 20, 2021 hearing remarks: “In fact, there are six”",
+          "source": "Daily Wire",
+          "url": "https://www.dailywire.com/news/texas-democrat-attacks-trans-bill-claims-there-are-6-sexes-mother-of-girl-athlete-fires-back-we-must-put-facts-before-feelings",
+          "role": null
+        },
+        {
+          "date": "2026-09-09",
+          "label": "“There are not six sexes. There are two.”",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/politics/talarico-missed-mark-backtracks-controversial-woke-statements",
+          "role": null
+        },
+        {
+          "date": "2026-09-01",
+          "label": "2020 Sierra Club forum: oil and gas like “cassette tapes in the 1980s”",
+          "source": "CNN KFile",
+          "url": "https://www.cnn.com/2026/09/01/politics/james-talarico-progressive-comments-kfile",
+          "role": null
+        },
+        {
+          "date": "2026-10-30",
+          "label": "Quantus Insights poll: Paxton 48.7%, Talarico 47.6%; early voting ends Friday",
+          "source": "FOX 7 Austin",
+          "url": "https://www.fox7austin.com/news/paxton-slips-past-talarico-latest-poll-senate-race-enters-final-days",
+          "role": null
+        },
+        {
+          "date": "2026-11-01",
+          "label": "Texas Senate polls: average of nine, Talarico 49.6%, Paxton 46.2%",
+          "source": "270toWin",
+          "url": "https://www.270towin.com/2026-senate-polls/texas",
+          "role": null
+        },
+        {
+          "date": "2026-11-02",
+          "label": "The full file: every reversal, with receipts",
+          "source": "FNN",
+          "url": "https://richdiskin.github.io/fnn-data/a/six-sexes-zero-spine/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/six-sexes-zero-spine.jpg",
+        "alt": "James Talarico at a 2021 Texas House hearing and in a 2026 Fox News interview",
+        "credit": "FNN; Texas House and Fox News footage"
+      },
+      "share": {
+        "line": "Talarico, January: “tear down this secret police force.” October: “No, and I never have.” 2021: six sexes. 2026: “There are two.”",
+        "caption": "SIX SEXES, ZERO SPINE"
+      }
+    },
     {
       "slug": "no-ties",
       "date": "2026-10-21",
@@ -185,6 +420,7 @@
         }
       ],
       "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/no-ties.jpg",
         "alt": "Abdul El-Sayed, Michigan’s Democratic Senate nominee",
         "credit": "FNN"
       },
@@ -285,6 +521,7 @@
         }
       ],
       "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/in-their-own-words.jpg",
         "alt": "Anjem Choudary at a 2009 London rally and Hamburg’s 2024 caliphate rally",
         "credit": "FNN"
       },
@@ -399,6 +636,7 @@
         }
       ],
       "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/revenge-agenda.jpg",
         "alt": "Democrats’ “weaponization” warnings next to their subpoena plans",
         "credit": "FNN"
       },
@@ -1229,79 +1467,6 @@
       "share": {
         "line": "The Globe’s big reveal: the man who beat it to a City Hall story is a software engineer with a phone.",
         "caption": "UNMASKED"
-      }
-    },
-    {
-      "slug": "deport-sneako",
-      "date": "2026-10-21",
-      "section": "streamer",
-      "kicker": "STREAMER NEWS",
-      "headline": "Clavicular Flips His Sign to “DEPORT SNEAKO.” One Problem: Sneako Is From New York.",
-      "deck": "No hearing. No paperwork. One sign, one flip.",
-      "byline": "By FNN Staff",
-      "body": "Oct. 10: streamer Clavicular noticed Sneako was watching his stream. He flipped his sign around. It read “DEPORT SNEAKO.”\n\nNo hearing. No paperwork. One sign, one flip.\n\nThere is one snag for anyone drafting the paperwork. Sneako, born Nicolas Kenn De Balinthazy, was born in New York City on Sept. 8, 1998. He is a New Yorker. There is nowhere to send him.\n\nThe sign does not care. It said what it said, in capital letters, to his face, on Clavicular’s stream.\n\nFrame dominance, by cardboard.",
-      "pull_quote": "No hearing. No paperwork. One sign, one flip.",
-      "record": [
-        {
-          "date": "2026-10-10",
-          "label": "Clavicular flips the “DEPORT SNEAKO” sign, clip",
-          "source": "X",
-          "url": "https://x.com/Pulcys/status/2109068134724333900",
-          "role": null
-        },
-        {
-          "date": "2026-10-22",
-          "date_label": "accessed Oct. 22, 2026",
-          "label": "Sneako: born Sept. 8, 1998, New York City",
-          "source": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Sneako",
-          "role": null
-        }
-      ],
-      "image": {
-        "src": "/fnn/heroes/deport-sneako.jpg",
-        "alt": "Clavicular holding a sign reading DEPORT SNEAKO",
-        "credit": "FNN"
-      },
-      "share": {
-        "line": "Clavicular flipped his sign: “DEPORT SNEAKO.” Sneako was born in New York City.",
-        "caption": "DEPORT SNEAKO"
-      }
-    },
-    {
-      "slug": "clavicular-blackpill",
-      "date": "2026-10-21",
-      "section": "streamer",
-      "kicker": "STREAMER NEWS",
-      "headline": "Clavicular Issues Four-Word Policy Directive to Trump: “Trump Needs the Blackpill”",
-      "deck": "Four words, one quote-post, the State Department’s new anti-trafficking lead.",
-      "byline": "By FNN Staff",
-      "body": "Oct. 13: the Trump administration announced that Barbera Thornhill had joined the State Department to lead U.S. efforts against human trafficking.\n\nLooksmaxxing streamer Clavicular quote-posted the news with a four-word directive to the President of the United States: “Trump needs the blackpill.”\n\nHe did not say what the blackpill means for anti-trafficking policy. He did not say what it means for anything. He did not add a fifth word.\n\nWashington writes thousand-page bills. Clavicular wrote four words and hit post.\n\nNo elaboration. Elaborating is cope.",
-      "pull_quote": "Four words. No elaboration.",
-      "record": [
-        {
-          "date": "2026-10-13",
-          "label": "Clavicular: “Trump needs the blackpill”",
-          "source": "X",
-          "url": "https://x.com/clavicular/status/2110082243586892194",
-          "role": null
-        },
-        {
-          "date": "2026-10-13",
-          "label": "The post he quoted: Thornhill joins State to lead anti-trafficking efforts",
-          "source": "Polymarket on X",
-          "url": "https://x.com/Polymarket/status/2110048417674121706",
-          "role": null
-        }
-      ],
-      "image": {
-        "src": "/fnn/heroes/clavicular-blackpill.jpg",
-        "alt": "Clavicular’s post on X",
-        "credit": "FNN"
-      },
-      "share": {
-        "line": "Clavicular to the President of the United States, in four words: “Trump needs the blackpill.”",
-        "caption": "FOUR WORDS"
       }
     }
   ]
