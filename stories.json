@@ -1,9 +1,617 @@
 {
-  "edition": "2026-11-02-am",
-  "date": "2026-11-02",
-  "updated_at": "2026-11-02T06:00:00-05:00",
-  "lead": "the-mb-file",
+  "edition": "2026-11-09-am",
+  "date": "2026-11-09",
+  "updated_at": "2026-11-09T12:35:00-05:00",
+  "lead": "elon-musk-builds-they-smear",
   "stories": [
+    {
+      "slug": "elon-musk-builds-they-smear",
+      "date": "2026-11-09",
+      "section": "freedom",
+      "kicker": "FEATURE · ELON MUSK",
+      "headline": "He Builds. They Smear. Elon Musk Is Still Winning Where It Counts.",
+      "deck": "123 launches this year, zero failures. 13.6 million Starlink subscribers. And a cable host calling him a Nazi on live TV.",
+      "byline": "By FNN Desk",
+      "body": "A Falcon 9 booster just flew a record 37th time. SpaceX has made 123 orbital launches this year, all successful. Starlink has 13.6 million consumer subscribers and lit up Ukraine two days into the invasion.\n\nThen Musk backed Republicans. MSNBC's Joe Scarborough said he “does Heil Hitler salutes.” The ADL had called the gesture “not a Nazi salute.” Headlines turned his Starlink post into a Starshield confession it doesn't contain. DISPUTED: the WSJ reports he ordered that slowdown.\n\nHis midterm bet lost. He joked about his “space lasers” and went back to work.",
+      "pull_quote": "The ADL called it “an awkward gesture in a moment of enthusiasm, not a Nazi salute.”",
+      "record": [
+        {
+          "date": "2026-08-25",
+          "label": "Booster B1067 flies record 37th mission; Falcon 9 flew 165 missions in 2025",
+          "source": "Space.com",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-record-37th-booster-flight-100-falcon-9-launches",
+          "role": null
+        },
+        {
+          "date": "2026-11-09",
+          "date_label": "updated Nov. 9",
+          "label": "SpaceX: 123 orbital launches in 2026, all successful, through Nov. 6",
+          "source": "The Space Road tracker",
+          "url": "https://thespaceroad.com/launches/2026/spacex/",
+          "role": null
+        },
+        {
+          "date": "2026-09-28",
+          "label": "Starship reaches orbit for the first time, deploys 26 Starlink V3 satellites",
+          "source": "SpaceX",
+          "url": "https://www.spacex.com/launches/starship-flight-14/",
+          "role": null
+        },
+        {
+          "date": "2026-10-01",
+          "label": "NASA's SpaceX Crew-13 launches to the space station",
+          "source": "NASA",
+          "url": "https://www.nasa.gov/mission/nasas-spacex-crew-13/",
+          "role": null
+        },
+        {
+          "date": "2022-02-26",
+          "label": "Musk to Fedorov: “Starlink service is now active in Ukraine”",
+          "source": "his own post on X",
+          "url": "https://x.com/elonmusk/status/1497701484003213317",
+          "role": null
+        },
+        {
+          "date": "2026-09-11",
+          "label": "Starlink free service on Kauai through Oct. 11 after Hurricane Lowell; 200+ kits to responders",
+          "source": "TeslaNorth, quoting Starlink",
+          "url": "https://teslanorth.com/2026/09/11/starlink-kauai-hurricane-lowell/",
+          "role": null
+        },
+        {
+          "date": "2026-10-20",
+          "label": "Starlink: 13.6 million consumer subscribers at Sept. 30, up from 7.2 million",
+          "source": "Starlink Insider (SpaceX Q3 results)",
+          "url": "https://starlinkinsider.com/starlink-13-6-million-consumer-subscribers-q3-2026/",
+          "role": null
+        },
+        {
+          "date": "2026-10-02",
+          "label": "Tesla Q3 2026 deliveries: 486,532",
+          "source": "Tesla, SEC filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026064366/exhibit991111111.htm",
+          "role": null
+        },
+        {
+          "date": "2024-06-13",
+          "date_label": "2023 sales",
+          "label": "Model Y world's best-selling car of 2023, first EV to top the chart",
+          "source": "JATO Dynamics",
+          "url": "https://www.jato.com/resources/media-and-press-releases/tesla-model-y-worlds-best-selling-car-2023",
+          "role": null
+        },
+        {
+          "date": "2026-04-27",
+          "label": "GAO: $186 billion in federal improper payments in fiscal 2025",
+          "source": "U.S. GAO",
+          "url": "https://www.gao.gov/press-release/gao-reports-improper-payments-rose-estimated-186-billion-across-federal-government-fiscal-year-2025",
+          "role": null
+        },
+        {
+          "date": "2026-10-24",
+          "label": "Musk: “That loophole was closed”; Starshield “is controlled by the US government”",
+          "source": "his own post on X",
+          "url": "https://x.com/elonmusk/status/2114063986744275011",
+          "role": null
+        },
+        {
+          "date": "2026-10-24",
+          "label": "Headline: “Elon Musk says he was behind Starlink's slowdown in Ukraine”; body says “alluded”",
+          "source": "The Hill (archived)",
+          "url": "https://web.archive.org/web/20261025060848/https://thehill.com/policy/international/6170415-musk-starlink-ukraine-slowdown/amp/",
+          "role": null
+        },
+        {
+          "date": "2026-11-09",
+          "label": "States “his role in the October slowdown of Starshield”",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/11/09/elon-musk-midterms-risks-empire",
+          "role": null
+        },
+        {
+          "date": "2026-10-20",
+          "label": "DISPUTED: unnamed officials say Musk ordered the Starshield slowdown",
+          "source": "The Wall Street Journal",
+          "url": "https://www.wsj.com/business/order-to-slow-down-starlink-for-ukraine-came-from-musk-af367811",
+          "role": null
+        },
+        {
+          "date": "2026-10-27",
+          "label": "Scarborough: Musk “does Heil Hitler salutes”",
+          "source": "MSNBC Morning Joe clip on X",
+          "url": "https://x.com/nspin310/status/2115074193754570789",
+          "role": null
+        },
+        {
+          "date": "2025-01-20",
+          "label": "ADL: “an awkward gesture in a moment of enthusiasm, not a Nazi salute”",
+          "source": "ADL on X",
+          "url": "https://x.com/ADL/status/1881474892022919403",
+          "role": null
+        },
+        {
+          "date": "2026-10-14",
+          "label": "Tesla arsonist sentenced to 5 years; REPORTED: psychologist's report cites “the Nazi salute”",
+          "source": "Las Vegas Review-Journal",
+          "url": "https://www.reviewjournal.com/crime/courts/las-vegas-tesla-arsonist-sentenced-to-5-years-in-prison-judge-rules-3900070/",
+          "role": null
+        },
+        {
+          "date": "2026-11-04",
+          "label": "Musk spent almost $450 million on Republicans; “space lasers” post",
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cv8ez3p3ge5ko",
+          "role": null
+        }
+      ],
+      "image": {
+        "alt": "A SpaceX Falcon 9 booster landing on a drone ship"
+      },
+      "share": {
+        "line": "123 launches, zero failures, 13.6 million Starlink subscribers, and a cable host calling him a Nazi. The ADL said it wasn't. The record on Elon Musk.",
+        "caption": "HE BUILDS. THEY SMEAR."
+      }
+    },
+    {
+      "slug": "healey-evaluating-emergency",
+      "date": "2026-11-09",
+      "section": "thenvsnow",
+      "kicker": "MASSACHUSETTS · THEN vs. NOW",
+      "headline": "Wednesday She Was “Evaluating.”",
+      "headline_now": "Friday It Was an Emergency.",
+      "deck": "Healey’s emergency move blocked a drive to suspend her late-term abortion law. State data: 99 of 49,450 abortions in 2024 came at 24 weeks or later.",
+      "byline": "By FNN Desk",
+      "body": "Wednesday, Nov. 4: Gov. Maura Healey tells reporters her office is still “evaluating” whether to declare the new abortion law an emergency.\n\nFriday, Nov. 6: opponents say they drop off 113,477 signatures to suspend the law until a 2028 repeal vote. That afternoon, Healey writes Secretary Galvin: “I declare that act to be an emergency law.” It takes effect at once. No suspension.\n\nState data: 99 of 49,450 abortions in 2024 came at 24 weeks or later. Her own word Friday: “extremely rare.”\n\nREPORTED: “at least nine patients have been denied care,” she says. FNN has not seen those cases.",
+      "pull_quote": "Wednesday: “evaluating.” Friday: “I declare that act to be an emergency law.”",
+      "then": {
+        "text": "Her office was still “evaluating” whether to declare the law an emergency, she told reporters, noting she had to “get through [the election] last night, and a lot’s been going on.”",
+        "date": "2026-11-04",
+        "source": "https://www.bostonglobe.com/2026/11/06/metro/maura-healey-blocks-abortion-law-suspension-effort/",
+        "source_name": "The Boston Globe",
+        "who": "Gov. Maura Healey, to reporters, as reported by the Globe"
+      },
+      "now": {
+        "text": "I therefore declare that it is in the public interest that the act take effect immediately, and I declare that act to be an emergency law.",
+        "date": "2026-11-06",
+        "source": "https://www.bostonglobe.com/2026/11/06/metro/maura-healey-blocks-abortion-law-suspension-effort/",
+        "source_name": "The Boston Globe, quoting her letter to Secretary Galvin",
+        "who": "Gov. Maura Healey (D-Mass.)"
+      },
+      "record": [
+        {
+          "date": "2026-11-04",
+          "label": "Healey to reporters: her office was still “evaluating” an emergency declaration",
+          "source": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/11/06/metro/maura-healey-blocks-abortion-law-suspension-effort/",
+          "role": "then"
+        },
+        {
+          "date": "2026-11-06",
+          "label": "Healey’s letter to Galvin: “I declare that act to be an emergency law”",
+          "source": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/11/06/metro/maura-healey-blocks-abortion-law-suspension-effort/",
+          "role": "now"
+        },
+        {
+          "date": "2026-11-06",
+          "label": "Opponents say they filed 113,477 certified signatures; 49,719 needed to suspend; preamble blocks any suspension",
+          "source": "WBUR / State House News Service",
+          "url": "https://www.wbur.org/news/2026/11/06/maura-healey-abortion-law-emergency-referendum",
+          "role": null
+        },
+        {
+          "date": "2026-11-06",
+          "label": "Healey: “We know that at least nine patients have been denied care here” and “Abortions later in pregnancy are extremely rare” (REPORTED: her claim)",
+          "source": "Gov. Healey’s Substack",
+          "url": "https://massgovernor.substack.com/p/why-massachusetts-new-abortion-law",
+          "role": null
+        },
+        {
+          "date": "2026-11-06",
+          "label": "Healey’s post announcing the emergency statement under Article 48",
+          "source": "Bluesky",
+          "url": "https://bsky.app/profile/massgovernor.bsky.social/post/3mzoczqfogk2w",
+          "role": null
+        },
+        {
+          "date": "2026-11-06",
+          "label": "Reproductive Equity Now gives the same “at least nine” figure (REPORTED)",
+          "source": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/11/06/metro/maura-healey-blocks-abortion-law-suspension-effort/",
+          "role": null
+        },
+        {
+          "date": "2026-11-06",
+          "label": "State health data: 99 of 49,450 abortions in 2024 at 24 weeks or later",
+          "source": "CommonWealth Beacon",
+          "url": "https://commonwealthbeacon.org/politics/healey-move-puts-abortion-law-into-effect-early-relaxing-restrictions-and-teeing-up-fierce-2028-ballot-fight/",
+          "role": null
+        },
+        {
+          "date": "2026-11-09",
+          "date_label": "accessed Nov. 9",
+          "label": "Annual Induced Termination of Pregnancy reports (2024 data)",
+          "source": "Mass. Dept. of Public Health",
+          "url": "https://www.mass.gov/lists/annual-massachusetts-induced-termination-of-pregnancy-reports",
+          "role": null
+        },
+        {
+          "date": "2026-11-09",
+          "date_label": "accessed Nov. 9",
+          "label": "How a governor’s emergency statement makes a law effective on receipt by the secretary",
+          "source": "Mass.gov (Trial Court Law Libraries)",
+          "url": "https://www.mass.gov/info-details/effective-dates-of-laws-in-massachusetts",
+          "role": null
+        }
+      ],
+      "image": {
+        "alt": "Gov. Maura Healey and her Nov. 6 emergency letter to Secretary of State William Galvin"
+      },
+      "share": {
+        "line": "Wednesday, Healey was “evaluating.” Friday, the day 113,477 signatures came in, she declared her abortion law an emergency.",
+        "caption": "“EVALUATING” TO “EMERGENCY” IN 48 HOURS"
+      }
+    },
+    {
+      "slug": "gas-tax-holiday-33-5",
+      "date": "2026-11-09",
+      "section": "thenvsnow",
+      "kicker": "BEACON HILL · THEN vs. NOW",
+      "headline": "They Won on Affordability Tuesday.",
+      "headline_now": "Thursday: 33–5 Against the Governor’s Gas Tax Holiday.",
+      "deck": "Senate Democrats voted down a GOP rewrite of the budget bill that carried Healey’s own 60-day gas tax pause, in her language, plus her $100 million for schools.",
+      "byline": "By FNN Desk",
+      "body": "Sept. 22: Gov. Maura Healey, once skeptical of a gas tax holiday, proposes one. Sixty days, 24 cents a gallon, about $120 million. “This will offer some relief to people,” she says.\n\nOct. 21: House budget writers leave it out. Speaker Ron Mariano calls it “gimmicks and tricks.”\n\nNov. 3: Democrats sweep on affordability.\n\nNov. 5: Senate Minority Leader Bruce Tarr offers a substitute budget with “the governor’s suspension of the gas tax, her language,” plus her $100 million for schools. Senate Democrats vote it down, 33–5. Party line.\n\nThe governor’s idea. Her own party’s votes.",
+      "pull_quote": "Her idea. Her language. Her party voted it down, 33–5.",
+      "then": {
+        "text": "This will offer some relief to people, for Massachusetts families driving to work and school every day, to our drivers and truckers out on the road to our Uber/Lyft [drivers].",
+        "date": "2026-09-22",
+        "source": "https://www.wbur.org/news/2026/09/22/healey-proposes-gas-tax-holiday-after-gop-challenger-pushes-election-year-proposal",
+        "source_name": "WBUR",
+        "who": "Gov. Maura Healey, proposing a two-month gas tax suspension"
+      },
+      "now": {
+        "text": "Democrats rejected the package 5-33, just two days after their party nationwide sailed to office on an affordability message.",
+        "date": "2026-11-05",
+        "source": "https://www.statehousenews.com/news/features/roundup/weekly-roundup-new-instructions-same-beacon-hill/article_8ce8b804-ab89-441e-b66a-6fd7d5e9e604.html",
+        "source_name": "State House News Service weekly roundup",
+        "who": "Mass. Senate vote on Tarr’s substitute budget",
+        "big": "33–5"
+      },
+      "record": [
+        {
+          "date": "2026-09-22",
+          "label": "Healey proposes a 60-day, 24-cent gas tax suspension, about $120 million",
+          "source": "WBUR",
+          "url": "https://www.wbur.org/news/2026/09/22/healey-proposes-gas-tax-holiday-after-gop-challenger-pushes-election-year-proposal",
+          "role": "then"
+        },
+        {
+          "date": "2026-11-05",
+          "label": "Senate Democrats reject Tarr’s package 5–33, two days after the election",
+          "source": "State House News Service",
+          "url": "https://www.statehousenews.com/news/features/roundup/weekly-roundup-new-instructions-same-beacon-hill/article_8ce8b804-ab89-441e-b66a-6fd7d5e9e604.html",
+          "role": "now"
+        },
+        {
+          "date": "2026-09-23",
+          "label": "Healey’s filed closeout supplemental budget, Section 188: 60-day gas and diesel excise suspension",
+          "source": "Governor’s filing, posted by Providers’ Council (PDF)",
+          "url": "https://providers.org/assets/2026/09/FY26CloseoutSupp.Sept23.pdf",
+          "role": null
+        },
+        {
+          "date": "2026-10-21",
+          "label": "Mariano: “gimmicks and tricks”; House Ways and Means bill leaves the holiday out",
+          "source": "State House News Service",
+          "url": "https://www.statehousenews.com/news/legislature/house/mariano-delves-into-politics-of-suspending-reinstituting-gas-tax/article_39313bc4-27de-441c-aa10-c58333987040.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-05",
+          "label": "Tarr on the floor: “We include the governor’s suspension of the gas tax, her language” and her $100 million for schools; rejected on a party-line vote",
+          "source": "State House News Service session summary",
+          "url": "https://www.statehousenews.com/news/legislature/senate/sessions/senate-session-summary----thursday-nov-5-2026/article_a1f1a201-a742-4c9d-8275-1f369bf0ea92.html",
+          "role": null
+        },
+        {
+          "date": "2026-10-30",
+          "label": "Senate Ways and Means version also leaves out the gas tax suspension",
+          "source": "WBUR / State House News Service",
+          "url": "https://www.wbur.org/news/2026/10/30/senate-supplemental-spending-bill-house-healey",
+          "role": null
+        }
+      ],
+      "image": {
+        "alt": "A Massachusetts gas pump price sign"
+      },
+      "share": {
+        "line": "Healey proposed a gas tax holiday. Two days after Democrats won on affordability, Senate Democrats voted down a bill carrying it, 33–5.",
+        "caption": "HER IDEA. HER LANGUAGE. 33–5."
+      }
+    },
+    {
+      "slug": "question-1-details",
+      "date": "2026-11-09",
+      "section": "thenvsnow",
+      "kicker": "BEACON HILL · THEN vs. NOW",
+      "headline": "85% Voted to Open Beacon Hill’s Files.",
+      "headline_now": "Two Days Later: “Details to Be Worked Out.”",
+      "deck": "Question 1 opens the Legislature and governor’s office to the public records law. Leaders’ narrower bill still sits with six negotiators behind closed doors.",
+      "byline": "By FNN Desk",
+      "body": "Nov. 3: more than 85% of Massachusetts voters pass Question 1. The Legislature and the governor’s office go under the public records law.\n\nNov. 5: Senate President Karen Spilka’s statement: “there are details to be worked out.” Sen. Cindy Creem, lead Senate negotiator: “we’re not tone deaf. But we’re balancing their interests with the right to preserve the constitution.”\n\nTheir own narrower records bill, H.5469, has sat with six negotiators since July 31. New rules let them pass it before January.\n\nAuditor Diana DiZoglio says she would “absolutely” consider suing.\n\nThe voters already said what they want.",
+      "pull_quote": "Voters: 85%. Leaders: “details to be worked out.”",
+      "then": {
+        "text": "Over 85% of voters cast ballots in support of Question 1, which newly subjects the Legislature and governor’s office to the state’s existing public records law.",
+        "date": "2026-11-03",
+        "date_label": "Election Day",
+        "source": "https://www.statehousenews.com/news/legislature/after-loud-vote-for-expanded-records-access-legislators-still-weighing-details-alternatives/article_173b926d-5378-4154-b1e8-1a5cd9367ffc.html",
+        "source_name": "State House News Service",
+        "who": "Massachusetts voters"
+      },
+      "now": {
+        "text": "As with many ballot measures, there are details to be worked out, but it’s clear that this is something the voters want and deserve.",
+        "date": "2026-11-05",
+        "source": "https://www.statehousenews.com/news/legislature/after-loud-vote-for-expanded-records-access-legislators-still-weighing-details-alternatives/article_173b926d-5378-4154-b1e8-1a5cd9367ffc.html",
+        "source_name": "State House News Service",
+        "who": "Senate President Karen Spilka, statement"
+      },
+      "record": [
+        {
+          "date": "2026-11-05",
+          "label": "Question 1 passes with more than 85%",
+          "source": "State House News Service",
+          "url": "https://www.statehousenews.com/news/legislature/after-loud-vote-for-expanded-records-access-legislators-still-weighing-details-alternatives/article_173b926d-5378-4154-b1e8-1a5cd9367ffc.html",
+          "role": "then"
+        },
+        {
+          "date": "2026-11-05",
+          "label": "Spilka: “there are details to be worked out”; Creem: “we’re not tone deaf”; DiZoglio would “absolutely” consider legal action",
+          "source": "State House News Service",
+          "url": "https://www.statehousenews.com/news/legislature/after-loud-vote-for-expanded-records-access-legislators-still-weighing-details-alternatives/article_173b926d-5378-4154-b1e8-1a5cd9367ffc.html",
+          "role": "now"
+        },
+        {
+          "date": "2026-11-09",
+          "date_label": "checked Nov. 9",
+          "label": "H.5469 history: conference committee named July 31; no action since",
+          "source": "malegislature.gov",
+          "url": "https://malegislature.gov/Bills/194/H5469",
+          "role": null
+        },
+        {
+          "date": "2026-11-06",
+          "label": "New rules allow lame-duck action; Question 1 “may prove to be the most consequential result for Beacon Hill itself”",
+          "source": "State House News Service weekly roundup",
+          "url": "https://www.statehousenews.com/news/features/roundup/weekly-roundup-new-instructions-same-beacon-hill/article_8ce8b804-ab89-441e-b66a-6fd7d5e9e604.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-05",
+          "label": "Healey says she will “absolutely” comply with Question 1",
+          "source": "The Boston Globe",
+          "url": "https://mobileapp.bostonglobe.com/11062026_bd96c636-d969-11f1-898b-22f93faa17b4/content.html",
+          "role": null
+        }
+      ],
+      "image": {
+        "alt": "The Massachusetts State House"
+      },
+      "share": {
+        "line": "85% of Massachusetts voted to open Beacon Hill’s records. Two days later, the Senate president: “there are details to be worked out.”",
+        "caption": "85% SAID OPEN IT. THEY SAID “DETAILS.”"
+      }
+    },
+    {
+      "slug": "shelter-limits-loosened",
+      "date": "2026-11-09",
+      "section": "thenvsnow",
+      "kicker": "BEACON HILL · THEN vs. NOW",
+      "headline": "48 Hours After Healey’s Reelection, the Senate Loosened the Shelter Limits.",
+      "deck": "Nine-month stays, up from six. Income cutoff at 120% of poverty, up from 115%. The sponsor says Healey asked for the same. Her September filing doesn’t show it.",
+      "byline": "By FNN Desk",
+      "body": "Feb. 28, 2025: Gov. Maura Healey signs the shelter limits she proposed, including a six-month stay. “Urgent action is needed to lower the cost of the system,” she says.\n\nNov. 3, 2026: Healey wins a second term with 62%.\n\nNov. 5: the Senate adopts Sen. Robyn Kennedy’s amendment. Stays go from six months to nine. Income eligibility goes from 115% to 120% of the poverty line. Sen. Ryan Fattman calls it “a retreat.” The House still has to agree.\n\nREPORTED: Kennedy says the governor’s supplemental budget had the same language. FNN searched Healey’s Sept. 23 filing and found none.",
+      "pull_quote": "2025: six months. Two days after the election: nine.",
+      "then": {
+        "text": "We all know that urgent action is needed to lower the cost of the system and make sure it is a viable, safe and temporary option for Massachusetts families who have fallen on hard times.",
+        "date": "2025-02-28",
+        "source": "https://www.mass.gov/news/governor-healey-signs-supplemental-budget-to-reduce-cost-of-states-family-shelter-system-make-it-safer-for-shelter-residents-and-communities",
+        "source_name": "Governor’s press release",
+        "who": "Gov. Maura Healey, signing her shelter limits, including a 6-month stay"
+      },
+      "now": {
+        "text": "Increases the length of stay from six months to nine months, which reflects what we’re seeing right now in the shelter system.",
+        "date": "2026-11-05",
+        "source": "https://www.statehousenews.com/news/legislature/senate/sessions/senate-session-summary----thursday-nov-5-2026/article_a1f1a201-a742-4c9d-8275-1f369bf0ea92.html",
+        "source_name": "State House News Service session summary",
+        "who": "Sen. Robyn Kennedy (D-Worcester), on her amendment",
+        "big": "6 → 9 MO."
+      },
+      "record": [
+        {
+          "date": "2025-02-28",
+          "label": "Healey signs shelter changes she proposed in January, including “an updated 6-month length of stay”",
+          "source": "Mass.gov press release",
+          "url": "https://www.mass.gov/news/governor-healey-signs-supplemental-budget-to-reduce-cost-of-states-family-shelter-system-make-it-safer-for-shelter-residents-and-communities",
+          "role": "then"
+        },
+        {
+          "date": "2026-11-05",
+          "label": "Kennedy amendment: six to nine months, 115% to 120% of poverty; Fattman: “a retreat”; Kennedy: the governor “also included this language in her supplemental budget” (REPORTED, unconfirmed)",
+          "source": "State House News Service session summary",
+          "url": "https://www.statehousenews.com/news/legislature/senate/sessions/senate-session-summary----thursday-nov-5-2026/article_a1f1a201-a742-4c9d-8275-1f369bf0ea92.html",
+          "role": "now"
+        },
+        {
+          "date": "2026-11-06",
+          "label": "Amendment approved; Fattman says it retreats from 2024 reforms two days after Healey won with 62%",
+          "source": "State House News Service weekly roundup",
+          "url": "https://www.statehousenews.com/news/features/roundup/weekly-roundup-new-instructions-same-beacon-hill/article_8ce8b804-ab89-441e-b66a-6fd7d5e9e604.html",
+          "role": null
+        },
+        {
+          "date": "2026-09-23",
+          "label": "Healey’s filed closeout supplemental budget: FNN searched the full text and found no shelter length-of-stay or income-eligibility language",
+          "source": "Governor’s filing, posted by Providers’ Council (PDF)",
+          "url": "https://providers.org/assets/2026/09/FY26CloseoutSupp.Sept23.pdf",
+          "role": null
+        }
+      ],
+      "image": {
+        "alt": "A Massachusetts family shelter entrance"
+      },
+      "share": {
+        "line": "Two days after Healey’s reelection, the Senate stretched shelter stays from six months to nine. The sponsor says Healey asked for it too. Her September filing doesn’t show it.",
+        "caption": "SIX MONTHS, THEN NINE"
+      }
+    },
+    {
+      "slug": "springfield-courthouse-cojo",
+      "date": "2026-11-09",
+      "section": "hoax",
+      "kicker": "HOAX FILES · THE RECORD",
+      "headline": "A $2 Billion, 40-Year Courthouse Lease, and a Partner That Was Legally Dissolved When It Won",
+      "deck": "CoJo, co-owned by Rep. Pressley’s husband, was dissolved from late 2025 until days after the Globe asked. A judge let the deal go on. The suit hasn’t ended.",
+      "byline": "By FNN Desk",
+      "body": "July 2: the state picks Liberty Junction to build Springfield’s courthouse and rent it to taxpayers for 40 years. The Globe puts it at $2 billion.\n\nPartner CoJo Real Estate is co-owned by John Barros, convention center chief, and Conan Harris, Rep. Ayanna Pressley’s husband. State records cited by the Globe show CoJo was involuntarily dissolved at the end of 2025, still dissolved on selection day. Revived three days after the Globe asked.\n\nAug. 24: a judge refuses to block the deal. Losing bidders appeal; the suit goes on.\n\nNo lease signed as of Oct. 1. Today’s status: unverified.",
+      "pull_quote": "A $2 billion deal. A partner that, on paper, didn’t exist the day it won.",
+      "record": [
+        {
+          "date": "2026-07-29",
+          "label": "CoJo “involuntarily dissolved at the end of 2025”; revived three days after the Globe asked; Barros says he will divest",
+          "source": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/07/29/metro/john-barros-mcca-springfield-courthouse-bid/",
+          "role": null
+        },
+        {
+          "date": "2026-11-09",
+          "date_label": "checked Nov. 9",
+          "label": "Project page: Liberty Junction provisionally designated; 40-year lease “anticipated to take several months”",
+          "source": "Mass.gov (DCAMM)",
+          "url": "https://www.mass.gov/info-details/springfield-regional-justice-center-project",
+          "role": null
+        },
+        {
+          "date": "2026-08-24",
+          "label": "Judge Hodge denies the injunction; lease negotiations may continue; bidders say claims “remain very much alive”",
+          "source": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/08/24/metro/court-ruling-springfield-courthouse-2-billion-project-lawsuit/",
+          "role": null
+        },
+        {
+          "date": "2026-09-02",
+          "label": "Balise and Patel appeal the Aug. 24 order; underlying suit continues",
+          "source": "BusinessWest",
+          "url": "https://businesswest.com/blog/jeb-balise-dinesh-patel-appeal-ruling-in-springfield-courthouse-challenge/",
+          "role": null
+        },
+        {
+          "date": "2026-10-01",
+          "label": "State officials: no lease agreement signed yet; $1.6 billion in rent over 40 years (Globe analysis); zoning height issue",
+          "source": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/10/01/metro/springfield-courthouse-project-liberty-junction/",
+          "role": null
+        },
+        {
+          "date": "2026-11-07",
+          "date_label": "updated Nov. 7",
+          "label": "Discovery continues; hearing or ruling on the state’s motion to dismiss set for Dec. 1 (REPORTED)",
+          "source": "Western Mass Politics & Insight",
+          "url": "https://wmasspi.com/2026/11/analysis-the-courthouse-battle-in-the-court-of-public-opinion.html",
+          "role": null
+        },
+        {
+          "date": "2026-10-30",
+          "label": "FNN’s earlier post on the lease",
+          "source": "FNN on X",
+          "url": "https://x.com/FNNFakenews911/status/2116000330030993492",
+          "role": null
+        }
+      ],
+      "image": {
+        "alt": "The Roderick L. Ireland Courthouse in Springfield"
+      },
+      "share": {
+        "line": "A $2 billion, 40-year Springfield courthouse lease. One partner, co-owned by Rep. Pressley’s husband, was legally dissolved the day the team won.",
+        "caption": "DISSOLVED ON SELECTION DAY"
+      }
+    },
+    {
+      "slug": "miller-cnn-clip",
+      "date": "2026-11-09",
+      "section": "fake",
+      "kicker": "CORRECTION · DISPUTED",
+      "headline": "That “New Chief of Staff Miller” Clip About CNN Doesn’t Match His Words.",
+      "deck": "The post says Miller wants CNN registered as a Democrat PAC. The video under it names CBS, ABC, NBC, the Times, the Post and The Atlantic. Not CNN.",
+      "byline": "By FNN Desk",
+      "body": "Nov. 8: a verified account posts a clip. Caption: “New Chief of Staff Stephen Miller wants CNN, ABC, NBC etc. to be forced to register as a PAC.” 300,000-plus views.\n\nThe clip is from August, on Hannity, when Miller was deputy chief of staff. He names “CBS and ABC and NBC,” then the New York Times, the Washington Post and The Atlantic. They “should all be required to register as a Democrat political action committee.”\n\nHe never says CNN. FNN found no November remark where he does.\n\nCurrent FEC rules exempt news outlets anyway.\n\nDISPUTED: the caption, not the clip.",
+      "pull_quote": "The caption says CNN. The clip doesn’t.",
+      "then": {
+        "text": "The legacy media like CBS and ABC and NBC and every other legacy outlet exists to serve and advance the interests of the Democrat Party.",
+        "date": "2026-08-19",
+        "date_label": "Aug. 19, Hannity",
+        "source": "https://x.com/Acyn/status/2090250832235356501",
+        "source_name": "Fox News’ Hannity, clip on X",
+        "who": "Stephen Miller, then White House deputy chief of staff"
+      },
+      "now": {
+        "text": "New Chief of Staff Stephen Miller wants CNN, ABC, NBC etc. to be forced to register as a PAC (political action committee) of the Democrat party",
+        "date": "2026-11-08",
+        "source": "https://x.com/TrumpDailyPosts/status/2119565051564859840",
+        "source_name": "Viral post on X",
+        "who": "@TrumpDailyPosts"
+      },
+      "record": [
+        {
+          "date": "2026-08-19",
+          "label": "Miller on Hannity: CBS, ABC, NBC, “New York Times,” “Washington Post,” “the Atlantic”; no CNN (42-second clip)",
+          "source": "Acyn on X (Fox News video)",
+          "url": "https://x.com/Acyn/status/2090250832235356501",
+          "role": "then"
+        },
+        {
+          "date": "2026-11-08",
+          "label": "Viral post: “wants CNN, ABC, NBC etc.”; its own 24-second video is the August segment and does not say CNN",
+          "source": "X",
+          "url": "https://x.com/TrumpDailyPosts/status/2119565051564859840",
+          "role": "now"
+        },
+        {
+          "date": "2026-11-06",
+          "label": "Trump names Miller the 33rd White House chief of staff",
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/",
+          "role": null
+        },
+        {
+          "date": "2026-08-20",
+          "label": "Transcript of the Hannity exchange",
+          "source": "USSA News (secondary)",
+          "url": "https://ussanews.com/2026/08/20/watch-stephen-miller-says-cbs-abc-others-should-be-forced-to-register-as-pacs/",
+          "role": null
+        },
+        {
+          "date": "2026-11-09",
+          "date_label": "current rule",
+          "label": "News story, commentary or editorial by the media is not a contribution or expenditure",
+          "source": "11 CFR 100.73 (eCFR)",
+          "url": "https://www.ecfr.gov/current/title-11/chapter-I/subchapter-A/part-100/subpart-C/section-100.73",
+          "role": null
+        }
+      ],
+      "image": {
+        "alt": "Stephen Miller on Fox News’ Hannity, August 2026"
+      },
+      "video": {
+        "provider": "x",
+        "id": "2090250832235356501",
+        "label": "Watch what he said"
+      },
+      "share": {
+        "line": "The viral caption says Stephen Miller wants CNN registered as a Democrat PAC. The clip under it names CBS, ABC, NBC, the Times, the Post and The Atlantic. Not CNN.",
+        "caption": "THE CAPTION SAYS CNN. THE CLIP DOESN’T."
+      }
+    },
     {
       "slug": "the-mb-file",
       "date": "2026-11-02",
