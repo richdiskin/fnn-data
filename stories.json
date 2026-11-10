@@ -1,9 +1,397 @@
 {
-  "edition": "2026-11-09-am",
-  "date": "2026-11-09",
-  "updated_at": "2026-11-09T12:35:00-05:00",
-  "lead": "elon-musk-builds-they-smear",
+  "edition": "2026-11-10-am",
+  "date": "2026-11-10",
+  "updated_at": "2026-11-10T04:41:36-05:00",
+  "lead": "texas-week-one-musk",
   "stories": [
+    {
+      "slug": "texas-week-one-musk",
+      "date": "2026-11-10",
+      "section": "freedom",
+      "kicker": "FEATURE · ELON MUSK",
+      "headline": "He Brought the Jobs to Texas. One Week After the Election, the Winners Came for Him.",
+      "deck": "A land deal frozen by phone call. Congress wants him in the witness chair. Party buses at his house. His answer: “oppressive.”",
+      "byline": "By FNN Desk",
+      "body": "Elon Musk moved the headquarters of Tesla and SpaceX to Texas. Tesla’s Austin plant alone employs more than 20,000 people, the New York Post reports.\n\nNov. 5: Governor-elect Gina Hinojosa calls the state parks chief, and a Boca Chica land sale comes off the agenda. Selling it to Musk, she tells CNN, is “almost unimaginable.”\n\nNov. 7: Two party buses bring about 60 protesters to his Austin-area home.\n\nNov. 8: Rep. Robert Garcia says Congress wants “to speak to Mr. Musk.”\n\nMusk’s answer: his companies prospered because Texas wasn’t “an oppressive and extractive state government.”",
+      "pull_quote": "“SpaceX and Tesla have prospered in Texas, because we were not constantly operating under an oppressive and extractive state government.”",
+      "record": [
+        {
+          "date": "2026-11-07",
+          "label": "Musk: “SpaceX and Tesla have prospered in Texas, because we were not constantly operating under an oppressive and extractive state government”",
+          "source": "his own post on X",
+          "url": "https://x.com/elonmusk/status/2119134648693322158",
+          "role": null
+        },
+        {
+          "date": "2026-11-07",
+          "label": "WSJ: Texas Democrats say the “white-glove treatment” for Musk’s companies “is about to change”",
+          "source": "The Wall Street Journal on X",
+          "url": "https://x.com/WSJPolitics/status/2118902012565672235",
+          "role": null
+        },
+        {
+          "date": "2026-11-05",
+          "label": "Hinojosa to CNN’s Jake Tapper: selling the beach to Musk is “almost unimaginable,” the relationship “has to be on our terms”",
+          "source": "Mediaite",
+          "url": "https://www.mediaite.com/media/tv/jake-tapper-asks-texas-gov-elect-about-elon-musk-and-ais-future-in-her-state-amid-stock-market-rout/",
+          "role": null
+        },
+        {
+          "date": "2026-11-09",
+          "label": "Hinojosa asked Texas Parks & Wildlife to take “no action”; item pulled; about 1,300 acres next to Starbase; Tesla Austin plant employs 20,000+ (REPORTED)",
+          "source": "New York Post",
+          "url": "https://nypost.com/2026/11/09/real-estate/elon-musk-warns-of-oppressive-government/",
+          "role": null
+        },
+        {
+          "date": "2026-11-08",
+          "label": "About 60 people, two chartered party buses, Cybertruck piñatas outside Musk’s West Lake Hills home; organizers’ combined 2024 revenue $56.1 million",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/politics/far-left-groups-56-1m-revenues-target-musks-austin-home-mass-produced-signs-vilifying-him",
+          "role": null
+        },
+        {
+          "date": "2026-11-08",
+          "label": "Garcia on CNN: “a lot of interest … to speak to Mr. Musk”; probes to focus on DOGE firings",
+          "source": "Reuters",
+          "url": "https://www.streetinsider.com/Reuters/Democrats+plan+probes+of+Musk%2C+Miller%2C+corporate+America+after+midterm+rout/27309483.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-08",
+          "label": "Trump family members and business allies “such as Elon Musk” likely to face scrutiny, Garcia says",
+          "source": "The Washington Post",
+          "url": "https://www.washingtonpost.com/politics/2026/11/08/democrats-weigh-probes-trump-family-doge-elon-musk-key-lawmaker-says/",
+          "role": null
+        }
+      ],
+      "image": {
+        "alt": "Elon Musk and the Boca Chica coastline next to SpaceX’s Starbase in South Texas"
+      },
+      "share": {
+        "line": "He brought Tesla and SpaceX to Texas. One week after the election: a land deal frozen, Congress lining up questions, party buses at his house.",
+        "caption": "WEEK ONE: THEY CAME FOR MUSK"
+      }
+    },
+    {
+      "slug": "wu-persecution-prosecution",
+      "date": "2026-11-10",
+      "section": "thenvsnow",
+      "kicker": "TEXAS · THEN vs. NOW",
+      "headline": "2025: He Said Dictators “Use the Legal Process” to “Hunt Down Their Enemies.”",
+      "headline_now": "2026, on Musk: “The Word Is Called Prosecution.”",
+      "deck": "Texas House Democratic leader Gene Wu wants Elon Musk investigated. In the 70-second clip, he never names a crime.",
+      "byline": "By FNN Desk",
+      "body": "Aug. 5, 2025: Gov. Greg Abbott sues to remove state Rep. Gene Wu after Wu leads Texas House Democrats out of state to break quorum. Wu says Abbott wants “to silence my dissent.” On MSNBC, he warns that dictators “use the legal process, use law enforcement to go hunt down their enemies.”\n\nNov. 8, 2026: Democrats have won the governor’s mansion. Asked about Musk, Wu corrects Ted Cruz: “The word is called prosecution.” Musk breaks “every single sacred rule,” he says.\n\nWhich rule? In the 70-second clip, he never names one.",
+      "pull_quote": "Cruz said “persecution.” Wu: “I think he’s got the wrong word. The word is called prosecution.”",
+      "then": {
+        "text": "We have sacrificed lives to free people from dictators like this who do these kind of things, who use the legal process, use law enforcement to go hunt down their enemies",
+        "date": "2025-08-05",
+        "source": "https://www.nbcnews.com/politics/politics-news/greg-abbott-lawsuit-house-democratic-caucus-chair-gene-wu-redistrictin-rcna223286",
+        "source_name": "NBC News, quoting his MSNBC interview",
+        "who": "Texas Rep. Gene Wu (D), House Democratic Caucus chair"
+      },
+      "now": {
+        "text": "He said the word persecution. I think he's got the wrong word. The word is called prosecution.",
+        "date": "2026-11-08",
+        "source": "https://x.com/WesternLensman/status/2119442739192291384",
+        "source_name": "MSNOW’s The Weekend, clip on X (FNN transcription)",
+        "who": "Texas Rep. Gene Wu (D), on Elon Musk"
+      },
+      "record": [
+        {
+          "date": "2025-08-05",
+          "label": "Abbott sues to remove Wu; Wu: “seeks to silence my dissent”; on MSNBC: dictators “use the legal process … to go hunt down their enemies”",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/politics/politics-news/greg-abbott-lawsuit-house-democratic-caucus-chair-gene-wu-redistrictin-rcna223286",
+          "role": "then"
+        },
+        {
+          "date": "2026-11-08",
+          "label": "Wu on Musk: “The word is called prosecution”; “Every single sacred rule we have, he has found some way to break it or bend it”",
+          "source": "MSNOW clip on X",
+          "url": "https://x.com/WesternLensman/status/2119442739192291384",
+          "role": "now"
+        },
+        {
+          "date": "2026-11-09",
+          "label": "Wu interview was on MSNOW’s The Weekend with Eugene Daniels; no specific crime named",
+          "source": "The Post Millennial",
+          "url": "https://thepostmillennial.com/news/texas-lawmaker-demands-elon-musk-face-prosecution-as-dems-say-his-tech-companies-should-be",
+          "role": null
+        },
+        {
+          "date": "2026-11-05",
+          "label": "Hinojosa beat Abbott; Talarico beat Paxton",
+          "source": "Mediaite",
+          "url": "https://www.mediaite.com/media/tv/jake-tapper-asks-texas-gov-elect-about-elon-musk-and-ais-future-in-her-state-amid-stock-market-rout/",
+          "role": null
+        }
+      ],
+      "image": {
+        "alt": "Texas Rep. Gene Wu on MSNOW, Nov. 8, 2026"
+      },
+      "share": {
+        "line": "2025: Gene Wu said dictators use “the legal process” to hunt down enemies. 2026, on Elon Musk: “The word is called prosecution.” Name the crime.",
+        "caption": "PERSECUTION THEN. “PROSECUTION” NOW."
+      },
+      "video": {
+        "provider": "x",
+        "id": "2119442739192291384",
+        "label": "Watch Wu"
+      }
+    },
+    {
+      "slug": "warren-get-ready",
+      "date": "2026-11-10",
+      "section": "thenvsnow",
+      "kicker": "MASSACHUSETTS · THEN vs. NOW",
+      "headline": "2025: Warren Warned Against Turning Government on “Perceived Enemies.”",
+      "headline_now": "2026: “You Better Get Ready for Some Investigations, Serious Ones.”",
+      "deck": "The incoming Banking chair has no list yet, she says. Who’s on it? “Anyone who’s been cheating.”",
+      "byline": "By FNN Desk",
+      "body": "Oct. 22, 2025: Sen. Elizabeth Warren co-signs a letter warning that using the IRS against Trump’s “perceived enemies” is “an abuse of power.” The senators ask about a reported target list that “includes major Democratic donors.”\n\nNov. 8, 2026, the expected Banking chair on CBS: “you better get ready for some investigations, serious ones.” Who? “Anyone who’s been cheating.”\n\nNov. 9: A Warren aide tells Reuters companies “should preserve their documents.”\n\nFair is fair: Senate oversight is legal. But the House Democrats’ oversight leader already has a name in mind: Musk.",
+      "pull_quote": "Who’s getting investigated? “Anyone who’s been cheating. That’s what investigations are all about.”",
+      "then": {
+        "text": "Any effort to weaponize the IRS against President Trump’s perceived enemies is against the law, an abuse of power, and a threat to the integrity of our democratic institutions.",
+        "date": "2025-10-22",
+        "source": "https://www.finance.senate.gov/ranking-members-news/wyden-schumer-warren-sound-alarm-over-trump-weaponization-of-the-irs-against-the-free-speech-rights-of-trump-opponents",
+        "source_name": "Senate Finance Committee Democrats",
+        "who": "Sens. Wyden, Schumer and Warren, letter to Treasury Secretary Bessent"
+      },
+      "now": {
+        "text": "if you've been making your profits by cheating American families and scamming your investors, you better get ready for some investigations, serious ones.",
+        "date": "2026-11-08",
+        "source": "https://www.cbsnews.com/news/elizabeth-warren-massachusetts-democrat-face-the-nation-transcript-11-08-2026/",
+        "source_name": "CBS News transcript, Face the Nation",
+        "who": "Sen. Elizabeth Warren (D-Mass.), expected Banking Committee chair"
+      },
+      "record": [
+        {
+          "date": "2025-10-22",
+          "label": "Wyden, Schumer, Warren letter: IRS weaponization against “perceived enemies” is “an abuse of power”; asks about a list that “includes major Democratic donors”",
+          "source": "Senate Finance Committee",
+          "url": "https://www.finance.senate.gov/ranking-members-news/wyden-schumer-warren-sound-alarm-over-trump-weaponization-of-the-irs-against-the-free-speech-rights-of-trump-opponents",
+          "role": "then"
+        },
+        {
+          "date": "2026-11-08",
+          "label": "Warren: “you better get ready for some investigations, serious ones”; who? “Anyone who’s been cheating”",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/elizabeth-warren-massachusetts-democrat-face-the-nation-transcript-11-08-2026/",
+          "role": "now"
+        },
+        {
+          "date": "2025-10-22",
+          "label": "The full letter to Bessent and IRS-CI",
+          "source": "Sen. Warren’s office (PDF)",
+          "url": "https://www.warren.senate.gov/wp-content/uploads/media/doc/warren_wyden_schumer_dems_letter_to_bessent_irs_on_weaponization_of_the_irs.pdf",
+          "role": null
+        },
+        {
+          "date": "2026-11-09",
+          "label": "Warren aide: companies “should preserve their documents and prepare to answer tough questions”",
+          "source": "Reuters",
+          "url": "https://www.streetinsider.com/Reuters/Wall+St+executives+should+prepare+for+oversight+under+Senator+Elizabeth+Warren%2C+aide+says/27314275.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-08",
+          "label": "Rep. Robert Garcia, top Oversight Democrat: committees want “to speak to Mr. Musk”",
+          "source": "Reuters",
+          "url": "https://www.streetinsider.com/Reuters/Democrats+plan+probes+of+Musk%2C+Miller%2C+corporate+America+after+midterm+rout/27309483.html",
+          "role": null
+        }
+      ],
+      "image": {
+        "alt": "Sen. Elizabeth Warren on CBS’s Face the Nation, Nov. 8, 2026"
+      },
+      "share": {
+        "line": "2025: Warren called turning the IRS on Trump’s “perceived enemies” an abuse of power. 2026: “You better get ready for some investigations, serious ones.”",
+        "caption": "“GET READY FOR SOME INVESTIGATIONS”"
+      }
+    },
+    {
+      "slug": "healey-pipeline-reversal",
+      "date": "2026-11-10",
+      "section": "thenvsnow",
+      "kicker": "MASSACHUSETTS · THEN vs. NOW",
+      "headline": "2015: “We Do Not Need Increased Gas Capacity.”",
+      "headline_now": "2026: Healey Asks Trump’s Energy Secretary to Hurry Up a Pipeline.",
+      "deck": "As attorney general she fought pipelines. As governor, with sky-high bills, she wants the permits “without delay.” Her climate chief left Monday.",
+      "byline": "By FNN Desk",
+      "body": "Nov. 18, 2015: Attorney General Maura Healey releases a study and says “we do not need increased gas capacity” and ratepayers “shouldn’t foot the bill for additional pipelines.”\n\nOct. 1, 2026: Gov. Healey writes Trump’s Energy Secretary, Chris Wright, asking that permits for the Algonquin pipeline expansion “move without delay.”\n\nNov. 9: Her climate chief leaves. No successor named.\n\nFair is fair: the 2015 study was about power plants, and this project mostly widens existing pipe. The Globe’s version: she “tried to slow down” pipelines. “Now, as governor, she wants to speed them up.”",
+      "pull_quote": "Welcome to the all-of-the-above club, Governor. Your 2015 self would like a word.",
+      "then": {
+        "text": "This study demonstrates that we do not need increased gas capacity to meet electric reliability needs, and that electric ratepayers shouldn’t foot the bill for additional pipelines.",
+        "date": "2015-11-18",
+        "source": "https://www.mass.gov/news/ag-study-increased-gas-capacity-not-needed-to-meet-states-electric-reliability-needs",
+        "source_name": "Mass. Attorney General’s Office press release",
+        "who": "Attorney General Maura Healey"
+      },
+      "now": {
+        "text": "I ask that you work across the Administration to ensure that the federal reviews and permits needed for RARE move without delay",
+        "date": "2026-10-01",
+        "source": "https://www.statehousenews.com/news/environment/energy/healey-wants-feds-to-speed-up-review-of-gas-pipeline-expansion/article_0c8b7ec7-1069-4937-938c-77d5795652a1.html",
+        "source_name": "State House News Service, quoting her letter",
+        "who": "Gov. Maura Healey (D-Mass.), to U.S. Energy Secretary Chris Wright"
+      },
+      "record": [
+        {
+          "date": "2015-11-18",
+          "label": "AG Healey: “we do not need increased gas capacity”; study sent to FERC in the Kinder Morgan Northeast Energy Direct review",
+          "source": "Mass.gov",
+          "url": "https://www.mass.gov/news/ag-study-increased-gas-capacity-not-needed-to-meet-states-electric-reliability-needs",
+          "role": "then"
+        },
+        {
+          "date": "2026-10-01",
+          "label": "Healey to Wright: federal reviews and permits for RARE should “move without delay”",
+          "source": "State House News Service",
+          "url": "https://www.statehousenews.com/news/environment/energy/healey-wants-feds-to-speed-up-review-of-gas-pipeline-expansion/article_0c8b7ec7-1069-4937-938c-77d5795652a1.html",
+          "role": "now"
+        },
+        {
+          "date": "2026-10-02",
+          "label": "“As state attorney general, Maura Healey tried to slow down natural gas pipeline projects. Now, as governor, she wants to speed them up.”",
+          "source": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/10/02/business/healey-supports-gas-pipeline-enbridge-algonquin/",
+          "role": null
+        },
+        {
+          "date": "2026-10-01",
+          "label": "RARE would replace about eight miles of existing pipe with wider pipe in Mass. and R.I.",
+          "source": "WBUR",
+          "url": "https://www.wbur.org/news/2026/10/01/governor-healey-project-rare-natural-gas-pipeline-expansion-fossil-fuels-climate",
+          "role": null
+        },
+        {
+          "date": "2026-11-09",
+          "label": "Climate chief Melissa Hoffer’s last day; no successor publicly announced",
+          "source": "State House News Service",
+          "url": "https://www.statehousenews.com/news/environment/climate-chief-departs-warning-against-pitting-green-against-affordable/article_b0be1e64-07c0-4be8-a615-af8790bcf2fb.html",
+          "role": null
+        },
+        {
+          "date": "2015-11-18",
+          "label": "“Mass. AG sees no need for new natural gas pipelines”",
+          "source": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/business/2015/11/18/healey-study-natural-gas-pipelines-sees-pros-and-cons/gPaGdvJyH8PWGnkUddgSfN/story.html",
+          "role": null
+        }
+      ],
+      "image": {
+        "alt": "Natural gas meters outside a Massachusetts home"
+      },
+      "share": {
+        "line": "2015, AG Healey: “we do not need increased gas capacity.” 2026, Gov. Healey to Trump’s Energy Secretary: move the pipeline permits “without delay.”",
+        "caption": "NO PIPELINES THEN. HURRY UP NOW."
+      }
+    },
+    {
+      "slug": "galloway-regent-traitor",
+      "date": "2026-11-10",
+      "section": "fake",
+      "kicker": "MEDIA WATCH · UNMASKED",
+      "headline": "Newsom’s New UC Regent Called Musk a “Traitor,” Invoked the Rosenbergs, Then Bragged About Soiling His Tesla",
+      "deck": "Scott Galloway helps govern the University of California. Here is what he said about Elon Musk in one week, in his own words.",
+      "byline": "By FNN Desk",
+      "body": "Gov. Gavin Newsom put podcaster Scott Galloway on the University of California Board of Regents in August.\n\nNov. 3, on his podcast: “we took the Rosenbergs and put them up against a wall and executed them for being traitors.” Then: “I think Elon Musk is a traitor to the West.” For the record, the Rosenbergs died in the electric chair.\n\nNov. 8, onstage in Los Angeles: he sold his Tesla, “Not before taking a giant dump in the passenger seat.”\n\nFair is fair: a UC professor says Galloway told him he opposes capital punishment. Lesson for the Regent: words matter.",
+      "pull_quote": "“I realize this is an incendiary statement, but I’ll make it, and I believe it.”",
+      "record": [
+        {
+          "date": "2026-08-28",
+          "label": "Appointed by Gov. Newsom; term expires March 1, 2037",
+          "source": "UC Board of Regents",
+          "url": "https://regents.universityofcalifornia.edu/about/members-and-advisors/bios/scott-galloway.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-03",
+          "label": "Prof G Pod: “we took the Rosenbergs and put them up against a wall … I think Elon Musk is a traitor to the West”",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/media/nyu-professor-podcaster-calls-elon-musk-traitor-compares-him-soviet-spies-excuted-during-cold-war",
+          "role": null
+        },
+        {
+          "date": "2026-11-08",
+          "label": "Live Pivot taping, Orpheum Theatre: “Not before taking a giant dump in the passenger seat”",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/media/nyu-professor-podcaster-says-he-took-giant-dump-his-tesla-before-selling-due-anger-elon-musk",
+          "role": null
+        },
+        {
+          "date": "2026-11-08",
+          "label": "UC professor Brian Keating: Galloway told him he “explicitly opposes capital punishment” and that if Musk was enforcing a commercial agreement, the treason charge “would be unwarranted” (REPORTED)",
+          "source": "Brian Keating on X",
+          "url": "https://x.com/Briankeating/status/2119581937165824505",
+          "role": null
+        },
+        {
+          "date": "1953-06-19",
+          "label": "Julius and Ethel Rosenberg executed in the electric chair at Sing Sing",
+          "source": "FBI",
+          "url": "https://www.fbi.gov/history/cases-and-criminals/atom-spy-caserosenbergs",
+          "role": null
+        },
+        {
+          "date": "2026-10-24",
+          "label": "Musk: Starlink for offensive drone strikes “has never been allowed”; Ukraine violated terms of service",
+          "source": "his own post on X",
+          "url": "https://x.com/elonmusk/status/2114063986744275011",
+          "role": null
+        }
+      ],
+      "image": {
+        "alt": "Scott Galloway speaking onstage"
+      },
+      "share": {
+        "line": "Newsom’s new UC Regent called Elon Musk “a traitor to the West,” invoked the executed Rosenbergs, then bragged about what he left in his Tesla.",
+        "caption": "MEET THE REGENT"
+      }
+    },
+    {
+      "slug": "washington-i-638-girls-sports",
+      "date": "2026-11-10",
+      "section": "sports",
+      "kicker": "LATEST · GIRLS’ SPORTS",
+      "headline": "Deep-Blue Washington Kept Its Millionaires Tax. It Also Voted 56% to Keep Girls’ Sports for Girls.",
+      "deck": "Same ballot, same voters. Initiative 638 passed with more than 1.6 million yes votes.",
+      "byline": "By FNN Desk",
+      "body": "Washington voters just kept the state’s tax on income over $1 million, 58% to 42%. Same ballot, same voters: Initiative 638 passed with 56%, more than 1.6 million yes votes in the latest count.\n\nIt bars students it defines as biological males from girls’ K-12 teams and requires sex verification to play.\n\nThe sponsors, Let’s Go Washington, told girl athletes: “Voters have your backs.”\n\nThe ACLU of Washington called it “a devastating blow” and says it will “explore all potential next steps.”\n\nThis isn’t a red-state story. It’s a common-sense story.",
+      "pull_quote": "“To every female athlete who wondered whether her voice mattered: tonight, Washington heard you.”",
+      "record": [
+        {
+          "date": "2026-11-07",
+          "date_label": "count as of Nov. 7",
+          "label": "I-638: Yes 1,648,970 (56.01%), No 1,295,353; I-645 millionaires-tax repeal: No 58.01%",
+          "source": "The Spokesman-Review",
+          "url": "https://www.spokesman.com/elections/2026/washington-general-election-nov-3/measures/",
+          "role": null
+        },
+        {
+          "date": "2026-11-05",
+          "label": "AP calls I-638; statements from Let’s Go Washington and the ACLU of Washington",
+          "source": "KIRO 7",
+          "url": "https://www.kiro7.com/news/local/washington-voters-approve-initiative-638-ban-transgender-girls-girls-sports/ZGZTACDVAJDGPKYZCHWYR2NPJI/",
+          "role": null
+        },
+        {
+          "date": "2026-11-05",
+          "label": "I-638 passes; requires health-provider documentation of biological sex for girls’ school sports",
+          "source": "FOX 13 Seattle",
+          "url": "https://www.fox13seattle.com/news/wa-initiative-results",
+          "role": null
+        }
+      ],
+      "image": {
+        "alt": "High school girls running a cross-country race"
+      },
+      "share": {
+        "line": "Washington kept its millionaires tax, 58–42. The same voters passed Initiative 638 to keep girls’ sports for girls, 56–44. Common sense isn’t red or blue.",
+        "caption": "BLUE STATE. GIRLS’ SPORTS. 56%."
+      }
+    },
     {
       "slug": "elon-musk-builds-they-smear",
       "date": "2026-11-09",
