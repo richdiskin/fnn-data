@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-10-am",
+  "edition": "2026-11-10-pm",
   "date": "2026-11-10",
-  "updated_at": "2026-11-10T04:41:36-05:00",
+  "updated_at": "2026-11-10T11:57:00-05:00",
   "lead": "texas-week-one-musk",
   "stories": [
     {
@@ -66,7 +66,9 @@
         }
       ],
       "image": {
-        "alt": "Elon Musk and the Boca Chica coastline next to SpaceX’s Starbase in South Texas"
+        "src": "https://richdiskin.github.io/fnn-data/heroes/texas-week-one-musk.jpg",
+        "alt": "Elon Musk and the Boca Chica coastline next to SpaceX’s Starbase in South Texas",
+        "credit": "FNN"
       },
       "share": {
         "line": "He brought Tesla and SpaceX to Texas. One week after the election: a land deal frozen, Congress lining up questions, party buses at his house.",
@@ -129,7 +131,9 @@
         }
       ],
       "image": {
-        "alt": "Texas Rep. Gene Wu on MSNOW, Nov. 8, 2026"
+        "src": "https://richdiskin.github.io/fnn-data/heroes/wu-persecution-prosecution.jpg",
+        "alt": "Texas Rep. Gene Wu on MSNOW, Nov. 8, 2026",
+        "credit": "FNN"
       },
       "share": {
         "line": "2025: Gene Wu said dictators use “the legal process” to hunt down enemies. 2026, on Elon Musk: “The word is called prosecution.” Name the crime.",
@@ -204,7 +208,9 @@
         }
       ],
       "image": {
-        "alt": "Sen. Elizabeth Warren on CBS’s Face the Nation, Nov. 8, 2026"
+        "src": "https://richdiskin.github.io/fnn-data/heroes/warren-get-ready.jpg",
+        "alt": "Sen. Elizabeth Warren on CBS’s Face the Nation, Nov. 8, 2026",
+        "credit": "FNN"
       },
       "share": {
         "line": "2025: Warren called turning the IRS on Trump’s “perceived enemies” an abuse of power. 2026: “You better get ready for some investigations, serious ones.”",
@@ -281,7 +287,9 @@
         }
       ],
       "image": {
-        "alt": "Natural gas meters outside a Massachusetts home"
+        "src": "https://richdiskin.github.io/fnn-data/heroes/healey-pipeline-reversal.jpg",
+        "alt": "Natural gas meters outside a Massachusetts home",
+        "credit": "FNN"
       },
       "share": {
         "line": "2015, AG Healey: “we do not need increased gas capacity.” 2026, Gov. Healey to Trump’s Energy Secretary: move the pipeline permits “without delay.”",
@@ -343,7 +351,9 @@
         }
       ],
       "image": {
-        "alt": "Scott Galloway speaking onstage"
+        "src": "https://richdiskin.github.io/fnn-data/heroes/galloway-regent-traitor.jpg",
+        "alt": "Scott Galloway speaking onstage",
+        "credit": "FNN"
       },
       "share": {
         "line": "Newsom’s new UC Regent called Elon Musk “a traitor to the West,” invoked the executed Rosenbergs, then bragged about what he left in his Tesla.",
@@ -385,11 +395,177 @@
         }
       ],
       "image": {
-        "alt": "High school girls running a cross-country race"
+        "src": "https://richdiskin.github.io/fnn-data/heroes/washington-i-638-girls-sports.jpg",
+        "alt": "High school girls running a cross-country race",
+        "credit": "FNN"
       },
       "share": {
         "line": "Washington kept its millionaires tax, 58–42. The same voters passed Initiative 638 to keep girls’ sports for girls, 56–44. Common sense isn’t red or blue.",
         "caption": "BLUE STATE. GIRLS’ SPORTS. 56%."
+      }
+    },
+    {
+      "slug": "reich-nationalize-starlink",
+      "date": "2026-11-10",
+      "section": "freedom",
+      "kicker": "ELON MUSK",
+      "headline": "A Former Cabinet Secretary Wants the Government to Seize Starlink and SpaceX.",
+      "deck": "Robert Reich said “Nationalize it.” Musk’s reply was four words longer than the threat deserved.",
+      "byline": "By FNN Desk",
+      "body": "Oct. 24, on his podcast The Coffee Klatch, former Labor Secretary Robert Reich told Democrats to “defund Musk” and start “laying the groundwork for nationalizing Starlink and SpaceX.” Then: “Nationalize it. It should be a public corporation. We should not ever have that kind of power in one person’s hands, one private person’s hands.”\n\nOct. 25, Musk answered on X: “Stealing companies is a serious crime. Prison for Reich.”\n\nOct. 27, Reich posted the exchange on Substack and asked readers to trend #DefundMusk. He wants Washington to take the companies. Musk called that what it is: stealing.",
+      "pull_quote": "Stealing companies is a serious crime. Prison for Reich.",
+      "record": [
+        {
+          "date": "2026-10-24",
+          "label": "Reich, on The Coffee Klatch: “defund Musk” and start “laying the groundwork for nationalizing Starlink and SpaceX. Nationalize it. It should be a public corporation.”",
+          "source": "Robert Reich, official episode page",
+          "url": "https://robertreich.substack.com/p/defund-musk-and-impeach-trump-the",
+          "role": null
+        },
+        {
+          "date": "2026-10-27",
+          "label": "Reich restates the line on his own Substack and quotes Musk: “Stealing companies is a serious crime. Prison for Reich.”",
+          "source": "Robert Reich, Substack",
+          "url": "https://robertreich.substack.com/p/musk-wants-me-imprisoned",
+          "role": null
+        },
+        {
+          "date": "2026-10-25",
+          "label": "Musk, replying to Collin Rugg: “Stealing companies is a serious crime. Prison for Reich.”",
+          "source": "his own post on X",
+          "url": "https://x.com/elonmusk/status/2114403623778037868",
+          "role": null
+        },
+        {
+          "date": "2026-10-31",
+          "label": "Quotes the 75% wealth claim and the nationalize line; notes Reich did not provide evidence for the 75% figure",
+          "source": "Fox Business",
+          "url": "https://www.foxbusiness.com/politics/defund-musk-former-clinton-cabinet-official-urges-democrats-target-spacex-founder",
+          "role": null
+        },
+        {
+          "date": "2026-10-26",
+          "label": "Same nationalize quotes: “Nationalize it. It should be a public corporation.”",
+          "source": "Blaze Media",
+          "url": "https://www.theblaze.com/tech/robert-reich-elon-musk-defund",
+          "role": null
+        },
+        {
+          "date": "2026-10-26",
+          "label": "Same nationalize quotes and Musk’s reply",
+          "source": "The Post Millennial",
+          "url": "https://thepostmillennial.com/news/robert-reich-demands-democrats-defund-musk-then-seize-starlink-spacex",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/reich-nationalize-starlink.jpg",
+        "alt": "FNN graphic: Reich told Democrats to nationalize Starlink and SpaceX",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Former Labor Secretary Robert Reich: “Nationalize it.” Musk: “Stealing companies is a serious crime. Prison for Reich.”",
+        "caption": "NATIONALIZE IT."
+      }
+    },
+    {
+      "slug": "clinton-pardon-then-testify",
+      "date": "2026-11-10",
+      "section": "freedom",
+      "kicker": "ELON MUSK",
+      "headline": "Clinton’s Plan for Musk: Let Trump Pardon Him, Then Call Him In.",
+      "deck": "She kept the hedge: “some legal experts argue.” Then she said the quiet part.",
+      "byline": "By FNN Desk",
+      "body": "Nov. 2, at a live Pivot taping, Hillary Clinton took up President Trump’s talk of pardoning Elon Musk. A pardon, she said, “does not remove the obligation to respond to a subpoena in the Congress.” “Some legal experts argue,” she added, that if you’re pardoned, “You cannot take the Fifth Amendment because you have no jeopardy.” Then: “So let him pardon Elon, and then let’s call him in and figure out what he has to say.”\n\nIn July, after a Biden pardon, Anthony Fauci took the Fifth more than 100 times. The hedge was “experts.” The ask was hers.",
+      "pull_quote": "So let him pardon Elon, and then let’s call him in and figure out what he has to say.",
+      "record": [
+        {
+          "date": "2026-11-06",
+          "label": "Clinton: a pardon “does not remove the obligation to respond to a congressional subpoena”; “some legal experts argue” you “cannot take the Fifth Amendment because you have no jeopardy”; “So let him pardon Elon, and then let’s call him in and figure out what he has to say.”",
+          "source": "IBTimes UK",
+          "url": "https://www.ibtimes.co.uk/clinton-trump-pardon-elon-musk-congress-testimony-1830565",
+          "role": null
+        },
+        {
+          "date": "2026-11-03",
+          "label": "Official Pivot episode: “Michigan Midterm Drama, Crypto Heist, and Guest Hillary Clinton,” recorded live at the Beacon Theatre on Nov. 2, published Nov. 3",
+          "source": "Apple Podcasts / Pivot",
+          "url": "https://podcasts.apple.com/us/podcast/michigan-midterm-drama-crypto-heist-and-guest-hillary/id1073226719?i=1000799632898",
+          "role": null
+        },
+        {
+          "date": "2026-11-02",
+          "label": "Trump, on the New York Post’s Pod Force One, said he would consider preemptive pardons for Musk and aides if needed",
+          "source": "USA Today",
+          "url": "https://www.usatoday.com/story/news/politics/elections/2026/11/02/trump-floats-pardons-elon-musk-aides/92561426007/",
+          "role": null
+        },
+        {
+          "date": "2026-07-29",
+          "label": "Fauci, in his first sworn testimony since Biden’s last-day pardon, invoked the Fifth Amendment; PBS: he “took the Fifth more than 100 times”",
+          "source": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/show/fauci-invokes-5th-amendment-right-during-gop-led-hearing-on-covid-origins",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/clinton-pardon-then-testify.jpg",
+        "alt": "FNN graphic: Clinton said let Trump pardon Musk, then call him in to testify",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Clinton on Musk: “So let him pardon Elon, and then let’s call him in and figure out what he has to say.” She kept the hedge: “some legal experts argue.”",
+        "caption": "LET HIM PARDON ELON. THEN CALL HIM IN."
+      }
+    },
+    {
+      "slug": "statesman-musk-party",
+      "date": "2026-11-10",
+      "section": "fake",
+      "kicker": "MEDIA WATCH",
+      "headline": "The Statesman Called It a Party. The Buses Were Chartered. The Signs Were Mass-Produced.",
+      "deck": "About 60 people at Elon Musk’s fence. Two party buses. Groups whose 2024 filings, Fox News found, added up to $56.1 million.",
+      "byline": "By FNN Desk",
+      "body": "Nov. 7, the Austin American-Statesman headlined the scene at Elon Musk’s West Lake Hills home: “Dozens party outside Elon Musk’s West Lake Hills home after campaign donations fell flat.” About 60 people spilled out of two blue Fly-Rides party buses, the paper wrote, for the “People Over Billionaires Election After Party,” organized by VOCAL-TX, Popular Democracy, and People’s Action.\n\nFox News, citing tax filings, put the three groups’ combined 2024 revenue at $56.1 million and found mass-produced “I Am Stealing From You” posters at his fence. Festive, if you don’t follow the money.",
+      "pull_quote": "Dozens party outside Elon Musk’s West Lake Hills home after campaign donations fell flat.",
+      "record": [
+        {
+          "date": "2026-11-07",
+          "label": "Headline: “Dozens party outside Elon Musk's West Lake Hills home after campaign donations fell flat.” About 60 people, two blue Fly-Rides party buses, “People Over Billionaires Election After Party,” VOCAL-TX, Popular Democracy, People’s Action. By Eva Ruth Moravec.",
+          "source": "Austin American-Statesman (Wayback Machine copy of the article)",
+          "url": "https://web.archive.org/web/20261107221602/https://www.statesman.com/news/article/elon-musk-ausin-home-election-party-22516775.php",
+          "role": null
+        },
+        {
+          "date": "2026-11-07",
+          "label": "Publisher page for the same Statesman report (paywalled at fetch)",
+          "source": "Austin American-Statesman",
+          "url": "https://www.statesman.com/news/article/elon-musk-ausin-home-election-party-22516775.php",
+          "role": null
+        },
+        {
+          "date": "2026-11-08",
+          "label": "Organizers’ combined 2024 revenue $56.1 million from tax filings (Center for Popular Democracy $40.9 million, VOCAL-NY $13.1 million, People’s Action Institute $2.1 million); at least two “I Am Stealing From You” posters; quotes the Statesman headline exactly",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/politics/far-left-groups-56-1m-revenues-target-musks-austin-home-mass-produced-signs-vilifying-him",
+          "role": null
+        },
+        {
+          "date": "2026-11-07",
+          "label": "Party buses at Musk’s Austin compound; VOCAL organizer JJ Ramirez: “Texas is not for sale”; event peaceful, Austin police present; ended with a piñata",
+          "source": "CBS Austin",
+          "url": "https://cbsaustin.com/news/local/texas-is-not-for-sale-voters-celebrate-election-results-at-elon-musks-austin-compound",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/statesman-musk-party.jpg",
+        "alt": "FNN graphic: the Statesman called the protest at Musk’s home a party",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "The Statesman called it a party. About 60 people came on two chartered buses. Fox News: the groups’ 2024 filings added up to $56.1 million.",
+        "caption": "THEY CALLED IT A PARTY."
       }
     },
     {
