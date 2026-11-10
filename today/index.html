@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Today’s Paper · November 9, 2026 · FNN Fake News Network</title>
+<meta name="description" content="Today’s FNN stories, November 9, 2026.">
+<link rel="canonical" href="https://richdiskin.github.io/fnn-data/today/">
+<meta property="og:site_name" content="FNN Fake News Network">
+<meta property="og:title" content="Today’s Paper · November 9, 2026 · FNN Fake News Network">
+<meta property="og:image" content="https://richdiskin.github.io/fnn-data/og/default.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:wght@600;700;800&family=Newsreader:ital,opsz,wght@1,6..72,500&family=Inter:wght@500&display=swap" rel="stylesheet">
+<style>html,body{margin:0;padding:0;background:#fff}
+/* ---------- 0. Defensive layer (unchanged in intent from v4) ----------
+   Site-wide Custom CSS styles regular pages as Georgia newspaper text and paints the home page
+   #000 with #fff text. Every rule here starts with #fnn-home (ID) and every <p> has a class-level rule. */
+#fnn-home h1,#fnn-home h2,#fnn-home h3,#fnn-home h4,#fnn-home h5,#fnn-home p,#fnn-home li,#fnn-home span,#fnn-home b,#fnn-home strong,#fnn-home em,#fnn-home small,#fnn-home a{color:inherit!important;font-family:inherit!important;letter-spacing:inherit!important;line-height:inherit!important;text-shadow:none!important}
+#fnn-home h1,#fnn-home h2,#fnn-home h3,#fnn-home h4,#fnn-home h5{font-weight:700!important;text-align:inherit!important;border:0 none!important;text-decoration:none!important;opacity:1!important;text-transform:none!important}
+#fnn-home a{background-image:none!important;text-decoration:none!important;color:inherit!important;border-bottom:0 none!important;box-shadow:none!important}
+#fnn-home *,#fnn-home *:before,#fnn-home *:after{box-sizing:border-box!important;margin:0!important;padding:0!important}
+/* ---------- 1. Tokens + base (record blue, phone-first) ----------
+   The block is its own size container ("fnn"): layout and the nameplate respond to the real
+   Squarespace content well, not the browser window. */
+#fnn-home.fnn{--paper:#fff;--well:#e6eaf0;--well-hover:#dce2ea;--ink:#12141a;--ink-2:#1a1d26;--muted:#3f4553;--muted-on-ink:#c5cad3;--accent:#1d5a7a;--accent-strong:#164a64;--accent-pressed:#123e54;--accent-on-ink:#7eb3d8;--accent-on-ink-hover:#8bbcdd;--chip-buried:#6e2432;--rule:#8a909a;--line:rgba(18,20,26,.16);
+  --cond:"Barlow Condensed","Roboto Condensed","Arial Narrow",sans-serif;--disp:Anton,"Barlow Condensed","Arial Narrow",sans-serif;--tagf:Newsreader,Georgia,serif;--ui:Inter,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  container:fnn/inline-size!important;display:block!important;background:var(--paper)!important;color:var(--ink)!important;font-family:var(--cond)!important;font-weight:600!important;font-size:18px!important;line-height:1.4!important;-webkit-font-smoothing:antialiased!important;text-rendering:optimizeLegibility!important;overflow-x:clip!important}
+#fnn-home .w{max-width:1200px!important;margin:0 auto!important;padding:0 16px!important}
+#fnn-home a{transition:color .15s ease,background-color .15s ease,border-color .15s ease!important}
+@media (max-width:360px){
+  #fnn-home .w{padding:0 14px!important}
+  #fnn-home .ph{margin:0 -14px!important}
+  #fnn-home nav a{font-size:13px!important;letter-spacing:.03em!important}
+  #fnn-home .rc-c{padding:12px 11px 14px!important}
+  #fnn-home .rc-c p.rc-q{font-size:22px!important}
+  #fnn-home .rc-c b.pr{font-size:30px!important}
+  #fnn-home .ci{grid-template-columns:100px minmax(0,1fr)!important;gap:13px!important}
+  #fnn-home .ci h3{font-size:21px!important}
+}
+@container fnn (min-width:681px){
+  #fnn-home .w{padding:0 28px!important}
+  #fnn-home .top .w{justify-content:space-between!important}
+  #fnn-home .top .mot{display:inline!important}
+  #fnn-home .top .k{font-size:12px!important;letter-spacing:.08em!important}
+  #fnn-home .mast{padding:30px 0 22px!important}
+  /* one line, sized from the real content well so it never runs off the right edge */
+  #fnn-home .logo{font-size:clamp(44px,8.6cqi,100px)!important;line-height:.95!important}
+  #fnn-home .mast .rule{margin-top:14px!important}
+  #fnn-home .mast .rule:before,#fnn-home .mast .rule:after{flex-basis:44px!important}
+  #fnn-home .tag{font-size:20px!important}
+  #fnn-home .basis{font-size:13px!important}
+  #fnn-home nav{position:sticky!important;top:0!important;z-index:20!important;background:rgba(255,255,255,.97)!important}
+  #fnn-home nav .w{display:flex!important;justify-content:center!important;gap:4px!important;padding:0 28px!important;min-height:50px!important}
+  #fnn-home nav a{font-size:15px!important;letter-spacing:.08em!important;padding:8px 14px!important;min-height:0!important}
+  #fnn-home nav a:nth-child(-n+3){box-shadow:none!important}
+  #fnn-home nav a.on{box-shadow:inset 0 -3px 0 var(--accent)!important}
+  #fnn-home nav a.tip{margin-left:10px!important;padding:9px 16px!important}
+  #fnn-home .hero{padding:32px 0 40px!important}
+  #fnn-home .ph{margin:0!important}
+  #fnn-home .hero h1{margin-top:22px!important;font-size:clamp(36px,5.6cqi,52px)!important}
+  #fnn-home .hero p.dek{font-size:20px!important}
+  #fnn-home .hero .cta-row{display:flex!important;flex-wrap:wrap!important;margin-top:22px!important}
+  #fnn-home .hero .btn{padding:14px 20px!important}
+  #fnn-home .rc{margin-top:28px!important}
+  #fnn-home .rc-h{padding:12px 20px!important}
+  #fnn-home .rc-c{padding:20px 22px 22px!important}
+  #fnn-home .rc-c p.rc-q{font-size:36px!important}
+  #fnn-home .rc-c .by{font-size:17px!important}
+  #fnn-home .rc-c b.pr{font-size:52px!important;padding-top:20px!important}
+  #fnn-home .bar{height:14px!important;margin-top:12px!important}
+  #fnn-home .rc-f{padding:12px 20px!important}
+  #fnn-home .rc-f .k{font-size:14px!important}
+  #fnn-home .rc-f b{font-size:34px!important}
+  #fnn-home .sec{padding-top:60px!important}
+  #fnn-home .sh h2{font-size:36px!important}
+  #fnn-home .sh small{flex-basis:auto!important;margin-left:auto!important;font-size:17px!important}
+  #fnn-home .ts{grid-template-columns:minmax(0,1fr) minmax(0,1fr)!important;gap:40px!important}
+  #fnn-home .ci{grid-template-columns:150px minmax(0,1fr)!important;gap:18px!important}
+  #fnn-home .ci h3{font-size:25px!important}
+  #fnn-home .mw{grid-template-columns:minmax(0,1fr) minmax(0,1fr)!important;gap:40px!important}
+  #fnn-home .mw .card.big{grid-column:1/-1!important}
+  #fnn-home .mw .card.big h3{font-size:38px!important;max-width:24ch!important}
+  #fnn-home .mw .card.big p.dk{font-size:20px!important;max-width:56ch!important}
+  #fnn-home .hoax{margin-top:60px!important;padding:30px 32px!important;grid-template-columns:minmax(0,1fr) minmax(0,1fr)!important;gap:20px 32px!important;align-items:center!important}
+  #fnn-home .hoax h4{font-size:38px!important}
+  #fnn-home .hoax .btn{grid-column:1/-1!important;justify-self:start!important}
+  #fnn-home .item{grid-template-columns:60px minmax(0,1fr) auto!important;gap:22px!important;align-items:center!important;padding:22px 0!important}
+  #fnn-home .item h3{font-size:28px!important}
+  #fnn-home .sx{display:grid!important}
+  #fnn-home .mog{margin-top:72px!important;padding:44px 0 46px!important}
+  #fnn-home .mog .w{grid-template-columns:minmax(0,1fr) minmax(0,1fr)!important;gap:30px 40px!important}
+  #fnn-home .mog .intro{grid-column:1/-1!important}
+  #fnn-home .mog .btn.s{align-self:flex-start!important}
+  #fnn-home .mog h4{font-size:50px!important}
+  #fnn-home .xs .w{flex-direction:row!important;align-items:center!important;justify-content:space-between!important;flex-wrap:wrap!important;gap:22px!important;padding-top:36px!important;padding-bottom:36px!important}
+  #fnn-home .xs h3{font-size:38px!important}
+  #fnn-home .xs .cta-row{display:flex!important;flex-wrap:wrap!important}
+  #fnn-home footer .w{flex-direction:row!important;justify-content:space-between!important;align-items:flex-end!important;flex-wrap:wrap!important}
+  #fnn-home footer .logo{font-size:38px!important}
+}
+@container fnn (min-width:960px){
+  #fnn-home .w{padding:0 40px!important}
+  #fnn-home nav .w{padding:0 40px!important}
+  #fnn-home .hero{padding:44px 0 52px!important}
+  #fnn-home .hero .w{grid-template-columns:minmax(0,1fr) minmax(0,1fr)!important;grid-template-rows:auto auto 1fr auto!important;grid-template-areas:"ph hd" "ph dk" "ph ct" "rc rc"!important;column-gap:44px!important}
+  #fnn-home .ph{align-self:start!important}
+  #fnn-home .hero h1{margin-top:0!important;font-size:clamp(38px,4.1cqi,50px)!important;line-height:1!important}
+  #fnn-home .hero p.dek{font-size:21px!important;margin-top:16px!important}
+  #fnn-home .hero .cta-row{align-self:end!important}
+  #fnn-home .play{left:30%!important;width:72px!important;height:72px!important}
+  #fnn-home .rc{margin-top:40px!important}
+  #fnn-home .rc-c{padding:24px 30px 26px!important}
+  #fnn-home .rc-c p.rc-q{font-size:46px!important}
+  #fnn-home .rc-c b.pr{font-size:64px!important}
+  #fnn-home .rc-h,#fnn-home .rc-f{padding-left:30px!important;padding-right:30px!important}
+  #fnn-home .sec{padding-top:72px!important}
+  #fnn-home .ts{gap:56px!important}
+  #fnn-home .ci{grid-template-columns:200px minmax(0,1fr)!important;gap:24px!important}
+  #fnn-home .ci h3{font-size:30px!important}
+  #fnn-home .mw{grid-template-columns:minmax(0,1.5fr) minmax(0,1fr) minmax(0,1fr)!important;gap:48px!important}
+  #fnn-home .mw .card.big{grid-column:auto!important}
+  #fnn-home .mw .card.big h3{font-size:40px!important}
+  #fnn-home .mw .card h3{font-size:28px!important}
+  #fnn-home .hoax{margin-top:72px!important;padding:34px 40px!important;grid-template-columns:minmax(0,.8fr) minmax(0,1.4fr) auto!important;gap:40px!important}
+  #fnn-home .hoax .btn{grid-column:auto!important;justify-self:end!important}
+  #fnn-home .lower{grid-template-columns:minmax(0,2fr) minmax(0,1fr)!important;gap:56px!important;align-items:start!important}
+  #fnn-home .tipbox{margin-top:67px!important}
+  #fnn-home .mog .w{grid-template-columns:minmax(0,1.1fr) minmax(0,1fr) minmax(0,1fr)!important;gap:48px!important}
+  #fnn-home .mog .intro{grid-column:auto!important}
+  #fnn-home .mog .btn.s{margin-top:auto!important}
+  #fnn-home .mgi h5{font-size:25px!important}
+  #fnn-home .xs h3{font-size:44px!important}
+}
+/* ---------- 17. Today's Paper (added Nov 9 2026): live feed list under the lead ----------
+   Static backup cards are in the HTML; the one feed script swaps in the same markup when it loads. */
+#fnn-home #fnn-today{display:block!important}
+#fnn-home .fnn-today-head{display:flex!important;flex-wrap:wrap!important;align-items:baseline!important;gap:4px 16px!important;margin:0 0 20px!important}
+#fnn-home .fnn-today-head:before{content:""!important;flex:0 0 100%!important;height:5px!important;max-width:44px!important;background:var(--accent)!important;margin-bottom:10px!important}
+#fnn-home .fnn-today-head h2{font-family:var(--disp)!important;font-weight:400!important;font-size:30px!important;line-height:1!important;letter-spacing:.015em!important;text-transform:uppercase!important;color:var(--ink)!important}
+#fnn-home .fnn-today-head small{flex-basis:100%!important;font-family:var(--cond)!important;font-weight:600!important;font-size:16px!important;color:var(--muted)!important}
+#fnn-home #fnn-today-list{display:grid!important;grid-template-columns:minmax(0,1fr)!important;column-gap:32px!important;border-top:2px solid var(--ink)!important}
+#fnn-home .fnn-card{display:flex!important;flex-direction:column!important;min-width:0!important;padding:18px 0 22px!important;border-top:1px solid var(--line)!important;color:var(--ink)!important}
+#fnn-home .fnn-card.fnn-lead{border-top:0 none!important;padding:20px 0 26px!important}
+#fnn-home .fnn-card p.fnn-kicker{font-family:var(--cond)!important;font-weight:800!important;text-transform:uppercase!important;letter-spacing:.1em!important;font-size:12.5px!important;line-height:1.2!important;color:var(--accent-strong)!important;margin-bottom:6px!important}
+#fnn-home .fnn-card h3{font-family:var(--cond)!important;font-weight:700!important;font-size:23px!important;line-height:1.06!important;color:var(--ink)!important}
+#fnn-home .fnn-card h3 a{color:var(--ink)!important}
+#fnn-home .fnn-card h3 em{font-style:normal!important;font-weight:700!important;color:var(--accent-strong)!important}
+#fnn-home .fnn-card h3 a:hover,#fnn-home .fnn-card h3 a:hover em{color:var(--accent-strong)!important}
+#fnn-home .fnn-card p.fnn-deck{font-family:var(--cond)!important;font-weight:600!important;font-size:17px!important;line-height:1.35!important;color:var(--muted)!important;margin-top:8px!important;max-width:52ch!important}
+#fnn-home .fnn-card a.fnn-go{align-self:flex-start!important;margin-top:auto!important;padding-top:14px!important;font-family:var(--cond)!important;font-weight:800!important;font-size:14px!important;line-height:1.2!important;letter-spacing:.1em!important;text-transform:uppercase!important;color:var(--accent-strong)!important}
+#fnn-home .fnn-card a.fnn-go:hover{color:var(--ink)!important}
+#fnn-home .fnn-card.fnn-lead p.fnn-kicker{font-size:13px!important}
+#fnn-home .fnn-card.fnn-lead h3{font-size:30px!important;line-height:1.02!important}
+#fnn-home .fnn-card.fnn-lead p.fnn-deck{font-size:19px!important;margin-top:10px!important}
+@media (max-width:360px){
+  #fnn-home .fnn-card h3{font-size:21px!important}
+  #fnn-home .fnn-card.fnn-lead h3{font-size:27px!important}
+}
+@container fnn (min-width:681px){
+  #fnn-home .fnn-today-head h2{font-size:36px!important}
+  #fnn-home .fnn-today-head small{flex-basis:auto!important;margin-left:auto!important;font-size:17px!important}
+  #fnn-home #fnn-today-list{grid-template-columns:minmax(0,1fr) minmax(0,1fr)!important;column-gap:40px!important}
+  #fnn-home .fnn-card.fnn-lead{grid-column:1/-1!important;padding:24px 0 30px!important}
+  #fnn-home .fnn-card{padding:20px 0 24px!important}
+  #fnn-home .fnn-card h3{font-size:25px!important}
+  #fnn-home .fnn-card.fnn-lead h3{font-size:38px!important;max-width:26ch!important}
+  #fnn-home .fnn-card.fnn-lead p.fnn-deck{font-size:20px!important;max-width:60ch!important}
+}
+@container fnn (min-width:960px){
+  #fnn-home #fnn-today-list{grid-template-columns:repeat(3,minmax(0,1fr))!important;column-gap:48px!important}
+  #fnn-home .fnn-card.fnn-lead h3{font-size:44px!important;max-width:34ch!important}
+  #fnn-home .fnn-card.fnn-lead p.fnn-deck{font-size:21px!important}
+}
+#fnn-home .tp-top{padding:20px 0 12px!important;text-align:center!important}
+#fnn-home .tp-top a{font-family:var(--disp)!important;font-size:34px!important;letter-spacing:.01em!important;color:var(--ink)!important;text-transform:uppercase!important}
+#fnn-home .tp-top a b{font-weight:400!important;color:var(--accent)!important}
+#fnn-home .tp-body{padding:24px 0 56px!important}
+</style>
+</head><body>
+<div id="fnn-home" class="fnn">
+  <div class="tp-top"><div class="w"><a href="https://www.fnnfakenewsnetwork.com/">FNN <b>Fake News</b> Network</a></div></div>
+  <div class="tp-body"><div class="w">
+<section id="fnn-today">
+  <div class="fnn-today-head"><h2>Today’s Paper</h2><small id="fnn-today-date">Edition updated November 9, 2026</small></div>
+  <div id="fnn-today-list">
+        <article class="fnn-card fnn-lead"><p class="fnn-kicker">FEATURE · ELON MUSK</p><h3><a href="https://www.fnnfakenewsnetwork.com/story/elon-musk-builds-they-smear">He Builds. They Smear. Elon Musk Is Still Winning Where It Counts.</a></h3><p class="fnn-deck">123 launches this year, zero failures. 13.6 million Starlink subscribers. And a cable host calling him a Nazi on live TV.</p><a class="fnn-go" href="https://www.fnnfakenewsnetwork.com/story/elon-musk-builds-they-smear">Read the receipts →</a></article>
+        <article class="fnn-card"><p class="fnn-kicker">MASSACHUSETTS · THEN vs. NOW</p><h3><a href="https://www.fnnfakenewsnetwork.com/story/healey-evaluating-emergency">Wednesday She Was “Evaluating.” <em>Friday It Was an Emergency.</em></a></h3><p class="fnn-deck">Healey’s emergency move blocked a drive to suspend her late-term abortion law. State data: 99 of 49,450 abortions in 2024 came at 24 weeks or later.</p><a class="fnn-go" href="https://www.fnnfakenewsnetwork.com/story/healey-evaluating-emergency">Read the receipts →</a></article>
+        <article class="fnn-card"><p class="fnn-kicker">BEACON HILL · THEN vs. NOW</p><h3><a href="https://www.fnnfakenewsnetwork.com/story/gas-tax-holiday-33-5">They Won on Affordability Tuesday. <em>Thursday: 33–5 Against the Governor’s Gas Tax Holiday.</em></a></h3><p class="fnn-deck">Senate Democrats voted down a GOP rewrite of the budget bill that carried Healey’s own 60-day gas tax pause, in her language, plus her $100 million for schools.</p><a class="fnn-go" href="https://www.fnnfakenewsnetwork.com/story/gas-tax-holiday-33-5">Read the receipts →</a></article>
+        <article class="fnn-card"><p class="fnn-kicker">BEACON HILL · THEN vs. NOW</p><h3><a href="https://www.fnnfakenewsnetwork.com/story/question-1-details">85% Voted to Open Beacon Hill’s Files. <em>Two Days Later: “Details to Be Worked Out.”</em></a></h3><p class="fnn-deck">Question 1 opens the Legislature and governor’s office to the public records law. Leaders’ narrower bill still sits with six negotiators behind closed doors.</p><a class="fnn-go" href="https://www.fnnfakenewsnetwork.com/story/question-1-details">Read the receipts →</a></article>
+        <article class="fnn-card"><p class="fnn-kicker">BEACON HILL · THEN vs. NOW</p><h3><a href="https://www.fnnfakenewsnetwork.com/story/shelter-limits-loosened">48 Hours After Healey’s Reelection, the Senate Loosened the Shelter Limits.</a></h3><p class="fnn-deck">Nine-month stays, up from six. Income cutoff at 120% of poverty, up from 115%. The sponsor says Healey asked for the same. Her September filing doesn’t show it.</p><a class="fnn-go" href="https://www.fnnfakenewsnetwork.com/story/shelter-limits-loosened">Read the receipts →</a></article>
+        <article class="fnn-card"><p class="fnn-kicker">HOAX FILES · THE RECORD</p><h3><a href="https://www.fnnfakenewsnetwork.com/story/springfield-courthouse-cojo">A $2 Billion, 40-Year Courthouse Lease, and a Partner That Was Legally Dissolved When It Won</a></h3><p class="fnn-deck">CoJo, co-owned by Rep. Pressley’s husband, was dissolved from late 2025 until days after the Globe asked. A judge let the deal go on. The suit hasn’t ended.</p><a class="fnn-go" href="https://www.fnnfakenewsnetwork.com/story/springfield-courthouse-cojo">Read the receipts →</a></article>
+        <article class="fnn-card"><p class="fnn-kicker">CORRECTION · DISPUTED</p><h3><a href="https://www.fnnfakenewsnetwork.com/story/miller-cnn-clip">That “New Chief of Staff Miller” Clip About CNN Doesn’t Match His Words.</a></h3><p class="fnn-deck">The post says Miller wants CNN registered as a Democrat PAC. The video under it names CBS, ABC, NBC, the Times, the Post and The Atlantic. Not CNN.</p><a class="fnn-go" href="https://www.fnnfakenewsnetwork.com/story/miller-cnn-clip">Read the receipts →</a></article>
+  </div>
+</section>
+  </div></div>
+</div>
+</body></html>
