@@ -1,9 +1,262 @@
 {
-  "edition": "2026-11-11-am",
+  "edition": "2026-11-11-am2",
   "date": "2026-11-11",
-  "updated_at": "2026-11-11T04:06:00-05:00",
-  "lead": "starbase-24-billion",
+  "updated_at": "2026-11-11T04:43:00-05:00",
+  "lead": "spacex-bastrop-100-gigawatts",
   "stories": [
+    {
+      "slug": "spacex-bastrop-100-gigawatts",
+      "date": "2026-11-11",
+      "section": "freedom",
+      "kicker": "FEATURE · ELON MUSK",
+      "headline": "Texas’s Next Governor Said It “Has to Be on Our Terms.” SpaceX Just Ordered Solar Lines for 100+ Gigawatts. In Texas.",
+      "deck": "A German equipment maker says SpaceX signed for a turnkey solar-cell line in Bastrop. The first one alone tops €60 million. More are planned.",
+      "byline": "By FNN Desk",
+      "body": "Tuesday, Germany’s SINGULUS TECHNOLOGIES announced a supply contract with SpaceX for a turnkey line that makes heterojunction solar cells. The first line alone is worth more than €60 million and arrives in the first half of 2027. More lines are planned, scaling past 100 gigawatts of production equipment as SpaceX speeds up satellite manufacturing in Bastrop, Texas.\n\nThat is the same Texas where Governor-elect Gina Hinojosa told CNN any relationship with Musk “has to be on our terms.”\n\nMusk’s summary of the order: it is “for Starmind to create a sentient sun.”\n\nBuilders build.",
+      "pull_quote": "This is for Starmind to create a sentient sun.",
+      "record": [
+        {
+          "date": "2026-11-10",
+          "label": "SINGULUS signs supply contract with SpaceX for a turnkey heterojunction solar-cell line; first line over €60 million, delivery in the first half of 2027; scaling to support more than 100 GW of production equipment as SpaceX accelerates satellite manufacturing in Bastrop, Texas; SpaceX funded SINGULUS in March and October 2026",
+          "source": "SINGULUS TECHNOLOGIES (company announcement)",
+          "url": "https://www.singulus.com/2026/11/10/singulus-spacex-supply-contract/",
+          "role": null
+        },
+        {
+          "date": "2026-11-10",
+          "label": "SpaceX: “a major supply contract with SINGULUS … to support more than 100 GW of equipment as we accelerate the production of our Starmind satellites in Bastrop, Texas”",
+          "source": "SpaceX on X",
+          "url": "https://x.com/SpaceX/status/2120231065394590007",
+          "role": null
+        },
+        {
+          "date": "2026-11-10",
+          "label": "Musk: SpaceX “has ordered 100 GW/year of HJT solar manufacturing equipment from Singulus in Germany. This is for Starmind to create a sentient sun.”",
+          "source": "his own post on X",
+          "url": "https://x.com/elonmusk/status/2120302471210033426",
+          "role": null
+        },
+        {
+          "date": "2026-11-10",
+          "label": "Regional report on the SINGULUS agreement and Bastrop solar-cell production",
+          "source": "Texas Border Business",
+          "url": "https://texasborderbusiness.com/spacex-signs-agreement-with-singulus-to-expand-solar-cell-production-in-texas/",
+          "role": null
+        },
+        {
+          "date": "2026-11-05",
+          "label": "Hinojosa to CNN’s Jake Tapper on Musk: the relationship “has to be on our terms”",
+          "source": "Mediaite",
+          "url": "https://www.mediaite.com/media/tv/jake-tapper-asks-texas-gov-elect-about-elon-musk-and-ais-future-in-her-state-amid-stock-market-rout/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/spacex-bastrop-100-gigawatts.jpg",
+        "alt": "FNN graphic: SpaceX orders solar-cell lines for Bastrop, Texas",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "A week after Texas’s governor-elect said Musk’s deals must be “on our terms,” SpaceX signed for solar-cell lines in Bastrop, Texas, scaling past 100 gigawatts.",
+        "caption": "100 GIGAWATTS. IN TEXAS."
+      }
+    },
+    {
+      "slug": "slotkin-deterrence-message",
+      "date": "2026-11-11",
+      "section": "thenvsnow",
+      "kicker": "MICHIGAN · THEN vs. NOW",
+      "headline": "October: She Wanted Young Republicans to Fear “a Ton of Problems.”",
+      "headline_now": "November, After Trump Called for a DOJ Look: “Coordinated Play.”",
+      "deck": "Sen. Elissa Slotkin wanted a “deterrence message” sent to students thinking about Trump administration jobs. Now the message has a return address.",
+      "byline": "By FNN Desk",
+      "body": "Oct. 13, at the University of Chicago, Sen. Elissa Slotkin said she wanted students weighing Trump administration jobs to think, “Lord, that might be buying myself a ton of problems.” Her words: “I want that deterrence message.”\n\nThis weekend, President Trump ordered the Justice Department to look into those remarks. Slotkin says he “really ramped up his coordinated play,” and her lawyer, Preet Bharara, wrote to DOJ.\n\nHer defense now: “If you’re not violating the law — no problem.”\n\nDOJ’s reply: “public service should not be met with threats of retribution.”\n\nDeterrence reads differently from the other side.",
+      "pull_quote": "I want that deterrence message.",
+      "then": {
+        "text": "I want them to be like, Lord, that might be buying myself a ton of problems that I don't want, and so let me avoid participating in that. I want that deterrence message.",
+        "date": "2026-10-13",
+        "source": "https://www.foxnews.com/politics/slotkin-wants-gop-prosecutions-deter-young-people-trump-administration-jobs",
+        "source_name": "Fox News, quoting her University of Chicago remarks",
+        "who": "Sen. Elissa Slotkin (D-Mich.), University of Chicago"
+      },
+      "now": {
+        "text": "A couple weeks ago, I talked about how anyone who is violating the law or misusing taxpayer dollars should be held accountable... If you're not violating the law — no problem.",
+        "date": "2026-11-09",
+        "source": "https://www.foxnews.com/politics/top-dem-cries-weaponization-comments-warning-young-people-not-join-trump-admin-lands-hot-water",
+        "source_name": "Fox News, quoting her video response",
+        "who": "Sen. Elissa Slotkin (D-Mich.), video posted Monday"
+      },
+      "record": [
+        {
+          "date": "2026-10-13",
+          "label": "Slotkin at a University of Chicago event: “I want to look at these signature cases … on the people who enabled him”; “I want that deterrence message”",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/politics/slotkin-wants-gop-prosecutions-deter-young-people-trump-administration-jobs",
+          "role": "then"
+        },
+        {
+          "date": "2026-11-09",
+          "label": "Slotkin video: Trump “really ramped up his coordinated play”; “If you’re not violating the law — no problem”; Fox reports she accuses Trump of a coordinated “weaponization” campaign; DOJ has not confirmed an investigation",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/politics/top-dem-cries-weaponization-comments-warning-young-people-not-join-trump-admin-lands-hot-water",
+          "role": "now"
+        },
+        {
+          "date": "2026-11-09",
+          "label": "Trump on Truth Social: “By copy of this statement, I am ordering the Department of Justice to look into this criminal act, immediately!”; Bharara letter to Blanche; DOJ: “public service should not be met with threats of retribution”; Slotkin quoted: “I want that deterrence message sent”",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/politics/justice-department/slotkin-lawyer-warns-blanche-not-obey-trumps-frivolous-demand-investig-rcna608311",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/slotkin-deterrence-message.jpg",
+        "alt": "FNN graphic: Slotkin’s deterrence message, then and now",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "October, Sen. Slotkin wanted young Republicans to fear “a ton of problems” for taking Trump jobs. November, after Trump called for a DOJ look: “coordinated play.”",
+        "caption": "THE DETERRENCE MESSAGE"
+      }
+    },
+    {
+      "slug": "wu-seven-units-eight-permitted",
+      "date": "2026-11-11",
+      "section": "thenvsnow",
+      "kicker": "BOSTON · THEN vs. NOW",
+      "headline": "2022: Wu Pulled Seven-Unit Buildings Into Her Affordable-Housing Rules. “Every Tool.”",
+      "headline_now": "Since: Eight Units Permitted. Now She Wants the Trigger Back at 10.",
+      "deck": "Before the change, Boston averaged 144 permitted units a year in seven-to-nine-unit projects, the city’s housing chief says. Since it took effect: eight.",
+      "byline": "By FNN Desk",
+      "body": "Dec. 15, 2022: Mayor Michelle Wu proposed that projects of seven or more units, down from 10, help fund affordable housing, and raised the required affordable share. “We are using every tool that the City has,” she said. It took effect Oct. 1, 2024.\n\nBoston used to average 144 permitted units a year in seven-to-nine-unit projects, her housing chief told GBH. Since the change: eight.\n\nThis week Wu proposed raising the trigger back to 10 for now and cutting a condo fee, blaming headwinds “exacerbated by federal actions.” High interest rates and building costs, GBH notes, are also slowing construction.",
+      "pull_quote": "We are using every tool that the City has to urgently address Boston’s housing crisis",
+      "then": {
+        "text": "We are using every tool that the City has to urgently address Boston's housing crisis",
+        "date": "2022-12-15",
+        "source": "https://www.bostonplans.org/news-calendar/news-updates/2022/12/15/mayor-wu-announces-strategy-for-inclusive-growth-b",
+        "source_name": "City of Boston / BPDA announcement",
+        "who": "Boston Mayor Michelle Wu"
+      },
+      "now": {
+        "text": "In the face of continued economic headwinds exacerbated by federal actions, we are making targeted adjustments to help more projects move forward and create more affordability",
+        "date": "2026-11-10",
+        "source": "https://www.wgbh.org/news/local/2026-11-10/wu-aims-to-ease-affordable-housing-rules-to-spur-more-building-in-boston",
+        "source_name": "GBH News, quoting her statement",
+        "who": "Boston Mayor Michelle Wu",
+        "big": "8"
+      },
+      "record": [
+        {
+          "date": "2022-12-15",
+          "label": "Wu proposes lowering the inclusionary threshold from 10 to seven units and raising the rental affordable share from 13% to 20%: “We are using every tool that the City has to urgently address Boston’s housing crisis”",
+          "source": "Boston Planning & Development Agency",
+          "url": "https://www.bostonplans.org/news-calendar/news-updates/2022/12/15/mayor-wu-announces-strategy-for-inclusive-growth-b",
+          "role": "then"
+        },
+        {
+          "date": "2026-11-10",
+          "label": "Wu proposes raising the minimum project size from seven to 10 units temporarily and cutting the condo payment-in-lieu fee from 75% to 50%; housing chief Sheila Dillon: 144 permitted units a year with seven to nine units in the four years before the change, only eight since",
+          "source": "GBH News",
+          "url": "https://www.wgbh.org/news/local/2026-11-10/wu-aims-to-ease-affordable-housing-rules-to-spur-more-building-in-boston",
+          "role": "now"
+        },
+        {
+          "date": "2024-10-01",
+          "label": "City page: changes in effect October 2024 lowered the trigger from ten to seven units and raised the income-restricted share to 17–20%",
+          "source": "City of Boston",
+          "url": "https://www.boston.gov/departments/housing/inclusionary-zoning",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/wu-seven-units-eight-permitted.jpg",
+        "alt": "FNN graphic: Wu’s seven-unit rule, then and now",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "2022: Mayor Wu pulled seven-unit buildings into her affordable-housing rules. Boston used to permit 144 such units a year. Since: eight. Now she wants the trigger back at 10.",
+        "caption": "144 A YEAR. THEN EIGHT."
+      }
+    },
+    {
+      "slug": "i-638-overturn-planning",
+      "date": "2026-11-11",
+      "section": "freedom",
+      "kicker": "LATEST · GIRLS’ SPORTS",
+      "headline": "56% Voted to Keep Girls’ Sports for Girls. Jayapal: “We’re Going to Start Planning for How We Overturn These.”",
+      "deck": "Washington’s party chair says “the fight over I-638 is just beginning.” In Colorado, the governor-elect talks “adjustments.” Republicans: No Kings.",
+      "byline": "By FNN Desk",
+      "body": "Washington voters passed Initiative 638 with about 56 percent. Starting Dec. 3, it keeps students it defines as biologically male off girls’ K-12 teams.\n\nElection night, Rep. Pramila Jayapal said: “We are going to take our state back. We’re going to start planning for how we overturn these bad initiatives.” The state Democratic chair says “the fight over I-638 is just beginning” and backs a court challenge.\n\nIn Colorado, which passed a similar measure, Gov.-elect Phil Weiser says legislators can ask “what are the adjustments that need to be added.”\n\nVoters spoke. Some politicians are still talking.",
+      "pull_quote": "If the Democrats truly believe there should be ‘No Kings’ in America, it is time they take their own advice.",
+      "record": [
+        {
+          "date": "2026-11-06",
+          "label": "Jayapal: “We are going to take our state back. We’re going to start planning for how we overturn these bad initiatives…”; Chair Shasti Conrad: “The fight over I-638 is just beginning”; takes effect Dec. 3; Legislature cannot repeal within two years, amendment needs 2/3 of each chamber",
+          "source": "KOMO News",
+          "url": "https://komonews.com/news/politics/midterm-elections-politics-washington-state-voter-approved-girls-sports-initiative-likely-to-face-court-battles-transgirls-in-sports-wnba",
+          "role": null
+        },
+        {
+          "date": "2026-11-10",
+          "label": "Weiser: “what are the adjustments that need to be added”; Colorado House Republicans: “If the Democrats truly believe there should be ‘No Kings’ in America, it is time they take their own advice”; I-638 passed with about 56%",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/politics/democrats-accused-no-kings-hypocrisy-push-change-voter-approved-trans-sports-measures",
+          "role": null
+        },
+        {
+          "date": "2026-11-07",
+          "label": "I-638: Yes 1,648,970 (56.01%) in the count as of Nov. 7",
+          "source": "The Spokesman-Review",
+          "url": "https://www.spokesman.com/elections/2026/washington-general-election-nov-3/measures/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/i-638-overturn-planning.jpg",
+        "alt": "FNN graphic: voters passed I-638; politicians plan to overturn it",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Washington voted 56% to keep girls’ sports for girls. Election night, Rep. Jayapal: “We’re going to start planning for how we overturn these bad initiatives.”",
+        "caption": "VOTERS SPOKE. THEY’RE STILL TALKING."
+      }
+    },
+    {
+      "slug": "leonard-living-hell",
+      "date": "2026-11-11",
+      "section": "freedom",
+      "kicker": "LATEST · HOUSE DEMOCRATS",
+      "headline": "A New Democrat Flipped a Trump Seat. He Says Party Elders Promised Him “a Living Hell” Unless He Backs Jeffries.",
+      "deck": "Rep.-elect Don Leonard of Ohio hasn’t been sworn in. He says he already got the welcome speech. He didn’t name who gave it.",
+      "byline": "By FNN Desk",
+      "body": "Don Leonard, an Ohio State city-planning professor, flipped Ohio’s 15th District last week, beating Republican Rep. Mike Carey by more than six points in a seat Trump carried by about 10.\n\nIn an Instagram video, Leonard says senior House Democrats told him that holding back his vote for Hakeem Jeffries as speaker would mean “making my life a living hell for the next two years here in Washington” and losing his next election. He did not name them.\n\nHis conditions include ending Citizens United and U.S. support for the Iran war.\n\nThe party of “democracy” has a whip count.",
+      "pull_quote": "making my life a living hell for the next two years here in Washington",
+      "record": [
+        {
+          "date": "2026-11-10",
+          "label": "Leonard’s Instagram video: senior members told him “in no uncertain terms” that opposing Jeffries would mean “making my life a living hell for the next two years here in Washington, as well as being sure to lose my election in two years”; conditions: Citizens United amendment, ending support for the Iran war and Israel; won by more than 6 points over Rep. Mike Carey in a seat Trump carried by about 10. Newsweek asked Jeffries’ office for comment. (REPORTED: his account; members unnamed)",
+          "source": "Newsweek",
+          "url": "https://www.newsweek.com/incoming-congressman-says-dems-warn-of-living-hell-for-opposing-jeffries-12696150",
+          "role": null
+        },
+        {
+          "date": "2026-11-10",
+          "label": "Same account: “senior members of the Democratic House” threatened to make his life “a living hell” unless he backs Jeffries “regardless” of his demands",
+          "source": "Common Dreams",
+          "url": "https://www.commondreams.org/news/jeffries-living-hell-leonard",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/leonard-living-hell.jpg",
+        "alt": "FNN graphic: a new Democrat says he was promised a living hell",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Ohio Rep.-elect Don Leonard flipped a Trump seat. He says senior House Democrats told him not backing Jeffries would mean “a living hell” in Washington.",
+        "caption": "WELCOME TO CONGRESS"
+      }
+    },
     {
       "slug": "starbase-24-billion",
       "date": "2026-11-10",
@@ -131,6 +384,51 @@
       "share": {
         "line": "HeelMike renamed his Kick stream “winning generational wealth,” hit $6,372 on a $308.76 Stake.us bet, and claimed he’d cashed out $5,500. The overlay at 1:51 still showed $5,630.44.",
         "caption": "THEN THE OVERLAY HIT $6,372."
+      }
+    },
+    {
+      "slug": "hexumlite-ucf-growler",
+      "date": "2026-11-11",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · HEXUMLITE",
+      "headline": "Before the $13 Dining Hall, There Was UCF: About 39 Approaches, a Dog Named Growler, Three Contacts",
+      "deck": "Hexumlite’s Roadtrip Stop #1 in Orlando: two Kick VODs, a wingman with four legs, and a lot of “brutal.”",
+      "byline": "By FNN Desk",
+      "body": "Monday, Nov. 9, Hexumlite opened his college road trip at the University of Central Florida in a pink button-down, walking a German-shepherd-type dog he calls Growler. His opener: “I’m sorry to bother you.” His wingman bit: the dog is “like involuntarily celibate,” and dogs have “a higher SMV than most normies.”\n\nThe desk counted about 21 approaches that afternoon and 18 to 20 more that night. Result: one phone number, two Instagrams, plenty of boyfriends. His review, often: “Brutal.”\n\n“Next stop is gonna be Louisiana,” he said. That night, the car headed to Gainesville.",
+      "pull_quote": "Like he's like involuntarily celibate.",
+      "record": [
+        {
+          "date": "2026-11-09",
+          "date_label": "Monday, 2:22 p.m. ET (1 hour, 22 minutes)",
+          "label": "“Roadtrip Stop#1 Orlando. Cold approaching at UCF,” 2:22–3:45 p.m. ET; desk count about 21 woman-approaches, 1 confirmed number, 1 possible; women unnamed",
+          "source": "Kick VOD, hexumlite",
+          "url": "https://kick.com/hexumlite/videos/dcbeb67c-bff1-4160-a14e-98d525d2e282",
+          "role": null
+        },
+        {
+          "date": "2026-11-09",
+          "label": "Quotes: “I’m sorry to bother you” [00:03:57]; “Like he’s like involuntarily celibate” [00:04:45]; dogs “are like a higher SMV than most normies” [00:09:05]; “Next stop is gonna be Louisiana” [00:39:48–00:39:52]",
+          "source": "Kick VOD, hexumlite (Kick captions and desk transcript)",
+          "url": "https://kick.com/hexumlite/videos/dcbeb67c-bff1-4160-a14e-98d525d2e282",
+          "role": null
+        },
+        {
+          "date": "2026-11-09",
+          "date_label": "Monday, 8:06 p.m. ET (2 hours, 1 minute)",
+          "label": "“Roadtrip Stop#1 Orlando. Cold approaching at UCF Gymcelling,” 8:06–10:07 p.m. ET; campus gym, car bound for Gainesville, grocery store; desk count 18–20 approaches, 2 Instagrams",
+          "source": "Kick VOD, hexumlite",
+          "url": "https://kick.com/hexumlite/videos/16ff2adf-09b5-4461-8362-9b8e85eb45e5",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/hexumlite-ucf-growler.jpg",
+        "alt": "FNN graphic: Hexumlite at UCF with a dog named Growler",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Before Florida, Hexumlite hit UCF: about 39 approaches, a dog he called “involuntarily celibate,” one number, two Instagrams.",
+        "caption": "A DOG NAMED GROWLER"
       }
     },
     {
@@ -1180,6 +1478,202 @@
       "share": {
         "line": "Hexumlite got into a University of Florida dining hall for $13 in a $590 fake Rolex, logged about 34 approaches and one probable number, and flies to Miami Wednesday for a palatal expander.",
         "caption": "$13 AND A $590 FAKE ROLEX."
+      }
+    },
+    {
+      "slug": "kirk-keep-our-faith-get-back-to-work",
+      "date": "2026-11-11",
+      "section": "faith",
+      "kicker": "FAITH, FAMILY AND FREEDOM",
+      "headline": "“Keep Our Faith, and Get Back to Work”: Charlie Kirk’s Counsel for Good Days and Bad Ones",
+      "deck": "In a hard election week, Erika Kirk reached for her late husband’s words. Days later, she stood up for the value of every human life.",
+      "byline": "By FNN Desk",
+      "body": "Nov. 4, the day after a hard election for Turning Point’s candidates, Erika Kirk wrote to the staff, students and volunteers her husband had gathered. “He always said that when things are going well, we need to stay humble. And when things aren’t going the way we want, we need to stay positive, keep our faith, and get back to work.” \n\nAfter Dave Chappelle joked about his assassination at Madison Square Garden, she answered: “You do not have to agree with someone’s politics to recognize the value of their life.”",
+      "pull_quote": "You do not have to agree with someone’s politics to recognize the value of their life.",
+      "record": [
+        {
+          "date": "2026-11-04",
+          "label": "Erika Kirk’s post-election message: “stay positive, keep our faith, and get back to work”; “that’s why he built for both”; warning against “finger-pointing, in-fighting”; “Onward”",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/politics/erika-kirk-channels-charlie-blunt-message-conservatives-after-gop-midterm-losses",
+          "role": null
+        },
+        {
+          "date": "2026-11-09",
+          "label": "Erika Kirk responds after Dave Chappelle joked about Charlie Kirk’s assassination at Madison Square Garden on Saturday: “You do not have to agree with someone’s politics to recognize the value of their life”; Kirk was 31, killed Sept. 10, 2025, at Utah Valley University",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/erika-kirk-blasts-disgusting-jokes-dave-chappelle-mocks-charlie-kirk-a-rcna608371",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/kirk-keep-our-faith-get-back-to-work.jpg",
+        "alt": "FNN graphic: Keep our faith, and get back to work",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Erika Kirk, in a hard week, reached for Charlie’s words: “stay positive, keep our faith, and get back to work.”",
+        "caption": "KEEP OUR FAITH, AND GET BACK TO WORK"
+      }
+    },
+    {
+      "slug": "wilberforce-academy-christian-charter-ruling",
+      "date": "2026-11-11",
+      "section": "faith",
+      "kicker": "Religious Liberty",
+      "headline": "“That Is Discrimination Against Religion”: Federal Judge Opens Tennessee’s Charter Program to a Christian School",
+      "deck": "A federal judge ruled Tennessee’s ban on religious charter schools violates the First Amendment, clearing Wilberforce Academy of Knoxville to apply.",
+      "byline": "By FNN Desk",
+      "body": "Since 2002, Tennessee law required every public charter school to be “nonsectarian” and “nonreligious.” On Friday, Nov. 6, U.S. District Judge Charles Atchley ruled for Wilberforce Academy of Knoxville, a proposed tuition-free Christian charter school. “The First Amendment does not permit Tennessee to open its charter school program to private participants and then exclude them because they seek to exercise their religion,” he wrote, quoting Carson v. Makin. “That is discrimination against religion.”\n\nThe ruling covers Wilberforce and Knox County. The district is reviewing it; any appeal would go to the Sixth Circuit.",
+      "pull_quote": "That is discrimination against religion.",
+      "record": [
+        {
+          "date": "2026-11-09",
+          "label": "Atchley ruling for Wilberforce; state law text “nonsectarian, nonreligious”; quotes from the opinion; Executive Director Zach Wishart: “This victory is bigger than a courtroom ruling”",
+          "source": "WBIR",
+          "url": "https://www.wbir.com/article/news/education/us-district-court-allows-christian-organization-establish-charter-school-knoxville/51-114e3546-8f90-4a26-af98-690dfc1332ff",
+          "role": null
+        },
+        {
+          "date": "2026-11-10",
+          "label": "Ruling issued Friday; tuition-free Christian charter; ruling applies to Wilberforce and Knox County; district reviewing; missed 2027-28 application deadline",
+          "source": "WVLT",
+          "url": "https://www.wvlt.tv/2026/11/10/federal-judge-sides-with-proposed-knoxville-christian-school-seeking-charter-status-knox-county-school-board/",
+          "role": null
+        },
+        {
+          "date": "2026-11-11",
+          "label": "Attorney Josh Hedrick: “when you’re the first, it sets the bar”; an appeal would go to the Sixth Circuit",
+          "source": "WVLT",
+          "url": "https://www.wvlt.tv/2026/11/11/attorney-says-federal-ruling-christian-charter-school-could-extend-other-religions/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/wilberforce-academy-christian-charter-ruling.jpg",
+        "alt": "FNN graphic: That is discrimination against religion",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "A federal judge ruled Tennessee can’t bar a Christian school from its charter program: “That is discrimination against religion.”",
+        "caption": "THAT IS DISCRIMINATION AGAINST RELIGION"
+      }
+    },
+    {
+      "slug": "egypt-convert-said-abdelrazek-trial",
+      "date": "2026-11-11",
+      "section": "faith",
+      "kicker": "The Persecuted Church",
+      "headline": "He Found Jesus in the Sermon on the Mount. Now Egyptian Prosecutors Want the Maximum Penalty.",
+      "deck": "Said Abdelrazek, a convert from Islam, has been jailed since July 2025. His defense gets its turn before a terrorism court on Dec. 8.",
+      "byline": "By FNN Desk",
+      "body": "Said Abdelrazek converted from Islam to Christianity in 2018, USCIRF says; his fiancée told The Jerusalem Post it began with the Sermon on the Mount. Rearrested in July 2025, he is charged with “contempt for Islam” and joining a banned group his lawyer’s office calls fictitious. On Nov. 3, prosecutors asked a terrorism court for the maximum penalty; his lawyer told the Post that means execution or 25 years. His fiancée says he was tortured in detention. USCIRF: “Said Abdelrazek is detained for his religious conversion and activity.” His defense speaks Dec. 8.",
+      "pull_quote": "Said Abdelrazek is detained for his religious conversion and activity.",
+      "record": [
+        {
+          "date": "2026-11-09",
+          "label": "Lawyer Said Fayez confirms prosecutors seek “maximum penalty,” execution or 25 years; Sermon on the Mount conversion account; fiancée Sophia’s account of torture (REPORTED: her account); defense Dec. 8; Coptic Solidarity: “defining test for the future of religious freedom in Egypt”",
+          "source": "The Jerusalem Post",
+          "url": "https://www.jpost.com/middle-east/article-914303",
+          "role": null
+        },
+        {
+          "date": "2026-11-09",
+          "label": "Nov. 3 hearing, maximum penalty sought before a terrorism court, adjourned to Dec. 8; charges are allegations; fair-trial concerns",
+          "source": "Coptic Solidarity",
+          "url": "https://www.copticsolidarity.org/2026/11/09/prosecutors-seek-maximum-penalty-for-convert-as-courtroom-remarks-raise-fair-trial-concerns/",
+          "role": null
+        },
+        {
+          "date": "2026-11-11",
+          "date_label": "database entry, accessed Nov. 11",
+          "label": "USCIRF prisoner database: converted 2018; rearrested July 2025; charged with “contempt for Islam” and joining a banned terrorist organization; “detained for his religious conversion and activity”",
+          "source": "U.S. Commission on International Religious Freedom",
+          "url": "https://www.uscirf.gov/religious-prisoners-conscience/forb-victims-database/said-abdelrazek",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/egypt-convert-said-abdelrazek-trial.jpg",
+        "alt": "FNN graphic: a convert faces the maximum penalty in Egypt",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Egyptian prosecutors want the maximum penalty for Said Abdelrazek, a convert to Christianity. USCIRF: he is detained for his conversion.",
+        "caption": "DETAINED FOR HIS CONVERSION"
+      }
+    },
+    {
+      "slug": "sadie-robertson-huff-its-not-personal",
+      "date": "2026-11-11",
+      "section": "faith",
+      "kicker": "Young Christian Leaders",
+      "headline": "Sadie Robertson Huff, 29, on Grace, Marriage and a Mother’s Letter That Changed Everything",
+      "deck": "The Duck Dynasty daughter says being Christianity’s “poster child” nearly crushed her. Then grace hit “like a freight train.”",
+      "byline": "By FNN Desk",
+      "body": "Sadie Robertson Huff grew up on Duck Dynasty. “I was put in this position to be this poster child for Christianity,” she told RELEVANT, and “the pressure of that felt so crippling.” One night, after putting her children to bed, she went outside expecting to repent. “It was like a freight train of God’s grace hit me,” she said. “I thought He was gonna be mad at me, but He just loved me.”\n\nHer new memoir is It’s Not Personal. She told Us Weekly a loving letter from her mom changed her marriage: “we just got honest about it.”",
+      "pull_quote": "It was like a freight train of God’s grace hit me.",
+      "record": [
+        {
+          "date": "2026-11-11",
+          "label": "Interview: “poster child for Christianity”; “freight train of God’s grace”; “I thought He was gonna be mad at me, but He just loved me”; new book It’s Not Personal",
+          "source": "RELEVANT",
+          "url": "https://relevantmagazine.com/life5/sadie-robertson-huff-was-the-poster-child-for-christianity-she-says-it-nearly-crushed-her/",
+          "role": null
+        },
+        {
+          "date": "2026-11-10",
+          "label": "Sadie, 29, and Christian Huff, 28; Korie Robertson’s letter; “we just got honest about it”; daughters Honey, Haven and Kit",
+          "source": "Us Weekly",
+          "url": "https://www.usmagazine.com/celebrity-news/news/how-sadie-robertson-christians-marriage-shifted-after-struggle/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/sadie-robertson-huff-its-not-personal.jpg",
+        "alt": "FNN graphic: Sadie Robertson Huff on grace",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Sadie Robertson Huff says being Christianity’s “poster child” nearly crushed her. Then: “a freight train of God’s grace.”",
+        "caption": "A FREIGHT TRAIN OF GRACE"
+      }
+    },
+    {
+      "slug": "unite-us-south-alabama-baptisms",
+      "date": "2026-11-11",
+      "section": "faith",
+      "kicker": "Revival Watch",
+      "headline": "Baptized in a Truck Bed: 682 Gospel Responses at South Alabama, and the Churches Now Walking With Them",
+      "deck": "A UniteUS night in Mobile drew about 3,500 people. The ministry’s final count: 682 baptisms and gospel responses, and 19 churches following up.",
+      "byline": "By FNN Desk",
+      "body": "Oct. 27, about 3,500 students and community members filled the Mitchell Center at the University of South Alabama for Unite South Alabama. The next day, UniteUS posted that “over 600 made decisions to follow Him, and 52 were baptized,” many in truck beds. Its final count, Nov. 6: 682 baptisms and gospel responses, figures from the ministry itself.\n\nNineteen area churches and ministries have followed up with 879 students, and a new student Bible study is walking through the Gospel of Mark. “The next generation is hungry for something real,” one attendee wrote.",
+      "pull_quote": "The next generation is hungry for something real.",
+      "record": [
+        {
+          "date": "2026-11-06",
+          "date_label": "published Oct. 30, updated Nov. 6",
+          "label": "Unite South Alabama, Oct. 27, Mitchell Center; about 3,500; early count 596 decisions and 52 baptisms; final 682; 879 followed up; 19 churches; Gospel of Mark study (counts from UniteUS)",
+          "source": "WWJD.COM",
+          "url": "https://wwjd.com/news/unite-south-alabama-596-decisions/",
+          "role": null
+        },
+        {
+          "date": "2026-03-23",
+          "label": "UniteUS background; Southern Baptist baptisms over 250,000 in 2024; Barna’s Kinnaman: “the clearest indication of spiritual renewal in the U.S. in more than a decade”",
+          "source": "RELEVANT",
+          "url": "https://relevantmagazine.com/culture/the-church-is-baptizing-more-adults-than-it-has-in-decades/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/unite-us-south-alabama-baptisms.jpg",
+        "alt": "FNN graphic: 682 gospel responses at South Alabama",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "About 3,500 came to Unite South Alabama. The ministry’s final count: 682 baptisms and gospel responses, with 19 churches following up.",
+        "caption": "682 AT SOUTH ALABAMA"
       }
     },
     {
