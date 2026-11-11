@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-10-pm5",
+  "edition": "2026-11-10-pm6",
   "date": "2026-11-10",
-  "updated_at": "2026-11-10T21:09:03-05:00",
+  "updated_at": "2026-11-10T21:50:41-05:00",
   "lead": "starbase-24-billion",
   "stories": [
     {
@@ -1365,6 +1365,119 @@
       "share": {
         "line": "A Nigerian pastor told TruthNigeria that eight Christian villages were emptied after an EYN church was destroyed. Open Doors reports abductions rose 153 percent in late 2025.",
         "caption": "OUR ONLY OFFENSE IS THAT WE ARE CHRISTIANS"
+      }
+    },
+    {
+      "slug": "christianity-under-attack-clinton-churches",
+      "date": "2026-11-10",
+      "section": "faith",
+      "kicker": "FAITH, FAMILY AND FREEDOM",
+      "headline": "Christianity Under Attack: Hillary Clinton’s Words, and the Violence Aimed at Churches",
+      "deck": "The viral “biggest threat to America” line is not in any record we can find. What she did say, and the violence aimed at churches, is on the record.",
+      "byline": "By FNN Desk",
+      "body": "A viral line has Clinton calling white Christian men “the biggest threat to America.” Those words are unverified. On Morning Joe on Sept. 24, 2025, she said the idea of recreating a world “dominated by … white men of a certain persuasion, a certain religion” was “doing such damage to what we should be aiming for,” the New York Post reported.\n\nToday an Idaho judge sentenced Alexander Scott Mercurio to 18 years for an ISIS church plot. Sept. 28, 2025: four killed at a Grand Blanc, Michigan, LDS church. Aug. 27, 2025: two children killed at a Minneapolis school Mass.",
+      "pull_quote": "dominated by … white men of a certain persuasion, a certain religion … doing such damage to what we should be aiming for.",
+      "record": [
+        {
+          "date": "2025-09-24",
+          "label": "Viral post: “BREAKING: Hillary Clinton says White Christian men are the biggest threat to our society.” Posted the day of the Morning Joe interview. As retrieved Nov. 10, 2026: 581 likes, 144 reposts, 78,575 impressions. The wording is the poster’s claim, not a verified quotation of Clinton.",
+          "source": "X, @GeneralMCNews",
+          "url": "https://x.com/GeneralMCNews/status/1970907759391670655",
+          "role": null
+        },
+        {
+          "date": "2025-09-24",
+          "label": "Clinton on Morning Joe: “white men of a certain persuasion, a certain religion, a certain point of view, a certain ideology” and “doing such damage to what we should be aiming for.” She did not name the religion. Also: “Some people are actually scared about what’s going on in our country,” and the “We the People” / “turn the clock back” lines. Interview dated Wednesday, Sept. 24, 2025. A widely circulated video clip of the segment was also reviewed; its transcript matches the core wording.",
+          "source": "New York Post",
+          "url": "https://nypost.com/2025/09/30/us-news/hillary-clinton-ripped-for-tone-deaf-remarks-about-white-men-of-a-certain-religion/",
+          "role": null
+        },
+        {
+          "date": "2025-09-27",
+          "label": "Same Morning Joe remarks, including that she told Mika Brzezinski the country was “on pause,” plus a posted clip of the interview",
+          "source": "The Daily Signal",
+          "url": "https://www.dailysignal.com/2025/09/27/hillary-clinton-suggests-conservative-christian-white-men-doing-such-damage-america/",
+          "role": null
+        },
+        {
+          "date": "2016-09-09",
+          "label": "Transcript of Clinton’s Sept. 9, 2016, “basket of deplorables” remarks at an LGBT fundraiser in New York City",
+          "source": "Time",
+          "url": "https://time.com/4486502/hillary-clinton-basket-of-deplorables-transcript/",
+          "role": null
+        },
+        {
+          "date": "2018-05-19",
+          "label": "Snopes rates as fabricated a meme claiming Clinton said, “We must guard the future from the idiocy and ignorance of the Trump deplorables. They are the biggest threats to America.” No record of the statement, and she did not speak at UC Berkeley that month",
+          "source": "Snopes",
+          "url": "https://www.snopes.com/fact-check/clinton-trump-deplorables-america/",
+          "role": null
+        },
+        {
+          "date": "2026-01-30",
+          "label": "Atlantic essay “MAGA’s War on Empathy,” published Friday, Jan. 30, 2026. Quotes in this story are as reported by this outlet, not from the paywalled Atlantic text itself: warned of “an extreme vision of Christian nationalism that seeks to replace democracy with theocracy in America.” Also: “His corruption isn’t just a personal matter — it taints everything he touches, including his Christian supporters.”",
+          "source": "Mediaite",
+          "url": "https://www.mediaite.com/media/news/hillary-clinton-warns-of-maga-war-on-empathy-in-sweeping-essay-savagery-is-a-feature-not-a-bug/",
+          "role": null
+        },
+        {
+          "date": "2026-02-03",
+          "label": "Quotes from the same January 2026 Atlantic essay, as reported by this outlet, not from the paywalled Atlantic text itself, including the “Christian influencers” / “war on empathy” passage and the “toxic empathy” rebuke. Stuckey later said Clinton had misidentified the sermon she was criticizing.",
+          "source": "Deseret News",
+          "url": "https://www.deseret.com/faith/2026/02/03/empathy-hillary-clinton-allie-beth-stuckey/",
+          "role": null
+        },
+        {
+          "date": "2026-11-10",
+          "label": "Alexander Scott Mercurio, 21, of Coeur d’Alene, Idaho, sentenced today to 18 years in prison and lifetime supervised release for attempting to provide material support to ISIS in a plot to attack Idaho churches “in the name of ISIS”; arrested April 6, 2024, the day before the planned attack; pledged allegiance before an ISIS flag. Principal Deputy Assistant Attorney General M. Scott Proctor: “Alexander Scott Mercurio planned to attack that fundamental freedom by bringing death and destruction to several churches.”",
+          "source": "U.S. Department of Justice",
+          "url": "https://www.justice.gov/opa/pr/idaho-man-sentenced-18-years-prison-attempting-provide-material-support-isis-plot-attack",
+          "role": null
+        },
+        {
+          "date": "2025-10-31",
+          "label": "Grand Blanc Township, Michigan, Sept. 28, 2025: Thomas Jacob Sanford rammed a vehicle into a Church of Jesus Christ of Latter-day Saints, opened fire, and used an accelerant to start a fire; four killed, nine wounded; Sanford killed by law enforcement. FBI Detroit SAC Jennifer Runyan: the attack was “believed to be motivated by the assailant’s anti-religious beliefs against the Mormon religious community.”",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/news/us-news/michigan-church-shooting-fire-was-motivated-anti-religious-beliefs-rcna241220",
+          "role": null
+        },
+        {
+          "date": "2025-08-29",
+          "label": "Annunciation Catholic Church and School, Minneapolis, Wednesday, Aug. 27, 2025: shooter identified as Robin Westman killed Fletcher Merkel, 8, and Harper Moyski, 10, and injured 18 others during a school Mass; 116 rifle rounds fired; Westman found dead behind the church with an apparent self-inflicted gunshot wound; doors were locked and the shooter never got inside. U.S. Attorney Joe Thompson: writings showed hate for “almost every group manageable.” Chief Brian O’Hara: “violence perpetrated against children worshiping at Mass.” O’Hara also said more lives would have been lost if the doors had not been locked.",
+          "source": "MPR News",
+          "url": "https://www.mprnews.org/story/2025/08/29/annunciation-school-shooter-motive",
+          "role": null
+        },
+        {
+          "date": "2025-08-29",
+          "label": "Confirms the victims’ names and ages, that the shooting occurred during Mass on Wednesday, and that 18 others were injured, including 15 children and three adults",
+          "source": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cpv0egk8d1ro",
+          "role": null
+        },
+        {
+          "date": "2025-08-11",
+          "label": "FRC Hostility Against Churches report: 415 incidents in 2024 (284 vandalism, 55 arson, arson attempts, or fires with unknown causes, 14 bomb threats, 28 gun-related, 47 “other”; 13 incidents fell into more than one category); 1,384 incidents from January 2018 through December 2024. FRC is an advocacy group working from open-source documents, reports, and media outlets. The report says that in most cases motives were unknown.",
+          "source": "Family Research Council",
+          "url": "https://www.frc.org/newsroom/frc-publishes-new-edition-of-hostility-against-churches-report-indicating-over-400-acts-of-hostility",
+          "role": null
+        },
+        {
+          "date": "2026-08-14",
+          "label": "FBI 2025 hate-crime statistics, posted on the Justice Department’s statistics page (updated Sept. 15, 2026): 10,881 incidents and 13,438 victims in 2025; religion was 22.9 percent of single-bias-incident victims in 2025. The Bureau does not publish a single “anti-Christian” total on this page",
+          "source": "U.S. Department of Justice",
+          "url": "https://www.justice.gov/hatecrimes/hate-crime-statistics",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/christianity-under-attack-clinton-churches.jpg",
+        "alt": "FNN graphic: Hillary Clinton’s words, and the violence aimed at churches",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "A viral line has Hillary Clinton calling white Christian men “the biggest threat to America.” That wording is not in any record we can find.",
+        "caption": "THE VIRAL LINE IS UNVERIFIED"
       }
     },
     {
