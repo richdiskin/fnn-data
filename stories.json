@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-10-pm4",
+  "edition": "2026-11-10-pm5",
   "date": "2026-11-10",
-  "updated_at": "2026-11-10T20:38:47-05:00",
+  "updated_at": "2026-11-10T21:09:03-05:00",
   "lead": "starbase-24-billion",
   "stories": [
     {
@@ -1101,6 +1101,270 @@
       "share": {
         "line": "Hexumlite got into a University of Florida dining hall for $13 in a $590 fake Rolex, logged about 34 approaches and one probable number, and flies to Miami Wednesday for a palatal expander.",
         "caption": "$13 AND A $590 FAKE ROLEX."
+      }
+    },
+    {
+      "slug": "kirk-courage-for-his-faith",
+      "date": "2026-11-10",
+      "section": "faith",
+      "kicker": "FAITH, FAMILY AND FREEDOM",
+      "headline": "Courage for His Faith: A First Reflection on the Life and Love of Charlie Kirk",
+      "deck": "He asked to be remembered for courage for his faith. His widow, Erika, and a growing campus movement still carry the work.",
+      "byline": "By FNN Desk",
+      "body": "June 29, 2025: Charlie Kirk said he wanted to be remembered “for courage for my faith.” “The most important thing is my faith.”\n\nHe co-founded Turning Point USA in 2012 and married Erika in 2021. They had two children. On Sept. 10, 2025, he was assassinated at Utah Valley University, at 31.\n\nEleven days later, Erika told his memorial, “I forgive him because it was what Christ did, and it is what Charlie would do.” On Oct. 14, his 32nd birthday, President Trump awarded him the Medal of Freedom. A year later, CNN reported 1,500 college chapters, up 64 percent.",
+      "pull_quote": "I want to be remembered for courage for my faith. That would be the most important thing. The most important thing is my faith.",
+      "record": [
+        {
+          "date": "2025-06-29",
+          "label": "Kirk, on The Iced Coffee Hour, asked how he wanted to be remembered: “I want to be remembered for courage for my faith.” “That would be the most important thing. The most important thing is my faith.”",
+          "source": "National Catholic Register (CNA)",
+          "url": "https://www.ncregister.com/cna/charlie-kirk-before-death-i-want-to-be-remembered-for-courage-for-my-faith",
+          "role": null
+        },
+        {
+          "date": "2025-09-21",
+          "label": "At the State Farm Stadium memorial in Glendale, Arizona, Erika Kirk said, “That man, that young man — I forgive him. I forgive him because it was what Christ did, and it is what Charlie would do.” Also: “The answer to hate is not hate. The answer we know from the gospel is love and always love.”",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2025/sep/21/erika-kirk-charlie-kirk-killing",
+          "role": null
+        },
+        {
+          "date": "2025-10-14",
+          "label": "Trump posthumously awarded Kirk the Presidential Medal of Freedom in the White House Rose Garden on what would have been Kirk’s 32nd birthday; Erika accepted. The president also proclaimed that date a National Day of Remembrance for Charlie Kirk.",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2025/10/14/politics/charlie-kirk-trump-medal-of-freedom",
+          "role": null
+        },
+        {
+          "date": "2025-10-14",
+          "label": "Presidential proclamation: October 14, 2025, National Day of Remembrance for Charlie Kirk",
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/presidential-actions/2025/10/national-day-of-remembrance-for-charlie-kirk/",
+          "role": null
+        },
+        {
+          "date": "2026-09-06",
+          "label": "A year later, about 1,500 college chapters, up 64 percent, and affiliated high school clubs nearly tripled, according to an internal document obtained by CNN. Kirk was 31 when he was killed.",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/09/06/politics/charlie-kirk-turning-point-future-jd-vance",
+          "role": null
+        },
+        {
+          "date": "2025-09-19",
+          "label": "Erika elected CEO and board chair; first date in September 2018 began as a job interview over burgers in New York; engaged December 2020; married May 2021; children born August 2022 and May 2024. TPUSA said it had a presence on 3,500 campuses and had received more than 62,000 student requests after his death.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2025/09/19/nx-s1-5546856/erika-kirk-ceo-turning-point-usa-charlie-kirk-death",
+          "role": null
+        },
+        {
+          "date": "2025-09-11",
+          "label": "Born in Arlington Heights, Illinois, and raised in nearby Prospect Heights; co-founded Turning Point USA in 2012 at 18 with Bill Montgomery",
+          "source": "CBS Chicago",
+          "url": "https://www.cbsnews.com/chicago/news/charlie-kirk-turning-point-usa-chicago-suburbs/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/kirk-courage-for-his-faith.jpg",
+        "alt": "FNN graphic: Courage for His Faith, a first reflection on Charlie Kirk",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Charlie Kirk asked to be remembered for courage for his faith. On what would have been his 32nd birthday, he received the Medal of Freedom.",
+        "caption": "COURAGE FOR HIS FAITH"
+      }
+    },
+    {
+      "slug": "colorado-catholic-preschools-supreme-court",
+      "date": "2026-11-10",
+      "section": "faith",
+      "kicker": "Freedom Docket",
+      "headline": "Catholic Families Ask the Supreme Court to Make Colorado’s ‘Universal’ Preschool Truly Universal",
+      "deck": "One week after argument in St. Mary Catholic Parish v. Roy, Catholic parents wait to learn if a state can keep them out of a public preschool program.",
+      "byline": "By FNN Desk",
+      "body": "On Nov. 3, the Supreme Court heard argument in St. Mary Catholic Parish v. Roy. SCOTUSblog reported that a majority appeared ready to hold that Colorado’s exclusion of Catholic schools from universal preschool violates the First Amendment. The 2023 program offers up to 15 hours of free preschool a week, worth more than $6,000 a year, the families’ lawyers say. Catholic preschools say the required nondiscrimination agreement forces them to abandon their faith. “Universal should mean everyone,” parents Dan and Lisa Sheley said. A decision is expected by the end of the Court’s term in June.",
+      "pull_quote": "Universal should mean everyone.",
+      "record": [
+        {
+          "date": "2026-11-03",
+          "label": "Oral argument analysis: the Court appeared poised to side with Catholic preschools; case facts, agreement language, and in-court quotations from Reaves, Norton, Kavanaugh, Alito, and Kagan",
+          "source": "SCOTUSblog",
+          "url": "https://www.scotusblog.com/2026/11/court-seems-poised-to-side-with-catholic-preschools-in-religious-discrimination-dispute/",
+          "role": null
+        },
+        {
+          "date": "2026-11-03",
+          "label": "Argument recap: a decision is expected by the end of June; Kavanaugh: “Just trying to figure out why we’re here”; Norton: “equal opportunity, not some opportunity”; Sotomayor and Reaves quotations",
+          "source": "Chalkbeat",
+          "url": "https://www.chalkbeat.org/colorado/2026/11/03/st-mary-catholic-parish-v-roy-supreme-court-oral-arguments/",
+          "role": null
+        },
+        {
+          "date": "2026-11-03",
+          "label": "Sheley family: “Universal should mean everyone.” Erika Navarrete Nagle: “Colorado prides itself on inclusion, except when it comes to Catholic families like mine.” Barrett asked, “Why are we here?” Program benefit worth over $6,000 a year; enrollment down 20 percent; two schools closed.",
+          "source": "Becket Fund for Religious Liberty",
+          "url": "https://becketfund.org/media/catholic-parents-preschools-fight-for-equal-treatment-at-supreme-court/",
+          "role": null
+        },
+        {
+          "date": "2026-11-04",
+          "label": "Court calendar note confirming November 3 argument in St. Mary Catholic Parish v. Roy",
+          "source": "SCOTUSblog",
+          "url": "https://www.scotusblog.com/2026/11/court-hears-argument-in-religious-discrimination-dispute/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/colorado-catholic-preschools-supreme-court.jpg",
+        "alt": "FNN graphic: Catholic families ask the Supreme Court to make Colorado’s universal preschool truly universal",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Catholic families asked the Supreme Court to make Colorado’s “universal” preschool truly universal. A decision is expected by the end of the term in June.",
+        "caption": "UNIVERSAL SHOULD MEAN EVERYONE"
+      }
+    },
+    {
+      "slug": "adoptive-families-waiting-overseas",
+      "date": "2026-11-10",
+      "section": "faith",
+      "kicker": "Family",
+      "headline": "Christian Families Brought Their Adopted Children Home After Months of Visa Limbo Overseas",
+      "deck": "Approved adoptive parents spent months abroad waiting on a new visa review. Churches fed them, prayed with them, and flew to Africa to help.",
+      "byline": "By FNN Desk",
+      "body": "Josh and Katie Derrick arrived in Malawi on May 21 to adopt their daughter, Beatrice. After a month, Katie went home. Josh and Beatrice waited months for a “national interest exception” after a December 2025 travel ban that did not exempt adoption visas. Their NIE came Sept. 14; five days later they were home. Two Michigan church families, the Rileys and the Blocks, waited almost 40 days in Sierra Leone and came home in mid-October. Their church sent meals and prayers, and some flew to Africa with food and medicine. “We will not leave you,” Tammy Riley promised the girls.",
+      "pull_quote": "We will not leave you. You are ours to protect and we will stay there with you as long as it takes.",
+      "record": [
+        {
+          "date": "2026-10-28",
+          "label": "Feature on delayed intercountry adoptions: Derrick, Riley, and Block family accounts; NIE delays after the December 2025 travel ban; agency comments; State Department response",
+          "source": "Christianity Today",
+          "url": "https://www.christianitytoday.com/2026/10/us-adoptive-parents-are-stuck-waiting-to-bring-children-home/",
+          "role": null
+        },
+        {
+          "date": "2026-08-25",
+          "label": "NCFA president and CEO Kate Kennedy: “This is not a routine travel inconvenience. These families have completed extensive legal and immigration requirements, and some are already overseas caring for children who are now legally part of their families.”",
+          "source": "National Council For Adoption",
+          "url": "https://adoptioncouncil.org/press-release/ncfa-calls-for-urgent-federal-action-on-disruptions-to-intercountry-adoption-visa-processing/",
+          "role": null
+        },
+        {
+          "date": "2026-08-27",
+          "label": "Local report from Cleveland, Tennessee, on the Derricks while Josh and Beatrice were still waiting in Malawi",
+          "source": "News Channel 9 (WTVC)",
+          "url": "https://newschannel9.com/news/local/cleveland-family-says-visa-halt-has-left-adopted-daughter-father-stuck-in-africa-malawi-beatrice-derrick-international-adoption-uscis-promise-kids-a-future",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/adoptive-families-waiting-overseas.jpg",
+        "alt": "FNN graphic: Christian families brought adopted children home after months of visa limbo",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Christian families already approved to bring adopted children home spent months overseas waiting on visas. Churches fed them, prayed with them, and flew to Africa to help.",
+        "caption": "WE WILL NOT LEAVE YOU"
+      }
+    },
+    {
+      "slug": "suny-broome-christian-clubs-lawsuit",
+      "date": "2026-11-10",
+      "section": "faith",
+      "kicker": "Faith on Campus",
+      "headline": "Two Christian Ministries Sue a New York College for the Right to Choose Christian Leaders",
+      "deck": "SUNY Broome refused official recognition because the clubs ask the students who lead prayer and Bible study to share their faith.",
+      "byline": "By FNN Desk",
+      "body": "Campus Bible Fellowship has been a recognized student club at SUNY Broome Community College in Binghamton, New York, since 1996. In August 2025, the college placed it on inactive status after it would not drop a rule that leaders affirm a personal relationship with Jesus Christ. In September, Alliance Defending Freedom sued on behalf of the club and president Jacob Seachrist. On Aug. 21, the Becket Fund sued the same college for InterVarsity, which welcomes all students but asks its leaders to share the Christian faith. “A public college shouldn’t exclude us for that,” member Jake Sonner said.",
+      "pull_quote": "Everyone is welcome. You don’t have to be a Christian to walk through our door.",
+      "record": [
+        {
+          "date": "2026-09-21",
+          "label": "CBF recognized since 1996; August 2025 derecognition and “inactive” status; June 2026 rejection language from director Nick Kocienewski; Jacob Seachrist elected president in April 2026; September 2026 lawsuit",
+          "source": "Alliance Defending Freedom",
+          "url": "https://adflegal.org/article/campus-bible-fellowship-suny-broome-explainer/",
+          "role": null
+        },
+        {
+          "date": "2026-08-31",
+          "label": "Becket press release announcing the InterVarsity lawsuit, with Jake Sonner and Colten Stanberry quotations and chapter policy. Suit filed August 21, 2026.",
+          "source": "Becket Fund for Religious Liberty",
+          "url": "https://becketfund.org/media/christian-students-ask-court-to-stop-suny-broome-from-dictating-who-can-lead-their-ministry/",
+          "role": null
+        },
+        {
+          "date": "2026-09-09",
+          "label": "Independent report on the CBF lawsuit in the U.S. District Court for the Northern District of New York; Binghamton location; Tyson Langhofer statement; prior InterVarsity cases at Wayne State and the University of Iowa",
+          "source": "The Christian Post",
+          "url": "https://www.christianpost.com/news/ny-college-faces-another-lawsuit-from-christian-club.html",
+          "role": null
+        },
+        {
+          "date": "2026-08-21",
+          "label": "Case page: August 21, 2026 filing; April 2024 chapter origins; roughly a dozen students; comparisons to Dungeons & Dragons, backpacking, and chess clubs",
+          "source": "Becket Fund for Religious Liberty",
+          "url": "https://becketfund.org/case/intervarsity-christian-fellowship-v-suny-broome-community-college/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/suny-broome-christian-clubs-lawsuit.jpg",
+        "alt": "FNN graphic: two Christian ministries sue a New York college for the right to choose Christian leaders",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Two Christian ministries sued SUNY Broome Community College after it refused to recognize clubs that ask student leaders to share the Christian faith.",
+        "caption": "THE RIGHT TO CHOOSE CHRISTIAN LEADERS"
+      }
+    },
+    {
+      "slug": "nigeria-boko-haram-christian-villages",
+      "date": "2026-11-10",
+      "section": "faith",
+      "kicker": "Persecuted Church",
+      "headline": "‘Our Only Offense Is That We Are Christians’: A Pastor Says Eight Villages Were Emptied in Nigeria",
+      "deck": "Rev. Mannaseh Mbafe told TruthNigeria that eight Christian communities were displaced. Open Doors reports abductions and killings rose again in late 2025.",
+      "byline": "By FNN Desk",
+      "body": "On Oct. 8, local clergy in Adamawa State told TruthNigeria that Boko Haram completely destroyed an EYN church, the Church of the Brethren in Nigeria. Rev. Mannaseh Mbafe said — his testimony, not independently tallied here — that “eight Christian communities have already been completely displaced” and called it “a systematic and calculated genocide against indigenous Christians.” Survivor Tabitha Yusuf said, “Our only offense is that we are Christians.” Open Doors found 3,415 people abducted from October to December 2025, up 153 percent, and 1,735 civilians killed that quarter, up 51 percent.",
+      "pull_quote": "Neither women nor children are spared. They kill the men and kidnap the women for sex slavery. Our only offense is that we are Christians.",
+      "record": [
+        {
+          "date": "2026-10-10",
+          "label": "On-the-ground report of the October 8 EYN church destruction, as described by local clergy; interviews with Mbafe, Ibrahim Samuel, David Isaac, and Tabitha Yusuf. REPORTED: Mbafe’s claims that eight entirely Christian communities were displaced and that the violence is “a systematic and calculated genocide” are his testimony and have not been independently verified in this report.",
+          "source": "TruthNigeria",
+          "url": "https://truthnigeria.com/2026/10/exclusive-nigerian-christian-villages-erased-as-boko-haram-levels-churches-and-escalates-mass-abductions/",
+          "role": null
+        },
+        {
+          "date": "2026-10-17",
+          "label": "Secondary account of the same Adamawa attacks, drawing on the TruthNigeria reporting",
+          "source": "Organiser",
+          "url": "https://organiser.org/2026/10/17/390612/world/africa/nigeria-islamic-terror-group-boko-haram-destroys-church-and-drives-christians-from-eight-villages-in-adamawa-state/",
+          "role": null
+        },
+        {
+          "date": "2026-09-09",
+          "label": "Open Doors’ Nigeria at the Crossroads brief: 3,415 abducted in October–December 2025, up 153 percent from 1,352 a year earlier; 1,735 civilian killings, up 51 percent from 1,148; Jane Boswell quotations; CPC designation in October 2025; Nigeria ranks 7th on the 2026 World Watch List",
+          "source": "Christian Today",
+          "url": "https://www.christiantoday.com/news/extremist-abductions-in-nigeria-surge-by-153-as-violence-rises-again-report-finds",
+          "role": null
+        },
+        {
+          "date": "2026-09-03",
+          "label": "Open Doors Netherlands release of the same brief: abduction and killing totals; almost four million displaced; Tinubu emergency and school closures in eleven states; Wimco Ester quotations",
+          "source": "Open Doors Netherlands",
+          "url": "https://www.opendoors.nl/nieuws/nigeria-civil-abductions-rose-2-5-fold-at-the-end-of-last-year/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/nigeria-boko-haram-christian-villages.jpg",
+        "alt": "FNN graphic: a pastor says eight Christian villages were emptied in Nigeria",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "A Nigerian pastor told TruthNigeria that eight Christian villages were emptied after an EYN church was destroyed. Open Doors reports abductions rose 153 percent in late 2025.",
+        "caption": "OUR ONLY OFFENSE IS THAT WE ARE CHRISTIANS"
       }
     },
     {
