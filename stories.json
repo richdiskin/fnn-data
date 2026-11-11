@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-10-pm6",
+  "edition": "2026-11-10-pm7",
   "date": "2026-11-10",
-  "updated_at": "2026-11-10T21:50:41-05:00",
+  "updated_at": "2026-11-10T22:36:46-05:00",
   "lead": "starbase-24-billion",
   "stories": [
     {
@@ -1375,14 +1375,21 @@
       "headline": "Christianity Under Attack: Hillary Clinton’s Words, and the Violence Aimed at Churches",
       "deck": "The viral “biggest threat to America” line is not in any record we can find. What she did say, and the violence aimed at churches, is on the record.",
       "byline": "By FNN Desk",
-      "body": "A viral line has Clinton calling white Christian men “the biggest threat to America.” Those words are unverified. On Morning Joe on Sept. 24, 2025, she said the idea of recreating a world “dominated by … white men of a certain persuasion, a certain religion” was “doing such damage to what we should be aiming for,” the New York Post reported.\n\nToday an Idaho judge sentenced Alexander Scott Mercurio to 18 years for an ISIS church plot. Sept. 28, 2025: four killed at a Grand Blanc, Michigan, LDS church. Aug. 27, 2025: two children killed at a Minneapolis school Mass.",
-      "pull_quote": "dominated by … white men of a certain persuasion, a certain religion … doing such damage to what we should be aiming for.",
+      "body": "A viral line calling white Christian men “the biggest threat to America” is unverified. In the Sept. 24 clip, she said, “recreate a world that never was dominated by, let’s say it, white men of a certain persuasion, a certain religion, a certain point of view, a certain ideology is just doing such damage to what we should be aiming for.”\n\nToday an Idaho judge sentenced Alexander Scott Mercurio to 18 years for an ISIS church plot. Sept. 28, 2025: four killed at a Grand Blanc, Michigan, LDS church. Aug. 27, 2025: two children killed at a Minneapolis school Mass.",
+      "pull_quote": "let’s say it, white men … of a certain persuasion, a certain religion … is just doing such damage to what we should be aiming for.",
       "record": [
         {
           "date": "2025-09-24",
           "label": "Viral post: “BREAKING: Hillary Clinton says White Christian men are the biggest threat to our society.” Posted the day of the Morning Joe interview. As retrieved Nov. 10, 2026: 581 likes, 144 reposts, 78,575 impressions. The wording is the poster’s claim, not a verified quotation of Clinton.",
           "source": "X, @GeneralMCNews",
           "url": "https://x.com/GeneralMCNews/status/1970907759391670655",
+          "role": null
+        },
+        {
+          "date": "2025-09-24",
+          "label": "Clinton on Morning Joe, video clip. True North News Short, uploaded Sept. 25, 2025 (57 seconds). Auto transcript from the YouTube page: she said “the idea that you could turn the clock back and try to recreate a world that never was dominated by, you know, let’s say it, white men … of a certain persuasion … a certain religion … a certain point of view, a certain ideology is just doing such damage to what we should be aiming for.” She does not say white Christian men are “the biggest threat to America.”",
+          "source": "YouTube / True North News",
+          "url": "https://youtube.com/shorts/V1AtT45E68E",
           "role": null
         },
         {
@@ -1478,6 +1485,11 @@
       "share": {
         "line": "A viral line has Hillary Clinton calling white Christian men “the biggest threat to America.” That wording is not in any record we can find.",
         "caption": "THE VIRAL LINE IS UNVERIFIED"
+      },
+      "video": {
+        "provider": "youtube",
+        "id": "V1AtT45E68E",
+        "label": "Watch the clip"
       }
     },
     {
