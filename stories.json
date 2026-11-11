@@ -1,9 +1,246 @@
 {
-  "edition": "2026-11-10-pm3",
+  "edition": "2026-11-10-pm4",
   "date": "2026-11-10",
-  "updated_at": "2026-11-10T20:02:03-05:00",
-  "lead": "texas-week-one-musk",
+  "updated_at": "2026-11-10T20:38:47-05:00",
+  "lead": "starbase-24-billion",
   "stories": [
+    {
+      "slug": "starbase-24-billion",
+      "date": "2026-11-10",
+      "section": "freedom",
+      "kicker": "FEATURE · ELON MUSK",
+      "headline": "SpaceX Posted Notice of a $24 Billion Supercomputer. The Governor-Elect Promised “a Ban.”",
+      "deck": "A gas-fired plant and “super-compute facility” on about 444 acres in Starbase. Tax breaks go before the city on Dec. 9.",
+      "byline": "By FNN Desk",
+      "body": "Monday, Starbase posted notice of a Dec. 9 hearing: SpaceX proposes a “gas-fired power plant and super-compute facility” on about 444 acres, with estimated capital investment of $24 billion. The city will consider a tax abatement.\n\nThe Texas Tribune reports the land was de-annexed from Brownsville earlier this year after SpaceX offered $220 million for water and wastewater projects. Brownsville’s 90-day data-center moratorium took effect last week.\n\nOct. 22, Governor-elect Gina Hinojosa promised “a moratorium — a ban — on all data center approvals until laws can be passed by the Legislature to protect Texans.” She takes office Jan. 19.",
+      "pull_quote": "a moratorium — a ban — on all data center approvals until laws can be passed by the Legislature to protect Texans.",
+      "record": [
+        {
+          "date": "2026-11-10",
+          "label": "SpaceX plans a $24 billion “gas-fired power plant and super-compute facility” on about 444 acres in Starbase; city to consider tax breaks at a Dec. 9 hearing; tract de-annexed from Brownsville after a $220 million water-and-wastewater offer; Brownsville’s 90-day data-center moratorium took effect last week",
+          "source": "The Texas Tribune",
+          "url": "https://www.texastribune.org/2026/11/10/texas-spacex-data-center-power-plant/",
+          "role": null
+        },
+        {
+          "date": "2026-10-22",
+          "label": "Hinojosa, in an Oct. 22 video posted to X: “When I am governor I will issue a moratorium — a ban — on all data center approvals until laws can be passed by the Legislature to protect Texans.” She takes office Jan. 19",
+          "source": "The Texas Tribune",
+          "url": "https://www.texastribune.org/2026/11/04/data-center-texas-pause-gina-hinojosa-governor-policies/",
+          "role": null
+        },
+        {
+          "date": "2026-11-04",
+          "label": "Musk: “Data centers in space looking pretty appealing right now”",
+          "source": "his own post on X",
+          "url": "https://x.com/elonmusk/status/2117862462976594112",
+          "role": null
+        },
+        {
+          "date": "2026-11-07",
+          "label": "Hinojosa: “it has to be a partnership that benefits Texans”; campaign video: “It's time to burn it to the ground” (the law allowing data-center tax breaks)",
+          "source": "ABC13 Houston",
+          "url": "https://abc13.com/post/governor-elect-gina-hinojosa-vows-ban-future-data-centers-texas/20021143/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/starbase-24-billion.jpg",
+        "alt": "FNN graphic: SpaceX posted notice of a $24 billion supercomputer in Starbase",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
+        "caption": "A $24 BILLION SUPERCOMPUTER"
+      }
+    },
+    {
+      "slug": "healey-heating-oil-5-94",
+      "date": "2026-11-10",
+      "section": "thenvsnow",
+      "kicker": "MASSACHUSETTS · THEN vs. NOW",
+      "headline": "2015: “We Do Not Need Increased Gas Capacity.”",
+      "headline_now": "Now Heating Oil Is $5.94, and She Wants Washington to Send $3 Billion More.",
+      "deck": "A bipartisan New England letter, dated Monday. A year ago the Massachusetts average was $3.74 a gallon.",
+      "byline": "By FNN Desk",
+      "body": "Nov. 18, 2015: Attorney General Maura Healey says “we do not need increased gas capacity” and ratepayers “shouldn’t foot the bill for additional pipelines.”\n\nNov. 9, 2026: She signs a letter with five other New England governors asking Congress for an additional $3 billion in winter heating aid, to $7 billion. “These additional resources are urgently needed.”\n\nAs of Monday, Massachusetts said the average gallon of home heating oil was $5.94. A year ago it was $3.74.\n\nFair is fair: the 2015 study was about power plants. The prices are the prices.",
+      "pull_quote": "These additional resources are urgently needed.",
+      "then": {
+        "text": "This study demonstrates that we do not need increased gas capacity to meet electric reliability needs, and that electric ratepayers shouldn’t foot the bill for additional pipelines.",
+        "date": "2015-11-18",
+        "source": "https://www.mass.gov/news/ag-study-increased-gas-capacity-not-needed-to-meet-states-electric-reliability-needs",
+        "source_name": "Mass. Attorney General’s Office press release",
+        "who": "Attorney General Maura Healey"
+      },
+      "now": {
+        "text": "we urge you to provide an additional $3 billion in funding, bringing total program funding to $7 billion… these additional resources are urgently needed.",
+        "date": "2026-11-09",
+        "source": "https://portal.ct.gov/governor/-/media/office-of-the-governor/news/2026/20261109-ne-govs-liheap-letter.pdf",
+        "source_name": "New England governors’ letter to congressional appropriators",
+        "who": "Gov. Maura Healey and five New England governors",
+        "big": "$5.94"
+      },
+      "record": [
+        {
+          "date": "2015-11-18",
+          "label": "AG Healey: “we do not need increased gas capacity to meet electric reliability needs,” and ratepayers “shouldn’t foot the bill for additional pipelines”",
+          "source": "Mass.gov",
+          "url": "https://www.mass.gov/news/ag-study-increased-gas-capacity-not-needed-to-meet-states-electric-reliability-needs",
+          "role": "then"
+        },
+        {
+          "date": "2026-11-09",
+          "label": "Healey and five New England governors ask Congress for an additional $3 billion for LIHEAP, to $7 billion; “these additional resources are urgently needed”; NEADA: heating oil prices projected to rise about 50 percent; nearly $1.1 billion in added costs for low-income Northeast households",
+          "source": "official letter (Connecticut governor’s office PDF)",
+          "url": "https://portal.ct.gov/governor/-/media/office-of-the-governor/news/2026/20261109-ne-govs-liheap-letter.pdf",
+          "role": "now"
+        },
+        {
+          "date": "2026-11-10",
+          "label": "As of Monday, Massachusetts said the average gallon of home heating oil was $5.94, down 3.73% from a week earlier, compared with $3.74 a year ago; letter signed by Lamont, Healey, McKee, Mills, Ayotte and Scott",
+          "source": "WBUR",
+          "url": "https://www.wbur.org/news/2026/11/10/new-england-governors-liheap-funding-increase",
+          "role": null
+        },
+        {
+          "date": "2026-11-09",
+          "label": "Lamont’s office posts the same letter and says the additional $3 billion is “to help vulnerable households manage sharply rising energy costs, especially for deliverable oil”",
+          "source": "Office of Gov. Ned Lamont",
+          "url": "https://portal.ct.gov/governor/news/press-releases/2026/11-2026/governor-lamont-and-new-england-governors-urge-increased-liheap-funding",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/healey-heating-oil-5-94.jpg",
+        "alt": "FNN graphic: Massachusetts heating oil at $5.94 a gallon, and a $3 billion aid request",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "2015: Healey said Massachusetts did not need increased gas capacity. Now heating oil is $5.94 a gallon, and she wants Washington to send $3 billion more.",
+        "caption": "HEATING OIL: $5.94 A GALLON"
+      }
+    },
+    {
+      "slug": "hegseth-referred-211-204",
+      "date": "2026-11-10",
+      "section": "freedom",
+      "kicker": "WASHINGTON · THE RECORD",
+      "headline": "Sunday, Jeffries Was a “Hard Yes.” Tuesday, the House Referred It 211-204.",
+      "deck": "Massie was the only Republican who voted to keep the Hegseth impeachment alive. Jeffries: “This is not the end of it.”",
+      "byline": "By FNN Desk",
+      "body": "Sunday, on ABC’s This Week, House Minority Leader Hakeem Jeffries was asked if Democrats would back Rep. Thomas Massie’s impeachment of Defense Secretary Pete Hegseth. “I’m a hard Yes on the Hegseth resolution,” he said. “Pete Hegseth has got to go.”\n\nTuesday at 6:02 p.m., the House voted 211-204 to refer H. Res. 1655 to the Judiciary Committee. Republicans voted 210-1. Massie was the only Republican with the 203 Democrats who voted no. One independent voted yes.\n\nThat morning, Hegseth called it a “farce.” After the vote, Jeffries said: “This is not the end of it. It’s just the beginning.”",
+      "pull_quote": "I’m a hard Yes on the Hegseth resolution. … Pete Hegseth has got to go.",
+      "record": [
+        {
+          "date": "2026-11-10",
+          "label": "Roll Call 317, 6:02 p.m.: On Motion to Refer H. Res. 1655 (impeaching Peter Brian Hegseth), Passed, 211-204, 18 not voting. Republicans 210-1-0-7; Democrats 0-203-0-11; Independent 1-0-0-0",
+          "source": "Office of the Clerk, U.S. House",
+          "url": "https://clerk.house.gov/votes/2026317",
+          "role": null
+        },
+        {
+          "date": "2026-11-08",
+          "label": "Jeffries on ABC’s This Week: “I’m a hard Yes on the Hegseth resolution. … Pete Hegseth has got to go.” Also: “I believe there will be incredibly strong support for that resolution.”",
+          "source": "Jeffries’ official transcript",
+          "url": "https://jeffries.house.gov/2026/11/08/leader-jeffries-on-abc-we-are-going-to-visit-accountability-on-the-wrongdoers/",
+          "role": null
+        },
+        {
+          "date": "2026-11-10",
+          "label": "House voted 211-204 to refer the resolution to Judiciary, “effectively killing it”; Massie the lone Republican against referral; Massie: “I wasn’t surprised, but I was disappointed”; Jeffries after the vote: “This is not the end of it. It’s just the beginning.” Hegseth, at a morning news conference: “farce” and “political spectacle”; “None of these are high crimes or misdemeanors.” Trump, CBS reported, said it “miserably FAILED!”",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/massie-hegseth-impeachment/",
+          "role": null
+        },
+        {
+          "date": "2026-11-10",
+          "label": "Hegseth: “It’s a farce, and it’s a stunt and everybody knows it.” Jeffries has said Democrats will “run Pete Hegseth out of town” when they take over next year, NBC reported",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/politics/congress/republican-led-house-rejects-hegseth-impeachment-effort-rcna608534",
+          "role": null
+        },
+        {
+          "date": "2026-11-08",
+          "label": "ABC News write-up of the same This Week interview, including “I’m a hard yes” and “Pete Hegseth has got to go.”",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/im-hard-hakeem-jeffries-announces-support-hegseth-impeachment/story?id=137952235",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/hegseth-referred-211-204.jpg",
+        "alt": "FNN graphic: the House voted 211-204 to refer the Hegseth impeachment to committee",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Sunday, Jeffries was a “hard yes” on impeaching Hegseth. Tuesday the House referred it to committee, 211-204.",
+        "caption": "REFERRED, 211-204"
+      }
+    },
+    {
+      "slug": "cybertruck-return-deposits",
+      "date": "2026-11-10",
+      "section": "money",
+      "kicker": "MONEY · TESLA",
+      "headline": "Musk: The Order Rate “Far Exceeds” Production. He’ll “Return Deposits for a Lot of People.”",
+      "deck": "The Cybertruck line shuts down in about eight months, he said, for Cybercab. “Not a case of Cybertruck being unprofitable, as has been misreported.”",
+      "byline": "By FNN Desk",
+      "body": "Friday, Elon Musk said Tesla would wind down Cybertruck production at Gigafactory Texas “around the middle of next year to make room for increased Cybercab production.”\n\nMonday: “The Cybertruck order rate far exceeds our production rate. We will try to make as many as possible before shutting down the line in about 8 months, but will have to return deposits for a lot of people.”\n\nHe added that this “is not a case of Cybertruck being unprofitable, as has been misreported by legacy media,” but a matter of “opportunity cost.” He did not name the outlets.",
+      "pull_quote": "This is not a case of Cybertruck being unprofitable, as has been misreported by legacy media.",
+      "record": [
+        {
+          "date": "2026-11-09",
+          "label": "Musk: “The Cybertruck order rate far exceeds our production rate. We will try to make as many as possible before shutting down the line in about 8 months, but will have to return deposits for a lot of people.” Full text continues: “This is not a case of Cybertruck being unprofitable, as has been misreported by legacy media, but rather that the opportunity cost of the complexity of Cybertruck is vastly outweighed by the value of incremental Cybercab production.”",
+          "source": "his own post on X",
+          "url": "https://x.com/elonmusk/status/2119691615774146614",
+          "role": null
+        },
+        {
+          "date": "2026-11-06",
+          "label": "Musk: “Tesla will be winding down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room for increased Cybercab production”",
+          "source": "his own post on X",
+          "url": "https://x.com/elonmusk/status/2118591788701421573",
+          "role": null
+        },
+        {
+          "date": "2026-11-07",
+          "label": "Musk, replying: “We are still building Cybertruck for another 8 or 9 months btw, but then Tesla needs to focus on scaling Cybercab. There will never be another vehicle like it.”",
+          "source": "his own post on X",
+          "url": "https://x.com/elonmusk/status/2118949190713889136",
+          "role": null
+        },
+        {
+          "date": "2026-11-07",
+          "label": "Musk: the order backlog is “far more than we can make before dismantling the line for Cybercab expansion around June/July next year. We will add an extra shift to try to get all orders done in time.”",
+          "source": "his own post on X",
+          "url": "https://x.com/elonmusk/status/2119130949434888330",
+          "role": null
+        },
+        {
+          "date": "2026-11-09",
+          "label": "Quotes the Monday post, including the deposits line and the “opportunity cost” explanation",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/tesla-cybertruck-deposits-return-musk/",
+          "role": null
+        },
+        {
+          "date": "2026-11-09",
+          "label": "Same Monday quotes; notes Musk said Tesla would try to make as many as possible before the line shuts down",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/cybertruck-return-deposits.jpg",
+        "alt": "FNN graphic: Musk said Tesla will have to return Cybertruck deposits for a lot of people",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Musk: the Cybertruck order rate “far exceeds” production. He’ll “have to return deposits for a lot of people.” He says it’s not unprofitability, “as has been misreported.”",
+        "caption": "“RETURN DEPOSITS FOR A LOT OF PEOPLE.”"
+      }
+    },
     {
       "slug": "texas-week-one-musk",
       "date": "2026-11-10",
