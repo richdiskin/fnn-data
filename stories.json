@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-11-am2",
+  "edition": "2026-11-11-pm",
   "date": "2026-11-11",
-  "updated_at": "2026-11-11T04:43:00-05:00",
+  "updated_at": "2026-11-11T17:12:00-05:00",
   "lead": "spacex-bastrop-100-gigawatts",
   "stories": [
     {
@@ -305,6 +305,69 @@
       "share": {
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
+      }
+    },
+    {
+      "slug": "burtbronx-skankfest-with-ted",
+      "date": "2026-11-11",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · BURT BRONX",
+      "headline": "He Announced a Birthday Weekend With Ted at Skankfest. Then He Played the Tape He Said Wasn’t Acting.",
+      "deck": "On a 26-minute stream, Burt Bronx said he and Ted leave Thursday for Skankfest in New Orleans. Then he played a Famous House tape he said wasn’t acting.",
+      "byline": "By FNN Desk",
+      "body": "Wednesday afternoon, Burt Bronx went live from his apartment for 26 minutes and 11 seconds. His birthday is Thursday, Nov. 12. “Tomorrow I’ll be going to New Orleans with Ted and have like a special birthday weekend getaway at Skankfest, you know, just you know, me and Ted, the bros, hanging out together.”\n\nHe played a Famous House tape asking Ted to be his Vegas plus-one. After playback: “What I said in that scene, it wasn’t like, it wasn’t acting. That’s how I truly felt… I’m glad that we’re finally together now.” Clavicular was offline, with no new VOD.",
+      "pull_quote": "What I said in that scene, it wasn’t like, it wasn’t acting. That’s how I truly felt… I’m glad that we’re finally together now.",
+      "record": [
+        {
+          "date": "2026-11-11",
+          "date_label": "Wednesday, 4:12 p.m. ET, “BURT & TED'S EXCELLENT ADVERNTURE” VOD (26 minutes, 11 seconds)",
+          "label": "Mid-afternoon apartment stream, 4:12 p.m. to about 4:38 p.m. ET. New Nov. 11 installment (id 137296680), not the Nov. 8 tape of the same title. Just Chatting / IRL, Casual. Mature. 9,314 followers. 412 VOD views at ~4:58 p.m. ET. API concurrent viewer_count: 16; this desk did not see the stream live. Cold approaches: 0.",
+          "source": "Kick VOD, Burt Bronx, “BURT & TED'S EXCELLENT ADVERNTURE”",
+          "url": "https://kick.com/burtbronx/videos/d5a1436d-175a-4201-aeb0-0eac05d1dce0",
+          "role": null
+        },
+        {
+          "date": "2026-11-11",
+          "date_label": "VOD, [19:04]–[19:43]",
+          "label": "He said his birthday is “tomorrow, November 12th,” and that he was born at 2:38 a.m. ET (minutes from Kick captions). At [19:43]: “Tomorrow I’ll be going to New Orleans with Ted and have like a special birthday weekend getaway at Skankfest, you know, just you know, me and Ted, the bros, hanging out together.” Whisper heard “Skankfest”; Kick captions had “Skingfest.” The desk confirms Skankfest X is a comedy festival in New Orleans, Nov. 13–15, 2026, consistent with a Nov. 12 birthday-weekend trip. The festival dates are from that public listing, not details he named on stream.",
+          "source": "Kick VOD, Burt Bronx, “BURT & TED'S EXCELLENT ADVERNTURE”",
+          "url": "https://kick.com/burtbronx/videos/d5a1436d-175a-4201-aeb0-0eac05d1dce0",
+          "role": null
+        },
+        {
+          "date": "2026-11-11",
+          "date_label": "VOD, [22:52]",
+          "label": "He played a pre-recorded Famous House scene with Ted (orange shirt, on tape, not clearly in the live apartment cameras). On the tape he said, “Since we first came to this Famous House, out of all the dudes here, you’re the one that I felt most connected to… it would mean a lot to me if you would accompany me to Vegas and be my plus one.”",
+          "source": "Kick VOD, Burt Bronx, “BURT & TED'S EXCELLENT ADVERNTURE”",
+          "url": "https://kick.com/burtbronx/videos/d5a1436d-175a-4201-aeb0-0eac05d1dce0",
+          "role": null
+        },
+        {
+          "date": "2026-11-11",
+          "date_label": "VOD, [24:33]",
+          "label": "After the playback, he told viewers, “What I said in that scene, it wasn’t like, it wasn’t acting. That’s how I truly felt… I’m glad that we’re finally together now.”",
+          "source": "Kick VOD, Burt Bronx, “BURT & TED'S EXCELLENT ADVERNTURE”",
+          "url": "https://kick.com/burtbronx/videos/d5a1436d-175a-4201-aeb0-0eac05d1dce0",
+          "role": null
+        },
+        {
+          "date": "2026-11-11",
+          "date_label": "VOD, [25:02]–sign-off",
+          "label": "He said he didn’t have a content plan and didn’t want to be accused of being “nontent.” He signed off: “Peace out, everyone.” The VOD ends at about 26:10.",
+          "source": "Kick VOD, Burt Bronx, “BURT & TED'S EXCELLENT ADVERNTURE”",
+          "url": "https://kick.com/burtbronx/videos/d5a1436d-175a-4201-aeb0-0eac05d1dce0",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/burtbronx-skankfest-with-ted.jpg",
+        "alt": "Burt Bronx on a Kick stream, in a black tank top at a desk microphone, looking up and away, Wednesday afternoon, Nov. 11, 2026",
+        "credit": "Kick VOD, Burt Bronx",
+        "caption": "Burt Bronx on the official Kick thumbnail, from the desk camera near the close of the 26-minute Wednesday afternoon stream."
+      },
+      "share": {
+        "line": "Burt Bronx said he and Ted leave Thursday for a birthday weekend at Skankfest in New Orleans. Then he played a Famous House tape he said wasn’t acting.",
+        "caption": "IT WASN’T ACTING."
       }
     },
     {
