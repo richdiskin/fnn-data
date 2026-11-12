@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-11-pm",
+  "edition": "2026-11-11-pm2",
   "date": "2026-11-11",
-  "updated_at": "2026-11-11T17:12:00-05:00",
+  "updated_at": "2026-11-11T19:30:37-05:00",
   "lead": "spacex-bastrop-100-gigawatts",
   "stories": [
     {
@@ -305,6 +305,69 @@
       "share": {
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
+      }
+    },
+    {
+      "slug": "hexumlite-fme-install-for-youtube",
+      "date": "2026-11-11",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · HEXUMLITE",
+      "headline": "The Road-Trip Circus Went Indoors for Skull Scans. Then He Signed Off So the Doctor Could Film the FME for YouTube.",
+      "deck": "Wednesday evening, Hexumlite streamed nearly two hours from Dr. Newaz’s Miami office. Master chose expansion. The FME install, he said, was going on YouTube.",
+      "byline": "By FNN Desk",
+      "body": "Wednesday evening, Hexumlite took the road-trip circus indoors: a consult-room stream at Dr. Newaz’s Miami-area office, 1 hour 56 minutes and 45 seconds, with skull scans on a wall TV. “We’re not getting implant or fill. We’re cutting every bone in our fucking face and rearranging it.”\n\nMaster sat for a workup and chose expansion. Hexumlite compared his own start, 35 millimeters, to Master’s 39.5: “You pallet-mog-me master. Pallet-mog-me to oblivion.” Other people also sat for scans.\n\nHe signed off so the doctor could install his FME off-stream for YouTube, and said he’d be back in about 30 minutes.",
+      "pull_quote": "“I’m probably gonna end stream because they’re gonna install my FME. Doctor wants… that to be like… recorded via YouTube”",
+      "record": [
+        {
+          "date": "2026-11-11",
+          "date_label": "Wednesday, 4:55 p.m. ET, “FME Install Dr. Newaz  + all the homies getting Skulls scanned” VOD (1 hour 56 minutes 45 seconds)",
+          "label": "Evening consult-room stream, about 4:55:57 p.m. to about 6:52:41 p.m. ET. Official Kick duration 1 hour 56 minutes 45 seconds (7,005,000 ms). IRL. 14,069 followers at about 7:03 p.m. ET; 14,085 at 7:22 p.m. ET. VOD views 5,694 at about 7:03 p.m. ET and 5,696 at 7:22 p.m. ET, still likely to climb. Logged live high from this desk’s own pulls: 1,366 at 6:02 p.m. ET. The finished VOD object’s viewer_count field was 1,387 at both checks; this desk is treating that as a residual/last concurrent figure, not a confirmed peak.",
+          "source": "Kick VOD, Hexumlite, “FME Install Dr. Newaz  + all the homies getting Skulls scanned”",
+          "url": "https://kick.com/hexumlite/videos/576275f3-fd65-49b5-bdca-64c470dbd50f",
+          "role": null
+        },
+        {
+          "date": "2026-11-11",
+          "date_label": "VOD, [00:00:41]",
+          "label": "He streamed from an office he later called “the Miami office” and “the boys’ Miami office.” Clinic software on the consult-room television was labeled Aventura (Miami-Dade). At the open: “You got a little more expansion to do, bro. Let’s go Dr. [Newaz]. Today, we’ve got all the homies hooked up. Drago’s in there.” Then: “We’re not getting implant or fill. We’re cutting every bone in our fucking face and rearranging it.” He said Drago was “in there”; this desk could not independently confirm which person on camera was Drago.",
+          "source": "Kick VOD, Hexumlite, “FME Install Dr. Newaz  + all the homies getting Skulls scanned”",
+          "url": "https://kick.com/hexumlite/videos/576275f3-fd65-49b5-bdca-64c470dbd50f",
+          "role": null
+        },
+        {
+          "date": "2026-11-11",
+          "date_label": "VOD, [00:02:46]–[00:22:00]",
+          "label": "“All right, this is Master’s scan of his skull,” Hexumlite said at [00:02:46]. The doctor put Master’s inter-molar width at 39.5 mm, which he called “well within the range of normal.” Hexumlite: “To put it into perspective, mine was 35 millimeters.” Then, at [00:09:42]–[00:09:49]: “You pallet-mog-me master. Pallet-mog-me to oblivion.” Master’s decision, at [00:21:54]–[00:22:00]: “Expansion. Expansion… I think we gotta do some expansion. I think it’ll be great.”",
+          "source": "Kick VOD, Hexumlite, “FME Install Dr. Newaz  + all the homies getting Skulls scanned”",
+          "url": "https://kick.com/hexumlite/videos/576275f3-fd65-49b5-bdca-64c470dbd50f",
+          "role": null
+        },
+        {
+          "date": "2026-11-11",
+          "date_label": "VOD, [00:43]–[01:21]",
+          "label": "Other people also sat for scans. Their names, ages, measurements, diagnoses, and chart details are omitted.",
+          "source": "Kick VOD, Hexumlite, “FME Install Dr. Newaz  + all the homies getting Skulls scanned”",
+          "url": "https://kick.com/hexumlite/videos/576275f3-fd65-49b5-bdca-64c470dbd50f",
+          "role": null
+        },
+        {
+          "date": "2026-11-11",
+          "date_label": "VOD, [01:54:38]–[01:56:43]",
+          "label": "In reception, he closed the live: “I’m probably gonna end stream because they’re gonna install my FME. Doctor wants… that to be like… recorded via YouTube, so I’m just gonna do that.” He said he’d “literally hop back on stream in, like, 30 minutes. Probably mid-install,” with the gory / piezo portion kept off the live. Final line, [01:56:30]–[01:56:34]: “Well, guys, with that, I’m gonna end the stream, and I’m gonna go live here in, like, 30 minutes. I’ll see you guys. I’m gonna record this so it’ll be on YouTube then, so…” The VOD ends at 1:56:43. At a 7:22 p.m. ET recheck, about half an hour after the 6:52 p.m. ET sign-off, hexumlite was still offline.",
+          "source": "Kick VOD, Hexumlite, “FME Install Dr. Newaz  + all the homies getting Skulls scanned”",
+          "url": "https://kick.com/hexumlite/videos/576275f3-fd65-49b5-bdca-64c470dbd50f",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/hexumlite-fme-install-for-youtube.jpg",
+        "alt": "Hexumlite on a Kick stream from a consult room, with Dr. Newaz and Master at a round table, Wednesday evening, Nov. 11, 2026",
+        "credit": "Kick VOD, Hexumlite",
+        "caption": "A sampled frame at [00:21:30] shows Hexumlite, Dr. Newaz, and Master at the consult-room table during Master’s workup. No clinic software or charts are in the frame."
+      },
+      "share": {
+        "line": "Hexumlite took the road-trip circus indoors for skull scans at Dr. Newaz’s Miami-area office. Master chose expansion. Then he signed off so the FME install could be filmed for YouTube.",
+        "caption": "THEN HE SIGNED OFF FOR YOUTUBE."
       }
     },
     {
