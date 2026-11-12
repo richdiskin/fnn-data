@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-12-am2",
+  "edition": "2026-11-12-am3",
   "date": "2026-11-12",
-  "updated_at": "2026-11-12T04:42:44-05:00",
+  "updated_at": "2026-11-12T09:21:05-05:00",
   "lead": "cybertruck-room-for-sentimentality",
   "stories": [
     {
@@ -577,6 +577,77 @@
       "share": {
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
+      }
+    },
+    {
+      "slug": "burtbronx-official-at-238",
+      "date": "2026-11-12",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · BURT BRONX",
+      "headline": "He Turned 38 at Exactly 2:38 a.m., Live on Kick. Then He Stayed On Six More Hours.",
+      "deck": "Burt Bronx’s nine-hour birthday stream hit the official minute on a Discord call, then rolled through a nap, a blood-test booking and his New Orleans plans.",
+      "byline": "By FNN Desk",
+      "body": "Burt Bronx says he was born at 2:38 a.m. EST, so his 38th birthday stream ran past midnight to catch the minute. On a Discord call with Fish Tank’s Jimmy, he announced: “It is 2:38 a.m. EST. I'm now officially 38 years old.” Then he kept going: a nap through the new Love and Justice episode, a morning blood-test booking. Skankfest with Ted is still on for Friday: “I bought the tickets, the plane trip's already booked, the hotel's booked. That's happening. So deal with it.” He’s staying in Jersey, not moving to LA. Sign-off: “This was fun.”",
+      "pull_quote": "It is 2:38 a.m. EST. I'm now officially 38 years old.",
+      "record": [
+        {
+          "date": "2026-11-12",
+          "date_label": "Wednesday, Nov. 11, 11:42 p.m. ET, to Thursday, Nov. 12, about 8:43 a.m. ET (9 hours, 0 minutes, 23 seconds)",
+          "label": "Overnight apartment birthday stream, not an IRL outing. Official Kick duration 32,423,000 ms (9 hours, 0 minutes, 23 seconds). Just Chatting (tags: IRL, Casual). Mature. English. Livestream 137367884. 9,339 followers at the ~9:03 a.m. ET check. 1,152 VOD views at discovery (1,154 on a refresh moments later). Highest concurrent viewer counts this desk saw live (Kick API): 252 around 3:13 a.m. ET and 212 at 7:01 a.m. ET; these are sampled checks, not an official peak. The finished VOD object’s leftover viewer_count of 11 is not treated as a peak. Cold approaches: 0. Private people on the broadcast are not named.",
+          "source": "Kick VOD, Burt Bronx, “BURT'S 38TH BIRTHDAY STREAM (BURTDAY)”",
+          "url": "https://kick.com/burtbronx/videos/a476b12a-935b-4ae8-991b-711a15f7ae25",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "date_label": "VOD 00:01–00:15 (11:43–11:57 p.m. ET Wed.)",
+          "label": "“My birthday technically is not at midnight on November 12. My birthday is actually November 12, 2026 at 2:38 a.m. EST. I was born exactly on that time, 2:38 in the morning Eastern Standard Time.” He said he would stay up until at least 3 a.m. so the official moment landed on stream. Later in the stream he said he was born Nov. 12, 1988, at 2:38 a.m. at Newark Beth Israel Hospital in Newark, N.J. Birth details are as he stated on stream, not independently verified.",
+          "source": "Kick VOD, Burt Bronx, “BURT'S 38TH BIRTHDAY STREAM (BURTDAY)”",
+          "url": "https://kick.com/burtbronx/videos/a476b12a-935b-4ae8-991b-711a15f7ae25",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "date_label": "VOD 02:47–03:17 (2:29–2:59 a.m. ET); clip VOD 02:54:20–02:55:45",
+          "label": "On a Discord video call with Jimmy from Fish Tank season 2, at the official minute: “It is 2:38 a.m. EST. I'm now officially 38 years old.” Jimmy congratulated him. Quote confirmed by speech-to-text and an 85-second clip of the moment.",
+          "source": "Kick VOD, Burt Bronx, “BURT'S 38TH BIRTHDAY STREAM (BURTDAY)”",
+          "url": "https://kick.com/burtbronx/videos/a476b12a-935b-4ae8-991b-711a15f7ae25",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "date_label": "VOD 04:57–05:19 (4:39–5:01 a.m. ET); earlier, VOD 01:00–01:17",
+          "label": "“Just give me like twenty minutes to rest.” He played the new Love and Justice episode and was asleep on the couch in the 5:00:00 VOD frame while it played. Earlier he said: “We just filmed the first two episodes of the second season [of Love and Justice]. We should film the other two episodes somewhere late November.” (Caption-based.)",
+          "source": "Kick VOD, Burt Bronx, “BURT'S 38TH BIRTHDAY STREAM (BURTDAY)”",
+          "url": "https://kick.com/burtbronx/videos/a476b12a-935b-4ae8-991b-711a15f7ae25",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "date_label": "VOD 02:31–02:54 (2:13–2:36 a.m. ET)",
+          "label": "“Me and Ted are gonna have our own special romantic getaway in New Orleans for Skankfest. That's gonna happen on Friday the 13th, November 13th. Later today I'll be heading to the airport flying out to New Orleans with Ted … I'm going to Skankfest. I bought the tickets, the plane trip's already booked, the hotel's booked. That's happening. So deal with it.” He said he is not skipping Skankfest for Safe Zone or TwitchCon, both also Nov. 13. On moving: “Actually I decided to not move to LA. I feel like since everything [going on with] my sister and my family, it's probably best I stay in Jersey for at least [a bit].” (Exact closing clause unclear on tape.)",
+          "source": "Kick VOD, Burt Bronx, “BURT'S 38TH BIRTHDAY STREAM (BURTDAY)”",
+          "url": "https://kick.com/burtbronx/videos/a476b12a-935b-4ae8-991b-711a15f7ae25",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "date_label": "VOD 08:25–09:00 (8:07–8:43 a.m. ET)",
+          "label": "He realized a blood test was scheduled for his birthday (“Wait, today’s November 12? It’s my birthday.”) and booked a slot at Metropolis Health. After a call about tax paperwork, he signed off in a black “SECURITY” hoodie: “Do I look somewhat presentable, normal, like low-key, not weird, or disturbed? … So, this was fun. I will keep you up to date on how my birthday is going.” The VOD ends at 09:00:22.",
+          "source": "Kick VOD, Burt Bronx, “BURT'S 38TH BIRTHDAY STREAM (BURTDAY)”",
+          "url": "https://kick.com/burtbronx/videos/a476b12a-935b-4ae8-991b-711a15f7ae25",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/burtbronx-official-at-238.jpg",
+        "alt": "Burt Bronx in a black tank top at a silver microphone in his apartment, opening his birthday stream late Wednesday, Nov. 11, 2026",
+        "credit": "Kick VOD, Burt Bronx",
+        "caption": "Burt Bronx opens his 38th birthday stream; the overlay clock reads 11/11/2026 23:47:40 ET."
+      },
+      "share": {
+        "line": "Burt Bronx stayed live to turn 38 at exactly 2:38 a.m., then kept the birthday stream going six more hours. Skankfest with Ted is still on for Friday.",
+        "caption": "NOW OFFICIALLY 38."
       }
     },
     {
