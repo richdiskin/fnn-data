@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-11-pm3",
+  "edition": "2026-11-11-pm4",
   "date": "2026-11-11",
-  "updated_at": "2026-11-11T20:16:00-05:00",
+  "updated_at": "2026-11-11T21:19:00-05:00",
   "lead": "spacex-bastrop-100-gigawatts",
   "stories": [
     {
@@ -305,6 +305,69 @@
       "share": {
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
+      }
+    },
+    {
+      "slug": "hexumlite-reinstalled-expander",
+      "date": "2026-11-11",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · HEXUMLITE",
+      "headline": "He Said He’d Be Back in 30 Minutes. An Hour and a Half Later, He Showed a Reinstalled Expander.",
+      "deck": "Wednesday night, Hexumlite returned later than promised and showed a reinstalled expander from the passenger seat. The first one, he said, had started to bend.",
+      "byline": "By FNN Desk",
+      "body": "Wednesday night, Hexumlite came back after the off-stream FME appointment, later than the 30 minutes he had promised, a 21-minute-4-second VOD from the passenger seat, an unnamed woman driving toward Sprouts.\n\nIt was a reinstall. He said the prior FME had started to bend, and a healing palatal split was cut back through with a saw. FaceGenics, he said, covered the replacement as an appliance error. He showed the new expander on camera.\n\nKick captions heard 38.9 millimeters. He was “in too much pain” for cold approaches, and signed off to get “twist comboed,” and “maybe Growler, too.”",
+      "pull_quote": "“The FME device itself had some structural integrity issues. And so starting to bend, in order to expand safely we had to take it out…”",
+      "record": [
+        {
+          "date": "2026-11-11",
+          "date_label": "Wednesday, 8:24 p.m. ET, “Post fme installl. Expander in skull.” VOD (21 minutes 4 seconds)",
+          "label": "Night drive after the off-stream FME appointment, 8:24:10 p.m. to about 8:45:13 p.m. ET. Livestream 137339285. Official Kick duration 21 minutes 4 seconds (1,264,000 ms). HLS playlist 1,262.834 seconds. IRL. 14,192 followers at the 9:05 p.m. ET check; 14,197 at 9:11 p.m. ET. VOD views 5,890 as of the 9:05 and 9:12 p.m. ET checks, still likely to climb. This desk’s hourly poller did not catch the stream live. The finished VOD object’s viewer_count field was 1,252 at both checks; this desk is treating that as a residual/last concurrent figure, not a confirmed peak.",
+          "source": "Kick VOD, Hexumlite, “Post fme installl. Expander in skull.”",
+          "url": "https://kick.com/hexumlite/videos/e67fe00c-622a-4d93-a168-9cb147b48058",
+          "role": null
+        },
+        {
+          "date": "2026-11-11",
+          "date_label": "Earlier Wednesday clinic VOD, [01:54:38]–[01:56:43]",
+          "label": "On the earlier clinic stream he signed off so Dr. Newaz could install the FME off-stream for YouTube, saying he’d “literally hop back on stream in, like, 30 minutes. Probably mid-install.” He did not come back for about an hour and a half. This tape is the return after the work was done, not mid-procedure.",
+          "source": "Kick VOD, Hexumlite, “FME Install Dr. Newaz  + all the homies getting Skulls scanned”",
+          "url": "https://kick.com/hexumlite/videos/576275f3-fd65-49b5-bdca-64c470dbd50f",
+          "role": null
+        },
+        {
+          "date": "2026-11-11",
+          "date_label": "VOD, [00:01:55]–[00:05:00]",
+          "label": "The first about 1 minute 55 seconds of the VOD is a Kick “Connection lost, be back soon!” placeholder of older daytime New York IRL footage, not this night drive; live picture returns at about [00:01:55]. Approaches under that placeholder are not counted. He was in the passenger seat. An unnamed woman was driving him toward Sprouts. He said he was on ibuprofen and “in a little bit of pain.” On why the device was taken out: “The FME device itself had some structural integrity issues. And so starting to bend, in order to expand safely we had to take it out… It was pretty easy. You just had to let it heal up a little bit where the screws were and then we just reinstalled because we want to get more expansion.” Then: “So spare apparently my split was starting to heal up. So they cut right through it, dude with a saw.” Around [00:05:00] he opened his mouth wide to show the expander. Cold approaches tonight: 0. He said, “I’m not doing that tonight. Yeah, I’m in too much pain, bro.”",
+          "source": "Kick VOD, Hexumlite, “Post fme installl. Expander in skull.”",
+          "url": "https://kick.com/hexumlite/videos/e67fe00c-622a-4d93-a168-9cb147b48058",
+          "role": null
+        },
+        {
+          "date": "2026-11-11",
+          "date_label": "VOD, [00:03:06] and [00:08:30]–[00:16:30]",
+          "label": "Kick captions at [00:03:06] heard: “technically I could stop expanding right now I’m at thirty eight point nine millimeters… like forty two forty two is fine I mean thirty eight’s fine.” This desk is treating 38.9 mm as the more likely current figure; it is consistent with the 35 mm start he stated on the earlier clinic stream plus his claim tonight of about 4 mm already expanded, with another 3–4 mm aimed at a 42–43 mm inner-molar-width mark. Faster-whisper’s “30 / 30.9” renderings are flagged as probable mishears, not a second official measurement. Asked whether Newaz charged him “for another” appliance: “No. FaceGenics covered it because it was a faulty appliance. Well, not faulty… It was an appliance error, not anything on my end.” Asked how much Dr. Newaz charges, he said: “Everything different for everybody. Usually around like 20 grand.” That is a different framing from the $27,000 FME-plus-aligners figure he stated on the earlier clinic VOD; both numbers are his words, on different streams.",
+          "source": "Kick VOD, Hexumlite, “Post fme installl. Expander in skull.”",
+          "url": "https://kick.com/hexumlite/videos/e67fe00c-622a-4d93-a168-9cb147b48058",
+          "role": null
+        },
+        {
+          "date": "2026-11-11",
+          "date_label": "VOD, [00:19:12]–sign-off",
+          "label": "He held up a printed installation map and said: “So we can see the screw lengths were like 13 millimeters, 16 millimeters, like 13 millimeters, and there’s eight of them, and then it was pre-activated one millimeter… 17 millimeters in the back, almost 18 millimeters.” The printed diagram visible on the tape lists lengths including 13.5, 15.5, and 19.5 mm and a 1.00 mm pre-activation, close to but not identical to the numbers he rounded off aloud. Personal fields on that map, including any name, date of birth, or case number, are omitted on purpose. Sign-off, as heard on a medium recut: “Okay, I’m gonna end this live, I’m gonna get some nice food, I’m gonna relax, I’m gonna get twist comboed, and then I’m gonna see you guys… I’ll see you guys. Maybe Growler, too.” “Twist comboed” is clear on the transcript and captions; this desk is not guessing what it means.",
+          "source": "Kick VOD, Hexumlite, “Post fme installl. Expander in skull.”",
+          "url": "https://kick.com/hexumlite/videos/e67fe00c-622a-4d93-a168-9cb147b48058",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/hexumlite-reinstalled-expander.jpg",
+        "alt": "Hexumlite on a Kick stream from the passenger seat, mouth open to show a palatal expander, Wednesday night, Nov. 11, 2026",
+        "credit": "Kick VOD, Hexumlite",
+        "caption": "A sampled frame at [00:05:00] shows him opening his mouth to display the palatal expander from the passenger seat. The frame is cropped to him. No installation-map identifiers are in the picture."
+      },
+      "share": {
+        "line": "Hexumlite came back later than the 30 minutes he promised, showed a reinstalled expander from the passenger seat, and said FaceGenics covered the replacement after the first one started to bend.",
+        "caption": "THEN HE SHOWED THE EXPANDER."
       }
     },
     {
