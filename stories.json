@@ -1,9 +1,281 @@
 {
-  "edition": "2026-11-12-am",
+  "edition": "2026-11-12-am2",
   "date": "2026-11-12",
-  "updated_at": "2026-11-12T03:22:36-05:00",
-  "lead": "spacex-bastrop-100-gigawatts",
+  "updated_at": "2026-11-12T04:42:44-05:00",
+  "lead": "cybertruck-room-for-sentimentality",
   "stories": [
+    {
+      "slug": "cybertruck-room-for-sentimentality",
+      "date": "2026-11-12",
+      "section": "freedom",
+      "kicker": "FEATURE · ELON MUSK",
+      "headline": "Musk Gave the Cybertruck Line More Time: “Not the Smartest Move From a Profit-Maximizing Standpoint”",
+      "deck": "The stainless pickup now runs through the end of summer 2027 to clear the backlog. His reason: “some room in this world for sentimentality.”",
+      "byline": "By FNN Desk",
+      "body": "Last Friday, Elon Musk said Tesla would wind down Cybertruck production “around the middle of next year” to make room for Cybercab. Monday he said the order rate “far exceeds” production and deposits would go back to “a lot of people.”\n\nWednesday: production “will be extended through the end of summer 2027.”\n\nThen: “This is not the smartest move from a profit-maximizing standpoint btw, but there must be some room in this world for sentimentality or what’s the point?”\n\nCritics call the backlog a last-call rush. The people in line get more months anyway.",
+      "pull_quote": "There must be some room in this world for sentimentality or what’s the point?",
+      "record": [
+        {
+          "date": "2026-11-11",
+          "label": "Musk: “In order to work through more of the Cybertruck order backlog, production will be extended through the end of summer 2027”",
+          "source": "his own post on X",
+          "url": "https://x.com/elonmusk/status/2120565056429814073",
+          "role": null
+        },
+        {
+          "date": "2026-11-11",
+          "label": "Musk, replying to himself: “This is not the smartest move from a profit-maximizing standpoint btw, but there must be some room in this world for sentimentality or what’s the point?”",
+          "source": "his own post on X",
+          "url": "https://x.com/elonmusk/status/2120570459335131606",
+          "role": null
+        },
+        {
+          "date": "2026-11-11",
+          "label": "Extension through summer 2027; earlier Nov. 9 post: order rate “far exceeds” production, “will have to return deposits for a lot of people”; some customers frustrated",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/tesla-extend-cybertruck-production-backlog/",
+          "role": null
+        },
+        {
+          "date": "2026-11-11",
+          "label": "Critical view: Nov. 6 wind-down “around the middle of next year”; Electrek argues the backlog is a last-call rush and notes Tesla raised Cybertruck prices by up to 10% and paused base Dual Motor orders",
+          "source": "Electrek",
+          "url": "https://electrek.co/2026/11/11/tesla-extends-cybertruck-production-summer-2027-fan-backlash/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/cybertruck-room-for-sentimentality.jpg",
+        "alt": "FNN graphic: Musk extends the Cybertruck line for sentimentality",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Musk extended Cybertruck production through summer 2027: “not the smartest move from a profit-maximizing standpoint… but there must be some room in this world for sentimentality.”",
+        "caption": "ROOM FOR SENTIMENTALITY"
+      }
+    },
+    {
+      "slug": "spilka-full-two-year-session",
+      "date": "2026-11-12",
+      "section": "thenvsnow",
+      "kicker": "MASSACHUSETTS · THEN vs. NOW",
+      "headline": "January 2025: Spilka Wanted Conference Talks to Run “Through the Full Two-Year Session.”",
+      "headline_now": "Now: A Dozen Committees, Zero Deals. Her Word: “Unacceptable.”",
+      "deck": "The Senate President pitched the longer clock. Three and a half months past the old July 31 cutoff, not one of the 12 conference committees has a deal.",
+      "byline": "By FNN Desk",
+      "body": "January 2025, opening the new term, Senate President Karen Spilka said the Legislature should “allow conference committee votes to continue through the full two-year session.” Lawmakers wrote it into the rules.\n\nJuly 31 came. A dozen conference committees, on energy affordability, economic development, cellphones in schools and more, kept talking. Three and a half months later, none has reached a deal, CommonWealth Beacon reports.\n\nSpilka now calls the “prolonged inaction” “unacceptable.” Next term? “I cannot support extending the time for conference negotiations again.”\n\nSpeaker Ron Mariano says the extra time helps.\n\nHer idea. Her verdict.",
+      "pull_quote": "Unless we see movement soon, I cannot support extending the time for conference negotiations again.",
+      "then": {
+        "text": "allow conference committee votes to continue through the full two-year session",
+        "date": "2025-01-01",
+        "date_label": "January 2025, first day of the term",
+        "source": "https://commonwealthbeacon.org/government/state-government/frustrated-by-prolonged-inaction-spilka-might-backtrack-on-extending-legislative-deadline-next-term/",
+        "source_name": "CommonWealth Beacon, quoting her inaugural speech",
+        "who": "Senate President Karen Spilka (D-Ashland)"
+      },
+      "now": {
+        "text": "Prolonged inaction on many of the major bills currently in conference as residents face rising energy bills and an ongoing housing crisis is unacceptable",
+        "date": "2026-11-09",
+        "source": "https://commonwealthbeacon.org/government/state-government/frustrated-by-prolonged-inaction-spilka-might-backtrack-on-extending-legislative-deadline-next-term/",
+        "source_name": "CommonWealth Beacon, her statement",
+        "who": "Senate President Karen Spilka (D-Ashland)",
+        "big": "0 of 12"
+      },
+      "record": [
+        {
+          "date": "2025-01-01",
+          "date_label": "January 2025",
+          "label": "Spilka’s inaugural speech: the Legislature should “allow conference committee votes to continue through the full two-year session”",
+          "source": "CommonWealth Beacon",
+          "url": "https://commonwealthbeacon.org/government/state-government/frustrated-by-prolonged-inaction-spilka-might-backtrack-on-extending-legislative-deadline-next-term/",
+          "role": "then"
+        },
+        {
+          "date": "2026-11-09",
+          "label": "Spilka: inaction “unacceptable”; “Unless we see movement soon, I cannot support extending the time for conference negotiations again in our joint rules next session”; a dozen conference committees, none at consensus; Mariano: the new rules “allowed the Legislature more time”",
+          "source": "CommonWealth Beacon",
+          "url": "https://commonwealthbeacon.org/government/state-government/frustrated-by-prolonged-inaction-spilka-might-backtrack-on-extending-legislative-deadline-next-term/",
+          "role": "now"
+        },
+        {
+          "date": "2026-11-10",
+          "label": "12 conference committees still negotiating, 40-plus decisions pending before the Jan. 5 end of term",
+          "source": "The Boston Report",
+          "url": "https://thebostonreport.com/2026/11/10/spilka-conference-committee-deadline-unacceptable-beacon-hill/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/spilka-full-two-year-session.jpg",
+        "alt": "FNN graphic: Spilka’s longer clock, then and now",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "January 2025, Senate President Spilka wanted conference talks to run “through the full two-year session.” Now: 12 committees, zero deals, and her word for it is “unacceptable.”",
+        "caption": "HER IDEA. HER VERDICT."
+      }
+    },
+    {
+      "slug": "healey-voters-have-their-say",
+      "date": "2026-11-12",
+      "section": "thenvsnow",
+      "kicker": "MASSACHUSETTS · THEN vs. NOW",
+      "headline": "Nov. 6: Healey Made Her Abortion Law an “Emergency,” Blocking the Pause Opponents Sought.",
+      "headline_now": "This Week: “I Support… Allowing Voters to Have Their Say.”",
+      "deck": "Opponents gathered signatures to put the law on hold until voters decide in 2028. Her declaration put it in force now. The repeal vote stays on the ballot.",
+      "byline": "By FNN Desk",
+      "body": "Nov. 6, Gov. Maura Healey wrote Secretary of State William Galvin: “I declare that act to be an emergency law.” That put her law loosening limits on abortions after 24 weeks into effect at once, blocking opponents’ bid to suspend it until a 2028 repeal vote, the Globe reported.\n\nAsked this week if that was meant to thwart repeal, Healey told the Herald: “I support that being on the ballot and for allowing voters to have their say.”\n\nThey get it in 2028. The law runs until then.\n\nHer reason: patients forced out of state. Nine state Democrats voted no.",
+      "pull_quote": "I support that being on the ballot and for allowing voters to have their say.",
+      "then": {
+        "text": "I therefore declare that it is in the public interest that the act take effect immediately, and I declare that act to be an emergency law.",
+        "date": "2026-11-06",
+        "source": "https://mobileapp.bostonglobe.com/11072026_ae664696-da36-11f1-898b-22f93faa17b4/content.html",
+        "source_name": "Boston Globe, quoting her letter to Secretary Galvin",
+        "who": "Gov. Maura Healey (D-Mass.)"
+      },
+      "now": {
+        "text": "I support that being on the ballot and for allowing voters to have their say.",
+        "date": "2026-11-11",
+        "source": "https://www.arcamax.com/politics/politicalnews/s-4342556",
+        "source_name": "Boston Herald (syndicated via ArcaMax)",
+        "who": "Gov. Maura Healey (D-Mass.)"
+      },
+      "record": [
+        {
+          "date": "2026-11-06",
+          "label": "Healey’s letter to Galvin declares the act an emergency law, putting it into effect immediately and blocking an attempt by activists to suspend it pending a 2028 repeal vote",
+          "source": "Boston Globe",
+          "url": "https://mobileapp.bostonglobe.com/11072026_ae664696-da36-11f1-898b-22f93faa17b4/content.html",
+          "role": "then"
+        },
+        {
+          "date": "2026-11-11",
+          "label": "Healey to the Herald: “I support that being on the ballot and for allowing voters to have their say”; patients “had to travel out of state”; nine state Democrats voted against the bill; Catholic bishops’ statement",
+          "source": "Boston Herald (Tim Dunn), syndicated via ArcaMax",
+          "url": "https://www.arcamax.com/politics/politicalnews/s-4342556",
+          "role": "now"
+        },
+        {
+          "date": "2026-11-07",
+          "label": "Archbishop Henning and three bishops: “We respectfully and passionately disagree that abortion, the taking of human life, may be considered health care”",
+          "source": "Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/11/07/metro/catholic-leaders-criticize-healey-abortion-law/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/healey-voters-have-their-say.jpg",
+        "alt": "FNN graphic: Healey’s emergency, then and now",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Nov. 6, Gov. Healey declared her abortion law an “emergency,” blocking opponents’ bid to pause it. This week: “I support… allowing voters to have their say.” In 2028.",
+        "caption": "THEIR SAY. IN 2028."
+      }
+    },
+    {
+      "slug": "moore-not-veterans-of-combat",
+      "date": "2026-11-12",
+      "section": "thenvsnow",
+      "kicker": "MARYLAND · THEN vs. NOW · DISPUTED",
+      "headline": "2022: Wes Moore Wrote That He “Led Soldiers Into Combat in Afghanistan.”",
+      "headline_now": "His Army Supervisor Now: “We’re Not Veterans of Combat.”",
+      "deck": "Retired Lt. Col. Jamie Gottschling says Moore was a valued staff officer, not a combat leader. Moore’s office calls it a partisan “swiftboat campaign.”",
+      "byline": "By FNN Desk",
+      "body": "May 2022, Maryland Gov. Wes Moore posted that he had “led soldiers into combat in Afghanistan,” Spotlight on Maryland reports.\n\nHis direct supervisor there, retired Lt. Col. James “Jamie” Gottschling, says Moore worked information operations on a brigade staff at a big, protected base. “I like to say that we’re combat veterans, but we’re not veterans of combat.” He calls Moore “a valued member of the brigade staff.” His advice: “Be honest.”\n\nMoore’s office says Gottschling once rated him a “top 1% officer” and that Army records verify his Combat Action Badge.\n\nDISPUTED. Both sides are on the record below.",
+      "pull_quote": "I like to say that we’re combat veterans, but we’re not veterans of combat.",
+      "then": {
+        "text": "led soldiers into combat in Afghanistan",
+        "date": "2022-05-01",
+        "date_label": "May 2022",
+        "source": "https://foxbaltimore.com/news/local/moore-says-he-led-troops-in-combat-his-army-supervisor-tells-a-different-story",
+        "source_name": "Spotlight on Maryland, quoting his social media post",
+        "who": "Wes Moore, then a candidate for Maryland governor"
+      },
+      "now": {
+        "text": "I like to say that we’re combat veterans, but we’re not veterans of combat.",
+        "date": "2026-11-08",
+        "source": "https://foxbaltimore.com/news/local/moore-says-he-led-troops-in-combat-his-army-supervisor-tells-a-different-story",
+        "source_name": "Spotlight on Maryland (Fox45 Baltimore)",
+        "who": "Retired Lt. Col. James “Jamie” Gottschling, Moore’s supervisor in Afghanistan"
+      },
+      "record": [
+        {
+          "date": "2022-05-01",
+          "date_label": "May 2022",
+          "label": "Moore’s May 2022 post: he “led soldiers into combat in Afghanistan” (as quoted by Spotlight on Maryland)",
+          "source": "Fox45 Baltimore / Spotlight on Maryland",
+          "url": "https://foxbaltimore.com/news/local/moore-says-he-led-troops-in-combat-his-army-supervisor-tells-a-different-story",
+          "role": "then"
+        },
+        {
+          "date": "2026-11-08",
+          "label": "Gottschling: Moore worked information operations as a brigade staff officer at FOB Salerno; “It’s disingenuous to say that you led paratroopers in combat”; Combat Action Badge was for a minor indirect rocket attack",
+          "source": "Fox45 Baltimore / Spotlight on Maryland",
+          "url": "https://foxbaltimore.com/news/local/moore-says-he-led-troops-in-combat-his-army-supervisor-tells-a-different-story",
+          "role": "now"
+        },
+        {
+          "date": "2026-11-08",
+          "label": "Q&A: “He was a valued member of the brigade staff”; “Be honest”",
+          "source": "Fox45 Baltimore / Spotlight on Maryland",
+          "url": "https://foxbaltimore.com/news/local/wes-moores-army-supervisor-questions-his-integrity-military-claims-qa",
+          "role": null
+        },
+        {
+          "date": "2026-11-10",
+          "label": "Moore spokesman Ammar Moussa: Gottschling rated him a “top 1% officer”; service “independently verified by official Army records”; “no partisan swiftboat campaign will change the facts”",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/politics/dem-governors-tale-combat-action-torn-shreds-commanding-army-officer-give-me-break",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/moore-not-veterans-of-combat.jpg",
+        "alt": "FNN graphic: Moore’s combat claim, then and now",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "2022: Gov. Wes Moore wrote that he “led soldiers into combat in Afghanistan.” His Army supervisor now: “we’re combat veterans, but we’re not veterans of combat.” Moore’s office disputes it.",
+        "caption": "NOT VETERANS OF COMBAT"
+      }
+    },
+    {
+      "slug": "majority-democrats-press-locked-out",
+      "date": "2026-11-12",
+      "section": "fake",
+      "kicker": "MEDIA WATCH · SPUN",
+      "headline": "Democrats’ Big Post-Election Summit Is in Denver. The Free Beacon and The Lever Didn’t Get In.",
+      "deck": "The super PAC cited space. The Lever calls it payback for reporting on the group’s billionaire donors. An Intercept reporter got in after complaining.",
+      "byline": "By FNN Desk",
+      "body": "Majority Democrats bills its Denver summit, What’s Next, as “the major post-election gathering of the Democratic Party.” Pete Buttigieg, Hakeem Jeffries and Josh Shapiro are among the featured speakers.\n\nThe Washington Free Beacon asked for credentials and got a generic denial email. The spokesman’s reason: “We’re at capacity.” The Lever, from the left, was denied too. Founder David Sirota calls it “clear retribution” for its reporting on the group’s billionaire backers.\n\nAn Intercept journalist got in several days after complaining, the Free Beacon reports.\n\nSpace, it seems, was tighter for some outlets than for others.",
+      "pull_quote": "We’re at capacity and unfortunately could not accommodate your request for credentials due to space constraints.",
+      "record": [
+        {
+          "date": "2026-11-11",
+          "label": "Free Beacon denied credentials; spokesman: “We’re at capacity and unfortunately could not accommodate your request for credentials due to space constraints”; Intercept journalist granted entry after complaining; The Lever denied",
+          "source": "Washington Free Beacon",
+          "url": "https://freebeacon.com/democrats/free-beacon-denied-press-credentials-to-dems-post-election-summit/",
+          "role": null
+        },
+        {
+          "date": "2026-11-06",
+          "label": "The Lever: Majority Democrats “is attempting to block our reporters” while “offering access to corporate media outlets”; speakers include Buttigieg, Booker and Slotkin",
+          "source": "The Lever",
+          "url": "https://www.levernews.com/we-exposed-democrats-billionaire-backers-now-theyre-blocking-our-reporters/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/majority-democrats-press-locked-out.jpg",
+        "alt": "FNN graphic: press locked out of the Democrats’ Denver summit",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Democrats’ big post-election summit in Denver: the Free Beacon and The Lever were denied credentials. The reason given: “We’re at capacity.” An Intercept reporter got in after complaining.",
+        "caption": "“WE’RE AT CAPACITY.”"
+      }
+    },
     {
       "slug": "spacex-bastrop-100-gigawatts",
       "date": "2026-11-11",
@@ -190,7 +462,7 @@
       "pull_quote": "If the Democrats truly believe there should be ‘No Kings’ in America, it is time they take their own advice.",
       "record": [
         {
-          "date": "2026-11-06",
+          "date": "2026-11-07",
           "label": "Jayapal: “We are going to take our state back. We’re going to start planning for how we overturn these bad initiatives…”; Chair Shasti Conrad: “The fight over I-638 is just beginning”; takes effect Dec. 3; Legislature cannot repeal within two years, amendment needs 2/3 of each chamber",
           "source": "KOMO News",
           "url": "https://komonews.com/news/politics/midterm-elections-politics-washington-state-voter-approved-girls-sports-initiative-likely-to-face-court-battles-transgirls-in-sports-wnba",
@@ -1801,6 +2073,186 @@
       "share": {
         "line": "Hexumlite got into a University of Florida dining hall for $13 in a $590 fake Rolex, logged about 34 approaches and one probable number, and flies to Miami Wednesday for a palatal expander.",
         "caption": "$13 AND A $590 FAKE ROLEX."
+      }
+    },
+    {
+      "slug": "kirk-letters-bibles-and-journals",
+      "date": "2026-11-12",
+      "section": "faith",
+      "kicker": "FAITH, FAMILY AND FREEDOM",
+      "headline": "Letters, Bibles and Hundreds of Journals: What Charlie Kirk Left Behind, and What America Sent Back",
+      "deck": "Erika Kirk keeps the Bibles strangers mailed in and the journals where Charlie wrote down his vision. Across the country, Americans reached for a Bible too.",
+      "byline": "By FNN Desk",
+      "body": "At Turning Point USA’s Arizona headquarters, Erika Kirk showed Fox News the letters and Bibles Americans sent after her husband’s death. Charlie Kirk’s notes are still on his desk. Of his chair: “My kids are the only ones that sit in it.”\n\nHe left a map. “Charlie left with us hundreds of his journals,” she said. “He wrote down a lot about the future of Turning Point and the vision of Turning Point.”\n\nAmerica reached for the Book too. Christian Today, citing Publishers Weekly, reports U.S. Bible sales hit a 21-year high in 2025, with 2.4 million sold that September.",
+      "pull_quote": "My kids are the only ones that sit in it.",
+      "record": [
+        {
+          "date": "2026-10-09",
+          "label": "Erika Kirk’s headquarters tour: letters and Bibles from supporters, notes on his desk, empty chair, “hundreds of his journals”, 3,500 high school chapters",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/media/erika-kirk-reveals-presidential-library-style-tribute-charlie-kirk-works-tpusa-expands",
+          "role": null
+        },
+        {
+          "date": "2026-11-09",
+          "label": "Charlie Kirk, 31, killed Sept. 10, 2025, at Utah Valley University",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/erika-kirk-blasts-disgusting-jokes-dave-chappelle-mocks-charlie-kirk-a-rcna608371",
+          "role": null
+        },
+        {
+          "date": "2026-01-13",
+          "label": "U.S. Bible sales at a 21-year high in 2025, about 19 million, up 12%; 2.4 million in September 2025, up 36% (Publishers Weekly / Circana BookScan)",
+          "source": "Christian Today",
+          "url": "https://www.christiantoday.com/news/bible-sales-surge-to-record-levels-among-gen-z-on-both-sides-of-the-atlantic",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/kirk-letters-bibles-and-journals.jpg",
+        "alt": "FNN graphic: What Charlie Kirk left behind",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Letters, Bibles and hundreds of journals: what Charlie Kirk left behind, and what America sent back.",
+        "caption": "HE WROTE IT DOWN"
+      }
+    },
+    {
+      "slug": "allie-beth-stuckey-ana-kate-app",
+      "date": "2026-11-12",
+      "section": "faith",
+      "kicker": "Family",
+      "headline": "“Unapologetically for Women and for Life”: Allie Beth Stuckey Builds a Pregnancy App With a Prayer Board",
+      "deck": "Thinking about baby number four, the Christian author and podcast host went looking for an app that didn’t fight her faith. So she built one.",
+      "byline": "By FNN Desk",
+      "body": "Thinking about baby number four, Christian author and podcast host Allie Beth Stuckey looked at the tracking apps she had used. At very best “ideologically neutral,” she told The Daily Signal, “but usually hostile to the Christian worldview.”\n\nSo she built one. Her cycle and pregnancy app, ana kate, is “unapologetically for women and for life,” made over nearly two years with input from pro-life OB-GYNs. A prayer board lets women post requests and be “able to praise God with that person.”\n\nIt has passed 10,000 downloads, the Signal reports.",
+      "pull_quote": "Unapologetically for women and for life.",
+      "record": [
+        {
+          "date": "2026-11-01",
+          "label": "Stuckey launches ana kate: baby number four, “unapologetically for women and for life”, AAPLOG input, prayer board, practitioner directory, 10,000+ downloads, No. 6 on Apple’s Health & Fitness chart",
+          "source": "The Daily Signal",
+          "url": "https://www.dailysignal.com/2026/11/01/allie-beth-stuckey-launches-a-new-space-for-christian-women-and-moms/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/allie-beth-stuckey-ana-kate-app.jpg",
+        "alt": "FNN graphic: Unapologetically for women and for life",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Allie Beth Stuckey built a pregnancy app “unapologetically for women and for life,” with a prayer board.",
+        "caption": "FOR WOMEN AND FOR LIFE"
+      }
+    },
+    {
+      "slug": "gen-z-church-attendance-mixed-signals",
+      "date": "2026-11-12",
+      "section": "faith",
+      "kicker": "Gen Z and the Church",
+      "headline": "The Youngest Adults Are in the Pews. Now the Church Has to Keep Them.",
+      "deck": "Pew figures show 41% of Americans ages 18 to 22 attend services at least monthly, more than adults overall. A few birthdays later, it drops to 27%.",
+      "byline": "By FNN Desk",
+      "body": "America’s youngest adults are showing up. A Pew Research Center analysis reported by the Deseret News found 41% of 18- to 22-year-olds attend religious services at least monthly, versus 33% of all adults. Young men, at 47%, outpace young women, at 35%.\n\nThe warning: at ages 23 to 26, it falls to 27%. Pew’s Chip Rotolo calls it “mixed signals.”\n\nBarna found prayer is the top spiritual reason young adults give for going. “They’re showing up for the simple offerings,” says Barna’s Daniel Copeland.\n\nResearchers want more data before calling it a resurgence. It is an open door.",
+      "pull_quote": "They’re showing up for the simple offerings.",
+      "record": [
+        {
+          "date": "2026-11-03",
+          "label": "Pew analysis: 41% of ages 18–22 attend monthly vs. 33% overall; 27% of ages 23–26; men 47% vs. women 35%; 443 respondents, about 5.7-point margin; Rotolo: “mixed signals”",
+          "source": "Deseret News",
+          "url": "https://www.deseret.com/faith/2026/11/03/how-many-young-adults-attend-church/",
+          "role": null
+        },
+        {
+          "date": "2026-09-15",
+          "label": "Barna: 34% of Gen Z and Millennials attending more often; prayer (45%) top spiritual reason; Copeland: “They’re showing up for the simple offerings”",
+          "source": "Barna Group",
+          "url": "https://www.barna.com/research/young-adults-spiritual-reasons-church/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/gen-z-church-attendance-mixed-signals.jpg",
+        "alt": "FNN graphic: The youngest adults are in the pews",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Pew: 41% of 18- to 22-year-olds attend services monthly, more than adults overall. The test comes a few years later.",
+        "caption": "41% IN THE PEWS"
+      }
+    },
+    {
+      "slug": "jackie-hill-perry-still-blameless",
+      "date": "2026-11-12",
+      "section": "faith",
+      "kicker": "Young Christian Leaders",
+      "headline": "“Still Blameless”: Jackie Hill Perry Brings Psalm 88 and the Resurrection Into Seven New Songs",
+      "deck": "The poet, rapper, Bible teacher and mother of three returns Friday with a 22-track expanded edition of the album she built on Jude 24.",
+      "byline": "By FNN Desk",
+      "body": "Poet, rapper, Bible teacher and mother of three Jackie Hill Perry releases Still Blameless on Friday, Nov. 13, through Reach Records: 22 tracks, seven of them new, JubileeCast reports.\n\nThe new songs go to hard places. One engages Psalm 88, among Scripture’s starkest laments. Another, “Ascension,” takes up the promise of the dead in Christ rising first.\n\nThe title comes from Jude 24. “The album isn’t about sinless perfection; it’s about longing to look like Jesus even when you don’t,” she told The Christian Post.\n\nHer word to young women: “We have to fight for focus.”",
+      "pull_quote": "The album isn’t about sinless perfection; it’s about longing to look like Jesus even when you don’t.",
+      "record": [
+        {
+          "date": "2026-11-08",
+          "label": "Still Blameless out Nov. 13 via Reach Records; 22 tracks, seven new; Psalm 88 and “Ascension” descriptions",
+          "source": "JubileeCast",
+          "url": "https://www.jubileecast.com/articles/40923/20261108/jackie-hill-perry-expands-blameless-with-seven-additional-songs-on-still-blameless-arriving-november-13.htm",
+          "role": null
+        },
+        {
+          "date": "2025-11-12",
+          "label": "Interview: title from Jude 1:24; “The album isn’t about sinless perfection”; “We have to fight for focus”",
+          "source": "The Christian Post",
+          "url": "https://www.christianpost.com/news/jackie-hill-perry-talks-spiritual-warfare-return-to-music.html",
+          "role": null
+        },
+        {
+          "date": "2025-09-19",
+          "label": "Blameless released, her first album since 2018 and first with Reach Records",
+          "source": "Rapzilla",
+          "url": "https://rapzilla.com/2025-09-jackie-hill-perry-releases-album-blameless/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/jackie-hill-perry-still-blameless.jpg",
+        "alt": "FNN graphic: Still Blameless",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Jackie Hill Perry’s Still Blameless arrives Friday: 22 tracks, seven new, from Psalm 88 to the resurrection.",
+        "caption": "STILL BLAMELESS"
+      }
+    },
+    {
+      "slug": "maharashtra-churches-bible-camps",
+      "date": "2026-11-12",
+      "section": "faith",
+      "kicker": "The Persecuted Church",
+      "headline": "Banners, Fees and CCTV: Under a New Anti-Conversion Law, Indian Churches Guard Their Children’s Bible Camps",
+      "deck": "In Maharashtra, some pastors have cancelled Vacation Bible School after prayer meetings were disrupted. Others now register kids and add cameras.",
+      "byline": "By FNN Desk",
+      "body": "In India’s Maharashtra state, Vacation Bible School now comes with paperwork. The Indian Express reports several Protestant churches are cancelling VBS over the Diwali break or limiting it to Christian children, after people identifying as Bajrang Dal or VHP workers disrupted prayer meetings and a state anti-conversion law took effect Aug. 28.\n\nSome churches charge Rs 50 or Rs 100 registration fees as proof parents sent children willingly. Pastor Ravi Gupta, who has faced four police FIRs this year: “we cannot risk it with children.”\n\nIn Kolhapur, a church with its own building lends it to congregations that have none.",
+      "pull_quote": "We are living in such a tough time that any programme we hold, we will be questioned.",
+      "record": [
+        {
+          "date": "2026-11-10",
+          "label": "Churches cancel or restrict VBS; Bajrang Dal/VHP-identified disruptions; nine FIRs from five incidents; anti-conversion law effective Aug. 28; Rs 50–100 fees; CCTV advised; quotes from Patole, Gupta, Salve; Kolhapur church lends its building",
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/maharashtra-anti-conversion-law-churches-bible-camps-diwali-10957007/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/maharashtra-churches-bible-camps.jpg",
+        "alt": "FNN graphic: Indian churches guard their children’s Bible camps",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Under Maharashtra’s new anti-conversion law, churches now register kids for Bible camp, or cancel it.",
+        "caption": "BIBLE CAMP, WITH PAPERWORK"
       }
     },
     {
