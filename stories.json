@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-11-pm4",
-  "date": "2026-11-11",
-  "updated_at": "2026-11-11T21:19:00-05:00",
+  "edition": "2026-11-12-am",
+  "date": "2026-11-12",
+  "updated_at": "2026-11-12T03:22:36-05:00",
   "lead": "spacex-bastrop-100-gigawatts",
   "stories": [
     {
@@ -305,6 +305,69 @@
       "share": {
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
+      }
+    },
+    {
+      "slug": "heelmike-had-it-all-ruined-it",
+      "date": "2026-11-12",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · HEELMIKE",
+      "headline": "He Said He’d Gotten It to Eight Grand Off Camera. Then He Lost $6,500 in 15 Minutes.",
+      "deck": "HeelMike said he’d gotten to eight grand off camera, then lost $6,500 in 15 minutes. On-stream, the overlay peaked at $1,702.38 and was last sampled at $81.39.",
+      "byline": "By FNN Desk",
+      "body": "Thursday after 1:45 a.m. ET, HeelMike ran an 18-minute-56-second Stake.us blackjack stream. He said he’d been gambling off camera, “got it all the way to eight grand,” then “lost 6.5 thousand dollars in 15 minutes.” His claims, not a verified withdrawal. The first overlay sample showed $1,597.38. “This is destined for failure. I had it all. I had it all. I had it all. I ruined it,” he said. The sampled overlay peaked at $1,702.38, then showed $81.39 mid-hand near the close. “End it, end it, end the stream,” he said.",
+      "pull_quote": "I had it all. I had it all. I had it all. I ruined it.",
+      "record": [
+        {
+          "date": "2026-11-12",
+          "date_label": "Thursday, 1:45 a.m. ET, “GIVEAWAY! HEELMIKE GAMBLING WITH WOMEN” VOD (18 minutes 56 seconds)",
+          "label": "Overnight house stream on Stake.us blackjack, 1:45 a.m. to about 2:04 a.m. ET. Official Kick duration 18 minutes 56 seconds (1,136,000 ms). Category: Slots & Casino / Gambling. Mature. English. Livestream 137378222. 103,491 followers at this check. This desk’s only live check was at 2:02 a.m. ET, about 16 to 17 minutes in: 1,248 viewers on refresh (first pull moments earlier showed 1,155). VOD views 5,878 at the ~3:15 a.m. ET check. The finished VOD object’s viewer_count field is 1,468; this desk is treating that as a residual/last concurrent figure, not a confirmed peak. The stream title says “GIVEAWAY,” but no giveaway drawing, winner, or payout was clearly captured on this tape. Cold approaches: 0. Women and other private people on the broadcast are not named. The first 4 minutes 44 seconds are a “Connection lost, be back soon!” holding graphic, with no usable speech; that footage is not this stream’s action.",
+          "source": "Kick VOD, HeelMike, “GIVEAWAY! HEELMIKE GAMBLING WITH WOMEN”",
+          "url": "https://kick.com/heelmike/videos/09a3ace5-d544-4873-9fde-ba4cb0968ae9",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "date_label": "VOD, [00:06:23] and [00:08:31]–[00:08:45]",
+          "label": "After taking over the stream around [00:06:15], he said, “Fucking six grand just lost every single dollar.” Later: “So I was gambling off camera, got it all the way to eight grand, and then my PC wasn’t — and nothing was working. So I just started manically gambling and I lost 6.5 thousand dollars in 15 minutes. Whoops, whoops. Could have spread that with everybody. Nope.” (“Could have” is the Kick caption reading.) These are his words about an off-camera session and were not independently verified. This desk is not treating eight grand or $6,500 as a verified cash-out or official P/L.",
+          "source": "Kick VOD, HeelMike, “GIVEAWAY! HEELMIKE GAMBLING WITH WOMEN”",
+          "url": "https://kick.com/heelmike/videos/09a3ace5-d544-4873-9fde-ba4cb0968ae9",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "date_label": "VOD, [00:08:54]–[00:09:45]",
+          "label": "On-stream Stake.us blackjack began around [00:08:54]. He announced a “$200 hand to start.” The first overlay sample, at [00:09:15], showed a wallet of $1,597.38 with a $400.00 bet. At [00:09:38]–[00:09:45] he said, “This is destined for failure. I had it all. I had it all. I had it all. I ruined it.” By [00:09:45] the sampled wallet was $597.38. Overlay figures are what was visible in sampled frames, not an official spreadsheet, and are not combined here with the off-camera claims into one verified total.",
+          "source": "Kick VOD, HeelMike, “GIVEAWAY! HEELMIKE GAMBLING WITH WOMEN”",
+          "url": "https://kick.com/heelmike/videos/09a3ace5-d544-4873-9fde-ba4cb0968ae9",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "date_label": "VOD, [00:10:00]–[00:18:15]",
+          "label": "Sampled Stake.us overlay frames, grabbed every 15 seconds, not an official P/L: the wallet swung through $297.38 at [00:11:00], $1,397.38 at [00:12:00], and a sampled peak of $1,702.38 at [00:13:45] (player 16 vs dealer 22, marked a win; bet box 308). Recurring later bet sizes included 308.76 and 154.38. He said, “I’m actually fucking manic as shit,” and, “This is a scam. No, it’s not. I was really up fucking so much money that I went manic.” At [00:15:24]–[00:15:31]: “I lose all my money. Take a break. I don’t know how to stop. … I’m so stupid.” The last gameplay sample, at [00:18:15], showed $81.39 with a $154.38 bet still on a live hand (player 12 vs dealer 7 and a hole card). There is no later overlay frame to show how that hand resolved.",
+          "source": "Kick VOD, HeelMike, “GIVEAWAY! HEELMIKE GAMBLING WITH WOMEN”",
+          "url": "https://kick.com/heelmike/videos/09a3ace5-d544-4873-9fde-ba4cb0968ae9",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "date_label": "VOD, [00:15:45]–[00:18:56]",
+          "label": "He said, “I literally wrote in the fucking noti … we’re doing goddamn IRL tomorrow. … I will start tomorrow. Starts tomorrow.” “Noti” is his word for the stream notification. Tomorrow from this tape is Thursday, Nov. 12, 2026. No confirmed clock time. A caption-only fragment around [00:16:16], “be back seven,” was not clearly confirmed by whisper and is not treated as a start time. Kick’s captions are the cleaner close: “End it, end it, end the stream.” The picture goes black around [00:18:30]–[00:18:45] and finishes on the same “Connection lost, be back soon!” graphic.",
+          "source": "Kick VOD, HeelMike, “GIVEAWAY! HEELMIKE GAMBLING WITH WOMEN”",
+          "url": "https://kick.com/heelmike/videos/09a3ace5-d544-4873-9fde-ba4cb0968ae9",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/heelmike-had-it-all-ruined-it.jpg",
+        "alt": "HeelMike on a Kick stream, with a Stake.us blackjack overlay showing a $1,597.38 wallet and a $400.00 bet",
+        "credit": "Kick VOD, HeelMike",
+        "caption": "A sampled frame at [00:09:15] shows the Stake.us overlay at $1,597.38 with a $400.00 bet."
+      },
+      "share": {
+        "line": "HeelMike said he’d gambled off camera up to eight grand and then lost $6,500 in 15 minutes. On-stream, the Stake.us overlay peaked at $1,702.38 and was last sampled at $81.39.",
+        "caption": "THEN THE OVERLAY FELL TO $81.39."
       }
     },
     {
