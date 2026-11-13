@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-12-am3",
-  "date": "2026-11-12",
-  "updated_at": "2026-11-12T09:21:05-05:00",
+  "edition": "2026-11-13-am",
+  "date": "2026-11-13",
+  "updated_at": "2026-11-13T03:19:28-05:00",
   "lead": "cybertruck-room-for-sentimentality",
   "stories": [
     {
@@ -577,6 +577,85 @@
       "share": {
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
+      }
+    },
+    {
+      "slug": "cobbruvs-butter-chicken-to-perfection",
+      "date": "2026-11-13",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · COBBRUVS",
+      "headline": "He Swore Off Hard Liquor and Cooked Butter Chicken “to Perfection.” Then Came King Street and “Like Two Shots.”",
+      "deck": "CobbRuvs’ nine-hour Toronto marathon went condo kitchen, freezing sightseeing walk, then Stake, ending on a $12 parlay he says pays $2,300.",
+      "byline": "By FNN Desk",
+      "body": "CobbRuvs spent nine hours and 14 minutes turning a Toronto condo he says runs about $110 Canadian a night into a culinary landmark. He billed himself as “the first white American to ever cook the main Canadian cuisine out here,” announced mid-sear that he’d quit hard liquor, and fought a touchscreen stove to the verdict: “This is some of the best butter chicken I’ve ever had, and it’s cooked to perfection.” Then came a freezing King Street walk, where he admitted to “like two shots,” and a Stake session ending on a $12 parlay he says pays $2,300.",
+      "pull_quote": "This is some of the best butter chicken I’ve ever had, and it’s cooked to perfection.",
+      "record": [
+        {
+          "date": "2026-11-12",
+          "date_label": "Thursday, Nov. 12, 5:37 p.m. ET, to Friday, Nov. 13, about 2:51 a.m. ET (9 hours, 14 minutes, 8 seconds)",
+          "label": "Apartment cooking stream, then a Toronto sightseeing IRL, then a Stake gambling session. Official Kick duration 33,248,000 ms (9 hours, 14 minutes, 8 seconds). IRL on the finished VOD object; mature; English. Livestream / VOD 137498370. 4,906 VOD views at the 3:02 a.m. ET discovery; 4,908 at a 3:11 a.m. ET refresh. 30,889 followers at that check, up from 30,863 at 6:04 p.m. ET Thursday. Highest concurrent viewer counts this desk saw live (Kick API): 1,168 / 1,165 around 1:05 a.m. ET Friday and 1,061 at 8:02 p.m. ET Thursday; these are sampled checks, not an official peak. Cold approaches: 0. Private people on the broadcast are not named.",
+          "source": "Kick VOD, CobbRuvs, “BEERS & COOKING STREAM [BUDDER CHICKEN]”",
+          "url": "https://kick.com/cobbruvs/videos/44a0f2b1-93be-4425-9370-d5310eeda197",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "date_label": "VOD 00:09:20 (about 5:46 p.m. ET)",
+          "label": "“We’re cooking butter chicken and rice, the first white American to ever cook the main Canadian cuisine out here. We’re cooking butter chicken! Who’s ever cooked butter chicken in the chat? This might taste like straight shit. I haven’t really looked it up.” Speech-to-text confirmed.",
+          "source": "Kick VOD, CobbRuvs, “BEERS & COOKING STREAM [BUDDER CHICKEN]”",
+          "url": "https://kick.com/cobbruvs/videos/44a0f2b1-93be-4425-9370-d5310eeda197",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "date_label": "VOD 00:12–00:30 (5:49–6:07 p.m. ET)",
+          "label": "“This hotel was like a hundred and ten Canadian a night. It’s not a hotel. I’m damn near in an apartment condo out here. The CN Tower is right behind this building right here.” Speech-to-text confirmed. He said it was booked through Expedia; the price is as he stated it.",
+          "source": "Kick VOD, CobbRuvs, “BEERS & COOKING STREAM [BUDDER CHICKEN]”",
+          "url": "https://kick.com/cobbruvs/videos/44a0f2b1-93be-4425-9370-d5310eeda197",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "date_label": "VOD 01:00–02:00 (6:37–7:37 p.m. ET)",
+          "label": "While the chicken thighs seared: “I quit drinking hard liquor. … I can’t really get drunk off Cutwaters or Coronas … Does anyone proud of me? Like, that takes a lot as a man.” Speech-to-text confirmed. He also fought the touchscreen cooktop, which kept flashing error codes and shutting off, and called it something that should be “banned.”",
+          "source": "Kick VOD, CobbRuvs, “BEERS & COOKING STREAM [BUDDER CHICKEN]”",
+          "url": "https://kick.com/cobbruvs/videos/44a0f2b1-93be-4425-9370-d5310eeda197",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "date_label": "VOD 03:04:20 (about 8:41 p.m. ET)",
+          "label": "“The butter chicken is done. Try it. … Kill me right now if I’m lying. This is some of the best butter chicken I’ve ever had, and it’s cooked to perfection.” Speech-to-text confirmed and checked against a 90-second clip of the tasting. He served the woman in the apartment first; her on-tape review was mixed (“pumpkin-y,” “really sweet,” then “it’s pretty good”). He said next time he would add more cream and cut the pieces smaller.",
+          "source": "Kick VOD, CobbRuvs, “BEERS & COOKING STREAM [BUDDER CHICKEN]”",
+          "url": "https://kick.com/cobbruvs/videos/44a0f2b1-93be-4425-9370-d5310eeda197",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "date_label": "VOD 04:53–05:16 and 07:24–07:54 (10:30–10:53 p.m. and 1:01–1:31 a.m. ET)",
+          "label": "Outside: “Welcome to Canada. We’re all miserable and cold.” At a bar he talked himself into “one shot can’t hurt, right, boys.” Walking home on the King Street IRL, he said he “went back on [his] word” with “like two shots” and “let [himself] down.” Several bars and clubs would not let him film openly. (Caption-based.)",
+          "source": "Kick VOD, CobbRuvs, “BEERS & COOKING STREAM [BUDDER CHICKEN]”",
+          "url": "https://kick.com/cobbruvs/videos/44a0f2b1-93be-4425-9370-d5310eeda197",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "date_label": "VOD 07:54–09:14 (1:31–2:51 a.m. ET)",
+          "label": "Back in the apartment he played Stake slots, blackjack and keno called by chat. He built an NBA parlay he described as $12 to win $2,300: “What’s $12 hitting for? $2,300 off the $12. … Boom. Bet placed.” Speech-to-text confirmed. The payout figure is his on-stream claim; this desk did not settle the slip, and the result was unknown at filing. Sign-off over leftover butter chicken: “And that’s how we’re sending it off for now. On a nice quiet meal, chug a drink, and send you on your way.”",
+          "source": "Kick VOD, CobbRuvs, “BEERS & COOKING STREAM [BUDDER CHICKEN]”",
+          "url": "https://kick.com/cobbruvs/videos/44a0f2b1-93be-4425-9370-d5310eeda197",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/cobbruvs-butter-chicken-to-perfection.jpg",
+        "alt": "CobbRuvs in a plaid flannel and backwards gray cap unpacking groceries on a white kitchen counter in his Toronto apartment-condo",
+        "credit": "Kick VOD, CobbRuvs",
+        "caption": "CobbRuvs unpacks the butter-chicken groceries in the Toronto condo kitchen, Thursday evening, Nov. 12."
+      },
+      "share": {
+        "line": "CobbRuvs said he quit hard liquor, cooked butter chicken “to perfection” in a Toronto condo, then hit King Street for “like two shots” and closed on a $12 Stake parlay.",
+        "caption": "COOKED TO PERFECTION."
       }
     },
     {
