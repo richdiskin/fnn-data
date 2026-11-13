@@ -1,9 +1,203 @@
 {
-  "edition": "2026-11-13-am",
+  "edition": "2026-11-13-am2",
   "date": "2026-11-13",
-  "updated_at": "2026-11-13T03:19:28-05:00",
-  "lead": "cybertruck-room-for-sentimentality",
+  "updated_at": "2026-11-13T04:39:54-05:00",
+  "lead": "spacex-no-replacement",
   "stories": [
+    {
+      "slug": "spacex-no-replacement",
+      "section": "freedom",
+      "kicker": "FEATURE · ELON MUSK",
+      "headline": "Democrats Promise to Investigate SpaceX. The Catch, Per Axios: The Government “Has No Replacement.”",
+      "deck": "Musk’s rockets flew roughly 90% of U.S. orbital launches this year. His case: SpaceX is “BOTH the best product AND the lowest price!”",
+      "body": "The new Democratic majority is vowing a slew of investigations into Elon Musk’s companies, Axios reports. One Senate aide counted the Republican hearings on SpaceX so far: “Zero.”\n\nThen Axios lays out the catch. For critical military and space missions, “the government has no replacement for SpaceX — and likely won’t for years.” SpaceX flew nearly 94% of U.S. orbital launches last year and roughly 90% so far in 2026, per American Enterprise Institute data.\n\nMusk’s pitch: SpaceX contracts are “BOTH the best product AND the lowest price!”\n\nInvestigate away. Somebody still has to fly the rockets.",
+      "pull_quote": "SpaceX contracts with the government are BOTH the best product AND the lowest price!",
+      "record": [
+        {
+          "date": "2026-11-12",
+          "label": "Democratic majority vows investigations; “the government has no replacement for SpaceX — and likely won’t for years”; ~94% of U.S. orbital launches last year and ~90% in 2026 (AEI data); Senate aide: “Zero” hearings; left-leaning Democracy Defenders Fund counts at least $10 billion in new contracts since May 2025; CSIS and Commercial Space Federation views",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/11/12/spacex-scrutiny-looms-congress",
+          "role": null
+        },
+        {
+          "date": "2026-11-06",
+          "label": "Musk: “Tesla has no government contracts… SpaceX contracts with the government are BOTH the best product AND the lowest price!”",
+          "source": "his own post on X",
+          "url": "https://x.com/elonmusk/status/2118737725964837353",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/spacex-no-replacement.jpg",
+        "alt": "FNN graphic: the government has no replacement for SpaceX",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Democrats vow to investigate SpaceX. Axios: for critical military and space missions, “the government has no replacement for SpaceX — and likely won’t for years.”",
+        "caption": "“NO REPLACEMENT FOR SPACEX”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-13"
+    },
+    {
+      "slug": "gimenez-tesla-red-carpet",
+      "section": "freedom",
+      "kicker": "LATEST · ELON MUSK",
+      "headline": "A Florida Republican to Musk: Move Tesla Here. “Florida Is Rolling Out the Red Carpet.”",
+      "deck": "Rep. Carlos Giménez sent a formal invitation after Texas elected what he calls “socialist politicians.” Musk has not publicly responded.",
+      "body": "Rep. Carlos Giménez, a Florida Republican and former Miami-Dade County mayor, has formally invited Elon Musk to move Tesla’s headquarters from Texas to “the Free State of Florida.”\n\nHis office says the letter raises concerns about the recent election of self-described Democratic Socialists in Texas and “politically motivated investigations, and policies that punish success.”\n\nHis pitch: “While socialist politicians in Texas threaten to punish success, Florida is rolling out the red carpet for innovation, investment, and job creation.”\n\nMusk has not publicly responded, NBC 6 reports. The carpet stays out.",
+      "pull_quote": "Florida is rolling out the red carpet for innovation, investment, and job creation.",
+      "record": [
+        {
+          "date": "2026-11-11",
+          "label": "Press release: Giménez letter invites Tesla to relocate to “the Free State of Florida”; concerns over “self-described Democratic Socialists in Texas”; full Giménez quote",
+          "source": "Office of Rep. Carlos Giménez",
+          "url": "https://gimenez.house.gov/media/press-releases/congressman-carlos-a-gimenez-invites-elon-musk-to-relocate-tesla-headquarters-to-florida",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "label": "Giménez pitch for Tesla HQ in South Florida; “Musk has not publicly responded to the invitation”",
+          "source": "NBC 6 South Florida",
+          "url": "https://www.nbcmiami.com/news/local/rep-carlos-gimenez-is-making-a-pitch-for-tesla-to-move-its-headquarters-to-florida/3887165/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/gimenez-tesla-red-carpet.jpg",
+        "alt": "FNN graphic: Florida rolls out the red carpet for Tesla",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Rep. Carlos Giménez to Elon Musk: move Tesla to Florida. “While socialist politicians in Texas threaten to punish success, Florida is rolling out the red carpet.”",
+        "caption": "THE RED CARPET IS OUT"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-13"
+    },
+    {
+      "slug": "nyt-cspan-invited-to-call-in",
+      "section": "fake",
+      "kicker": "MEDIA WATCH · CORRECTED",
+      "headline": "The Times Said Trump Called C-SPAN “Apparently Without Notice.” The Correction: “Mr. Trump Was Invited to Call In.”",
+      "deck": "The line ran in a news analysis on Trump’s “chaotic greatest hits.” The fix came after Trump called it out overnight. A syndicated copy still runs the old line.",
+      "body": "A New York Times news analysis on Trump’s “chaotic greatest hits” said he called into the premiere of a C-SPAN show “apparently without notice.”\n\nEarly Wednesday, Trump posted that it was “a fully scheduled call, as a favor to C-Span, set up through White House Communications.”\n\nThe Times then appended a correction: “Due to an editing error, an earlier version of this story misstated the circumstances of a call President Trump made to C-SPAN. Mr. Trump was invited to call in. He did not call in unannounced.”\n\nThe Philadelphia Inquirer’s syndicated copy still says “apparently without notice.”",
+      "pull_quote": "Mr. Trump was invited to call in. He did not call in unannounced.",
+      "record": [
+        {
+          "date": "2026-11-11",
+          "label": "Trump’s Truth Social post (“a fully scheduled call, as a favor to C-Span”); text of the Times correction note",
+          "source": "HuffPost",
+          "url": "https://www.huffpost.com/entry/donald-trump-new-york-times-truth-social-c-span-bedminster-golf-sexual-harassment_n_6af47cc8e4b0a8468d8c4605",
+          "role": null
+        },
+        {
+          "date": "2026-11-11",
+          "label": "Correction text; the Times updated the piece “more than eight hours later”; headline “Trump Trots Out His Chaotic Greatest Hits to a Weary Public”",
+          "source": "Daily Mail",
+          "url": "https://www.dailymail.com/media/article-16284867/donald-trump-new-york-times-fact-check-cspan-sexual-harrassment-suit.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-11",
+          "label": "Syndicated copy of the Times analysis (Katie Rogers), posted 6:54 a.m. ET, still reads “apparently without notice” and “call unannounced into C-SPAN” when checked Nov. 13",
+          "source": "The Philadelphia Inquirer",
+          "url": "https://www.inquirer.com/politics/nation/donald-trump-election-claims-dana-white-20261111.html",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/nyt-cspan-invited-to-call-in.jpg",
+        "alt": "FNN graphic: invited to call in",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "The NYT said Trump called C-SPAN “apparently without notice.” The correction: “Mr. Trump was invited to call in. He did not call in unannounced.”",
+        "caption": "“INVITED TO CALL IN.”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-13"
+    },
+    {
+      "slug": "starshield-spacex-no-change",
+      "section": "freedom",
+      "kicker": "LATEST · DISPUTED",
+      "headline": "Ukraine Says Starshield Is Throttled Again. SpaceX: “This Is False. There Has Been No Change.”",
+      "deck": "Zelensky says drones lose the link above 100 mph. SpaceX denies changing anything. Musk has said Starshield is “owned and controlled by the US government.”",
+      "body": "Ukraine says it’s happening again. President Zelensky says Starshield, SpaceX’s military satellite service, is cutting out on drones flying faster than 161 kilometers per hour, about 100 mph: “not random errors but systematic speed restrictions.”\n\nSpaceX’s answer, to Axios and Ars Technica: “This is false. There has been no change.”\n\nLast month’s limits were lifted by Oct. 24, Ars reports. CBS News says people familiar with the matter told it Musk made that call himself. Musk has written that Starshield is “owned and controlled by the US government.”\n\nDISPUTED: Ukraine reports limits; SpaceX denies any change.",
+      "pull_quote": "This is false. There has been no change.",
+      "record": [
+        {
+          "date": "2026-11-12",
+          "label": "SpaceX: “This is false. There has been no change.”; Zelensky: “not random errors but systematic speed restrictions”; Ukrainian official’s 10%/50%/100% figures",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/11/12/ukraine-starshield-restricted-spacex-russia-zelensky",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "label": "Zelensky: “The speed limit is back at 161 kilometers per hour”; SpaceX denial to Ars; earlier limits removed by Oct. 24",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "label": "SpaceX declined to comment to CNBC; Musk on X: “Starshield systems are owned and controlled by the US government”",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "label": "People familiar told CBS that Musk himself decided to reduce Starshield service last month; Ukrainian source “certain” SpaceX is behind this week’s limits",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/russia-ukraine-war-elon-musk-starshield-limited-us-witkoff-kushner-diplomacy/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/starshield-spacex-no-change.jpg",
+        "alt": "FNN graphic: SpaceX says there has been no change",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Ukraine says Starshield is limited again above about 100 mph. SpaceX: “This is false. There has been no change.” DISPUTED.",
+        "caption": "“THERE HAS BEEN NO CHANGE.”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-13"
+    },
+    {
+      "slug": "spacex-tesla-merger-talks-december",
+      "section": "money",
+      "kicker": "MONEY · REPORTED",
+      "headline": "SpaceX and Tesla Merger Talks Are Moving, Bloomberg Reports. A Deal Could Come as Early as December.",
+      "deck": "Musk called a merger “a good idea” last month. SpaceX closed at about $1.90 trillion; Tesla at about $1.55 trillion.",
+      "body": "SpaceX and Tesla are progressing in merger negotiations, and a deal could be announced as early as December, Bloomberg News reported Thursday, citing people familiar with the matter, according to Reuters.\n\nMusk said on SpaceX’s third-quarter earnings call last month that a merger with Tesla would be “a good idea.” The companies have formed special committees of independent directors.\n\nSpaceX’s market cap was about $1.90 trillion at last close; Tesla’s about $1.55 trillion. The hurdles: SpaceX’s defense contracts and Tesla’s reliance on China.\n\nIt could slip to early 2027. REPORTED.",
+      "pull_quote": "A merger with Tesla would be “a good idea.”",
+      "record": [
+        {
+          "date": "2026-11-12",
+          "label": "Bloomberg-reported merger progress, possible December announcement or early 2027; Musk’s “a good idea”; special committees; market caps; regulatory hurdles; companies not reached for comment",
+          "source": "Reuters (via U.S. News)",
+          "url": "https://money.usnews.com/investing/news/articles/2026-11-12/spacex-tesla-merger-talks-progress-bloomberg-news-reports",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/spacex-tesla-merger-talks-december.jpg",
+        "alt": "FNN graphic: SpaceX and Tesla merger talks",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Bloomberg: SpaceX and Tesla merger talks are progressing, and a deal could be announced as early as December. Musk has called it “a good idea.”",
+        "caption": "SPACEX + TESLA?"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-13"
+    },
     {
       "slug": "cybertruck-room-for-sentimentality",
       "date": "2026-11-12",
@@ -2223,6 +2417,193 @@
       "share": {
         "line": "Hexumlite got into a University of Florida dining hall for $13 in a $590 fake Rolex, logged about 34 approaches and one probable number, and flies to Miami Wednesday for a palatal expander.",
         "caption": "$13 AND A $590 FAKE ROLEX."
+      }
+    },
+    {
+      "slug": "kirk-when-people-stop-talking",
+      "date": "2026-11-13",
+      "section": "faith",
+      "kicker": "FAITH, FAMILY AND FREEDOM",
+      "headline": "“When People Stop Talking”: Charlie Kirk’s Case for Words Over Weapons, and Erika’s Plea in a Hard Week",
+      "deck": "A comedian joked about his murder, and a judge set jury selection for 2028. Erika Kirk answered with the conviction Charlie carried onto every campus.",
+      "byline": "By FNN Desk",
+      "body": "Charlie Kirk built his campus events on three words: “Prove Me Wrong.” Asked about them in a clip CNN reported, he explained why: “When people stop talking, that’s when you get violence.”\n\nThis week tested that. Dave Chappelle joked at Madison Square Garden about feeling better since Kirk was murdered, NBC News reported. Then a Utah judge set jury selection in the case against his accused killer for June 21, 2028.\n\nErika Kirk answered: “You do not have to agree with someone’s politics to recognize the value of their life.” And: “This should not be so hard.”",
+      "pull_quote": "You do not have to agree with someone’s politics to recognize the value of their life.",
+      "record": [
+        {
+          "date": "2025-09-11",
+          "label": "Kirk clip on “Prove Me Wrong” events: “When people stop talking, that’s when you get violence”",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2025/09/11/media/charlie-kirk-assassination-political-violence-democracy",
+          "role": null
+        },
+        {
+          "date": "2026-11-09",
+          "label": "Chappelle’s Madison Square Garden remark; Erika Kirk’s statement on the value of life",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/erika-kirk-blasts-disgusting-jokes-dave-chappelle-mocks-charlie-kirk-a-rcna608371",
+          "role": null
+        },
+        {
+          "date": "2026-11-10",
+          "label": "Judge Tony Graf sets jury selection for June 21, 2028; Erika Kirk: “deeply disappointing”",
+          "source": "InTouch Weekly via Yahoo News",
+          "url": "https://www.yahoo.com/news/us/articles/erika-kirk-reacts-judge-makes-192913447.html",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/kirk-when-people-stop-talking.jpg",
+        "alt": "FNN graphic: When people stop talking",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Charlie Kirk: “When people stop talking, that’s when you get violence.” Erika Kirk this week: “This should not be so hard.”",
+        "caption": "“THIS SHOULD NOT BE SO HARD.”"
+      }
+    },
+    {
+      "slug": "bart-religious-exemption-verdict-stands",
+      "date": "2026-11-13",
+      "section": "faith",
+      "kicker": "RELIGIOUS LIBERTY",
+      "headline": "Fired for Their Faith, Vindicated in Court: Appeals Court Leaves $7.8 Million BART Verdict Standing",
+      "deck": "Six Bay Area transit workers lost their jobs after seeking religious exemptions from a 2021 vaccine mandate. The Ninth Circuit won’t take another look.",
+      "byline": "By FNN Desk",
+      "body": "In 2021, 181 Bay Area Rapid Transit employees asked for religious exemptions from BART’s COVID-19 vaccine mandate. According to the appellate opinion, BART accommodated none of the 70 it deemed eligible, and 73 lost their jobs.\n\nSix sued. In October 2024, a federal jury found BART never showed that accommodating them would be an undue hardship, and awarded $7,824,580.\n\nA Ninth Circuit panel unanimously affirmed in September. Now the court has denied BART’s rehearing request, Pacific Justice Institute announced Nov. 11.\n\nFaith goes to work, too.",
+      "pull_quote": "A federal jury found that BART failed to establish that accommodating their religious convictions would impose an undue hardship.",
+      "record": [
+        {
+          "date": "2026-11-11",
+          "label": "Ninth Circuit denies rehearing; $7,824,580 verdict for six; 181 requests, 70 eligible, none accommodated, 73 lost jobs; Sept. 11 unanimous published opinion; possible Supreme Court petition",
+          "source": "Pacific Justice Institute",
+          "url": "https://pacificjustice.org/press/ninth-circuit-rejects-barts-latest-challenge-to-pjis-7-8-million-religious-discrimination-victory/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/bart-religious-exemption-verdict-stands.jpg",
+        "alt": "FNN graphic: BART verdict stands",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Six BART workers fired over religious objections to a vaccine mandate: their $7.8 million verdict stands.",
+        "caption": "THE VERDICT STANDS"
+      }
+    },
+    {
+      "slug": "beijing-jiaquan-pastor-cui-arrested",
+      "date": "2026-11-13",
+      "section": "faith",
+      "kicker": "THE PERSECUTED CHURCH",
+      "headline": "“Hold Fast to Their Faith”: Beijing Arrests a House Church Pastor Whose Congregation Grew Too Big",
+      "deck": "Pastor Cui Xianfeng was formally arrested on fraud allegations after more than 100 officers surrounded his church’s 20th-anniversary preparations.",
+      "byline": "By FNN Desk",
+      "body": "Members of Beijing Jiaquan Church were preparing a hotel conference room for their 20th anniversary on Sept. 4 when more than 100 officers surrounded the venue, Worthy News reports.\n\nOn Oct. 23, Pastor Cui Xianfeng was formally arrested on fraud allegations. His wife, Jin Young Gu, suggested the charges were connected to the church’s refusal to register with the state. She recalls a 2023 warning: “They told him that he should lead only one church with fewer than 100 people.”\n\nFrom detention, he urged believers to “hold fast to their faith and never lose hope.”",
+      "pull_quote": "They told him that he should lead only one church with fewer than 100 people.",
+      "record": [
+        {
+          "date": "2026-11-12",
+          "label": "Sept. 4 operation with 100+ officers; Oct. 23 formal arrest; Gu’s account to AP; 2023 warning; message from detention per ChinaAid; Gu denied a visa since 2023",
+          "source": "Worthy News",
+          "url": "https://www.worthynews.com/118952-china-arrests-beijing-house-church-pastor-as-crackdown-on-christians-widens",
+          "role": null
+        },
+        {
+          "date": "2026-11-02",
+          "label": "Wider crackdown: Ezra Jin released after 266 days; 2026 detention law; GCR Red List ranks China first for arrests of Christians",
+          "source": "Court Magazine",
+          "url": "https://www.courtmagazine.org/post/china-s-squeeze-on-independent-churches-after-the-release-of-pastor-ezra-jin",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/beijing-jiaquan-pastor-cui-arrested.jpg",
+        "alt": "FNN graphic: Hold fast to their faith",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Beijing arrested house church pastor Cui Xianfeng. His message from detention: “hold fast to their faith and never lose hope.”",
+        "caption": "“HOLD FAST.”"
+      }
+    },
+    {
+      "slug": "virginia-state-christian-clubs-lawsuit",
+      "date": "2026-11-13",
+      "section": "faith",
+      "kicker": "FAITH ON CAMPUS",
+      "headline": "“This Is Not Virginia Christian University”: Christian Students Take Virginia State to Federal Court",
+      "deck": "A new policy put two student ministries under a university minister and staff board, while the Muslim Student Association stays independent.",
+      "byline": "By FNN Desk",
+      "body": "Two Christian student ministries at Virginia State University, Bethel Campus Fellowship and Women of Victory, have sued in federal court over an August policy placing them under the campus ministry office.\n\nVPM News reports the policy keeps the Muslim Student Association’s governance and funding independent. VSU’s campus minister, in a conversation included in court filings: “This is not Virginia Christian University, it is Virginia State University.”\n\nDouglas Laycock, emeritus law professor at the University of Virginia: “That’s almost certainly unconstitutional.”\n\nVSU did not answer requests for comment.",
+      "pull_quote": "VSU is brazenly singling out Christian clubs and treating them worse than student groups of other faiths.",
+      "record": [
+        {
+          "date": "2026-10-22",
+          "label": "Lawsuit filed Sept. 24 by ADF; August policy; Langhofer: “VSU is brazenly singling out Christian clubs”",
+          "source": "The College Fix",
+          "url": "https://www.thecollegefix.com/christian-clubs-sue-virginia-state-u-for-policy-giving-staff-control-of-student-led-ministries/",
+          "role": null
+        },
+        {
+          "date": "2026-10-09",
+          "label": "MSA exemption; Wynn quote from filings; Oman, Laycock and Weber quotes; VSU no comment",
+          "source": "VPM News",
+          "url": "https://www.vpm.org/news/2026-10-09/vsu-adf-petersburg-bethel-campus-fellowship-women-of-victory-christianity/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/virginia-state-christian-clubs-lawsuit.jpg",
+        "alt": "FNN graphic: This is not Virginia Christian University",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Christian student groups sue Virginia State over a policy that leaves the Muslim Student Association independent. A UVA scholar: “almost certainly unconstitutional.”",
+        "caption": "TREATED LIKE EVERYONE ELSE"
+      }
+    },
+    {
+      "slug": "will-garinger-run-with-christ",
+      "date": "2026-11-13",
+      "section": "faith",
+      "kicker": "YOUNG CHRISTIAN LEADERS",
+      "headline": "“Running Is Just Honestly the Facade”: How Will Garinger Turned a Saturday Run Into a Gen Z Movement for Jesus",
+      "deck": "Run With Christ began with about 200 young people in a Columbus park in September 2024. Now it spans more than 85 cities on three continents.",
+      "byline": "By FNN Desk",
+      "body": "Will Garinger was a goalkeeper, not a runner. His plan was modest: a devotional, then a run.\n\nOn Sept. 7, 2024, he told CBN News, it became “over 200 some people” on a Saturday morning. “We saw people just getting saved, getting prayed for, and getting plugged into the local church.”\n\nRun With Christ now spans more than 85 cities across seven nations and three continents, according to The Running Effect Podcast.\n\n“Running is just honestly the facade of it all to just bring people in,” he says. “But then we get to share with them the love of Christ.”",
+      "pull_quote": "Running is just honestly the facade of it all to just bring people in.",
+      "record": [
+        {
+          "date": "2026-07-12",
+          "label": "Garinger’s goalkeeper background; Columbus park start; 85+ cities, seven nations, three continents",
+          "source": "The Running Effect Podcast (iHeart)",
+          "url": "https://www.iheart.com/podcast/269-the-running-effect-podcast-103796851/episode/how-will-garinger-built-a-run-338678039/",
+          "role": null
+        },
+        {
+          "date": "2025-10-22",
+          "label": "Garinger quotes; Sept. 7, 2024, first big gathering",
+          "source": "CBN News",
+          "url": "https://cbn.com/news/us/run-christ-genz-run-club-put-focus-jesus-grows-revival-type-movement",
+          "role": null
+        },
+        {
+          "date": "2026-02-11",
+          "label": "Waco chapter in Cameron Park",
+          "source": "The Baylor Lariat",
+          "url": "https://baylorlariat.com/2026/02/11/run-with-christ-brings-faith-fitness-to-waco-community/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/will-garinger-run-with-christ.jpg",
+        "alt": "FNN graphic: Run With Christ",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Will Garinger’s Run With Christ: “Running is just honestly the facade of it all to just bring people in.”",
+        "caption": "RUN WITH CHRIST"
       }
     },
     {
