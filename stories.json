@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-13-am2",
+  "edition": "2026-11-13-am3",
   "date": "2026-11-13",
-  "updated_at": "2026-11-13T04:39:54-05:00",
+  "updated_at": "2026-11-13T07:11:06-05:00",
   "lead": "spacex-no-replacement",
   "stories": [
     {
@@ -771,6 +771,85 @@
       "share": {
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
+      }
+    },
+    {
+      "slug": "heelmike-we-all-work-together-forever",
+      "date": "2026-11-13",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · HEELMIKE",
+      "headline": "Shut Out of the Partner Party, He Says, HeelMike Paid a Segway Stranger $50. By Dawn: “We All Work Together Forever.”",
+      "deck": "HeelMike’s 3-hour-40-minute San Diego TwitchCon opener went bar, street, a lost Stake hand, a $50 handoff, a stranger’s car and Panda’s Raising Cane’s.",
+      "byline": "By FNN Desk",
+      "body": "HeelMike went live at 2:57 a.m. ET in downtown San Diego, announced “I am a morning streamer now,” and spent three hours and 40 minutes building a TwitchCon empire. He says he missed a flight, got turned away from the partner party and won three grand off camera, figures he later contradicted. On camera, he lost a Stake blackjack hand, handed a photographer he’d just met $50 instead, ordered onion-loaded hot dogs he named “the Chernobyl,” and rode in the stranger’s car to the rental, where Panda was eating Raising Cane’s. His verdict: “Now we all work together forever.”",
+      "pull_quote": "I am coming to TwitchCon to start no problems. Have fun. So bring good vibes.",
+      "record": [
+        {
+          "date": "2026-11-13",
+          "date_label": "Friday, Nov. 13, 2:57 a.m. ET, to about 6:37 a.m. ET (3 hours, 40 minutes, 5 seconds)",
+          "label": "IRL stream from San Diego for TwitchCon: downtown bars and streets, a street hot-dog cart, a ride in a photographer’s car, the crew’s rental, and a 24/7 grocery store. Official Kick duration 13,205,000 ms (3 hours, 40 minutes, 5 seconds). IRL; tags Adventure; English; marked mature. Livestream / VOD 137569223. 20,948 VOD views at the 7:02 a.m. ET check. 103,517 followers at that check, up from 103,487 at the first live flag around 3:02 a.m. ET. Concurrent viewers this desk saw live (Kick API): about 306 around 3:02 a.m. ET, 3,747 at 3:57 a.m. ET and 5,141 at 5:57 a.m. ET; these are sampled checks, not an official peak. Cold approaches: 0 confirmed. Private people on the broadcast, including the photographer, are not named.",
+          "source": "Kick VOD, HeelMike, “HEELMIKE vs TWITCHCON PT 1”",
+          "url": "https://kick.com/heelmike/videos/3eeb5f5b-aa37-45a2-ad4f-0055feef27fb",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "date_label": "VOD 0:01–0:03 (about 2:58–3:00 a.m. ET)",
+          "label": "He said “our flights got delayed like four times,” that he would “do a giveaway tomorrow,” and that the crew will be “live tonight, Friday, Saturday, Sunday, all IRL.” Told it was “only 3 a.m.,” he answered, “I am a morning streamer now, stop playing.” He then walked back his own flight count: “We missed three flights today. … Why do I have to lie? We missed one flight.” Kick captions. No giveaway drawing happens on this tape.",
+          "source": "Kick VOD, HeelMike, “HEELMIKE vs TWITCHCON PT 1”",
+          "url": "https://kick.com/heelmike/videos/3eeb5f5b-aa37-45a2-ad4f-0055feef27fb",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "date_label": "VOD 0:04:51–0:06 (about 3:02–3:03 a.m. ET)",
+          "label": "His account of the TwitchCon partner party: “I went to the partner party … and they didn’t let me in, which is bullshit. … They thought I was some other dude.” Speech-to-text and captions agree; this is his version of what staff said, not a confirmed official notice. He also said, “I gambled off camera today. I won three grand, so I’m in a good mood.” Later in the stream he said he “lost a thousand dollars gambling on Stake” and that he had “gambled three grand.” His figures do not reconcile and were not verified.",
+          "source": "Kick VOD, HeelMike, “HEELMIKE vs TWITCHCON PT 1”",
+          "url": "https://kick.com/heelmike/videos/3eeb5f5b-aa37-45a2-ad4f-0055feef27fb",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "date_label": "VOD 0:54–1:03 (about 3:51–4:00 a.m. ET)",
+          "label": "He met a photographer on the street and advised him to shoot streamers outside the convention when it closes: “Trust me, you’ll blow up. … I’m actually giving him sauce, chat.” After losing a short Stake blackjack hand while trying to send him money, he said, “I’ll give you 50 because I lost my money. Fifty dollars.” Kick captions.",
+          "source": "Kick VOD, HeelMike, “HEELMIKE vs TWITCHCON PT 1”",
+          "url": "https://kick.com/heelmike/videos/3eeb5f5b-aa37-45a2-ad4f-0055feef27fb",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "date_label": "VOD 1:22–1:38 (about 4:19–4:35 a.m. ET)",
+          "label": "At a street cart he ordered hot dogs with “extra onions,” later “four orders of onions,” and named them “the Chernobyl.” The bill in captions was $33.99. He recapped the travel day: “I missed my flight, lost five hundred dollars, booked another flight.” The $500 is his figure. Kick captions.",
+          "source": "Kick VOD, HeelMike, “HEELMIKE vs TWITCHCON PT 1”",
+          "url": "https://kick.com/heelmike/videos/3eeb5f5b-aa37-45a2-ad4f-0055feef27fb",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "date_label": "VOD 2:14–2:58 (about 5:11–5:55 a.m. ET)",
+          "label": "The photographer drove the crew to the rental, where the streamer Panda, in a grey tie-dye hoodie, was eating Raising Cane’s at the table (visually confirmed). HeelMike asked chat for an over/under on fights he would have to break up and said, “I am coming to TwitchCon to start no problems. Have fun. So bring good vibes.” In the car he told the photographer, “A $250 ticket. I’m gonna buy it for you. … You could be the driver.” The ticket purchase was not seen on this VOD. Kick captions.",
+          "source": "Kick VOD, HeelMike, “HEELMIKE vs TWITCHCON PT 1”",
+          "url": "https://kick.com/heelmike/videos/3eeb5f5b-aa37-45a2-ad4f-0055feef27fb",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "date_label": "VOD 3:28–3:40:05 (about 6:25–6:37 a.m. ET)",
+          "label": "On the ride back, wearing a metallic skull mask and a black fur vest, he recapped the night: the crew gave a stranger $50, got in his car, went to a grocery store, and “now we all work together forever.” His close: “We’ll be live long Friday, long Saturday, long Sunday. … I love you guys. Good night.” Kick captions, lightly cleaned for roll.",
+          "source": "Kick VOD, HeelMike, “HEELMIKE vs TWITCHCON PT 1”",
+          "url": "https://kick.com/heelmike/videos/3eeb5f5b-aa37-45a2-ad4f-0055feef27fb",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/heelmike-we-all-work-together-forever.jpg",
+        "alt": "HeelMike in a black T-shirt, gold-rimmed sunglasses and a silver watch, checking his phone at a downtown San Diego crosswalk at night",
+        "credit": "Kick VOD, HeelMike",
+        "caption": "HeelMike on a downtown San Diego street at the top of the stream, early Friday, Nov. 13."
+      },
+      "share": {
+        "line": "HeelMike says TwitchCon’s partner party turned him away. He lost a Stake hand, paid a stranger on a Segway $50 and rode in his car to the rental: “Now we all work together forever.”",
+        "caption": "NOW WE ALL WORK TOGETHER FOREVER."
       }
     },
     {
