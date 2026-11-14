@@ -1,9 +1,174 @@
 {
-  "edition": "2026-11-14-am2",
+  "edition": "2026-11-14-am3",
   "date": "2026-11-14",
-  "updated_at": "2026-11-14T04:15:27-05:00",
-  "lead": "spacex-no-replacement",
+  "updated_at": "2026-11-14T04:40:00-05:00",
+  "lead": "starship-flight-15-in-orbit",
   "stories": [
+    {
+      "slug": "starship-flight-15-in-orbit",
+      "section": "freedom",
+      "kicker": "FEATURE · ELON MUSK",
+      "headline": "Starship Is in Orbit, Circling Earth “Every ~90 Minutes.” Today It Tries to Come Home to the Tower.",
+      "deck": "Flight 15 put 26 Starlink V3 satellites in orbit. The booster catch was called off. Overnight, SpaceX said the ship and heatshield are “healthy.”",
+      "body": "Elon Musk’s Starship lifted off from Starbase, Texas, Friday evening on Flight 15 and reached orbit for the second time ever. “We’ve got a nominal orbit insertion,” SpaceX’s Dan Huot said on the webcast.\n\nIt deployed 26 Starlink V3 satellites. The Super Heavy booster’s tower catch was called off, and it splashed down in the Gulf instead.\n\nOvernight, SpaceX said the ship and its heatshield are “healthy.” Musk: “Starship is traveling around the world every ~90 minutes right now.”\n\nIf all stays healthy, the ship attempts the first-ever tower catch of a Starship upper stage around 4:20 p.m. ET today.",
+      "pull_quote": "Starship is traveling around the world every ~90 minutes right now.",
+      "record": [
+        {
+          "date": "2026-11-13",
+          "label": "Flight 15 liftoff 5:47 p.m. ET; booster catch called off, controlled Gulf splashdown; orbit insertion at T+26 min (Huot: “We’ve got a nominal orbit insertion, so Starship now in orbit around Earth for the second time ever”); 26 Starlink V3 deployed; ship return planned ~4:17 p.m. EST Saturday; “first-ever recovery of a Starship upper stage”",
+          "source": "Space.com",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "label": "Liftoff 5:48 p.m. EST; Booster 22 diverted to an offshore splashdown and exploded; up to 14 orbits; return to launch site ~4:20 p.m. EST, 22.5 hours after launch, if systems stay healthy",
+          "source": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "label": "SpaceX, 12:44 a.m. ET: “Starship and its heatshield are healthy”; planned return-to-launch-site catch ~22.5 hours after launch",
+          "source": "SpaceX on X",
+          "url": "https://x.com/SpaceX/status/2121479482582441991",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "label": "Musk, 1:25 a.m. ET: “Starship is traveling around the world every ~90 minutes right now”",
+          "source": "his own post on X",
+          "url": "https://x.com/elonmusk/status/2121489571213168758",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/starship-flight-15-in-orbit.jpg",
+        "alt": "FNN graphic: Starship in orbit",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Starship Flight 15 reached orbit and deployed 26 Starlink V3 satellites. Musk: “Starship is traveling around the world every ~90 minutes right now.” Catch attempt today.",
+        "caption": "STARSHIP IS IN ORBIT"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-14"
+    },
+    {
+      "slug": "united-ceo-starlink-biggest-advantage",
+      "section": "money",
+      "kicker": "MONEY · ELON MUSK",
+      "headline": "United’s CEO on Musk’s Starlink: “The Biggest Near-Term Competitive Advantage That We’ve Ever Had”",
+      "deck": "Scott Kirby says Wi-Fi is “the No. 1 reason” people pick a flight, and customers are trying United “because they want Starlink.”",
+      "body": "United Airlines CEO Scott Kirby, at Yahoo Finance Invest, on Elon Musk’s Starlink: “[Wi-Fi is] the No. 1 reason that people pick an airline flight. I think it’s the biggest near-term competitive advantage that we’ve ever had in United’s 100-year history.”\n\nHe added that “it really is something that’s causing customers to try United because they want Starlink.”\n\nKirby said United expects half its mainline fleet equipped by year-end and all of it by the end of 2027. Delta picked Amazon’s Leo, not expected until 2028.\n\nKirby’s verdict: “I think Leo is a mistake.”",
+      "pull_quote": "I think it’s the biggest near-term competitive advantage that we’ve ever had in United’s 100-year history.",
+      "record": [
+        {
+          "date": "2026-11-12",
+          "label": "Kirby at Yahoo Finance Invest: Wi-Fi “the No. 1 reason”; “biggest near-term competitive advantage”; “causing customers to try United because they want Starlink”; 50% of mainline fleet by year-end, 87% by end of next summer, 100% by end of 2027; Delta chose Amazon Leo (rollout not expected until 2028); “I think Leo is a mistake”",
+          "source": "Yahoo Finance (Brian Sozzi)",
+          "url": "https://finance.yahoo.com/markets/article/united-airlines-ceo-starlink-is-our-biggest-competitive-advantage-in-100-years-212741824.html",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/united-ceo-starlink-biggest-advantage.jpg",
+        "alt": "FNN graphic: United’s biggest advantage",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "United CEO Scott Kirby on Starlink: “I think it’s the biggest near-term competitive advantage that we’ve ever had in United’s 100-year history.”",
+        "caption": "“THE BIGGEST ADVANTAGE”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-14"
+    },
+    {
+      "slug": "huang-spy-story-does-not-prove",
+      "section": "fake",
+      "kicker": "MEDIA WATCH · DISPUTED",
+      "headline": "Jensen Huang Is Out at Nvidia After a Spy Story. Now CNN’s Sources Say the Intel “Does Not Prove” She Spied.",
+      "deck": "The Times reported intelligence officials concluded his lover was recruited by China’s spy agency. The attorney general: “no conclusions reached.”",
+      "body": "The New York Times reported that U.S. intelligence officials concluded a Chinese businesswoman who had an affair with Nvidia CEO Jensen Huang had been recruited by China’s top spy agency. Huang admitted the affair and resigned Wednesday, as a report of a second affair, with a subordinate, broke.\n\nThen CNN: multiple sources say the intelligence on her to date “does not prove that she was acting as a spy for Beijing.” Attorney General Todd Blanche: “no conclusions reached.” CIA officials are “not yet convinced.”\n\nSome officials still call her a clear risk. The FBI probe continues. DISPUTED.",
+      "pull_quote": "No conclusions reached by the Department of Justice, or by me, or by [FBI] Director Patel around who she is or is not.",
+      "record": [
+        {
+          "date": "2026-11-12",
+          "label": "Huang stepping down; per the New York Times, U.S. intelligence officials concluded the woman “had been recruited by China’s top spy agency”; NPR has not independently confirmed; Huang admitted the affair in a Sunday email; Times report of a second affair; China calls spying claims baseless; Colette Kress interim CEO",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-board-fired",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "label": "Sources: intelligence to date “does not prove that she was acting as a spy for Beijing”; Blanche: “no conclusions reached…”; ODNI officials: “not entirely accurate and over-torqued”; CIA “not yet convinced”; Trump: “was the woman a spy? And I don’t know if that’s been determined yet”; other officials: she “posed a clear counterintelligence risk”; FBI probe ongoing; Huang resigned Wednesday",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/11/12/politics/alice-huang-us-intel-jensen-huang-nvidia",
+          "role": null
+        },
+        {
+          "date": "2026-11-10",
+          "label": "Board hires former acting SDNY U.S. Attorney Joon Kim and Wachtell Lipton; Trump: Huang “had absolutely no idea that the person in question was a spy”",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/business/corporations/ex-prosecutor-probe-jensen-huang-chinese-spy-affair-nvidia-rcna608628",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/huang-spy-story-does-not-prove.jpg",
+        "alt": "FNN graphic: does not prove",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Jensen Huang left Nvidia after reports his lover was a Chinese spy. Now CNN’s sources: the intel “does not prove that she was acting as a spy for Beijing.” DISPUTED.",
+        "caption": "“DOES NOT PROVE”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-14"
+    },
+    {
+      "slug": "supreme-court-takes-trump-asylum-suspension",
+      "section": "freedom",
+      "kicker": "LATEST · THE BORDER",
+      "headline": "The Supreme Court Will Decide Whether Trump Can Suspend Asylum at the Southern Border",
+      "deck": "The justices took up the administration’s appeal Friday. Lower courts ruled against the policy, but it stays in place while the case goes on.",
+      "body": "The Supreme Court agreed Friday to decide whether President Trump can suspend access to asylum for migrants at the U.S.-Mexico border, SCOTUSblog reports.\n\nThe policy began with a Jan. 20, 2025, proclamation declaring that “an invasion is ongoing at the southern border.” A district judge ruled against it, and a D.C. Circuit panel largely agreed. The appeals court put its ruling on hold, so the restrictions remain.\n\nSolicitor General D. John Sauer told the justices the proclamation “rests on a commonsense understanding of the President’s inherent and delegated powers to exclude aliens.”\n\nNow the justices decide.",
+      "pull_quote": "An invasion is ongoing at the southern border.",
+      "record": [
+        {
+          "date": "2026-11-13",
+          "label": "Court grants review in Mullin v. RAICES; Jan. 20, 2025 proclamation (“an invasion is ongoing at the southern border”); Judge Moss and D.C. Circuit rulings; ruling on hold so restrictions stay; Sauer: “rests on a commonsense understanding of the President’s inherent and delegated powers to exclude aliens”",
+          "source": "SCOTUSblog (Amy Howe)",
+          "url": "https://www.scotusblog.com/2026/11/supreme-court-agrees-to-hear-case-on-trump-administrations-suspension-of-asylum/",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "label": "No. 26-239, Mullin v. Refugee and Immigrant Center: cert. granted 11/13/2026, limited to Questions 1 and 2",
+          "source": "Supreme Court of the United States",
+          "url": "https://www.supremecourt.gov/qp/26-00239qp.pdf",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "label": "Review of the asylum restrictions at the southern border",
+          "source": "JURIST",
+          "url": "https://www.jurist.org/news/2026/11/us-supreme-court-to-review-president-trumps-restrictions-on-asylum-at-southern-border/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/supreme-court-takes-trump-asylum-suspension.jpg",
+        "alt": "FNN graphic: the Supreme Court takes the asylum case",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "The Supreme Court will decide whether President Trump can suspend asylum at the southern border. The restrictions stay in place while the case is heard.",
+        "caption": "THE COURT TAKES THE CASE"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-14"
+    },
     {
       "slug": "spacex-no-replacement",
       "section": "freedom",
@@ -2765,6 +2930,221 @@
       "share": {
         "line": "Hexumlite got into a University of Florida dining hall for $13 in a $590 fake Rolex, logged about 34 approaches and one probable number, and flies to Miami Wednesday for a palatal expander.",
         "caption": "$13 AND A $590 FAKE ROLEX."
+      }
+    },
+    {
+      "slug": "bryce-crawford-not-your-average-jesus-tour",
+      "date": "2026-11-14",
+      "section": "faith",
+      "kicker": "YOUNG CHRISTIAN LEADERS",
+      "headline": "“We’re Inviting Jesus Into the Room”: Bryce Crawford, 22, Takes His Street Evangelism to 25 Theaters",
+      "deck": "Six years after a Waffle House conversation changed his life, the Georgia-raised evangelist announced a 25-city tour for spring 2027.",
+      "byline": "By FNN Desk",
+      "body": "Over Christmas 2020, Bryce Crawford went to a Waffle House intending the meal to be his last, Religion News Service reported. A man going through a divorce told him, as Crawford recalls: “There’s no growth in a relationship that isn’t mutual.” Crawford heard Jesus calling. “I was like, ‘All right, bet.’”\n\nNow 22, he has 7 million TikTok and Instagram followers, per RNS, and has preached from skid row to Venice Beach.\n\nThis week Pollstar reported his 25-city “Not Your Average Jesus Tour,” opening March 11, 2027.\n\n“We’re inviting Jesus into the room on this tour,” he said.",
+      "pull_quote": "Our hope is that people leave these nights turning to Jesus for the first time or turning back with fresh eyes.",
+      "record": [
+        {
+          "date": "2026-05-20",
+          "label": "Waffle House, Christmas 2020; “There’s no growth in a relationship that isn’t mutual”; “All right, bet”; 7 million followers; skid row and Venice Beach; criticism over podcast guests and TPUSA ties; Baylor’s Zachary Sheldon: “not the same as being in a church on Sunday”",
+          "source": "Religion News Service",
+          "url": "https://religionnews.com/2026/05/20/can-virality-create-revival-gen-z-evangelist-bryce-crawford-has-faith/",
+          "role": null
+        },
+        {
+          "date": "2026-11-09",
+          "label": "Not Your Average Jesus Tour: 25 cities, opens March 11, 2027 (Tacoma), closes April 18 (Wiltern, Los Angeles); Crawford quotes; podcast No. 2 on Spotify Religion & Spirituality",
+          "source": "Pollstar",
+          "url": "https://news.pollstar.com/2026/11/09/christian-podcaster-bryce-crawford-announces-25-city-not-your-average-jesus-tour/",
+          "role": null
+        },
+        {
+          "date": "2026-09-29",
+          "label": "Conversation-first method; I Love Jesus US Tour, 22 cities in 18 states",
+          "source": "Omnes",
+          "url": "https://www.omnesmag.com/en/news/bryce-crawford-the-young-evangelist/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/bryce-crawford-not-your-average-jesus-tour.jpg",
+        "alt": "FNN graphic: Inviting Jesus into the room",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Bryce Crawford, 22, takes his street evangelism to 25 theaters: “We’re inviting Jesus into the room on this tour.”",
+        "caption": "“INVITING JESUS INTO THE ROOM”"
+      }
+    },
+    {
+      "slug": "kirk-stop-in-the-name-of-god",
+      "date": "2026-11-14",
+      "section": "faith",
+      "kicker": "FAITH, FAMILY AND FREEDOM",
+      "headline": "“Stop, in the Name of God”: The Day of Rest That Changed Charlie Kirk’s Life",
+      "deck": "His last book, finished a month before he was killed, makes the case for the Sabbath. Erika says it made him a “next-level husband.”",
+      "byline": "By FNN Desk",
+      "body": "At 28, Charlie Kirk told a pastor he was hitting a wall and “drinking eight cups of coffee a day just to stay afloat.” The pastor asked: “Are you honoring the Sabbath?”\n\nKirk pushed back: “I will honor God by working harder, not by resting for a day.” Then he changed his mind, and wrote his last book about it, finished one month before he was killed.\n\n“If the Sabbath can change my life, it can change everyone’s life,” he wrote.\n\nErika Kirk says he became “a next-level husband.” Her advice: “Pour into them. That’s your legacy.”",
+      "pull_quote": "This rest is due not to fatigue, but to fullness.",
+      "record": [
+        {
+          "date": "2025-12-12",
+          "label": "Book review with excerpts: Engelhardt conversation at 28; “eight cups of coffee”; “Are you honoring the Sabbath?”; “I will honor God by working harder”; “If the Sabbath can change my life…”; “This rest is due not to fatigue, but to fullness”; finished one month before he was shot",
+          "source": "Deseret News",
+          "url": "https://www.deseret.com/opinion/2025/12/12/stop-in-the-name-of-god-charlie-kirk-book-review/",
+          "role": null
+        },
+        {
+          "date": "2025-12-08",
+          "label": "Erika Kirk on Hannity: “He became a next-level husband”; “Pour into them. That’s your legacy”",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/media/charlie-kirk-finished-final-book-one-month-before-shooting-widow-reveals-transformation-brought",
+          "role": null
+        },
+        {
+          "date": "2025-12-09",
+          "label": "Erika Kirk on Fox & Friends: Friday-night family table; rest made his work possible",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/media/erika-kirk-says-late-husbands-final-book-now-feels-like-his-last-words-her",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/kirk-stop-in-the-name-of-god.jpg",
+        "alt": "FNN graphic: Stop, in the name of God",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Charlie Kirk’s last book: “If the Sabbath can change my life, it can change everyone’s life.” Erika: he became “a next-level husband.”",
+        "caption": "“STOP, IN THE NAME OF GOD”"
+      }
+    },
+    {
+      "slug": "libya-coptic-deacon-milad-malak",
+      "date": "2026-11-14",
+      "section": "faith",
+      "kicker": "THE PERSECUTED CHURCH",
+      "headline": "“Even If You Cut Me Into Pieces”: A 20-Year-Old Coptic Deacon Is Killed in Libya After Refusing to Deny Jesus",
+      "deck": "Milad Malak went to Libya to support his family. Kidnapped with two Muslim friends, he alone was held back and pressured to convert.",
+      "byline": "By FNN Desk",
+      "body": "Milad Malak, 20, was a deacon at a Coptic church in Egypt’s Gharbia governorate who went to Libya for work, Open Doors reported. On Oct. 4, Islamic State militants kidnapped him and two Muslim friends in Zliten, International Christian Concern reported.\n\nThe friends were freed after their families paid $4,700. Malak, the only Christian, was held and pressured for days to convert, including torture, the friends told Open Doors. ICC reported his answer: “Even if you cut me into pieces, I would never renounce my faith.”\n\nHe is believed to have been killed. Mourners gathered Oct. 28.",
+      "pull_quote": "He was faithful to Christ till his last breath.",
+      "record": [
+        {
+          "date": "2026-11-06",
+          "label": "Sept. 2 departure with two Muslim friends; Zliten; Oct. 4 kidnapping by ISIS; $4,700 ransom freed the friends; “Even if you cut me into pieces, I would never renounce my faith”; Oct. 28 gathering; family friend: “He was faithful to Christ till his last breath”",
+          "source": "International Christian Concern",
+          "url": "https://persecution.org/2026/11/06/egyptian-christian-martyred-in-libya/",
+          "role": null
+        },
+        {
+          "date": "2026-11-02",
+          "label": "Deacon, 20, from Sebarbay, Gharbia; friends’ account of several days of pressure, torture and threats; believed killed; prayer requests",
+          "source": "Open Doors UK",
+          "url": "https://www.opendoorsuk.org/news/latest-news/egypt-milad-killed/",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "label": "Sister Madonna Malek to Worthy News: family paid a ransom, kidnappers kept him as the only Christian; Oct. 28 mourning; 2015 Libya martyrs; Libya No. 9 on World Watch List",
+          "source": "Christian Today",
+          "url": "https://www.christiantoday.com/news/egyptian-christian-killed-in-libya-after-refusing-to-deny-jesus",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/libya-coptic-deacon-milad-malak.jpg",
+        "alt": "FNN graphic: Even if you cut me into pieces",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "A 20-year-old Coptic deacon, kidnapped in Libya, refused to convert: “Even if you cut me into pieces, I would never renounce my faith.”",
+        "caption": "“I WOULD NEVER RENOUNCE MY FAITH”"
+      }
+    },
+    {
+      "slug": "maine-pines-church-hermon-ruling",
+      "date": "2026-11-14",
+      "section": "faith",
+      "kicker": "RELIGIOUS LIBERTY",
+      "headline": "“Novelty Is Not a Basis to Discriminate”: Federal Judge Rules a Maine School Board Wronged a Young Church",
+      "deck": "The Pines Church asked to rent a high school auditorium for Sunday services. Its pastor got questions about abortion and same-sex marriage.",
+      "byline": "By FNN Desk",
+      "body": "The Pines Church in Maine wanted a year-long lease for Sunday services at Hermon High School. Instead, a School Committee member emailed Pastor Matt Gioia about the church’s beliefs on same-sex marriage, abortion and more, the Bangor Daily News reported.\n\nOn Friday, Chief U.S. District Judge Lance Walker ruled that at least three of five committee members “acted under the influence of bad motive,” violating the church’s First Amendment rights. Their month-to-month offer was “an offer designed to be rejected.”\n\nDamages: $1, plus costs. The vote stands.\n\nGioia: “This is bigger than the Pines Church.”",
+      "pull_quote": "Novelty is not a basis to discriminate against religious organizations.",
+      "record": [
+        {
+          "date": "2026-11-13",
+          "label": "Decision and Order, No. 1:23-cv-00214-LEW: at least three of five decision makers “acted under the influence of bad motive”; “threadbare”; “an offer designed to be rejected”; “novelty is not a basis to discriminate against religious organizations”; $1 nominal damages, costs, fees; injunction denied",
+          "source": "U.S. District Court, District of Maine (via Advocates for Faith & Freedom)",
+          "url": "https://faith-freedom.com/wp-content/uploads/2026/11/09113796383-1.pdf",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "label": "Friday ruling; 4-1 vote not overturned; Grant as “guardrail”; ~150 congregants",
+          "source": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/11/13/bangor/bangor-police-courts/hermon-maine-school-committee-pines-church-discrimination-decision/",
+          "role": null
+        },
+        {
+          "date": "2026-02-24",
+          "label": "Trial: McLaughlin email on same-sex marriage, abortion and more; Gioia: “I’ve never been asked these questions from any lease I’ve ever entered into”",
+          "source": "Bangor Daily News",
+          "url": "https://www.bangordailynews.com/2026/02/24/bangor/bangor-police-courts/pines-church-hermon-school-trial/",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "label": "Advocates for Faith & Freedom statement; Gioia: “This is bigger than the Pines Church”",
+          "source": "Christian Newswire",
+          "url": "https://www.christiannewswire.com/advocates-for-faith-freedom-wins-critical-religious-liberty-trial-federal-court-rules-maine-school-department-violated-churchs-first-amendment-rights/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/maine-pines-church-hermon-ruling.jpg",
+        "alt": "FNN graphic: Novelty is not a basis to discriminate",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "A federal judge: a Maine school board acted with “bad motive” against a young church. “Novelty is not a basis to discriminate against religious organizations.”",
+        "caption": "“BAD MOTIVE”"
+      }
+    },
+    {
+      "slug": "teens-trust-mom-dad-jesus-barna",
+      "date": "2026-11-14",
+      "section": "faith",
+      "kicker": "FAMILY",
+      "headline": "“Students Are Listening More Than It Seems”: Teens Still Turn to Mom and Dad First, and Many Turn to Jesus",
+      "deck": "New Barna research: parents are teens’ most trusted voices on who they are, far ahead of social media and AI.",
+      "byline": "By FNN Desk",
+      "body": "When American teens need advice on who they really are, they still look home first. In new Barna Group research, 84% said they’d feel comfortable asking Mom and 78% Dad, ahead of every other source.\n\nJesus (68%) and the Bible (66%) beat YouTube (39%), social media (35%) and AI (35%). Among the most spiritually engaged teens, Jesus and the Bible tie at 78%, right behind Mom at 80%.\n\nBarna surveyed 1,500 U.S. teens ages 13 to 18.\n\nYouth leader Deborah Spooner: “Students are listening more than it seems.”",
+      "pull_quote": "Our job is to make sure a trusted adult, not an algorithm, is in that space.",
+      "record": [
+        {
+          "date": "2026-10-26",
+          "label": "Reimagining Ministry for Gen Alpha (with Christ In Youth): mom 84%, dad 78%, Jesus 68%, Bible 66%, YouTube 39%, social media 35%, AI 35%; Faith-Activated: mom 80%, Jesus 78%, Bible 78%; Hamilton and Spooner quotes; 1,500 teens, ages 13–18, Feb. 14–17, 2026",
+          "source": "Barna Group",
+          "url": "https://www.barna.com/research/who-teens-turn-to-for-advice/",
+          "role": null
+        },
+        {
+          "date": "2026-02-03",
+          "label": "Pew data on adults raised Protestant: 49% of those who stayed grew up with regular home religious activities vs. 22% who left; Aaron Earls on faith talked about at home",
+          "source": "Lifeway Research",
+          "url": "https://research.lifeway.com/2026/02/03/5-keys-to-a-faith-that-carries-into-the-next-generation/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/teens-trust-mom-dad-jesus-barna.jpg",
+        "alt": "FNN graphic: Students are listening",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "New Barna research: teens still turn to Mom (84%) and Dad (78%) first, and Jesus (68%) beats social media and AI.",
+        "caption": "“STUDENTS ARE LISTENING”"
       }
     },
     {
