@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-13-am3",
+  "edition": "2026-11-13-pm",
   "date": "2026-11-13",
-  "updated_at": "2026-11-13T07:11:06-05:00",
+  "updated_at": "2026-11-13T21:15:05-05:00",
   "lead": "spacex-no-replacement",
   "stories": [
     {
@@ -771,6 +771,85 @@
       "share": {
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
+      }
+    },
+    {
+      "slug": "burtbronx-skankfest-day-1-two-sets-of-twelve",
+      "date": "2026-11-13",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · BURT BRONX",
+      "headline": "Flights Grounded, Burt Bronx Made Skankfest Anyway. Then: Two Sets of 12 Squats and a ChatGPT Itinerary.",
+      "deck": "Day 1 of Skankfest X in New Orleans, Ted on camera: a Blood Pit pitch, boardwalk squats in a borrowed jacket, no MAGA hat and a panel that had just ended.",
+      "byline": "By FNN Desk",
+      "body": "“All the flights were grounded,” Burt Bronx told chat Friday, “and I still was able to fly out today somehow.” He went live at 7:13 p.m. ET from Day 1 of Skankfest X in New Orleans, Ted on camera. At the Blood Pit ring he volunteered: “I’ll do it for content. Until I get my ass kicked.” Chat ordered squats; he did two sets of 12 on the boardwalk in Ted’s too-small jacket. A MAGA-hat scavenger hunt found no hat. The panel he wanted had just ended, so he asked ChatGPT for an itinerary. Next stop: the Florida Man Tent.",
+      "pull_quote": "I mean, I’ll do it for content. Until I get my ass kicked, I’ll do it for content.",
+      "record": [
+        {
+          "date": "2026-11-13",
+          "date_label": "Friday, Nov. 13, 7:13 p.m. ET to about 8:23 p.m. ET (1 hour, 10 minutes, 1 second)",
+          "label": "IRL stream from Day 1 of Skankfest X, the Legion of Skanks comedy festival at Mardi Gras World in New Orleans (Nov. 13–15), with his usual co-host Ted on camera. Official Kick duration 4,201,000 ms (1 hour, 10 minutes, 1 second). IRL; tags Adventure; English; marked mature. Livestream / VOD 137702995. 520 VOD views at the 8:58 p.m. ET check. 9,344 followers at that check. Concurrent viewers this desk saw live (Kick API): 117 at 8:03 p.m. ET, the only mid-stream check. Cold approaches: 0. Private people on the broadcast, including a fan who stopped to talk, are not named.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX AT SKANKFEST DAY 1”",
+          "url": "https://kick.com/burtbronx/videos/38901c6f-03e1-46c3-9a3e-ab7102bf6a1d",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "date_label": "VOD 0:04:10 (about 7:17 p.m. ET)",
+          "label": "On the first live shot, a two-shot with Ted: “Made it, chat. All the flights were grounded, and I still was able to fly out today somehow.” Speech-to-text on the stream audio.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX AT SKANKFEST DAY 1”",
+          "url": "https://kick.com/burtbronx/videos/38901c6f-03e1-46c3-9a3e-ab7102bf6a1d",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "date_label": "VOD 0:06:12–0:07:40 (about 7:19–7:21 p.m. ET)",
+          "label": "At the outdoor Blood Pit ring under “SKANKFEST X BLOOD PIT” screens, during the evening Skankfights window, Ted said, “Burt is definitely going to enter the fight, guys.” Burt answered chat: “I mean, I’ll do it for content. Until I get my ass kicked, I’ll do it for content.” A clown-costumed wrestler then scored a knockdown. Burt did not enter the ring on this tape.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX AT SKANKFEST DAY 1”",
+          "url": "https://kick.com/burtbronx/videos/38901c6f-03e1-46c3-9a3e-ab7102bf6a1d",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "date_label": "VOD 0:14:30–0:26:00 (about 7:28–7:39 p.m. ET)",
+          "label": "Cold, he asked Ted, “Do you mind if I wear your jacket, I’m just a little cold,” and put on Ted’s dark ES zip-up skate jacket, which Ted said would be “super small” on him. Chat called him “so cute in Ted’s jacket” and ordered squats; he did two sets of 12 on the wooden boardwalk, which they called a cooldown: “those two sets of twelve reps.” It was the night’s only training session.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX AT SKANKFEST DAY 1”",
+          "url": "https://kick.com/burtbronx/videos/38901c6f-03e1-46c3-9a3e-ab7102bf6a1d",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "date_label": "VOD 0:20:20–0:23:10 (about 7:33–7:36 p.m. ET)",
+          "label": "A scavenger-hunt text-to-speech message asked them to find a MAGA hat; none turned up on this tape. Burt’s read on the festival: “I have no idea what Skank Fest was. Honestly we kind of showed up and we’re still learning. It kind of looks like a mixed event of like just like carnival rides and outdoor sets.” He said VIP access had sold out before he could get it.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX AT SKANKFEST DAY 1”",
+          "url": "https://kick.com/burtbronx/videos/38901c6f-03e1-46c3-9a3e-ab7102bf6a1d",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "date_label": "VOD 0:34:20–0:45:00 (about 7:47–7:58 p.m. ET)",
+          "label": "In the red-curtained Cabaret Cave tent, they were told the event they came for, “Would You Bang Him,” had “just now” ended, around 6:47–6:53 p.m. CT. The official Friday schedule listed it from 6:00–7:30 p.m. CT; this desk reports both and offers no explanation. Ted then read a ChatGPT prompt for the “highest ROI” remaining events “as of now, 7 p.m. CST.” In their telling, it pointed them to the Florida Man Tent.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX AT SKANKFEST DAY 1”",
+          "url": "https://kick.com/burtbronx/videos/38901c6f-03e1-46c3-9a3e-ab7102bf6a1d",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "date_label": "VOD 0:45:00–1:10:00 (about 7:58–8:23 p.m. ET)",
+          "label": "At the Florida Man Tent, Burt asked for a Michelob Ultra. Around 0:54:04 they said, “Mark Normand’s on stage right now.” They found seats for the 7 p.m. CT showcase and watched a comic’s stand-up set. When staff asked them to clear filming with the bosses, Ted’s introduction was “Burt Bronx from season three of Fish Tank,” and a staffer called them “the nicest.” The stream closed on its Fish Tank bumper.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX AT SKANKFEST DAY 1”",
+          "url": "https://kick.com/burtbronx/videos/38901c6f-03e1-46c3-9a3e-ab7102bf6a1d",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/burtbronx-skankfest-day-1-two-sets-of-twelve.jpg",
+        "alt": "Burt Bronx in Ted’s borrowed dark zip-up skate jacket and a red festival lanyard, crouched between squats on a wooden boardwalk at Skankfest X, with festivalgoers behind him",
+        "credit": "Kick VOD, Burt Bronx",
+        "caption": "Burt Bronx between his two sets of 12 squats on the Skankfest X boardwalk at Mardi Gras World, New Orleans, Friday, Nov. 13."
+      },
+      "share": {
+        "line": "All the flights were grounded, Burt Bronx said, and he made Skankfest anyway: a Blood Pit pitch, two sets of 12 squats in Ted’s jacket, no MAGA hat, and a ChatGPT itinerary.",
+        "caption": "I’LL DO IT FOR CONTENT."
       }
     },
     {
