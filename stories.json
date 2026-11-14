@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-14-am3",
+  "edition": "2026-11-14-am4",
   "date": "2026-11-14",
-  "updated_at": "2026-11-14T04:40:00-05:00",
+  "updated_at": "2026-11-14T05:33:00-05:00",
   "lead": "starship-flight-15-in-orbit",
   "stories": [
     {
@@ -936,6 +936,101 @@
       "share": {
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
+      }
+    },
+    {
+      "slug": "burtbronx-skankfest-said-no-streaming-suitcase",
+      "date": "2026-11-14",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · BURT BRONX",
+      "headline": "Skankfest Said No Streaming, So Burt Bronx and Ted Streamed a Hotel Room for 4 Hours, 38 Minutes. Ted Fit in a Suitcase.",
+      "deck": "After-hours Day 1 in New Orleans: a fan on speaker, a $10,000 kickflip bounty, a kiss Ted refused, and a plan to “work around” the rule.",
+      "byline": "By FNN Desk",
+      "body": "Skankfest X told Burt Bronx and Ted they couldn’t stream inside the tents, because comedians fear “joke poaching.” At 12:13 a.m. ET they went live from a New Orleans hotel room and stayed there 4 hours, 38 minutes. A fan called in on speaker. A $10,000 text-to-speech bounty dared Ted to teach Burt a rolling kickflip within a month. A noise in the hall sent Ted into a suitcase, and he fit: “We could have saved so much on travel.” Chat demanded a kiss; Ted offered “kissing through my hand.” Sign-off: Salvo lands tomorrow, and “we’ll finally work around it.”",
+      "pull_quote": "We’ll try to stream earlier now that we understand the protocol at Skankfest. We’ll finally work around it.",
+      "record": [
+        {
+          "date": "2026-11-14",
+          "date_label": "Saturday, Nov. 14, 12:13 a.m. ET to about 4:51 a.m. ET (4 hours, 38 minutes, 6 seconds)",
+          "label": "Late hotel-room stream after Day 1 of Skankfest X in New Orleans, with his travel partner Ted on camera the whole time. A second “BURT BRONX AT SKANKFEST DAY 1” tape, separate from the 7:13–8:23 p.m. ET Friday stream (VOD 137702995). Official Kick duration 16,686,000 ms (4 hours, 38 minutes, 6 seconds). Just Chatting; marked mature; English. Livestream / VOD 137748090. Kick’s public API showed 756 VOD views and 9,348 followers at the 5:02 a.m. ET check. Concurrent viewers this desk saw live (Kick public API): 96 at 2:03 a.m. ET, 75 to 76 at 3:01 a.m. ET, 103 to 115 at 3:55 a.m. ET and 115 at 4:05 a.m. ET. These are sampled checks, not an official peak. Cold approaches: 0; this was a hotel-room hang. Private people on the broadcast, including a fan who called in, are not named.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX AT SKANKFEST DAY 1” (late stream)",
+          "url": "https://kick.com/burtbronx/videos/c9dd226d-b454-415b-851b-4eef1eb0f140",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "date_label": "VOD 0:02–0:10 (about 12:15–12:24 a.m. ET)",
+          "label": "A woman fan, unnamed here, called in, and they put her on speaker to recap the festival they couldn’t show. Why no festival footage: “they have a policy that says that we’re not allowed to stream at Skankfest because apparently some of the comedians” worry about “joke poaching,” so streamers stay out of the tents, “where they do, like, their exclusive material.” Their read: “If you get labeled as a joke stealer in the comedy world, it’s almost… it’s not a complete death sentence, but… people will yell at you.” Fans recognized Burt from Fish Tank: “That was really cool.” Kick captions.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX AT SKANKFEST DAY 1” (late stream)",
+          "url": "https://kick.com/burtbronx/videos/c9dd226d-b454-415b-851b-4eef1eb0f140",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "date_label": "VOD 0:45–1:00 (about 12:58–1:13 a.m. ET)",
+          "label": "The 1 a.m. afterparty named on the first Day 1 tape never happened: “nobody gave us any updates on Safe Zone, nobody told us if we should go out to the afterparty, we don’t know, it’s at 1 a.m.” They weren’t drinking and stayed in. “Salvo is… coming at 11 tomorrow.” Kick captions.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX AT SKANKFEST DAY 1” (late stream)",
+          "url": "https://kick.com/burtbronx/videos/c9dd226d-b454-415b-851b-4eef1eb0f140",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "date_label": "VOD 1:00–1:11 (about 1:13–1:24 a.m. ET)",
+          "label": "Ted on life after Skankfest: he’ll “take a break on traveling so I can have some stability,” handle “odds and ends back in Jersey,” and do “less streaming in the future and more focus on trying to get more collab opportunities,” naming “content creation house type shit… like Fish Tank and CX and Baus.” He said a Four Fun Guys video from his San Francisco trip this week is “still actually processing.” Kick captions.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX AT SKANKFEST DAY 1” (late stream)",
+          "url": "https://kick.com/burtbronx/videos/c9dd226d-b454-415b-851b-4eef1eb0f140",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "date_label": "VOD 1:32–1:45 (about 1:45–1:58 a.m. ET)",
+          "label": "Ted argued Ice Poseidon’s Safe Zone shouldn’t have landed on a Nov. 13 already crowded with TwitchCon and Skankfest: “Why would you have this Safe Zone shit at the same time? It’s like it’s competing with this other streamer shit.” Kick captions.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX AT SKANKFEST DAY 1” (late stream)",
+          "url": "https://kick.com/burtbronx/videos/c9dd226d-b454-415b-851b-4eef1eb0f140",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "date_label": "VOD 2:53–3:16 (about 3:06–3:29 a.m. ET)",
+          "label": "With Burt out of the room, Ted held the stream alone and talked skating. Then a $10,000 text-to-speech challenge landed: if Ted can teach Burt to land a kickflip on stream within a month, rolling, the money is his. “He cannot do it standing still.” Ted’s assessment: “the best we could hope for would be a non-moving one on carpet.” Not attempted on this tape. Kick captions.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX AT SKANKFEST DAY 1” (late stream)",
+          "url": "https://kick.com/burtbronx/videos/c9dd226d-b454-415b-851b-4eef1eb0f140",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "date_label": "VOD 3:50–4:26 (about 4:03–4:39 a.m. ET)",
+          "label": "A noise in the hall had them joking about a raid; it played as a bit. Ted looked for somewhere to hide (“that’s what I always do”), tried a cabinet, then climbed into a suitcase and fit. On the tape: “We could have saved so much on travel.” Kick captions.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX AT SKANKFEST DAY 1” (late stream)",
+          "url": "https://kick.com/burtbronx/videos/c9dd226d-b454-415b-851b-4eef1eb0f140",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "date_label": "VOD 4:26–4:36 (about 4:39–4:49 a.m. ET)",
+          "label": "Chat wanted a kiss, and Burt framed it as giving the audience what it wants. Ted: “I’m avoiding kissing you, Burt. Why? ’Cause I don’t want to kiss you… I don’t want to kiss you, Burt.” The closest he would go was “kissing through my hand.” They didn’t kiss. Kick captions.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX AT SKANKFEST DAY 1” (late stream)",
+          "url": "https://kick.com/burtbronx/videos/c9dd226d-b454-415b-851b-4eef1eb0f140",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "date_label": "VOD 4:36–4:38 (about 4:49–4:51 a.m. ET)",
+          "label": "Ted: “It’s almost four o’clock in the morning” (Central Time). Burt: “We have to charge all of our stuff, make sure all the batteries are ready to go and stuff. Then we can plan an attack tomorrow when Salvo gets here.” Burt: “Goodbye, chat. Thank you for being a chat tonight. See you tomorrow, chat.” Ted: “We’ll try, we’ll try to stream earlier now that we understand the protocol at Skankfest. We’ll finally work around it. Okay. Peace out.” Speech-to-text on the sign-off audio.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX AT SKANKFEST DAY 1” (late stream)",
+          "url": "https://kick.com/burtbronx/videos/c9dd226d-b454-415b-851b-4eef1eb0f140",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/burtbronx-skankfest-said-no-streaming-suitcase.jpg",
+        "alt": "Ted in a black “Daddy Burt” cap and teal sweatshirt beside Burt Bronx in a dark zip-up jacket, sitting against a wooden headboard in a hotel room",
+        "credit": "Kick VOD, Burt Bronx",
+        "caption": "Ted and Burt Bronx on the bed early in their late Skankfest Day 1 stream from a New Orleans hotel room, Saturday, Nov. 14."
+      },
+      "share": {
+        "line": "Skankfest said no streaming, so Burt Bronx and Ted streamed a hotel room for 4 hours, 38 minutes: a $10,000 kickflip bounty, a kiss Ted refused, and Ted in a suitcase.",
+        "caption": "WE’LL FINALLY WORK AROUND IT."
       }
     },
     {
