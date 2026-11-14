@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-14-am",
+  "edition": "2026-11-14-am2",
   "date": "2026-11-14",
-  "updated_at": "2026-11-14T02:27:32-05:00",
+  "updated_at": "2026-11-14T04:15:27-05:00",
   "lead": "spacex-no-replacement",
   "stories": [
     {
@@ -771,6 +771,93 @@
       "share": {
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
+      }
+    },
+    {
+      "slug": "heelmike-thirty-two-scar-took-the-stream",
+      "date": "2026-11-14",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · HEELMIKE",
+      "headline": "HeelMike Turned 32 at TwitchCon. Panda Went to Wendy’s, and Scar Took the Stream: “That’s a Little Too Good.”",
+      "deck": "HeelMike’s 3-hour-21-minute San Diego birthday tape went street, 7-Eleven, a muted mod, a bar and a club, with Scar holding the camera.",
+      "byline": "By FNN Desk",
+      "body": "HeelMike turned 32 at midnight in San Diego and made it a state occasion. He opened with “I’m so old,” titled the stream after an Ice Poseidon event he says he skipped, “for SEO purposes,” and renewed his annual grievance: “I show up to TwitchCon every year and they never let me in.” Panda promised a club table, then, by HeelMike’s account, went to Wendy’s. He accidentally muted his longtime mod, Tarzan, then got him back. He handed the camera to Scar, who told chat, “I’m cosplaying Mike.” He says she gained him 600 views: “That’s a little too good.”",
+      "pull_quote": "I show up to TwitchCon every year and they never let me in.",
+      "record": [
+        {
+          "date": "2026-11-14",
+          "date_label": "Friday, Nov. 13, 11:41 p.m. ET, to about 3:03 a.m. ET Saturday, Nov. 14 (3 hours, 21 minutes, 10 seconds), plus a continuation from 3:14 a.m. to about 4:02 a.m. ET (47 minutes, 57 seconds)",
+          "label": "IRL birthday night from San Diego during TwitchCon: a downtown street, a 7-Eleven, cars, a bar, an SUV and a club. Official Kick duration 12,070,000 ms (3 hours, 21 minutes, 10 seconds). IRL; tags Adventure; English; not marked mature. Livestream / VOD 137744695. Kick’s public API showed 20,904 VOD views at about 3:55 a.m. ET; the continuation (VOD 137763434, 2,877,000 ms) showed 17,599 views at the 4:05 a.m. ET refresh. 103,534 followers at that refresh, up from 103,517 at the first live flag around 12:05 a.m. ET. Concurrent viewers this desk saw live (Kick public API): about 1,251 at 12:05 a.m. ET, 4,830 at 2:03 a.m. ET and 4,325 at 3:01 a.m. ET; 4,180 on the continuation at about 3:55 a.m. ET. These are sampled checks, not an official peak. Cold approaches: 0 scored; this was a party tape, not a cold-approach stream. Private people on the broadcast are not named.",
+          "source": "Kick VOD, HeelMike, “HEELMIKE BIRTHDAY @ TWITCHCON”",
+          "url": "https://kick.com/heelmike/videos/720fa546-952e-4027-b09e-7dd8dd28e04b",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "date_label": "VOD 0:00–0:04 (about 11:42–11:46 p.m. ET)",
+          "label": "He came up already talking: “I’m so old thirty two and thirty minutes.” He set the title on the tape: “HeelMike’s birthday I am at TwitchCon I am not at Ice [Poseidon] Safe Zone event but that is in my title for SEO purposes.” The raw caption reads “Ice Beside”; Ice Poseidon is rendered from context and from the API title. He said it is “my birthday at midnight.” FNN is not confirming his whereabouts beyond what the tape and API show. Kick captions.",
+          "source": "Kick VOD, HeelMike, “HEELMIKE BIRTHDAY @ TWITCHCON”",
+          "url": "https://kick.com/heelmike/videos/720fa546-952e-4027-b09e-7dd8dd28e04b",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "date_label": "VOD 0:17–0:38 (about 11:59 p.m.–12:20 a.m. ET)",
+          "label": "At the turn: “chat we are alive and it’s my birthday guys it’s my birthday.” Edwin gifted 10 subs. He claimed they are “the number one gifted sub on the whole entire website,” which was not verified. Panda arrived with “my name is Panda I’m more famous than him.” He called Chloe Yummy “a mega star superstar” and repeated, “I show up to TwitchCon every year and they never let me in.” Kick captions.",
+          "source": "Kick VOD, HeelMike, “HEELMIKE BIRTHDAY @ TWITCHCON”",
+          "url": "https://kick.com/heelmike/videos/720fa546-952e-4027-b09e-7dd8dd28e04b",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "date_label": "VOD 0:46–0:59 (about 12:28–12:41 a.m. ET)",
+          "label": "At a 7-Eleven he tried on heavy black sunglasses, the “abusive dad sunglasses” look he had asked for, and gave chat a birthday fit check: a black Travis Matthew tee he says cost “seventy dollars,” Nordstrom pants with a “custom waist of twenty eight inches,” and size-11 shoes. Frames confirm the store interior and the sunglasses rack. Kick captions.",
+          "source": "Kick VOD, HeelMike, “HEELMIKE BIRTHDAY @ TWITCHCON”",
+          "url": "https://kick.com/heelmike/videos/720fa546-952e-4027-b09e-7dd8dd28e04b",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "date_label": "VOD 1:13–1:32 (about 12:55–1:14 a.m. ET)",
+          "label": "Split from the group, he said he had “called Panda no exaggeration thirty one times.” In his recap, Panda announced “we got a table” and then went to Wendy’s, leaving two people from the group waiting in a club lobby. In the next car he realized he had “permanently muted” his longtime mod Tarzan, asked how to unmute, and got Tarzan back, among what he called “the three people muted ever in my kick career.” This is his account of Panda’s night, not independently checked. Kick captions.",
+          "source": "Kick VOD, HeelMike, “HEELMIKE BIRTHDAY @ TWITCHCON”",
+          "url": "https://kick.com/heelmike/videos/720fa546-952e-4027-b09e-7dd8dd28e04b",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "date_label": "VOD 1:41–2:45 (about 1:23–2:27 a.m. ET)",
+          "label": "At a bar he called “W Scar” as Scar took shots with him, ripped a contact lens and swapped in a spare. He said Scar is “actually like a really good streamer” and that he gained six hundred views while she was on: “I wanted you to do good but like that’s a little too good.” He also said he has “one point two million on Twitch” and left for Kick “because Kick paid me more,” his own figures, not an API check, and called multi-streaming “the stupidest thing ever” because it “annihilates your negotiating power.” Kick captions.",
+          "source": "Kick VOD, HeelMike, “HEELMIKE BIRTHDAY @ TWITCHCON”",
+          "url": "https://kick.com/heelmike/videos/720fa546-952e-4027-b09e-7dd8dd28e04b",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "date_label": "VOD 2:45–2:59 (about 2:27–2:41 a.m. ET)",
+          "label": "In a departing SUV with Panda, in a Chicago Bulls hoodie and a TwitchCon badge, and Scar, in a gold chain (visually confirmed in a 2:56 still), he laid out the night: “we’re going all night tonight… we’re gonna gamble tonight we’re gonna do a giveaway tonight.” Then: “Scar is gonna hold down the stream for about thirty minutes chat… I’ll be back in thirty minutes.” He went back to the group’s stay; the reason he gave is not reported here. Kick captions.",
+          "source": "Kick VOD, HeelMike, “HEELMIKE BIRTHDAY @ TWITCHCON”",
+          "url": "https://kick.com/heelmike/videos/720fa546-952e-4027-b09e-7dd8dd28e04b",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "date_label": "Continuation VOD 0:00–0:16 (about 3:14–3:30 a.m. ET)",
+          "label": "Scar held the camera outside the club: “I know that you think I’m Mike… but I’m Scarlet… he’s ten minutes away,” and, “I’m streaming on Mike’s [stream] I’m cosplaying Mike he’s not here right now.” Someone told her “Panda has a section.” Around 0:10 HeelMike rejoined, thanked her for “holding it down for a minute,” and by about 0:14 the group was inside a dark, packed club, him in a white sailor-style cap and sunglasses. Captions largely stop at 0:16 in the club noise, so FNN is not reporting dialogue after that point. The tape ended around 4:02 a.m. ET. Kick captions and stills.",
+          "source": "Kick VOD, HeelMike, “HEELMIKE BIRTHDAY @ TWITCHCON” (continuation)",
+          "url": "https://kick.com/heelmike/videos/a7e3d8c5-8d34-4253-8b73-2196b3926927",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/heelmike-thirty-two-scar-took-the-stream.jpg",
+        "alt": "HeelMike in a black T-shirt and silver watch, checking his phone on a downtown San Diego street at night, a Starbucks and purple lights behind him",
+        "credit": "Kick VOD, HeelMike",
+        "caption": "HeelMike on a downtown San Diego street at the top of his birthday stream, late Friday, Nov. 13."
+      },
+      "share": {
+        "line": "HeelMike turned 32 at TwitchCon. Panda went to Wendy’s, by his account, his own mod got muted, and Scar took the stream while he was gone: “I’m cosplaying Mike.”",
+        "caption": "THAT’S A LITTLE TOO GOOD."
       }
     },
     {
