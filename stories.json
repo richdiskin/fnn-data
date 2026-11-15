@@ -1,9 +1,173 @@
 {
-  "edition": "2026-11-15-am",
+  "edition": "2026-11-15-am2",
   "date": "2026-11-15",
-  "updated_at": "2026-11-15T03:43:00-05:00",
-  "lead": "starship-flight-15-in-orbit",
+  "updated_at": "2026-11-15T04:42:40-05:00",
+  "lead": "mechazilla-catches-starship",
   "stories": [
+    {
+      "slug": "mechazilla-catches-starship",
+      "section": "freedom",
+      "kicker": "FEATURE · ELON MUSK",
+      "headline": "“Mechazilla Catches Starship!” For the First Time Ever, the Ship Came Home From Orbit Into the Tower’s Arms",
+      "deck": "After about 22 hours in space, Ship 42 broke through the clouds over Starbase and eased into the chopsticks. Musk: “I hugged ship 42 upon its return.”",
+      "body": "Saturday around 4:20 p.m. ET, after about 22 hours in space, Ship 42 broke through the clouds over Starbase, Texas, flipped upright and eased into the waiting arms of the launch tower.\n\n“Mechazilla catches Starship!” SpaceX posted. It was the first catch ever of a Starship upper stage. NASA Administrator Jared Isaacman: “It was almost magic.”\n\nThe booster was lost Friday after its catch was called off, so the full double catch Musk called “more likely than not” in October still waits. Engineers are investigating.\n\nMusk’s review: “I hugged ship 42 upon its return.”",
+      "pull_quote": "Mechazilla catches Starship! Congratulations to the entire SpaceX team on this incredible achievement!",
+      "record": [
+        {
+          "date": "2026-11-14",
+          "label": "SpaceX, 4:21 p.m. ET: “Mechazilla catches Starship! Congratulations to the entire SpaceX team on this incredible achievement!”",
+          "source": "SpaceX on X",
+          "url": "https://x.com/SpaceX/status/2121715216597827756",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "label": "First successful catch of the Starship vehicle itself by the “Mechazilla” tower, around 4:20 p.m. ET; booster aborted its catch and detonated over the Gulf; SpaceX still determining the cause",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "label": "Caught by the “chopstick arms” about 22 hours after launch; “the first-ever capture of a Starship flying back from space”; 14 laps of Earth; Isaacman on X: “It was almost magic”; Kate Tice on the booster’s engines stopping too soon",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "label": "Musk, 7:35 p.m. ET: “I hugged ship 42 upon its return”",
+          "source": "his own post on X",
+          "url": "https://x.com/elonmusk/status/2121763977349013884",
+          "role": null
+        },
+        {
+          "date": "2026-10-20",
+          "label": "SpaceX Q3 2026 earnings call, Musk: “Success is not guaranteed on these first flights, but I’d say it’s more likely than not that this succeeds next flight”",
+          "source": "Stock Analysis transcript",
+          "url": "https://stockanalysis.com/stocks/spcx/transcripts/723936-q3-2026/",
+          "role": null
+        },
+        {
+          "date": "2026-10-21",
+          "label": "Musk announced the plan to catch both stages on Flight 15 during the Q3 call; “more likely than not”",
+          "source": "Quartz",
+          "url": "https://qz.com/spacex-starship-catch-both-stages-flight-15-102126",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/mechazilla-catches-starship.jpg",
+        "alt": "FNN graphic: Mechazilla catches Starship",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "For the first time ever, Starship came home from orbit and was caught by the tower. SpaceX: “Mechazilla catches Starship!” Musk: “I hugged ship 42 upon its return.”",
+        "caption": "MECHAZILLA CATCHES STARSHIP"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-15"
+    },
+    {
+      "slug": "ground-stop-1980s-copper-lines",
+      "section": "freedom",
+      "kicker": "FEATURE · THE GROUND STOP",
+      "headline": "America’s Skies Shut Down Over “1980s Little Copper Lines.” Duffy: “This Is an Emergency.”",
+      "deck": "Friday’s ground stop hit during a copper-to-fiber upgrade. Speaker Johnson on Trump and Duffy: “They’ve been sounding the alarm.”",
+      "body": "Friday, the FAA grounded every flight in America, the longest halt in U.S. departures since 9/11, CNBC reports.\n\nSecretary Sean Duffy says a contractor was swapping old copper lines for fiber when a router flooded the system with more than 1,000 connection attempts every four to five seconds, disrupting communications and radar. The exact fault is still unknown.\n\n“We use 1980s little copper lines,” Duffy said. He wants $50 billion.\n\nSome Democrats note only $4.3 billion of 2025’s $12.5 billion is obligated. DHS chief Markwayne Mullin: “This is what happens when Congress kicks the can down the road.”",
+      "pull_quote": "This is what happens when Congress kicks the can down the road.",
+      "record": [
+        {
+          "date": "2026-11-14",
+          "label": "“The longest halt in flight departures to U.S. airports since 9/11”; L3Harris copper-to-fiber upgrade; router “flooded” other routers; Bedford: “zero evidence” of anything “nefarious”; L3Harris says the switch is 70%+ complete",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "label": "Duffy (Saturday): more than 1,000 connection attempts every four to five seconds; “We haven’t determined what the fault was”; $12.5 billion from the 2025 law; some Some Democrats note only $4.3 billion obligated; 3,500+ planes in the air",
+          "source": "Los Angeles Times",
+          "url": "https://www.latimes.com/politics/story/2026-11-13/what-caused-national-ground-stop-here-is-what-we-know",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "label": "Duffy, Friday White House briefing: instability from about 3:36 p.m. ET; “We have old, old switches, old routers. We use 1980s little copper lines”; “This is an emergency”; asks Congress for $50 billion",
+          "source": "Fox Business",
+          "url": "https://www.foxbusiness.com/politics/duffy-sounds-alarm-over-aging-faa-system-after-nationwide-air-travel-shutdown",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "label": "Mullin: “zero evidence that this is a cyberattack”; “This is what happens when Congress kicks the can down the road”",
+          "source": "U.S. Department of Homeland Security",
+          "url": "https://www.dhs.gov/news/2026/11/13/icymi-secretary-mullin-and-secretary-duffy-address-nationwide-faa-ground-stop-all",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "label": "Johnson: “I give a lot of credit the President [Donald] Trump and Secretary Duffy. They’ve been sounding the alarm since the beginning of this Congress”; Rep. Tim Burchett presses GOP leaders to pass a clean bill",
+          "source": "Mediaite",
+          "url": "https://www.mediaite.com/media/tv/house-republican-calls-out-gop-leaders-mike-johnson-and-john-thune-amid-flight-stoppage-drama-step-up-to-the-daggum-plate/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/ground-stop-1980s-copper-lines.jpg",
+        "alt": "FNN graphic: 1980s little copper lines",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "The FAA grounded every flight in America. Duffy: “We use 1980s little copper lines.” Mullin: “This is what happens when Congress kicks the can down the road.”",
+        "caption": "“1980S LITTLE COPPER LINES”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-15"
+    },
+    {
+      "slug": "somerville-divest-lone-no-strezo",
+      "section": "freedom",
+      "kicker": "MASSACHUSETTS · LATEST",
+      "headline": "Somerville Votes 10-1 to Divest Over “Israel and Palestine.” The Lone No: “It Makes Us Feel Unsafe.”",
+      "deck": "Councilor Kristen Strezo spoke for her Jewish community and invoked Kristallnacht as chants rose outside. The ordinance passed with a veto-proof majority.",
+      "body": "Thursday night, the Somerville City Council voted 10-1 to keep city money from companies tied to violations of international humanitarian law, naming those operating in “Israel and Palestine,” JTA reports.\n\nThe lone no: Councilor Kristen Strezo. Speaking for her Jewish community, she said the ordinance “makes us feel targeted. It makes us feel unsafe. It makes us feel unwelcome.”\n\n“A few years before Kristallnacht, the Nazis worked to deter the public from shopping at Jewish businesses,” she said. “Their efforts started in moments like tonight.”\n\nOutside, chants rose over her speech. The measure is final.",
+      "pull_quote": "This ordinance will do nothing to solve the real conflict in the Middle East.",
+      "record": [
+        {
+          "date": "2026-11-13",
+          "label": "10-1 vote Thursday; companies in “Israel and Palestine”; Strezo the only no; her Kristallnacht remarks and “makes us feel targeted. It makes us feel unsafe. It makes us feel unwelcome”; chants (“Disclose, divest, we will not stop, we will not rest”) audible over her speech; Mayor Jake Wilson’s office: veto-proof majority, measure final; Question 3 passed with 55.7% in 2025",
+          "source": "Jewish Telegraphic Agency",
+          "url": "https://www.jta.org/2026/11/13/politics/somerville-city-council-votes-to-divest-from-israel",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "label": "Ordinance keeps funds out of companies that “directly, knowingly, and consistently” aid or profit from violations; Strezo: “this ordinance proposal makes us feel targeted”; Vice President Wilfred Mbah: it “is not about targeting a people, a religion, or a community”",
+          "source": "Boston.com",
+          "url": "https://www.boston.com/news/politics/2026/11/13/somerville-procurement-ordinance-israel/",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "label": "Legistar roll call 10 to 1; Councilor at Large Kristen Strezo voted no",
+          "source": "Boston North News",
+          "url": "https://bostonnorthnews.com/2026/11/somerville-city-council-november-12-2026-ethical-procurement-ordinance-ordained-10-1-tax-classification-trash-contract-warming-center/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/somerville-divest-lone-no-strezo.jpg",
+        "alt": "FNN graphic: the lone no in Somerville",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Somerville voted 10-1 to divest over “Israel and Palestine.” The lone no, Councilor Kristen Strezo: “It makes us feel targeted. It makes us feel unsafe. It makes us feel unwelcome.”",
+        "caption": "THE LONE NO"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-15"
+    },
     {
       "slug": "starship-flight-15-in-orbit",
       "section": "freedom",
@@ -3532,6 +3696,256 @@
       "share": {
         "line": "Hexumlite got into a University of Florida dining hall for $13 in a $590 fake Rolex, logged about 34 approaches and one probable number, and flies to Miami Wednesday for a palatal expander.",
         "caption": "$13 AND A $590 FAKE ROLEX."
+      }
+    },
+    {
+      "slug": "kirk-here-to-show-them-kindness",
+      "date": "2026-11-15",
+      "section": "faith",
+      "kicker": "FAITH, FAMILY AND FREEDOM",
+      "headline": "“I Am Here to Show Them Kindness”: The Last Message Charlie Kirk Sent Before Utah",
+      "deck": "A year later, his statue sits on a folding chair, mic in hand. A 22-year-old who saw his final moments says it changed her spiritual life.",
+      "byline": "By FNN Desk",
+      "body": "Before flying to Utah, Charlie Kirk told Turning Point’s Andrew Sypher: “I’m not here to pick a fight. I am here to show them kindness.” Sypher shared it at the anniversary memorial, the Deseret News reported.\n\nOnstage stood a new statue of Kirk “sitting cross-legged on a folding chair, mic in hand, ready to engage with anyone.”\n\nJordyn Lloyd, 22, saw his final moments. “It catapulted my spiritual journey,” she said. “I am a totally different person than who I was a year ago.”\n\nThis week, facing mockery, Andrew Kolvet said: “We need to be kind to our fellow Americans.”",
+      "pull_quote": "I'm not here to pick a fight. I am here to show them kindness.",
+      "record": [
+        {
+          "date": "2026-09-11",
+          "label": "“Freedom Built to Last” memorial at UVU, Sept. 10, 2026; 5,000 attendees; Sypher’s account (“I’m not here to pick a fight. I am here to show them kindness”); statue description; Beck and Jordyn Lloyd quotes",
+          "source": "Deseret News",
+          "url": "https://www.deseret.com/politics/2026/09/11/turning-point-usa-holds-memorial-for-charlie-kirk-anniversary-at-utah-valley-university/",
+          "role": null
+        },
+        {
+          "date": "2026-11-10",
+          "label": "Kolvet to Fox News Digital: would “totally sit down”; “We need to be kind to our fellow Americans”",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/media/turning-point-usa-spox-andrew-kolvet-speaks-out-jennifer-welch-dave-chappelle-mock-charlie-kirks-murder",
+          "role": null
+        },
+        {
+          "date": "2026-11-09",
+          "label": "Erika Kirk: “A culture that laughs at assassination is one of profound moral decay”",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/erika-kirk-blasts-disgusting-jokes-dave-chappelle-mocks-charlie-kirk-a-rcna608371",
+          "role": null
+        },
+        {
+          "date": "2026-07-12",
+          "label": "Emma Dayton joins the Pick Up the Mic Tour: “pick up the mic, pull up a chair, and sit under a tent like Charlie did”",
+          "source": "The Daily Signal",
+          "url": "https://www.dailysignal.com/2026/07/12/charlie-kirk-mic/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/kirk-here-to-show-them-kindness.jpg",
+        "alt": "FNN graphic: Here to show them kindness",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Charlie Kirk’s last message before Utah: “I’m not here to pick a fight. I am here to show them kindness.”",
+        "caption": "“HERE TO SHOW THEM KINDNESS”"
+      }
+    },
+    {
+      "slug": "church-of-england-adult-baptisms-rise",
+      "date": "2026-11-15",
+      "section": "faith",
+      "kicker": "REVIVAL WATCH",
+      "headline": "“Quite Possibly Higher Than They Have Ever Been”: Adult Baptisms Climb Again in the Church of England",
+      "deck": "9,900 adults were baptized in 2025, up by a third, as attendance grew for a fifth straight year. Young people are showing up “with a brand new Bible in hand.”",
+      "byline": "By FNN Desk",
+      "body": "The Church of England baptized 9,900 adults in 2025, up by a third, figures released Friday show. The church’s report calls adult baptisms “quite possibly higher than they have ever been,” the Church Times reported.\n\nAttendance grew for a fifth straight year. Average Sunday attendance rose to 590,000.\n\n“They turn up with a brand new Bible in hand, often the King James Version,” the church’s Emma Buchan told Premier Christian News of young people in their twenties.\n\nThe honest part: total baptisms remain 34% below 2019, and attendance is still below pre-pandemic levels.",
+      "pull_quote": "It is clear that people are seeking meaning, connection and hope in a turbulent world.",
+      "record": [
+        {
+          "date": "2026-11-13",
+          "label": "Fifth year of growth; worshipping community 1.03m; Sunday attendance 590,000 (+1.6%); children +8,000; adult baptisms 9,900; still below pre-pandemic; Mullally and Williams quotes",
+          "source": "Church of England",
+          "url": "https://www.churchofengland.org/news/church-attendance-grows-fifth-year-row-0",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "label": "Total baptisms 59,300, 34% below 2019; adult baptisms up a third to 9,900, “quite possibly higher than they have ever been”; Broadley and Emmanuel Church, Loughborough",
+          "source": "Church Times",
+          "url": "https://www.churchtimes.co.uk/articles/2026/13-november/news/uk/adult-baptisms-up-in-c-of-e",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "label": "Emma Buchan: “They turn up with a brand new Bible in hand, often the King James Version”",
+          "source": "Premier Christian News",
+          "url": "https://premierchristian.news/en/news/article/adult-baptisms-rise-again-in-church-of-england",
+          "role": null
+        },
+        {
+          "date": "2026-03-26",
+          "label": "Bible Society says its Quiet Revival survey sample was “faulty”; points to “growing numbers of adult baptisms and confirmations”",
+          "source": "Church Times",
+          "url": "https://www.churchtimes.co.uk/articles/2026/27-march/news/uk/bible-society-says-that-its-quiet-revival-report-was-based-on-a-faulty-survey",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/church-of-england-adult-baptisms-rise.jpg",
+        "alt": "FNN graphic: A brand new Bible in hand",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Adult baptisms in the Church of England are “quite possibly higher than they have ever been.”",
+        "caption": "“A BRAND NEW BIBLE IN HAND”"
+      }
+    },
+    {
+      "slug": "jeremy-doku-faith-not-hype",
+      "date": "2026-11-15",
+      "section": "faith",
+      "kicker": "YOUNG CHRISTIAN LEADERS",
+      "headline": "“I Don’t Want It to Be a Hype”: Jeremy Doku, 24, Tells Athletes Faith Has to Be Real",
+      "deck": "The Manchester City and Belgium winger says more players are talking about Jesus. His warning: a cross on a chain is not the same as a changed heart.",
+      "byline": "By FNN Desk",
+      "body": "“I see more and more players speaking about Christ,” Manchester City winger Jeremy Doku said in an Instagram video, Movieguide reported this week. “And I don’t want it to be a hype. I want it to be really a genuine transformation.”\n\n“I can wear a cross, I can wear armbands, I can put [on] a tattoo and still be disconnected from Christ,” the Belgian star said.\n\nLast year, after a derby win, he told the BBC he was heading off to be baptized. “For me, today was already a victory day.”\n\nHis caption: “I want it to be REAL.”",
+      "pull_quote": "Faith is more than outward signs. I don't want it to be just a hype. I want it to be REAL.",
+      "record": [
+        {
+          "date": "2026-11-13",
+          "label": "Instagram video and caption quotes; 1 Samuel 16:7; represented Belgium at the 2026 World Cup; Christhlete video quotes",
+          "source": "Movieguide",
+          "url": "https://www.movieguide.org/news-articles/soccer-star-jeremy-doku-talks-genuine-faith.html",
+          "role": null
+        },
+        {
+          "date": "2025-09-15",
+          "label": "Baptism after the 3-0 derby win over Manchester United: “For me, today was already a victory day”; “It’s the centre of my life”",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c2knvkw4qkwo",
+          "role": null
+        },
+        {
+          "date": "2025-12-09",
+          "label": "Baptism video on Instagram with Romans 6:4; “Jesus saved my life” T-shirt",
+          "source": "Premier Christian News",
+          "url": "https://premierchristian.news/us/news/article/manchester-city-s-jeremy-doku-shares-baptism-video",
+          "role": null
+        },
+        {
+          "date": "2025-11-11",
+          "label": "YouTube documentary aimed at sharing the Gospel: “Even if it’s one person”",
+          "source": "Sports Spectrum",
+          "url": "https://sportsspectrum.com/sport/soccer/2025/11/11/manchester-city-jeremy-doku-god-in-my-life/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/jeremy-doku-faith-not-hype.jpg",
+        "alt": "FNN graphic: I want it to be real",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Jeremy Doku, 24: “I don’t want it to be a hype. I want it to be really a genuine transformation.”",
+        "caption": "“I WANT IT TO BE REAL”"
+      }
+    },
+    {
+      "slug": "kaili-sunday-school-christians-trial",
+      "date": "2026-11-15",
+      "section": "faith",
+      "kicker": "THE PERSECUTED CHURCH",
+      "headline": "Charged for Teaching Children About Jesus: Four Chinese Christians Head to Trial Over Sunday School",
+      "deck": "Four men from a Kaili house church have been held since March on charges including “organizing minors.” Their wives say lawyers still can’t copy the case files.",
+      "byline": "By FNN Desk",
+      "body": "Four Christian men from an unregistered house church in Kaili, in China’s Guizhou Province, face trial, their wives said Thursday, the China Rights Record reports: Wei Yongqiang, He Jinbao, Long Jian and Cheng Yongbing.\n\nThe charges, per Worthy News: fraud, illegal gatherings and “organizing minors to engage in activities that disrupt public order.” Local sources told Bitter Winter that accusation “rests entirely on ordinary church life,” including Sunday school.\n\nThey have been held since March 18. Their wives say defense lawyers cannot copy the case files.\n\nChinaAid’s Bob Fu: “an outrageous abuse of law.”",
+      "pull_quote": "Criminalizing Sunday school and the peaceful sharing of faith with children is an outrageous abuse of law.",
+      "record": [
+        {
+          "date": "2026-11-15",
+          "label": "Four men named; charges; wives’ joint appeal; lawyers unable to obtain case files; March 18 detention; no trial date or conviction; Bob Fu: “Criminalizing Sunday school and the peaceful sharing of faith with children is an outrageous abuse of law and a direct assault on the fundamental rights of parents and churches”",
+          "source": "Worthy News",
+          "url": "https://www.worthynews.com/119010-four-chinese-christians-face-trial-over-alleged-sunday-school-activities",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "label": "Wives said Nov. 12 the case entered the court stage; status of two others unpublished; CECC “first time” characterization",
+          "source": "China Rights Record",
+          "url": "https://chinarightsrecord.org/en/article/kaili-four-christians-trial-2026/",
+          "role": null
+        },
+        {
+          "date": "2026-05-18",
+          "label": "Six arrested; the minors accusation “rests entirely on ordinary church life: sharing the Gospel with children, holding Sunday school, and allowing families to participate in worship together”",
+          "source": "Bitter Winter",
+          "url": "https://bitterwinter.org/six-christians-arrested-in-guizhou-on-fraud-and-organizing-minors-charges/",
+          "role": null
+        },
+        {
+          "date": "2026-05-21",
+          "label": "May arrests of six on “organizing minors” and fraud charges",
+          "source": "Christian Daily International",
+          "url": "https://www.christiandaily.com/news/china-arrests-six-christians-on-charge-of-organizing-minors",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/kaili-sunday-school-christians-trial.jpg",
+        "alt": "FNN graphic: Charged for Sunday school",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Four Chinese Christians head to trial on charges that include “organizing minors,” which supporters say means Sunday school.",
+        "caption": "CHARGED FOR SUNDAY SCHOOL"
+      }
+    },
+    {
+      "slug": "ut-tyler-pick-up-the-mic-cane-attack",
+      "date": "2026-11-15",
+      "section": "faith",
+      "kicker": "FAITH ON CAMPUS",
+      "headline": "“It Does Not Protect Assaulting People You Disagree With”: A Cane Attack at a UT Tyler Turning Point Event",
+      "deck": "A man tore down a flag and swung a cane at a “Pick Up the Mic” table. In Tennessee, hundreds signed a petition to shut a chapter. The students keep talking.",
+      "byline": "By FNN Desk",
+      "body": "At a Turning Point “Pick Up the Mic” event at UT Tyler on Tuesday, a man ripped down an American flag, told organizers “y’all don’t deserve this” and swung a cane before campus police restrained him, FOX 4 reported. No injuries were reported, per The Christian Post.\n\nA 19-year-old former student was charged with aggravated assault. He is presumed innocent.\n\nRep. Nathaniel Moran: “It does not protect assaulting people you disagree with.”\n\nIn Tennessee, 550-plus petitioned to disband MTSU’s chapter. Its reply: if students don’t want to hear its speakers, “they have the freedom to leave the event.”",
+      "pull_quote": "The First Amendment protects your right to speak, even to protest. It does not protect assaulting people you disagree with.",
+      "record": [
+        {
+          "date": "2026-11-11",
+          "label": "Video of flag torn down and cane swung; campus police restrained the man; charges incl. two counts of aggravated assault with a deadly weapon; former student; Moran statement",
+          "source": "FOX 4 Dallas-Fort Worth",
+          "url": "https://www.fox4news.com/news/man-charged-assault-ut-tyler-turning-point-usa-event",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "label": "“Pick Up the Mic” event; field rep and two students assaulted with a prop cane per Frontlines TPUSA; no injuries reported; Philley: “Everyone has the right to free speech, and violence will not be tolerated at this university”",
+          "source": "The Christian Post",
+          "url": "https://www.christianpost.com/news/turning-point-usa-rep-attacked-by-man-with-cane-in-texas.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "label": "MTSU march of about 30 students; petition with 550+ signatures; chapter statement: “If our fellow student body wishes not to hear from our speakers, they have the freedom to leave the event”",
+          "source": "WSMV",
+          "url": "https://www.wsmv.com/2026/11/13/mtsu-student-group-protests-turning-point-usa-chapter-after-october-event/",
+          "role": null
+        },
+        {
+          "date": "2026-07-12",
+          "label": "Pick Up the Mic Tour created after Kirk’s death as a new version of Prove Me Wrong",
+          "source": "The Daily Signal",
+          "url": "https://www.dailysignal.com/2026/07/12/charlie-kirk-mic/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/ut-tyler-pick-up-the-mic-cane-attack.jpg",
+        "alt": "FNN graphic: Argument, not assault",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Rep. Nathaniel Moran on a cane attack at a UT Tyler Turning Point event: “It does not protect assaulting people you disagree with.”",
+        "caption": "ARGUMENT, NOT ASSAULT"
       }
     },
     {
