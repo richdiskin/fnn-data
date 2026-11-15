@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-14-am7",
+  "edition": "2026-11-14-am8",
   "date": "2026-11-14",
-  "updated_at": "2026-11-14T19:39:00-05:00",
+  "updated_at": "2026-11-14T21:42:00-05:00",
   "lead": "starship-flight-15-in-orbit",
   "stories": [
     {
@@ -936,6 +936,101 @@
       "share": {
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
+      }
+    },
+    {
+      "slug": "burtbronx-skankfest-ferris-wheel-no-photos",
+      "date": "2026-11-14",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · BURT BRONX",
+      "headline": "Burt Bronx Rode the Skankfest Ferris Wheel Yelling “We’re Going to Die,” Then Shane Gillis Said No Photos",
+      "deck": "The late Day 2 session: Luis J. Gomez walks by, a $1,200 prize for Salvo, a cinematic bridge and a pause before Legion of Skanks.",
+      "byline": "By FNN Desk",
+      "body": "Skankfest Day 2 got a night shift. Burt Bronx and Ted came back live from Mardi Gras World at 7:17 p.m. ET, and within a minute Luis J. Gomez walked right by. Salvo, by their account, had won a $1,200 prize in an off-stream funny-story contest. On the Ferris wheel, Burt filed his report: “We’re going to die.” Then: “Does it look cinematic?” Ted says he punched Shane Gillis on the arm and asked for a photo; Shane’s answer, as Ted tells it: “Nah, no photos.” At the Legion of Skanks door: “Okay, guys, we’ll be back.”",
+      "pull_quote": "Look at the bridge in the background. Does it look good? Does it look cinematic?",
+      "record": [
+        {
+          "date": "2026-11-14",
+          "date_label": "Saturday, Nov. 14, 7:17:08 p.m. ET to about 8:55:29 p.m. ET (6:17 to about 7:55 p.m. CT; 1 hour, 38 minutes, 21 seconds)",
+          "label": "A new session on the Skankfest X grounds at Mardi Gras World in New Orleans, not a continuation of the already-reported afternoon Day 2 tape that ended at the Forbidden Apothecary door around 6:06 p.m. ET. Official Kick duration 5,901,000 ms. Category IRL; English; marked mature. Livestream / VOD 137900033. Kick showed 498 VOD views at about 9:17 p.m. ET and 9,349 followers on the VOD object. Concurrent viewers this desk saw live (Kick public API): 84 at 8:01 p.m. ET and 82 at 8:02 p.m. ET. These are sampled checks, not an official peak. Cold approaches: 0. Private people, including fans, staff, chatters and contest judges, are not named.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TED: SKANKFEST DAY 2 OF 3” (late session)",
+          "url": "https://kick.com/burtbronx/videos/735ed419-0834-4ff7-bc96-a205733f60a6",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "date_label": "VOD 0:00:00–0:01:10 (about 7:17–7:18 p.m. ET)",
+          "label": "Already on the grounds beside the carnival rides, they talked up Tech N9ne (“I love Tech 9, bro”) and the plan: “At 8 p.m. we’ll be seeing [Legion of] Skanks.” Mid-sentence: “Luigi Gomez just walked right by,” meaning Luis J. Gomez, who had given them a brief hello on the afternoon tape. Kick captions and whisper pass.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TED: SKANKFEST DAY 2 OF 3” (late session)",
+          "url": "https://kick.com/burtbronx/videos/735ed419-0834-4ff7-bc96-a205733f60a6",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "date_label": "VOD 0:01:10–0:08:02 (about 7:18–7:25 p.m. ET)",
+          "label": "Off stream, between tapes, they got into what they describe as a T-shirt giveaway for funny stories, not a taped set: “there’s no recording of any sets or anything.” By their account, Salvo won a $1,200 prize there, and they got a photo with Kenny and Spenny. Ted on Salvo’s delivery: rather than acknowledging the jokes, “he would just continue with the story, which is the best route.” They also mentioned a photo with Jeremiah Watkins. Then: “Okay chat, Ferris wheel time.” Kick captions and whisper pass.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TED: SKANKFEST DAY 2 OF 3” (late session)",
+          "url": "https://kick.com/burtbronx/videos/735ed419-0834-4ff7-bc96-a205733f60a6",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "date_label": "VOD 0:12:50–0:18:00 (about 7:30–7:35 p.m. ET)",
+          "label": "Burt and Salvo rode the Ferris wheel, purple ride lights around them and a lit bridge behind. Burt: “Holy fuck. Holy fuck. We’re going to die.” Then: “I’m scared of heights,” followed by a correction: “I love heights. I love rollercoasters.” The cabin creaked: “No WD-40, chat.” “Look at the bridge in the background. Does it look good? Does it look cinematic?” “I guess we’re coming down quick.” Kick captions, whisper pass and stills.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TED: SKANKFEST DAY 2 OF 3” (late session)",
+          "url": "https://kick.com/burtbronx/videos/735ed419-0834-4ff7-bc96-a205733f60a6",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "date_label": "VOD 0:21:45–0:22:40, recapped about 0:40 (about 7:39–7:57 p.m. ET)",
+          "label": "“Oh, my god. Shane Gillis.” Ted’s approach, as it lands on the tape: “Shane, do you know Fish Tank? I’m from Delco. Can I get my buddy to get a picture with you? Sorry, Shane.” Afterward: “That was our chance to see Shane. And I fucked it up, I guess… I did punch his arm.” In Ted’s later recap, Shane was walking to the bathroom, and his answer was “Nah, no photos, which makes sense.” That account is Ted’s. Kick captions and whisper pass.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TED: SKANKFEST DAY 2 OF 3” (late session)",
+          "url": "https://kick.com/burtbronx/videos/735ed419-0834-4ff7-bc96-a205733f60a6",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "date_label": "VOD 0:22:40–0:41:30 (about 7:40–7:59 p.m. ET)",
+          "label": "On the red couches, Salvo texted that he was “upstairs next to Shane Gillis,” reached by “the service elevator,” and was later with Nick Rochefort. Burt and Ted had “just a three-day pass”; “the VIP was always sold out.” Salvo also texted that Matan was on the grounds. They sent a meetup text, and there was no reply on tape. “We were both denied by Shane, which makes sense.” Kick captions and whisper pass.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TED: SKANKFEST DAY 2 OF 3” (late session)",
+          "url": "https://kick.com/burtbronx/videos/735ed419-0834-4ff7-bc96-a205733f60a6",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "date_label": "VOD 0:41:30–0:51:30 (about 7:59–8:09 p.m. ET)",
+          "label": "Instagram duty: Burt posted comedian photos, tagging Jeremiah Watkins and Legion of Skanks. Ted: “Of course Burt is making a post for every comedian. This is how Burt operates… You guys better like every single one of them.” Kick captions.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TED: SKANKFEST DAY 2 OF 3” (late session)",
+          "url": "https://kick.com/burtbronx/videos/735ed419-0834-4ff7-bc96-a205733f60a6",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "date_label": "VOD 1:07:00–1:22:00 (about 8:24–8:39 p.m. ET)",
+          "label": "Burt pulled on an oversized black Legion of Skanks hoodie: “Swagged out in Legion of Skank merch, chat.” Ted said it was three sizes too big: “No way fans are going to point you out when you have a big old hood on your head.” Burt: “Let me take this off so I can be recognized.” Ted: “Make them come to you, Bert. Make them do the work.” Kick captions and whisper pass.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TED: SKANKFEST DAY 2 OF 3” (late session)",
+          "url": "https://kick.com/burtbronx/videos/735ed419-0834-4ff7-bc96-a205733f60a6",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "date_label": "VOD 1:32:40–1:38:21 (about 8:50–8:55 p.m. ET)",
+          "label": "“Doors are open if you want to go in, Bert.” “Oh hell yeah.” At the door: Legion of Skanks “is going on in there, right? At eight?” “Yeah.” “Okay, guys, we’ll be back.” The VOD ends mid-goodbye as they go in. Kick captions.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TED: SKANKFEST DAY 2 OF 3” (late session)",
+          "url": "https://kick.com/burtbronx/videos/735ed419-0834-4ff7-bc96-a205733f60a6",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/burtbronx-skankfest-ferris-wheel-no-photos.jpg",
+        "alt": "Burt Bronx, wide-eyed in a black hoodie and red lanyard, beside Salvo in a white long-sleeve in a Ferris-wheel cabin, a lit bridge behind them",
+        "credit": "Kick VOD, Burt Bronx",
+        "caption": "Burt Bronx and Salvo coming down on the Skankfest Ferris wheel, with the bridge in the background, Saturday night, Nov. 14."
+      },
+      "share": {
+        "line": "Skankfest Day 2, night shift: Luis J. Gomez walks by, Burt Bronx rides the Ferris wheel (“We’re going to die”), Shane Gillis says no photos and they pause for Legion of Skanks.",
+        "caption": "DOES IT LOOK CINEMATIC?"
       }
     },
     {
