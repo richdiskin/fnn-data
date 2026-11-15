@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-15-am4",
+  "edition": "2026-11-15-am5",
   "date": "2026-11-15",
-  "updated_at": "2026-11-15T08:10:00-05:00",
+  "updated_at": "2026-11-15T18:45:00-05:00",
   "lead": "mechazilla-catches-starship",
   "stories": [
     {
@@ -1100,6 +1100,109 @@
       "share": {
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
+      }
+    },
+    {
+      "slug": "burtbronx-side-character-orange-jumpsuit",
+      "date": "2026-11-15",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · BURT BRONX",
+      "headline": "Salvo Called Burt Bronx a “Side Character.” Burt Said He’s “Not Welcome,” Then Wore an Orange Jumpsuit to Skankfest",
+      "deck": "A 4-hour, 10-minute New Orleans tape: an hour-long hotel-room dressing-down, Ted in tears, an eviction and a pause at the ballroom door.",
+      "byline": "By FNN Desk",
+      "body": "Burt Bronx’s Sunday afternoon stream became a prestige drama. In a New Orleans hotel room, Salvo spent the better part of an hour dressing him down. Salvo, at one point: “You’re a side character.” Burt sat still: “I’m just kind of letting him cook.” Ted, near tears: “You guys are breaking my heart.” Then Burt ruled: “You’re not welcome in this hotel room anymore.” Ted, crying: “I’m sorry for everything.” Burt changed into an orange prison-style jumpsuit, discovered on the Uber ride that Salvo had unfollowed him, and paused at the ballroom door: “We will be back after this.”",
+      "pull_quote": "I’m kind of curious to see what else he has to say, so I’m just kind of letting him cook.",
+      "record": [
+        {
+          "date": "2026-11-15",
+          "date_label": "Sunday, Nov. 15, 1:38:23 p.m. ET to about 5:48:24 p.m. ET (12:38 to about 4:48 p.m. CT; 4 hours, 10 minutes, 1 second)",
+          "label": "A new session from Burt Bronx and Ted, not a continuation of the already-reported 2:39 a.m. ET hotel tape: a New Orleans hotel room, then an Uber to the Skankfest grounds at Mardi Gras World. IRL; English; marked mature. Livestream / VOD 138037743. Kick’s public API showed 1,048 VOD views and 9,359 followers at about 5:57 p.m. ET. Live viewers this desk saw: 50 at about 2:01 p.m., 77 and 79 at about 3:01 p.m., 199 and 204 at about 4:00 p.m. and 103 and 100 at about 5:00 p.m. ET. These are sampled checks, not an official peak. Cold approaches: 0. Private people and chatters are not named. Remarks in the argument are each person’s words at the time, not findings by FNN; who said what in overlapping talk is attributed only where the captions or audio make it clear.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TED: SKANKFEST DAY 2 OF 3” (Sunday afternoon session)",
+          "url": "https://kick.com/burtbronx/videos/fe77a5f7-be05-4b58-be8f-02c6564f304f",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 1:01:00–1:13:30 (about 2:39–2:51 p.m. ET)",
+          "label": "Ted, on the partnership: “I’m not going to be disappearing anytime soon, guys, because we’re going to [Comic-Con] in July.” Earlier, at 1:00:52, Ted joked about walking Skankfest with Burt “in your prisoner outfit today,” which the afternoon later paid off. Kick captions.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TED: SKANKFEST DAY 2 OF 3” (Sunday afternoon session)",
+          "url": "https://kick.com/burtbronx/videos/fe77a5f7-be05-4b58-be8f-02c6564f304f",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 1:53:30–2:20:00 (about 3:31–3:58 p.m. ET)",
+          "label": "Salvo turned on Burt and kept at it for most of the next hour. Salvo, at about 1:55:52: “You’re a side character.” Burt: “I paid for this hotel that you’re in right now.” Ted, near tears: “You guys are breaking my heart.” Salvo: “Don’t be so melodramatic.” Burt mostly kept his face still and said little. FNN is not reprinting the rest of Salvo’s remarks. Kick captions; attributions by voice, frames and context.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TED: SKANKFEST DAY 2 OF 3” (Sunday afternoon session)",
+          "url": "https://kick.com/burtbronx/videos/fe77a5f7-be05-4b58-be8f-02c6564f304f",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 2:20:00–2:27:00 (about 3:58–4:05 p.m. ET)",
+          "label": "With Salvo out of the room, Burt told chat: “I’m kind of curious to see what else he has to say, so I’m just kind of letting him cook.” Kick captions and whisper pass agree.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TED: SKANKFEST DAY 2 OF 3” (Sunday afternoon session)",
+          "url": "https://kick.com/burtbronx/videos/fe77a5f7-be05-4b58-be8f-02c6564f304f",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 2:35:00–2:53:00 (about 4:13–4:31 p.m. ET)",
+          "label": "Burt: “You need to leave my hotel room.” A message read on stream told Ted he had to pick a side. Ted, in tears: “I’m sorry for everything. I didn’t mean for it to turn out this way. I didn’t like him saying that I had to choose.” Burt: “I won’t make you choose.” Ted: “I feel like it’s all my fault and I didn’t want any of this to happen.” Kick captions.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TED: SKANKFEST DAY 2 OF 3” (Sunday afternoon session)",
+          "url": "https://kick.com/burtbronx/videos/fe77a5f7-be05-4b58-be8f-02c6564f304f",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 2:53:30–2:57:20 (about 4:31–4:35 p.m. ET)",
+          "label": "Salvo came back for his bag: “I’m leaving, but I’m leaving my bag... because I don’t want to lug it around town all day, because my flight is tomorrow.” Burt: “You’re not welcome in this hotel room anymore, so just take it with you.” Then: “I pay for this room. I say who gets to stay in my hotel room.” Salvo left with the bag. Kick captions and whisper pass agree on the last line.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TED: SKANKFEST DAY 2 OF 3” (Sunday afternoon session)",
+          "url": "https://kick.com/burtbronx/videos/fe77a5f7-be05-4b58-be8f-02c6564f304f",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 3:10:00–3:18:00 (about 4:48–4:56 p.m. ET)",
+          "label": "Ted, alone on camera with chat: “What do I do? Just shut up and sit in a corner, or do I try to moderate, because I feel like I have some responsibility because I brought these two together?” Then: “I pictured this weekend going well and everybody having a great time getting along.” Kick captions and whisper pass.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TED: SKANKFEST DAY 2 OF 3” (Sunday afternoon session)",
+          "url": "https://kick.com/burtbronx/videos/fe77a5f7-be05-4b58-be8f-02c6564f304f",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 3:18:00–3:44:00 (about 4:56–5:22 p.m. ET)",
+          "label": "Burt changed into an orange prison-style jumpsuit with a white “BURT” name tag and a red three-day-pass lanyard, read off a gear checklist and ordered an Uber. He also laid out a plan to move to Los Angeles: “Then the next year, December 2027, I’ll finally transition to Los Angeles... for basically permanent stay.” Kick captions and stills.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TED: SKANKFEST DAY 2 OF 3” (Sunday afternoon session)",
+          "url": "https://kick.com/burtbronx/videos/fe77a5f7-be05-4b58-be8f-02c6564f304f",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 3:49:00–4:01:30 (about 5:27–5:39 p.m. ET)",
+          "label": "On the Uber ride to the grounds, Burt checked his social accounts and found that Salvo had unfollowed him; he noted it was not a block. FNN paraphrases this exchange because the captions and the whisper pass disagree on the wording. Kick captions and whisper pass.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TED: SKANKFEST DAY 2 OF 3” (Sunday afternoon session)",
+          "url": "https://kick.com/burtbronx/videos/fe77a5f7-be05-4b58-be8f-02c6564f304f",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 4:01:30–4:10:01 (about 5:39–5:48 p.m. ET)",
+          "label": "At the venue, Ted asked a comedian for a quick photo with Burt; it was not shown on stream. Walking the grounds in the jumpsuit, Burt passed a Sheriff’s SUV, and someone told him to look at the camera and say, “I didn’t do it.” Burt: “I look very mean.” At the ballroom: “I think we might have to pause the stream for a bit if they’re going to be doing sets in there, chat... We will be back after this.” Kick captions and stills.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TED: SKANKFEST DAY 2 OF 3” (Sunday afternoon session)",
+          "url": "https://kick.com/burtbronx/videos/fe77a5f7-be05-4b58-be8f-02c6564f304f",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/burtbronx-side-character-orange-jumpsuit.jpg",
+        "alt": "Burt Bronx in an orange prison-style jumpsuit in a hotel room, his reflection and Ted visible in a mirror behind him",
+        "credit": "Kick VOD, Burt Bronx",
+        "caption": "Burt Bronx in the orange jumpsuit he wore to Skankfest, Sunday afternoon, Nov. 15."
+      },
+      "share": {
+        "line": "Salvo called Burt Bronx a “side character.” Burt said he was “not welcome,” Ted cried, and Burt wore an orange jumpsuit to Skankfest: “We will be back after this.”",
+        "caption": "LETTING HIM COOK."
       }
     },
     {
