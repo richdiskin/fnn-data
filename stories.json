@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-16-am3",
+  "edition": "2026-11-16-am4",
   "date": "2026-11-16",
-  "updated_at": "2026-11-16T07:44:00-05:00",
+  "updated_at": "2026-11-16T08:10:00-05:00",
   "lead": "ship-42-could-be-reflown",
   "stories": [
     {
@@ -1367,6 +1367,61 @@
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
       }
+    },
+    {
+      "slug": "clavicular-shave-post-deleted-then-back-1-3-million-views",
+      "date": "2026-11-16",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · CLAVICULAR",
+      "headline": "Clavicular Deleted the Head-Shave Post for His Girlfriend. 51 Minutes Later, It Was Back.",
+      "deck": "“She wanted me to delete it,” he said at 9:26 p.m. At 10:17 p.m., “bare minimum” returned.",
+      "byline": "By FNN Desk",
+      "body": "Clavicular deleted it. Then he un-deleted it.\n\nAt 9:26 p.m. ET Sunday he said his girlfriend “wanted me to delete” the post announcing she had shaved her head to keep his skin clear. At 10:17 p.m. the post was back, same caption, with a video attached: “Very loving gesture, bare minimum lOI.”\n\nBy 8 a.m. Monday it had 1,328,106 views, 9,353 likes and 1,017 replies. He has not explained the reversal. His next post, at 12:29 a.m., addressed a different bodily risk: “Mistaking an indication of fart, for an indication of shit can be truly consequential.”",
+      "pull_quote": "Ok she wanted me to delete it, but fuck that was going to be the best bait in twitter history.",
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/clavicular-shave-post-deleted-then-back-1-3-million-views.jpg",
+        "alt": "Clavicular shirtless in a gym, posing in front of weight machines",
+        "credit": "X video, @clavicular",
+        "caption": "Clavicular in “The mog,” the gym clip he posted Sunday night."
+      },
+      "share": {
+        "line": "Clavicular deleted the post saying his girlfriend shaved her head to protect his skin. 51 minutes later he put it back. 1.3 million views.",
+        "caption": "IT’S BACK."
+      },
+      "record": [
+        {
+          "date": "2026-11-15",
+          "date_label": "Sunday, 9:26 p.m. ET, post",
+          "label": "“Ok she wanted me to delete it, but fuck that was going to be the best bait in twitter history. Looksmax already has bad reputation tho so prob better” 876 likes, 72 replies, 40,037 views at 9:55 p.m. ET.",
+          "source": "X, @clavicular",
+          "url": "https://x.com/clavicular/status/2122154262390001979",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "Sunday, 10:17 p.m. ET, post with 7-second video",
+          "label": "“Nocturnal facial contact with a woman’s hair may expose skin to comedogenic hair-product residue, causing acne. My girlfriend in an attempt to aid me in my looksmaxing journey shaved all of her hair off. Very loving gesture, bare minimum lOI.” 1,328,106 views, 9,353 likes, 275 reposts, 1,017 replies, 378 quotes at about 8 a.m. ET Monday. FNN does not run the video, his girlfriend’s image or her name.",
+          "source": "X, @clavicular",
+          "url": "https://x.com/clavicular/status/2122167048671580383",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "Sunday, earlier, FNN’s first report",
+          "label": "The original post (id 2122134668988322269, about 8:08 p.m. ET) had been deleted; its caption matches the restored post.",
+          "source": "FNN MOGazine",
+          "url": "https://www.fnnfakenewsnetwork.com/story/clavicular-girlfriend-shaved-head-bare-minimum",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "date_label": "Monday, 12:29 a.m. ET, post",
+          "label": "“Mistaking an indication of fart, for an indication of shit can be truly consequential.” 1,932 likes, 123 replies, 75,370 views at about 8 a.m. ET.",
+          "source": "X, @clavicular",
+          "url": "https://x.com/clavicular/status/2122200354582343936",
+          "role": null
+        }
+      ]
     },
     {
       "slug": "heelmike-hollywood-waymo-telekinesis",
