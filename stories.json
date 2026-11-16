@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-15-am6",
+  "edition": "2026-11-15-am7",
   "date": "2026-11-15",
-  "updated_at": "2026-11-15T22:00:00-05:00",
+  "updated_at": "2026-11-15T22:43:00-05:00",
   "lead": "mechazilla-catches-starship",
   "stories": [
     {
@@ -1100,6 +1100,101 @@
       "share": {
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
+      }
+    },
+    {
+      "slug": "hexumlite-nashville-blue-collar-light",
+      "date": "2026-11-15",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · HEXUMLITE",
+      "headline": "Hexumlite Hit Broadway With Growler, Declared Himself “Blue Collar Light,” Then Surrendered to the Nashville Cold",
+      "deck": "A 1-hour, 53-minute Nashville walk: a boot shop, a rooftop bar with the skyline, two numbers by FNN’s count, and Memphis tomorrow.",
+      "byline": "By FNN Desk",
+      "body": "Hexumlite’s road trip finally reached Broadway. Hood up, Growler on the leash, he announced: “I’m in Nashville, guys. Finally back on the road trip.” He rolled out a new identity, “blue collar light,” and greeted men on the sidewalk accordingly. He shopped steel-toe boots, then rode up to a new rooftop bar with the Nashville skyline behind him. FNN counted 13 attempts and two phone numbers. Then the cold won: “Sometimes in life, you just got to bitch out.” From the car, he said he signed with Duel, is headed to Memphis tomorrow and is done with his girlfriend.",
+      "pull_quote": "I’m in Nashville, guys. Finally back on the road trip.",
+      "record": [
+        {
+          "date": "2026-11-15",
+          "date_label": "Sunday, Nov. 15, 7:22:42 p.m. ET to about 9:15:35 p.m. ET (1 hour, 52 minutes, 53 seconds)",
+          "label": "A new road-trip stop, separate from the already-reported Florida and FME tapes, including VOD 137339285. Official Kick duration 6,773,000 ms. IRL; English; not marked mature. Livestream / VOD 138096704. Kick’s public API showed 9,854 VOD views and 14,954 followers at about 10:04 p.m. ET. Concurrent viewers this desk saw live (Kick public API): 1,590 at about 8:01 p.m., 2,396 at 8:02 p.m. and 2,443 at about 8:57 p.m. ET. These are sampled checks, not an official peak. Cold approaches, FNN’s best read: 13 attempts (including brief and aborted ones), 2 phone-number contacts, 0 Instagrams, 0 laughs logged. Women and other private people are not named.",
+          "source": "Kick VOD, Hexumlite, “In Nashville Feeling sensitive and holiday spirit”",
+          "url": "https://kick.com/hexumlite/videos/369f0c9d-3476-4b2d-9d76-f696bd37baec",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 0:00–0:01 (about 7:23 p.m. ET)",
+          "label": "He opened on a holiday-decorated plaza in a black Quiksilver hoodie, hood up, with Growler, his black-and-tan German Shepherd, on a leash: “I’m in Nashville, guys. Finally back on the road trip.” He said it was freezing and there was “a lot of music right here,” and told chat to “walk around and enjoy Nashville.” Whisper pass on the VOD audio.",
+          "source": "Kick VOD, Hexumlite, “In Nashville Feeling sensitive and holiday spirit”",
+          "url": "https://kick.com/hexumlite/videos/369f0c9d-3476-4b2d-9d76-f696bd37baec",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 0:04–0:09 (about 7:27–7:32 p.m. ET)",
+          "label": "On the Broadway neon strip he rolled out a theory of his appeal in the South: “here in country, blue collar light is attractive.” It became the night’s running bit; he greeted men on the sidewalk as “blue collar light” and wished people “happy holidays or Merry Christmas, which one?” Whisper pass and stills.",
+          "source": "Kick VOD, Hexumlite, “In Nashville Feeling sensitive and holiday spirit”",
+          "url": "https://kick.com/hexumlite/videos/369f0c9d-3476-4b2d-9d76-f696bd37baec",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 0:30–0:41 (about 7:53–8:04 p.m. ET)",
+          "label": "He ducked into a western boot shop with floor-to-ceiling cowboy boots (“Boots, goddamn boots”), shopped steel-toes and heard prices from about $199 to $599. He said $400 boots were not his style and that he prefers Jordans and Air Force 1s. One woman in the shop said she was there with her husband; another, in town for the weekend, put her number in his phone. Neither is named. Whisper pass, Kick captions and stills.",
+          "source": "Kick VOD, Hexumlite, “In Nashville Feeling sensitive and holiday spirit”",
+          "url": "https://kick.com/hexumlite/videos/369f0c9d-3476-4b2d-9d76-f696bd37baec",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 0:41–0:54 (about 8:04–8:17 p.m. ET)",
+          "label": "He rode an elevator to a new rooftop bar on Broadway with purple lighting and the Nashville skyline, including the AT&T building, behind him, and talked streaming backpacks with a man who said he was a Nashville comedian. Whisper pass and stills.",
+          "source": "Kick VOD, Hexumlite, “In Nashville Feeling sensitive and holiday spirit”",
+          "url": "https://kick.com/hexumlite/videos/369f0c9d-3476-4b2d-9d76-f696bd37baec",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 1:04–1:09 (about 8:27–8:32 p.m. ET)",
+          "label": "At 1:04:02: “Dude, it’s fucking cold, bro. Let’s just bitch out. I’m bitching out… I’m ending the stream and I’m going home.” He kept walking a while longer anyway, with Growler “clip farming.” “Sometimes in life, you just got to bitch out.” Whisper pass.",
+          "source": "Kick VOD, Hexumlite, “In Nashville Feeling sensitive and holiday spirit”",
+          "url": "https://kick.com/hexumlite/videos/369f0c9d-3476-4b2d-9d76-f696bd37baec",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 1:11:32–1:15 (about 8:34–8:38 p.m. ET)",
+          "label": "Asked by chat how he would land a gambling deal, he said: “Oh, guys, we officially signed with Duel. I signed with Duel, dude.” That is his claim; FNN has not independently confirmed a deal. Whisper pass.",
+          "source": "Kick VOD, Hexumlite, “In Nashville Feeling sensitive and holiday spirit”",
+          "url": "https://kick.com/hexumlite/videos/369f0c9d-3476-4b2d-9d76-f696bd37baec",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 1:15–1:24 (about 8:38–8:46 p.m. ET)",
+          "label": "He and Growler walked into a parking garage and got into a car with an unnamed companion. He said he “might come to Atlanta,” but “I’m going to go to Memphis though.” Whisper pass and Kick captions.",
+          "source": "Kick VOD, Hexumlite, “In Nashville Feeling sensitive and holiday spirit”",
+          "url": "https://kick.com/hexumlite/videos/369f0c9d-3476-4b2d-9d76-f696bd37baec",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 1:24–1:52 (about 8:46–9:15 p.m. ET)",
+          "label": "In the car, with Growler in the back, he told chat he had “no sleep yesterday,” that “talking to a girl sucks,” and “I want to be single,” and said it was “over” with his girlfriend. That is his on-stream statement, not a confirmed off-stream event; she is not named. The VOD ends on a low-bitrate card. Whisper pass and Kick captions.",
+          "source": "Kick VOD, Hexumlite, “In Nashville Feeling sensitive and holiday spirit”",
+          "url": "https://kick.com/hexumlite/videos/369f0c9d-3476-4b2d-9d76-f696bd37baec",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/hexumlite-nashville-blue-collar-light.jpg",
+        "alt": "Hexumlite in a black hooded sweatshirt, hood up, on Nashville’s Broadway at night with neon signs and a Diagonal Crossing street sign behind him",
+        "credit": "Kick VOD, Hexumlite",
+        "caption": "Hexumlite on Broadway in Nashville, Sunday night, Nov. 15."
+      },
+      "share": {
+        "line": "Hexumlite hit Broadway with Growler, declared himself “blue collar light,” shopped boots, made a rooftop bar and then gave in to the cold: “Sometimes in life, you just got to bitch out.”",
+        "caption": "BLUE COLLAR LIGHT."
       }
     },
     {
