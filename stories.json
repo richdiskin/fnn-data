@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-16-pm1",
+  "edition": "2026-11-16-pm2",
   "date": "2026-11-16",
-  "updated_at": "2026-11-16T14:10:00-05:00",
+  "updated_at": "2026-11-16T17:15:00-05:00",
   "lead": "ship-42-could-be-reflown",
   "stories": [
     {
@@ -1366,6 +1366,101 @@
       "share": {
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
+      }
+    },
+    {
+      "slug": "hexumlite-tennessee-tech-light-triad-raw-milk",
+      "date": "2026-11-16",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · HEXUMLITE",
+      "headline": "Hexumlite Took His “Light Triad Fit” to Tennessee Tech, Spilled the Raw Milk and Got a Campus Police Check",
+      "deck": "A flag sweater, three-inch height inserts, Growler on a leash and a meetup with a longtime follower, then ice cream at Poppie’s.",
+      "byline": "By FNN Desk",
+      "body": "Hexumlite took his road trip to Tennessee Tech in what he called his “light triad fit”: an American-flag sweater, three-inch height inserts and Growler on a leash. Two early approaches in the stadium lot went nowhere. Then the longtime follower he had come to meet, known on stream as “Big 200,” walked up with gifts. He offered her raw milk and promptly spilled it: “Damn, I spilled all the raw milk guys.” A campus police officer stopped them over suspected soliciting, then let them keep walking. Ice cream at Poppie’s followed. Next, he says: maybe Memphis.",
+      "pull_quote": "Damn, I spilled all the raw milk guys.",
+      "record": [
+        {
+          "date": "2026-11-16",
+          "date_label": "Monday, Nov. 16, 3:13:01 p.m. ET to about 4:57:03 p.m. ET (1 hour, 44 minutes, 2 seconds)",
+          "label": "A daytime IRL walk across the Tennessee Tech campus in Cookeville, Tenn. Official Kick duration 6,242,000 ms. IRL; English. Livestream 138236480. Kick’s public API showed 7,846 VOD views as of 5:07 p.m. ET and 15,034 followers at the same check. Cold approaches: 3 initiated, 0 confirmed contacts, by FNN’s read of the tape. The women he approached and the woman he came to meet are not named or shown.",
+          "source": "Kick VOD, Hexumlite, livestream 138236480 (Tennessee Tech)",
+          "url": "https://kick.com/hexumlite/videos/b63f3add-7b65-4ed7-afb0-185699dbdbbc",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "date_label": "VOD 0:00–1:38 (about 3:13–3:15 p.m. ET)",
+          "label": "“We are here at Tennessee Tech. It’s a pretty nice spot… It’s like fall weather. I got the light triad fit on.” He said he looked “like relationship material,” then listed the fit: three-inch height inserts, the “light triad sweater,” and Growler. Faster-whisper.",
+          "source": "Kick VOD, Hexumlite, livestream 138236480 (Tennessee Tech)",
+          "url": "https://kick.com/hexumlite/videos/b63f3add-7b65-4ed7-afb0-185699dbdbbc",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "date_label": "VOD 3:36–5:54 (about 3:17–3:19 p.m. ET)",
+          "label": "Two approaches in the stadium parking lot, both built around a bit about whether to break up with his girlfriend. No number or Instagram was taken; the group said, “okay, no worries.”",
+          "source": "Kick VOD, Hexumlite, livestream 138236480 (Tennessee Tech)",
+          "url": "https://kick.com/hexumlite/videos/b63f3add-7b65-4ed7-afb0-185699dbdbbc",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "date_label": "VOD 6:17 (about 3:19 p.m. ET)",
+          "label": "The meetup: “Yo, this is… big 200. Yo, what’s up?” She arrived with gifts and a skateboard. Nickname used on stream by both of them; her name is not printed.",
+          "source": "Kick VOD, Hexumlite, livestream 138236480 (Tennessee Tech)",
+          "url": "https://kick.com/hexumlite/videos/b63f3add-7b65-4ed7-afb0-185699dbdbbc",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "date_label": "VOD 9:57 (about 3:23 p.m. ET)",
+          "label": "At his car, he offered raw milk from a jug and spilled it: “Damn, I spilled all the raw milk guys.” He told her it was “fine” and “don’t be sorry.”",
+          "source": "Kick VOD, Hexumlite, livestream 138236480 (Tennessee Tech)",
+          "url": "https://kick.com/hexumlite/videos/b63f3add-7b65-4ed7-afb0-185699dbdbbc",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "date_label": "VOD 19:07–20:07 (about 3:32–3:33 p.m. ET)",
+          "label": "In a campus quad, a police officer walked up. On the desk’s best listen, the question was whether they were soliciting. They said they were not asking people for anything and were allowed to keep walking. No one was accused of anything on tape.",
+          "source": "Kick VOD, Hexumlite, livestream 138236480 (Tennessee Tech)",
+          "url": "https://kick.com/hexumlite/videos/b63f3add-7b65-4ed7-afb0-185699dbdbbc",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "date_label": "VOD 26–47 (about 3:39–4:00 p.m. ET)",
+          "label": "Into the campus food court, past a Taco Bell kiosk, to Poppie’s Ice Cream Shoppe. He switched his order to “the coffee one.” He let a woman pet Growler: “Please pet him.”",
+          "source": "Kick VOD, Hexumlite, livestream 138236480 (Tennessee Tech)",
+          "url": "https://kick.com/hexumlite/videos/b63f3add-7b65-4ed7-afb0-185699dbdbbc",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "date_label": "VOD 1:01:39 (about 4:14 p.m. ET)",
+          "label": "On Clavicular, during a talk about greatness: “even people like clav and these types were like thought it’s weird or people didn’t like them until you know their greatness could be communicated and like that success actually happened.”",
+          "source": "Kick VOD, Hexumlite, livestream 138236480 (Tennessee Tech)",
+          "url": "https://kick.com/hexumlite/videos/b63f3add-7b65-4ed7-afb0-185699dbdbbc",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "date_label": "VOD 1:36–1:44:02 (about 4:49–4:57 p.m. ET)",
+          "label": "Back at the lot, she left for class. He said they were “thinking about going to Memphis after this.” Sign-off at 1:43:50: “Alright well I’ll see you guys I’m gonna hop off here.”",
+          "source": "Kick VOD, Hexumlite, livestream 138236480 (Tennessee Tech)",
+          "url": "https://kick.com/hexumlite/videos/b63f3add-7b65-4ed7-afb0-185699dbdbbc",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/hexumlite-tennessee-tech-light-triad-raw-milk.jpg",
+        "alt": "Hexumlite in a light-blue American-flag sweater holding a phone, with his German shepherd Growler, in a parking lot under the Tennessee Tech scoreboard",
+        "credit": "Kick VOD, Hexumlite",
+        "caption": "Hexumlite and Growler under the Tennessee Tech scoreboard, Monday, Nov. 16."
+      },
+      "share": {
+        "line": "Hexumlite took his “light triad fit” to Tennessee Tech: three-inch height inserts, Growler, a raw-milk spill (“Damn, I spilled all the raw milk guys”) and a campus police check.",
+        "caption": "LIGHT TRIAD AT TENNESSEE TECH."
       }
     },
     {
