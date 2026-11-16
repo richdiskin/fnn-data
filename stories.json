@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-16-am2",
+  "edition": "2026-11-16-am3",
   "date": "2026-11-16",
-  "updated_at": "2026-11-16T04:39:59-05:00",
+  "updated_at": "2026-11-16T07:44:00-05:00",
   "lead": "ship-42-could-be-reflown",
   "stories": [
     {
@@ -1366,6 +1366,93 @@
       "share": {
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
+      }
+    },
+    {
+      "slug": "heelmike-hollywood-waymo-telekinesis",
+      "date": "2026-11-16",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · HEELMIKE",
+      "headline": "HeelMike Faced Down a Waymo on Hollywood Boulevard, Then Claimed He Stopped a Traffic Light With Telekinesis",
+      "deck": "Birthday stream, Hollywood edition: a jawline check at 32, a Mario-hat expansion plan and a pre-dawn robotaxi standoff.",
+      "byline": "By FNN Desk",
+      "body": "HeelMike’s birthday run hit Hollywood Boulevard, and a robotaxi lost the standoff. Going live “seven minutes into the new day,” he worked the Walk of Fame: “Can’t even tell I’m 32. Look at my jaw line.” Hours later, a white Waymo stopped in front of him, saying, in his telling, “please step away.” His answer: “You know what robots do? They separate human interaction from consequences.” Then he claimed he had held a traffic light for five minutes with “telekinesis abilities.” Next up, he says: Fire Mario, Luigi and Wario hats. Sign-off: “I love you. Hey, W chat.”",
+      "pull_quote": "You know what robots do? They separate human interaction from consequences.",
+      "record": [
+        {
+          "date": "2026-11-16",
+          "date_label": "Monday, Nov. 16, 3:05:51 a.m. ET to about 6:53:12 a.m. ET (12:05:51 to about 3:53:12 a.m. PT; 3 hours, 47 minutes, 21 seconds)",
+          "label": "A new Hollywood session of his birthday run, separate from the San Diego and TwitchCon birthday tapes FNN already covered. Official Kick duration 13,641,000 ms. IRL; English. Livestream 138145673. Kick’s public API showed 21,890 VOD views and 103,595 followers at about 6:59 a.m. ET. Private people, including the women on the tape, are not named or shown. Claims about the Waymo, money and his past are HeelMike’s own words.",
+          "source": "Kick VOD, HeelMike, “HEELMIKE IS 32 & MANIC…LETS PARTY | BIRTHDAY STREAM”",
+          "url": "https://kick.com/heelmike/videos/9e64920a-d974-4ef2-9c6d-1e8bb8a07988",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "date_label": "VOD 0:00–6:40 (about 3:06–3:12 a.m. ET)",
+          "label": "On a wet Hollywood sidewalk in a white Mario cap and black T-shirt. Faster-whisper: “I started seven minutes into the new day. That’s so good of a guy I am.” The official start was 12:05:51 a.m. PT. Faster-whisper: “Can’t even tell I’m 32. Look at my jaw line.” He told chat he did not want follows, subs or donations “right now.”",
+          "source": "Kick VOD, HeelMike, “HEELMIKE IS 32 & MANIC…LETS PARTY | BIRTHDAY STREAM”",
+          "url": "https://kick.com/heelmike/videos/9e64920a-d974-4ef2-9c6d-1e8bb8a07988",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "date_label": "VOD 12:40–16:20 (about 3:18–3:22 a.m. ET)",
+          "label": "His cameraman finally found him on the Walk of Fame. HeelMike said he had “talked to strangers for 10 minutes” trying to find him. Kick captions.",
+          "source": "Kick VOD, HeelMike, “HEELMIKE IS 32 & MANIC…LETS PARTY | BIRTHDAY STREAM”",
+          "url": "https://kick.com/heelmike/videos/9e64920a-d974-4ef2-9c6d-1e8bb8a07988",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "date_label": "VOD 30:00–1:00:00 (about 3:36–4:06 a.m. ET)",
+          "label": "At the door, the Mario bit worked again: “it’s a me.” Inside, someone clocked the hat: “that was Mario, that’s Mario.” Kick captions.",
+          "source": "Kick VOD, HeelMike, “HEELMIKE IS 32 & MANIC…LETS PARTY | BIRTHDAY STREAM”",
+          "url": "https://kick.com/heelmike/videos/9e64920a-d974-4ef2-9c6d-1e8bb8a07988",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "date_label": "VOD 2:43–2:45 (about 5:49–5:51 a.m. ET)",
+          "label": "To the cameraman: “zoom in on my beautiful pearly white eyes chat I won four seasons straight of looks maxing look at me.” Kick captions.",
+          "source": "Kick VOD, HeelMike, “HEELMIKE IS 32 & MANIC…LETS PARTY | BIRTHDAY STREAM”",
+          "url": "https://kick.com/heelmike/videos/9e64920a-d974-4ef2-9c6d-1e8bb8a07988",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "date_label": "VOD 3:13–3:16 (about 6:19–6:22 a.m. ET)",
+          "label": "On Hollywood Boulevard, a white Waymo was stopped in front of him, headlights on. Faster-whisper: “And it’s gonna be like please step away. Security is arriving. Please step back.” “You know what robots do? They separate human interaction from consequences.” A few seconds later he said he had made a traffic light stop for five minutes with “telekinesis abilities.” No private person was part of the standoff. Captions and whisper disagree on one lead-in line, so FNN does not quote it.",
+          "source": "Kick VOD, HeelMike, “HEELMIKE IS 32 & MANIC…LETS PARTY | BIRTHDAY STREAM”",
+          "url": "https://kick.com/heelmike/videos/9e64920a-d974-4ef2-9c6d-1e8bb8a07988",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "date_label": "VOD 3:26–3:36 (about 6:32–6:42 a.m. ET)",
+          "label": "Mario is the brand. His pitch for the cap was confidence: plenty of men wear expensive designer clothes, but “who’s got a Mario hat like that crazy guy over there.” He wants Fire Mario, Luigi and Wario hats next, and one day a faceless Nintendo YouTube channel. Kick captions.",
+          "source": "Kick VOD, HeelMike, “HEELMIKE IS 32 & MANIC…LETS PARTY | BIRTHDAY STREAM”",
+          "url": "https://kick.com/heelmike/videos/9e64920a-d974-4ef2-9c6d-1e8bb8a07988",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "date_label": "VOD 3:36–3:47:21 (about 6:42–6:53 a.m. ET)",
+          "label": "How the name started: a Super Smash Bros tournament, in his telling, plus a Dolph Ziggler handle. Faster-whisper sign-off at 3:46:47: “I love you. Hey, W chat. Oh my God, bro. I need sunglasses, bro.” The last still shows him smiling and giving a thumbs up.",
+          "source": "Kick VOD, HeelMike, “HEELMIKE IS 32 & MANIC…LETS PARTY | BIRTHDAY STREAM”",
+          "url": "https://kick.com/heelmike/videos/9e64920a-d974-4ef2-9c6d-1e8bb8a07988",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/heelmike-hollywood-waymo-telekinesis.jpg",
+        "alt": "HeelMike in a white Mario cap and black T-shirt holding a red soda can on Hollywood Boulevard at night, with the Capitol Records building behind him",
+        "credit": "Kick VOD, HeelMike",
+        "caption": "HeelMike on Hollywood Boulevard, with Capitol Records behind him, early Monday, Nov. 16."
+      },
+      "share": {
+        "line": "HeelMike faced down a Waymo on Hollywood Boulevard: “You know what robots do? They separate human interaction from consequences.” Then he claimed telekinesis.",
+        "caption": "THE ROBOTS BLINKED."
       }
     },
     {
