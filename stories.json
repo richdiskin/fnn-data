@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-15-am7",
+  "edition": "2026-11-15-am8",
   "date": "2026-11-15",
-  "updated_at": "2026-11-15T22:43:00-05:00",
+  "updated_at": "2026-11-15T23:40:00-05:00",
   "lead": "mechazilla-catches-starship",
   "stories": [
     {
@@ -1100,6 +1100,93 @@
       "share": {
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
+      }
+    },
+    {
+      "slug": "burtbronx-canceled-salvos-flight-i-did-fix-it",
+      "date": "2026-11-15",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · BURT BRONX",
+      "headline": "Burt Bronx Says He Canceled Salvo’s Flight Home Mid-Fight. Ted Begged. An Hour Later: “I Did Fix It, Guys.”",
+      "deck": "Skankfest Day 3 in an orange jumpsuit: a rain delay, fan photos, a canceled-ticket confession and a scramble to save Ted’s flight.",
+      "byline": "By FNN Desk",
+      "body": "Skankfest Day 3 brought rain, the orange INMATE jumpsuit and a confession. Ted asked on camera whether Salvo’s flight home had “been altered.” Burt said he had “purposely canceled his ticket” on the United app during Saturday’s hotel-room fight, hoping Salvo would find out at the airport “as an unfortunate surprise.” His travel advice: Salvo “can just walk home to Philly.” Ted pleaded: “I don’t want him to hate us forever for this.” Then Ted told chat Salvo said he was canceling Ted’s flight next. After an hour of damage control, Burt announced: “I did fix it, guys.”",
+      "pull_quote": "I didn’t intend on making an enemy of this guy.",
+      "record": [
+        {
+          "date": "2026-11-15",
+          "date_label": "Sunday, Nov. 15, 8:30:55 p.m. ET to about 10:51:27 p.m. ET (7:30:55 to about 9:51:27 p.m. CT; 2 hours, 20 minutes, 32 seconds)",
+          "label": "A new evening session on the Skankfest grounds at Mardi Gras World in New Orleans, not a continuation of the already-reported Sunday afternoon tape that paused at the ballroom door. Official Kick duration 8,432,000 ms. IRL; English; marked mature. Livestream / VOD 138106539. Kick’s public API showed 806 VOD views and 9,365 followers at about 11:14 p.m. ET. Cold approaches: 0. Salvo was not on the grounds for this tape. Everything about the flight dispute is Burt’s or Ted’s on-stream account, not a finding by FNN; FNN has not seen any booking. Private people, including fans, are not named.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TOPPED TED: SKANKFEST DAY 3 OF 3”",
+          "url": "https://kick.com/burtbronx/videos/a573b584-58c7-4131-87b2-5b2e6f133467",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 0:00–0:45 (about 8:31–9:16 p.m. ET)",
+          "label": "Burt, still in the orange prison-style jumpsuit from the afternoon tape, with “INMATE” on the back and a “BURT” name tag, sat out a rain delay with Ted in a red booth. It was “supposed to be raining until next hour and then it stops.” Ted, still off from Saturday: “I’m trying to keep it together, guys.” Kick captions.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TOPPED TED: SKANKFEST DAY 3 OF 3”",
+          "url": "https://kick.com/burtbronx/videos/a573b584-58c7-4131-87b2-5b2e6f133467",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 0:45–1:06 (about 9:16–9:37 p.m. ET)",
+          "label": "Looking for the Florida Man tent, they met a man who offered Burt “a real inmate outfit” from “urban exploring,” plus “real handcuffs from like an abandoned prison.” They traded socials. Then they waited in heavy rain outside the tent, hoping to catch Nick Mullen as he walked out. Kick captions and stills.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TOPPED TED: SKANKFEST DAY 3 OF 3”",
+          "url": "https://kick.com/burtbronx/videos/a573b584-58c7-4131-87b2-5b2e6f133467",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 1:08:42–1:11:00 (about 9:39–9:42 p.m. ET)",
+          "label": "Ted: “Is there any way you can check to see if Salvo’s flight has been altered or anything, because he’s texting me saying that he didn’t get anything.” Burt confirmed he “purposely canceled his ticket.” Burt: “I could, but I don’t want to. I mean, he can just walk home to Philly.” Ted: “I don’t want him to hate us forever for this.” Burt, at 1:10:58: “All right, I’ll help. But I want an apology on air.” Kick captions and whisper pass.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TOPPED TED: SKANKFEST DAY 3 OF 3”",
+          "url": "https://kick.com/burtbronx/videos/a573b584-58c7-4131-87b2-5b2e6f133467",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 1:11:46–1:13:30 (about 9:42–9:44 p.m. ET)",
+          "label": "Burt’s account to chat: while Salvo was criticizing him during Saturday’s fight, he went on the United app and canceled the ticket. “I was kind of hoping that he would find out tomorrow when he goes to the airport as an unfortunate surprise.” Ted: “He said he’s canceling my flight next.” That is Ted’s account of what Salvo told him. Kick captions and whisper pass; the profane wording is paraphrased.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TOPPED TED: SKANKFEST DAY 3 OF 3”",
+          "url": "https://kick.com/burtbronx/videos/a573b584-58c7-4131-87b2-5b2e6f133467",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 1:13:30–1:30:00 (about 9:44–10:01 p.m. ET)",
+          "label": "Under the tent, with the river bridge lit purple behind him, Burt said he would book Ted a new flight if his was canceled, tried to reach United customer service and stopped for fan photos. To a fan: “I’m just out quickly doing some stuff regarding flights.” The fan: “I hope the flights work out for you, Burt.” Kick captions.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TOPPED TED: SKANKFEST DAY 3 OF 3”",
+          "url": "https://kick.com/burtbronx/videos/a573b584-58c7-4131-87b2-5b2e6f133467",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 1:58:00–2:16:00 (about 10:29–10:47 p.m. ET)",
+          "label": "Ted: “You didn’t tell me about that.” Burt: “I didn’t think it would affect you in any way.” Then: “I didn’t intend on making an enemy of this guy.” “It’s over now.” At 2:04:30, in a lantern-lit courtyard: “I did fix it, guys.” He did not spell out the new itinerary on tape. Ted said he had been trying to “keep the peace.” Kick captions and whisper pass; parts of this exchange are garbled, and only clear lines are quoted.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TOPPED TED: SKANKFEST DAY 3 OF 3”",
+          "url": "https://kick.com/burtbronx/videos/a573b584-58c7-4131-87b2-5b2e6f133467",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 2:16:00–2:20:32 (about 10:47–10:51 p.m. ET)",
+          "label": "They ended the stream to head to a roast they are not allowed to film. Whether they would go live again before the late Scuffed Realtors show was undecided. Kick captions.",
+          "source": "Kick VOD, Burt Bronx, “BURT BRONX + TOPPED TED: SKANKFEST DAY 3 OF 3”",
+          "url": "https://kick.com/burtbronx/videos/a573b584-58c7-4131-87b2-5b2e6f133467",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/burtbronx-canceled-salvos-flight-i-did-fix-it.jpg",
+        "alt": "Burt Bronx in an orange prison-style jumpsuit beside Ted in a black cap, sitting in a red booth against wood paneling",
+        "credit": "Kick VOD, Burt Bronx",
+        "caption": "Burt Bronx and Ted sit out the rain at Skankfest Day 3, Sunday night, Nov. 15."
+      },
+      "share": {
+        "line": "Burt Bronx says he canceled Salvo’s flight home during Saturday’s fight (“he can just walk home to Philly”), Ted begged, and after an hour of damage control: “I did fix it, guys.”",
+        "caption": "I DID FIX IT, GUYS."
       }
     },
     {
