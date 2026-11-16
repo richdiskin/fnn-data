@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-15-am8",
-  "date": "2026-11-15",
-  "updated_at": "2026-11-15T23:40:00-05:00",
+  "edition": "2026-11-16-am",
+  "date": "2026-11-16",
+  "updated_at": "2026-11-16T00:35:00-05:00",
   "lead": "mechazilla-catches-starship",
   "stories": [
     {
@@ -1100,6 +1100,93 @@
       "share": {
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
+      }
+    },
+    {
+      "slug": "cobbruvs-first-daytime-toronto-first-oxtail",
+      "date": "2026-11-15",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · COBBRUVS",
+      "headline": "CobbRuvs’ First Daytime Toronto Stream: A Haircut He Roasted, $40 in a Stranger’s Tank and His First-Ever Oxtail",
+      "deck": "Nine hours in the 6: King Street “characters,” a gas-station vlog, a pot-roast verdict at Miss Likklemore’s and a banana-milk walk home.",
+      "byline": "By FNN Desk",
+      "body": "CobbRuvs finally took Toronto in daylight, and it became a nine-hour marathon. He opened by roasting his fresh haircut, calling it a “bowl cut” before promising, “give it a few days, it’ll look better.” Then he headed for King Street: “We gotta make characters. Interaction, storyline.” A gas-station vlog ended with $40 in a man’s tank. At Miss Likklemore’s he reviewed his first-ever oxtail: the meat “tastes like your mother’s pot roast,” and “this is so awesome.” Street interviews followed, then a snack run for banana milk and peanut-butter crackers on the cold walk home. Sign-off: “See you tomorrow.”",
+      "pull_quote": "It’s the first time I’ve had oxtail. Oh my god, this is so awesome.",
+      "record": [
+        {
+          "date": "2026-11-15",
+          "date_label": "Sunday, Nov. 15, 2:50:26 p.m. ET to about 11:51:48 p.m. ET (9 hours, 1 minute, 22 seconds)",
+          "label": "Billed as his first daytime stream in Toronto. Official Kick duration 32,482,000 ms. Livestream 138051688. Kick’s public API showed 7,536 VOD views and 30,925 followers at about 12:01 a.m. ET Nov. 16. Cold approaches of women for numbers: 0 confirmed. Private people, including staff, a gas-station driver, a birthday group and his traveling companion, are not named or shown. His earlier beers-and-cooking marathon is covered in a separate FNN story.",
+          "source": "Kick VOD, CobbRuvs, “IRL Toronto | first daytime stream in the 6”",
+          "url": "https://kick.com/cobbruvs/videos/1f5b2af0-0b79-47a5-b3e8-f2e8cd7661fb",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 0:00–0:30 (about 2:50–3:20 p.m. ET)",
+          "label": "Opening on the haircut. Whisper-confirmed: “It’s alright, give it a few days, it’ll look better.” He also called it a “bowl cut” (Kick captions). On the new selfie stick: “Get ready for tilted angles all day.”",
+          "source": "Kick VOD, CobbRuvs, “IRL Toronto | first daytime stream in the 6”",
+          "url": "https://kick.com/cobbruvs/videos/1f5b2af0-0b79-47a5-b3e8-f2e8cd7661fb",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 2:52–3:08 (about 5:42–5:58 p.m. ET)",
+          "label": "Heading out in a varsity jacket and amber sunglasses. Whisper-confirmed: “We gotta make content tonight. We gotta make characters. Interaction, storyline. We’re doing all that.” “I think I remember how to get to King Street.”",
+          "source": "Kick VOD, CobbRuvs, “IRL Toronto | first daytime stream in the 6”",
+          "url": "https://kick.com/cobbruvs/videos/1f5b2af0-0b79-47a5-b3e8-f2e8cd7661fb",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 3:45–4:03 (about 6:35–6:53 p.m. ET)",
+          "label": "At a gas station, a man was about to put $20 in his tank. In a gas-station vlog bit, CobbRuvs offered to double it, then landed on $40. Whisper-confirmed: “I’m gonna get you the 40 that’s the least I can do.” At the pump: “All that $40, I’m at a half tank.” They traded Instagrams. The man is not named.",
+          "source": "Kick VOD, CobbRuvs, “IRL Toronto | first daytime stream in the 6”",
+          "url": "https://kick.com/cobbruvs/videos/1f5b2af0-0b79-47a5-b3e8-f2e8cd7661fb",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 4:34–5:06 (about 7:24–7:56 p.m. ET)",
+          "label": "Miss Likklemore’s, a Caribbean kitchen on King Street West. His first oxtail, whisper-confirmed from 4:46:20: the stock “tastes like an upbeat Wendy’s chili”; the meat “tastes like your mother’s pot roast”; “It’s the first time I’ve had oxtail. Oh my god, this is so awesome.”",
+          "source": "Kick VOD, CobbRuvs, “IRL Toronto | first daytime stream in the 6”",
+          "url": "https://kick.com/cobbruvs/videos/1f5b2af0-0b79-47a5-b3e8-f2e8cd7661fb",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 5:29–6:13 (about 8:19–9:03 p.m. ET)",
+          "label": "Street interviews on the walk, with CobbRuvs playing interviewer. This was not a formal approach session. The people he talked to are not named.",
+          "source": "Kick VOD, CobbRuvs, “IRL Toronto | first daytime stream in the 6”",
+          "url": "https://kick.com/cobbruvs/videos/1f5b2af0-0b79-47a5-b3e8-f2e8cd7661fb",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 6:41–7:05 (about 9:31–9:55 p.m. ET)",
+          "label": "A Canadian snack run on the walk back: banana milk, which he priced at $5.99 CAD, and peanut-butter crackers. Kick captions.",
+          "source": "Kick VOD, CobbRuvs, “IRL Toronto | first daytime stream in the 6”",
+          "url": "https://kick.com/cobbruvs/videos/1f5b2af0-0b79-47a5-b3e8-f2e8cd7661fb",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "VOD 7:35–9:01 (about 10:25–11:51 p.m. ET)",
+          "label": "Back inside in a black T-shirt, he reheated the leftover oxtail. Whisper-confirmed sign-off at 9:00:52: “Thank you, guys. Adios. I’ll see you tomorrow.” “Good night.”",
+          "source": "Kick VOD, CobbRuvs, “IRL Toronto | first daytime stream in the 6”",
+          "url": "https://kick.com/cobbruvs/videos/1f5b2af0-0b79-47a5-b3e8-f2e8cd7661fb",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/cobbruvs-first-daytime-toronto-first-oxtail.jpg",
+        "alt": "CobbRuvs in amber sunglasses and a varsity jacket at a restaurant counter with a plate of oxtail and a bowl of rice",
+        "credit": "Kick VOD, CobbRuvs",
+        "caption": "CobbRuvs tries oxtail for the first time at Miss Likklemore’s in Toronto, Sunday, Nov. 15."
+      },
+      "share": {
+        "line": "CobbRuvs’ first daytime Toronto stream: a haircut he roasted, $40 in a stranger’s tank, and his first-ever oxtail (“tastes like your mother’s pot roast”).",
+        "caption": "FIRST-EVER OXTAIL."
       }
     },
     {
