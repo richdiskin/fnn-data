@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-15-am5",
+  "edition": "2026-11-15-am6",
   "date": "2026-11-15",
-  "updated_at": "2026-11-15T18:45:00-05:00",
+  "updated_at": "2026-11-15T22:00:00-05:00",
   "lead": "mechazilla-catches-starship",
   "stories": [
     {
@@ -1101,6 +1101,85 @@
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
       }
+    },
+    {
+      "slug": "clavicular-girlfriend-shaved-head-bare-minimum",
+      "date": "2026-11-15",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · CLAVICULAR",
+      "headline": "Clavicular Says His Girlfriend Shaved Her Head to Protect His Pores. He Called It “Bare Minimum.”",
+      "deck": "A now-deleted post cited “comedogenic hair-product residue.” Ninety minutes later, to the haters: “She still looks great.”",
+      "byline": "By FNN Desk",
+      "body": "Sunday at 8:08 p.m. ET, Clavicular unveiled a skin-care protocol: “Nocturnal facial contact with a woman’s hair may expose skin to comedogenic hair-product residue, causing acne. My girlfriend in an attempt to aid me in my looksmaxing journey shaved all of her hair off. Very loving gesture, bare minimum.”\n\nThe post is gone. “Ok she wanted me to delete it, but fuck that was going to be the best bait in twitter history.” To the critics: “Female hair products build up and clog pores. She still looks great.” Lacy, on stream: “What the fuck.” His reply to Lacy: “Based.”",
+      "pull_quote": "Nocturnal facial contact with a woman’s hair may expose skin to comedogenic hair-product residue, causing acne.",
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/clavicular-girlfriend-shaved-head-bare-minimum.jpg",
+        "alt": "Clavicular shirtless in a gym, posing in front of weight machines",
+        "credit": "X video, @clavicular",
+        "caption": "Clavicular in “The mog,” the 11-second gym clip he posted Sunday night between defenses of the shave."
+      },
+      "share": {
+        "line": "Clavicular said his girlfriend shaved her head so her hair products wouldn’t give him acne. “Very loving gesture, bare minimum.” Then he deleted it.",
+        "caption": "BARE MINIMUM."
+      },
+      "record": [
+        {
+          "date": "2026-11-15",
+          "date_label": "Sunday, about 8:08 p.m. ET, original post (now deleted)",
+          "label": "Clavicular’s original post, id 2122134668988322269 (time from the post id). The X API returned “Could not find post” for it at 9:56 p.m. ET. Its text is read from the screenshot shown in the Lacy reaction clip below: “Nocturnal facial contact with a woman’s hair may expose skin to comedogenic hair-product residue, causing acne. My girlfriend in an attempt to aid me in my looksmaxing journey shaved all of her hair off. Very loving gesture, bare minimum l0l.” (the last word appears as “l0l” in the screenshot). The attached video shows his girlfriend shaving her head; FNN does not run her image or her name.",
+          "source": "X, @Pulcys clip showing the deleted @clavicular post",
+          "url": "https://x.com/Pulcys/status/2122159761311383971",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "Sunday, 8:48 p.m. ET, reply",
+          "label": "Replying to @russthefuss_: “Yea its bait caption, but i do agree with the idea. A girl should have no problem doing that for you if she loves you. I just wouldnt encourage this because it seems antichrist.” 809 likes, 2 reposts, 29 replies at 9:55 p.m. ET.",
+          "source": "X, @clavicular",
+          "url": "https://x.com/clavicular/status/2122144837386293512",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "Sunday, 9:14 p.m. ET, video post",
+          "label": "“The mog” — an 11-second clip of Clavicular shirtless in a gym, posing, no speech. 424 likes, 11 reposts, 50 replies at 9:55 p.m. ET. The hero image is a still from this clip.",
+          "source": "X, @clavicular",
+          "url": "https://x.com/clavicular/status/2122151364268855613",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "Sunday, 9:26 p.m. ET, post",
+          "label": "“Ok she wanted me to delete it, but fuck that was going to be the best bait in twitter history. Looksmax already has bad reputation tho so prob better” 876 likes, 10 reposts, 72 replies, 40,037 views at 9:55 p.m. ET.",
+          "source": "X, @clavicular",
+          "url": "https://x.com/clavicular/status/2122154262390001979",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "Sunday, 9:48 p.m. ET, reaction clip",
+          "label": "A 21-second clip of streamer Lacy reading the deleted post on stream. He reads aloud, “My girlfriend in an attempt to aid me in my looksmaxing journey shaved all of her hair off,” watches the video with his mouth open, then says, “What the fuck.” Posted by @Pulcys with the caption “Lacy was SHOCKED after finding out Clavicular had his girlfriend shave her head bald for him.”",
+          "source": "X, @Pulcys",
+          "url": "https://x.com/Pulcys/status/2122159761311383971",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "Sunday, 9:50 p.m. ET, post",
+          "label": "“I dont see why people are hating tbh, [his girlfriend] shaved her head so that we wouldnt get acne sharing a bed together. Female hair products build up and clog pores. She still looks great.” He used her first name; FNN does not. 176 likes, 32 replies at 9:55 p.m. ET.",
+          "source": "X, @clavicular",
+          "url": "https://x.com/clavicular/status/2122160225402638426",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "date_label": "Sunday, 9:52 p.m. ET, quote post",
+          "label": "Quote-posting the Lacy reaction clip: “Based” 43 likes at 9:55 p.m. ET.",
+          "source": "X, @clavicular",
+          "url": "https://x.com/clavicular/status/2122160973289254934",
+          "role": null
+        }
+      ]
     },
     {
       "slug": "burtbronx-side-character-orange-jumpsuit",
