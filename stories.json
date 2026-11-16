@@ -1,9 +1,275 @@
 {
-  "edition": "2026-11-16-am",
+  "edition": "2026-11-16-am2",
   "date": "2026-11-16",
-  "updated_at": "2026-11-16T00:35:00-05:00",
-  "lead": "mechazilla-catches-starship",
+  "updated_at": "2026-11-16T04:39:59-05:00",
+  "lead": "ship-42-could-be-reflown",
   "stories": [
+    {
+      "slug": "ship-42-could-be-reflown",
+      "section": "freedom",
+      "kicker": "FEATURE · ELON MUSK",
+      "headline": "Musk Went Over the Starship SpaceX Just Caught. His Verdict: Ship 42 “Could Probably Be Reflown.”",
+      "deck": "A day after the first tower catch, he checked the heat shield: “Overall, it looks great.” Next up: a Starship V4 about 70 meters long.",
+      "body": "A day after SpaceX caught a Starship upper stage with its tower for the first time, Elon Musk was at the pad going over Ship 42.\n\n“Overall, it looks great. The engines look great too,” he posted Sunday. “Ship 42 could probably be reflown with a few weeks of refurbishment.” SpaceX has never reflown a ship, Teslarati notes.\n\nHis honest caveat: “many small fixes are needed to achieve immediate reusability (like an airplane).”\n\nThen he went bigger. “Starship V4 will be ~70m long,” he wrote, with nine engines and more than 60% more propellant.",
+      "pull_quote": "Ship 42 could probably be reflown with a few weeks of refurbishment.",
+      "record": [
+        {
+          "date": "2026-11-15",
+          "label": "Musk, 5:20 p.m. ET: “I was going over the whole Starship heat shield earlier today. Overall, it looks great. The engines look great too. Ship 42 could probably be reflown with a few weeks of refurbishment”; “many small fixes are needed to achieve immediate reusability (like an airplane)”",
+          "source": "his own post on X",
+          "url": "https://x.com/elonmusk/status/2122092374016806969",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "label": "Musk, 8:33 p.m. ET: “Starship V4 will be ~70m long, which is roughly a 40% length increase and allows >60% more propellant load”; engine count raised to 9 with 3 more Raptor-Vacuum engines",
+          "source": "his own post on X",
+          "url": "https://x.com/elonmusk/status/2122141019894383027",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "label": "Musk spent part of Sunday at the pad inspecting the ship caught Saturday; “SpaceX has never reflown a ship”; current V3 ship about 52 meters",
+          "source": "Teslarati",
+          "url": "https://www.teslarati.com/elon-musk-spacex-starship-v4-moon/",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "label": "Musk seen on a platform at the pad inspecting Ship 42’s heat shield tiles; ship moved back to Production for further inspection",
+          "source": "Starlust",
+          "url": "https://starlust.org/elon-musk-inspects-starship-flight-15-upper-stage-could-refly-within-weeks-of-refurbishment/",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "label": "“SpaceX has yet to reuse a Ship, as it had not caught one during a mission until Saturday”",
+          "source": "Space.com",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-epic-flight-15-chopsticks-catch",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/ship-42-could-be-reflown.jpg",
+        "alt": "FNN graphic: Ship 42 could fly again",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "A day after the first tower catch, Musk went over Ship 42: “Overall, it looks great.” His verdict: it “could probably be reflown with a few weeks of refurbishment.”",
+        "caption": "“COULD PROBABLY BE REFLOWN”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-16"
+    },
+    {
+      "slug": "starliner-dragon-only-ride",
+      "section": "thenvsnow",
+      "kicker": "ELON MUSK · THEN vs. NOW",
+      "headline": "2014: NASA Picked Boeing at Up to $4.2 Billion and SpaceX at $2.6 Billion to Fly Astronauts.",
+      "headline_now": "2026: Crew Dragon Is “the Only Currently Operational U.S. Astronaut Ferry Ship.”",
+      "deck": "Starliner’s 2024 crew flight left two astronauts on the station for more than nine months. A Crew Dragon brought them home. Musk: “Yup.”",
+      "body": "Sept. 16, 2014, NASA picked two companies to fly astronauts to the space station: Boeing, with a maximum contract value of $4.2 billion, and SpaceX, at $2.6 billion.\n\nTwelve years later, SpaceX’s Crew Dragon is “the only currently operational U.S. astronaut ferry ship,” Spaceflight Now reports.\n\nStarliner’s first crewed flight, in 2024, suffered propulsion failures. Butch Wilmore and Sunita Williams stayed aboard the station more than nine months and rode home on a Crew Dragon. Starliner’s next crewed flight is planned for 2028.\n\nMusk’s review of the comparison: “Yup.”",
+      "pull_quote": "SpaceX’s Crew Dragon capsule is the only currently operational U.S. astronaut ferry ship.",
+      "then": {
+        "text": "The Boeing Company, Houston, $4.2 billion — Space Exploration Technologies Corp., Hawthorne, California, $2.6 billion",
+        "date": "2014-09-16",
+        "source": "https://www.nasa.gov/news-release/nasa-chooses-american-companies-to-transport-u-s-astronauts-to-international-space-station/",
+        "source_name": "NASA release 14-256 (maximum potential contract values)",
+        "who": "NASA",
+        "big": "$4.2B"
+      },
+      "now": {
+        "text": "SpaceX’s Crew Dragon capsule is the only currently operational U.S. astronaut ferry ship.",
+        "date": "2026-09-29",
+        "source": "https://spaceflightnow.com/2026/09/29/nasa-plans-unpiloted-starliner-test-flight-at-end-of-year/",
+        "source_name": "Spaceflight Now",
+        "who": "Spaceflight Now (William Harwood)"
+      },
+      "record": [
+        {
+          "date": "2014-09-16",
+          "label": "NASA selects Boeing and SpaceX; maximum potential value of the firm fixed-price contracts: Boeing $4.2 billion, SpaceX $2.6 billion",
+          "source": "NASA",
+          "url": "https://www.nasa.gov/news-release/nasa-chooses-american-companies-to-transport-u-s-astronauts-to-international-space-station/",
+          "role": "then"
+        },
+        {
+          "date": "2026-09-29",
+          "label": "Crew Dragon “the only currently operational U.S. astronaut ferry ship”; 2024 Starliner propulsion failures stranded two astronauts more than nine months; Wilmore and Williams rode home aboard a Crew Dragon on March 18, 2025; piloted Starliner hoped for mid-2028",
+          "source": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/09/29/nasa-plans-unpiloted-starliner-test-flight-at-end-of-year/",
+          "role": "now"
+        },
+        {
+          "date": "2026-09-28",
+          "label": "Uncrewed Starliner-1 cargo flight planned for the December 2026/January 2027 timeframe; “A crewed Starliner-2 mission is planned for 2028”",
+          "source": "Boeing",
+          "url": "https://www.boeing.com/features/2026/09/nasa-boeing-update-starliner-contract-and-set-launch-window-for-next-mission",
+          "role": null
+        },
+        {
+          "date": "2014-09-16",
+          "label": "“SpaceX will get $2.6 billion and Boeing will receive $4.2 billion, officials said”",
+          "source": "Space.com",
+          "url": "https://www.space.com/27169-nasa-picks-spacex-boeing-spaceships.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "label": "Musk, 12:41 a.m. ET: “Yup,” quoting a fan account’s post comparing the 2014 awards with the results",
+          "source": "his own post on X",
+          "url": "https://x.com/elonmusk/status/2122203324460265943",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/starliner-dragon-only-ride.jpg",
+        "alt": "FNN graphic: Starliner and Dragon, then and now",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "2014: NASA picked Boeing at up to $4.2 billion and SpaceX at $2.6 billion. 2026: Crew Dragon is “the only currently operational U.S. astronaut ferry ship.” Musk: “Yup.”",
+        "caption": "$4.2B VS. THE ONE THAT FLIES"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-16"
+    },
+    {
+      "slug": "cybercab-fee-too-high",
+      "section": "money",
+      "kicker": "MONEY · ELON MUSK",
+      "headline": "Tesla’s Cybercab Costs $29,990 Plus $299 a Month. Musk’s Own Review of the Fee: “Too High.”",
+      "deck": "Select customers can now pre-order the steering-wheel-free two-seater for personal use. The boss says the monthly charge should be more like $115.",
+      "body": "Tesla opened invite-only Cybercab pre-orders “for personal use” on Friday: $29,990, plus a mandatory $299-a-month Autonomy Subscription, The Verge reports. Buyers must take delivery in one of a handful of Texas cities, and the car runs only inside Robotaxi service areas. Estimated delivery: December.\n\nTech reviewer Marques Brownlee posted the fine print. Hours later, Musk agreed with the gripe.\n\n“The monthly fee is too high,” he wrote. It “should match the cost of Tesla FSD and connectivity for other models, which is more like ~$115/month.”\n\nA CEO calling his own price too high. Noted.",
+      "pull_quote": "The monthly fee is too high.",
+      "record": [
+        {
+          "date": "2026-11-14",
+          "label": "Musk, 1:38 a.m. ET, replying to Marques Brownlee: “It will be available nationwide, as we receive regulatory approval. But the monthly fee is too high. Should match the cost of Tesla FSD and connectivity for other models, which is more like ~$115/month.”",
+          "source": "his own post on X",
+          "url": "https://x.com/elonmusk/status/2121492849002987844",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "label": "Brownlee, 8:50 p.m. ET: invite only; must accept delivery in Texas; only operates in existing geofenced areas; monthly subscription",
+          "source": "Marques Brownlee on X",
+          "url": "https://x.com/MKBHD/status/2121420350160302304",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "label": "Pre-orders announced Friday evening; $29,990; $299 a month; delivery in a handful of Texas cities; geofenced; estimated December 2026",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "label": "Mandatory $299-a-month “Autonomy Subscription”; “only be available in supported service areas”; $1,000 non-refundable deposit; steering-wheel-free two-seater",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/cybercab-fee-too-high.jpg",
+        "alt": "FNN graphic: the fee is too high",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Tesla’s personal Cybercab: $29,990 plus $299 a month. Musk’s own review of the fee: “too high.” He says it should be “more like ~$115/month.”",
+        "caption": "“THE MONTHLY FEE IS TOO HIGH”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-16"
+    },
+    {
+      "slug": "clark-did-democrats-screw-this-up",
+      "section": "freedom",
+      "kicker": "MASSACHUSETTS · LATEST",
+      "headline": "“Did Democrats Screw This Up?” Katherine Clark, Next in Line for Majority Leader: “Yes.”",
+      "deck": "Eleven House Democrats missed the Hegseth impeachment vote. The Massachusetts Democrat owned it on WCVB, then promised to haul in Jensen Huang.",
+      "body": "Rep. Katherine Clark of Massachusetts, poised to become the first woman to serve as House majority leader, sat down with WCVB’s On The Record. The topic: the Hegseth impeachment vote 11 Democrats missed.\n\n“Did Democrats screw this up?”\n\n“Yes,” Clark said. “You know, we have to take accountability for that.”\n\nABC News did the math: with all 11 there, the motion could have failed 215-211.\n\nNext on her list: “We will be bringing in Jensen Huang.” CNN’s sources say the intelligence on the woman in that story “does not prove that she was acting as a spy.”",
+      "pull_quote": "Yes. You know, we have to take accountability for that.",
+      "record": [
+        {
+          "date": "2026-11-15",
+          "label": "Clark on WCVB’s On The Record: asked “Did Democrats screw this up?”, she said “Yes. You know, we have to take accountability for that”; Democrats will “absolutely” investigate Huang: “So we will be bringing in Jensen Huang. We will be investigating this fully”",
+          "source": "WCVB",
+          "url": "https://www.wcvb.com/article/katherine-clark-on-the-record-congress-democrat-nov-15-2026/74425384",
+          "role": null
+        },
+        {
+          "date": "2026-11-11",
+          "label": "11 Democrats missed the vote; held open 29 minutes; with all 11, the motion “could have been defeated 215-211”; several blamed traffic",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/democrats-missed-crucial-hegseth-impeachment-vote-blamed-traffic/story?id=138053963",
+          "role": null
+        },
+        {
+          "date": "2026-11-10",
+          "label": "Roll Call 317, H. Res. 1655, motion to refer: 211-204; Democrats 0-203 with 11 not voting",
+          "source": "Clerk of the U.S. House",
+          "url": "https://clerk.house.gov/votes/2026317",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "label": "Multiple sources: the intelligence collected on her to date “does not prove that she was acting as a spy for Beijing”",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/11/12/politics/alice-huang-us-intel-jensen-huang-nvidia",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/clark-did-democrats-screw-this-up.jpg",
+        "alt": "FNN graphic: Did Democrats screw this up?",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Asked on WCVB if Democrats screwed up the Hegseth impeachment vote 11 of them missed, Massachusetts Rep. Katherine Clark: “Yes. You know, we have to take accountability for that.”",
+        "caption": "“DID DEMOCRATS SCREW THIS UP?” “YES.”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-16"
+    },
+    {
+      "slug": "senate-gop-judges-before-january",
+      "section": "freedom",
+      "kicker": "LATEST · THE COURTS",
+      "headline": "Senate Republicans’ Lame-Duck Mission: Confirm Trump’s Judges. 23 Are Pending. The Next Vote Is Today.",
+      "deck": "Thune: “Our work will have a generational effect.” The White House expects every pending nominee confirmed this year, even as a few GOP senators dig in.",
+      "body": "Democrats take the Senate in January. Senate Republicans are putting judges first.\n\nFifty-seven Trump judges have been confirmed this term, 23 nominees are pending, and a vote is set for Monday on Daniel Domenico for the 10th Circuit, Reuters reports. The White House: “We expect all judicial nominees pending in the Senate to be confirmed this year.”\n\nMajority Leader John Thune says the pace from nomination to confirmation is the fastest since Reagan. “Our work will have a generational effect.”\n\nThe holdouts are Republican: outgoing Sens. Thom Tillis and John Cornyn have signaled they may block some picks.",
+      "pull_quote": "Our work will have a generational effect.",
+      "record": [
+        {
+          "date": "2026-11-15",
+          "label": "57 confirmed in Trump’s second term; 23 nominees pending; Domenico 10th Circuit vote set for Monday; White House: “We expect all judicial nominees pending in the Senate to be confirmed this year”; Tillis and Cornyn willing to block some nominees",
+          "source": "Reuters (via Investing.com)",
+          "url": "https://www.investing.com/news/politics-news/trumps-judge-appointment-blitz-faces-republican-resistance-5027827",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "label": "Thune: “@SenateGOP has spent the last two years confirming President Trump’s lifetime federal judges at the fastest pace – from nomination to confirmation – since Reagan was in office. Our work will have a generational effect.”",
+          "source": "his own post on X",
+          "url": "https://x.com/LeaderJohnThune/status/2120978090092548377",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/senate-gop-judges-before-january.jpg",
+        "alt": "FNN graphic: judges before January",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Senate Republicans are racing to confirm Trump’s judges before Democrats take over: 23 pending, a vote Monday. Thune: “Our work will have a generational effect.”",
+        "caption": "JUDGES BEFORE JANUARY"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-16"
+    },
     {
       "slug": "mechazilla-catches-starship",
       "section": "freedom",
@@ -4337,6 +4603,201 @@
       "share": {
         "line": "Hexumlite got into a University of Florida dining hall for $13 in a $590 fake Rolex, logged about 34 approaches and one probable number, and flies to Miami Wednesday for a palatal expander.",
         "caption": "$13 AND A $590 FAKE ROLEX."
+      }
+    },
+    {
+      "slug": "belmont-unite-nashville-329-decisions",
+      "date": "2026-11-16",
+      "section": "faith",
+      "kicker": "REVIVAL WATCH",
+      "headline": "“Hungry. For. Jesus.”: 329 Decisions for Christ and Baptisms in Troughs as UniteUS Closes Its Fall Tour",
+      "deck": "Thousands of college students filled Belmont University’s Fisher Center in Nashville. By the end of the night, UniteUS says, 329 had decided to follow Jesus.",
+      "byline": "By FNN Desk",
+      "body": "On Tuesday night, Nov. 10, thousands of college students gathered at Belmont University’s Fisher Center in Nashville for the last stop of the UniteUS fall tour, CBN News reported.\n\nBy the end, UniteUS told CBN, 329 people had made decisions for Christ. Many were baptized right outside, in troughs, Crosswalk reported.\n\n“For hundreds of students, ‘the night I gave my life to Jesus’ will forever mean last night in Nashville,” UniteUS posted.\n\nTonya Prewett, the ministry’s visionary: “The next generation is not waiting for revival. THEY ARE BECOMING IT.”",
+      "pull_quote": "Not halfway. Not holding back. Fully surrendered.",
+      "record": [
+        {
+          "date": "2026-11-11",
+          "label": "Unite Nashville at Belmont’s Fisher Center Tuesday night; thousands of students; final 2026 UniteUS college outreach; 329 decisions for Christ per UniteUS; baptisms outside; UniteUS post",
+          "source": "CBN News",
+          "url": "https://cbn.com/news/us/hungry-jesus-329-people-give-their-lives-christ-revival-belmont-university",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "label": "Baptism in troughs outside the Fisher Center (seats more than 1,700); fifth and final fall tour stop; Prewett on Instagram: “Hundreds of college students made the decision to go ALL IN with Jesus”",
+          "source": "Crosswalk.com",
+          "url": "https://www.crosswalk.com/headlines/contributors/michael-foust/300-plus-make-decisions-for-christ-at-belmont-as-college-revival-continues.html",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/belmont-unite-nashville-329-decisions.jpg",
+        "alt": "FNN graphic: Hungry for Jesus",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "329 decisions for Christ at Belmont: “The next generation is not waiting for revival. THEY ARE BECOMING IT.”",
+        "caption": "“HUNGRY. FOR. JESUS.”"
+      }
+    },
+    {
+      "slug": "hepworth-family-adoption-back-to-liberia",
+      "date": "2026-11-16",
+      "section": "faith",
+      "kicker": "FAMILY",
+      "headline": "They Sold Their Couch to Adopt From Liberia. Nine Years Later, the Hepworths Went Back to See Where It Began.",
+      "deck": "Young missionaries with little money said yes to two children in Liberia. A church couple gave a car. This National Adoption Month, they are a family of six.",
+      "byline": "By FNN Desk",
+      "body": "Zac and Ebie Hepworth were young missionaries with very little money. So they sold their couch to help pay for an adoption, then ate pizza on the floor of their empty living room, Lifesong for Orphans recounts.\n\nA couple from church donated a car. A Lifesong matching grant became “a bridge of courage,” Ebie said.\n\nIn June 2017 they flew one-way to Liberia and became a family of four. Their son was later diagnosed with a serious genetic condition. Zac weighed it: “No comparison.”\n\nTwins followed. Now they have gone back to Liberia together.",
+      "pull_quote": "We do not have to keep answering. We get to!",
+      "record": [
+        {
+          "date": "2026-11-03",
+          "label": "Hepworth family story: sold couch; pizza on the floor; church couple donated a car; matching grant; December 2016 photos; June 2017 one-way flight; genetic condition; twins after seven years of infertility; return to Liberia nine years later; all quotes",
+          "source": "Lifesong for Orphans",
+          "url": "https://lifesong.org/2026/11/hepworth-family-adoption/",
+          "role": null
+        },
+        {
+          "date": "2026-11-08",
+          "label": "National Adoption Month runs Nov. 1–30, 2026; National Adoption Day is Saturday, Nov. 21",
+          "source": "Lifetime Christian Adoption",
+          "url": "https://lifetimechristianadoption.com/2026/11/08/celebrating-national-adoption-month/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/hepworth-family-adoption-back-to-liberia.jpg",
+        "alt": "FNN graphic: It started with a couch",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "They sold their couch to adopt from Liberia: “We do not have to keep answering. We get to!”",
+        "caption": "IT STARTED WITH A COUCH"
+      }
+    },
+    {
+      "slug": "hospice-chaplain-richard-blue-eeoc",
+      "date": "2026-11-16",
+      "section": "faith",
+      "kicker": "RELIGIOUS LIBERTY",
+      "headline": "“Chaplains Should Not Be Forced to Give Up Their Religious Beliefs”: A Fired Hospice Chaplain Goes to the EEOC",
+      "deck": "The Rev. Richard Blue moved his family to Michigan for the job. Days in, he says, HR asked about a personal Facebook post. Weeks later, he was out.",
+      "byline": "By FNN Desk",
+      "body": "The Rev. Richard Blue, an ordained Lutheran minister and board-certified chaplain, moved his family to Michigan for a full-time job with Heartland Hospice.\n\nAbout two days in, First Liberty Institute says, his supervisor and HR asked about a “religious post” on his personal Facebook page. Blue says HR asked how he could care for LGBTQ patients. His answer: his beliefs “do not prevent me from giving compassionate, respectful, and equal care.”\n\nHe says he was fired July 9. First Liberty filed an EEOC charge. Heartland did not immediately respond to the Free Press.\n\nThis is a charge, not a ruling.",
+      "pull_quote": "Chaplains should not be forced to give up their religious beliefs to do their job.",
+      "record": [
+        {
+          "date": "2026-11-11",
+          "label": "EEOC charge against Heartland Hospice and Gentiva; Blue ordained Lutheran minister and board-certified chaplain; family move; June 22 meeting over a “religious post”; employer refused a reason; Cliff Martin quote",
+          "source": "First Liberty Institute",
+          "url": "https://firstliberty.org/media/trump-administration-asked-to-investigate-national-hospice-organization-after-chaplain-fired-for-religious-social-media-post/",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "label": "Claim filed Nov. 4; Blue’s statements, incl. “I believe that my Facebook posts were the sole cause for my termination”; fired July 9 despite positive evaluations; no immediate response from EEOC, First Liberty or Heartland",
+          "source": "Detroit Free Press (via The Times Herald)",
+          "url": "https://www.thetimesherald.com/story/news/local/michigan/2026/11/13/first-liberty-law-firm-lutheran-minister-eeoc-complaint-richard-blue/92757377007/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/hospice-chaplain-richard-blue-eeoc.jpg",
+        "alt": "FNN graphic: A chaplain’s faith",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "A hospice chaplain says he was fired over a Facebook post: “Chaplains should not be forced to give up their religious beliefs to do their job.”",
+        "caption": "A CHAPLAIN’S FAITH, ON TRIAL"
+      }
+    },
+    {
+      "slug": "kirk-carry-the-name",
+      "date": "2026-11-16",
+      "section": "faith",
+      "kicker": "FAITH, FAMILY AND FREEDOM",
+      "headline": "“Do Not Carry the Name of the Lord in Vain”: The Commandment Charlie Kirk Read Differently",
+      "deck": "Erika Kirk told Liberty University students her husband studied the Hebrew behind the third commandment. Her charge: carry His name well.",
+      "byline": "By FNN Desk",
+      "body": "Most learned the third commandment as a rule against cursing. Charlie Kirk read more into it.\n\nAt Liberty University’s Convocation on Oct. 23, Erika Kirk said: “Charlie knew the root word of ‘take’ in this verse was ‘to carry,’” she said. “As in do not carry the name of the Lord in vain.”\n\n“Saying you’re a Christian and living your life in obedience to Christ is not necessarily the same thing,” she told students, the Liberty Champion reported.\n\nA junior: “Wearing the costume of holy is not the same as living holy.”\n\nShe closed: “Here I am, Lord. Send me.”",
+      "pull_quote": "Saying you’re a Christian and living your life in obedience to Christ is not necessarily the same thing.",
+      "record": [
+        {
+          "date": "2026-10-31",
+          "label": "Erika Kirk at Convocation Oct. 23 in the Vines Center; “to carry” and Exodus 20:7; obedience quote; closing prayer; Dominic Morisi and Carly Van Schaik quotes",
+          "source": "Liberty Champion",
+          "url": "https://www.liberty.edu/champion/2026/10/31/erika-kirk-challenges-students-to-live-out-their-faith-at-convocation/",
+          "role": null
+        },
+        {
+          "date": "2026-10-28",
+          "label": "Erika Kirk told Liberty students to remember they carry the name of the Lord in everything they do",
+          "source": "The News & Advance (via The Daily Progress)",
+          "url": "https://dailyprogress.com/news/state-regional/education/article_3ad5d2d6-cc1c-5332-b9fd-8526d3f80ae8.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "label": "Hebrew nasa’: “to lift,” “carry,” “bear”; Rabbi Joseph Telushkin: the more literal translation is “you shall not carry”",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Thou_shalt_not_take_the_name_of_the_Lord_thy_God_in_vain",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "date_label": "Scripture",
+          "label": "Exodus 20:7 (KJV): “Thou shalt not take the name of the LORD thy God in vain”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+20%3A7&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/kirk-carry-the-name.jpg",
+        "alt": "FNN graphic: Carry the name",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Erika Kirk on Charlie’s reading of the third commandment: “As in do not carry the name of the Lord in vain.”",
+        "caption": "CARRY THE NAME"
+      }
+    },
+    {
+      "slug": "peshawar-christian-homes-church-demolished",
+      "date": "2026-11-16",
+      "section": "faith",
+      "kicker": "THE PERSECUTED CHURCH",
+      "headline": "“Searching for Shelter”: Bulldozers Raze 13 Christian Homes and a Church in Peshawar for “a City of Flowers”",
+      "deck": "Most of the families are poor sanitation workers. One mother says they got three days’ notice. Authorities say the land is government property; no compensation.",
+      "byline": "By FNN Desk",
+      "body": "On Oct. 30, bulldozers in Peshawar, Pakistan, tore down at least 13 Christian homes and a Pentecostal church, UCA News reported. Most of the families are poor sanitation workers.\n\nThe reason, per an official notice: a plan to “beautify Peshawar and transform it into a city of flowers.” Authorities claim the homes sat on government land. No compensation.\n\nRashida Stephen says her family got three days’ notice. “We barely manage one meal a day. We are government workers and deserve justice.”\n\nActivist Shoaib Bhatti: “Winter has arrived, and instead of preparing for Christmas, they are now searching for shelter.”",
+      "pull_quote": "Winter has arrived, and instead of preparing for Christmas, they are now searching for shelter.",
+      "record": [
+        {
+          "date": "2026-11-02",
+          "label": "Oct. 30 demolitions: about 10 homes in Sanda Gudaam, three homes and a Pentecostal church in Gol Gudaam; at least 13 homes; no compensation; Oct. 29 notice (“city of flowers”); government-land claim; Stephen, Bhatti and Fr. Tariq Mehmood quotes",
+          "source": "UCA News",
+          "url": "https://www.ucanews.com/news/christian-homes-church-razed-in-pakistan-for-city-beautification/115991",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "label": "Homes of 13 Christian families and a church demolished under the “city of flowers” plan; many residents poorly paid sanitation workers",
+          "source": "The Tablet",
+          "url": "https://www.thetablet.co.uk/news/news-briefing-church-in-the-world-98/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/peshawar-christian-homes-church-demolished.jpg",
+        "alt": "FNN graphic: Searching for shelter",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Bulldozers razed 13 Christian homes and a church in Peshawar: “Instead of preparing for Christmas, they are now searching for shelter.”",
+        "caption": "“SEARCHING FOR SHELTER”"
       }
     },
     {
