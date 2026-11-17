@@ -1,9 +1,253 @@
 {
-  "edition": "2026-11-16-pm2",
-  "date": "2026-11-16",
-  "updated_at": "2026-11-16T17:15:00-05:00",
-  "lead": "ship-42-could-be-reflown",
+  "edition": "2026-11-17-am",
+  "date": "2026-11-17",
+  "updated_at": "2026-11-17T04:43:47-05:00",
+  "lead": "ramaphosa-musk-remember-his-country",
   "stories": [
+    {
+      "slug": "ramaphosa-musk-remember-his-country",
+      "section": "freedom",
+      "kicker": "FEATURE · ELON MUSK",
+      "headline": "South Africa’s President Wants Musk to “Give Back.” Musk: “South Africa Is Now Super Racist Against Whites and Asians.”",
+      "deck": "Ramaphosa told ABC’s Jonathan Karl he’d like to chat with Musk about “remembering his country.” Starlink still has no South African licence.",
+      "body": "South African President Cyril Ramaphosa, visiting Silicon Valley, told ABC’s Jonathan Karl on Monday: “I have met Elon Musk in the past, and I’ve been awed by his brilliance. But I’d also like to chat to him about remembering his country.”\n\nMusk, he said, should “give back to this country.”\n\nMusk’s reply: “South Africa is now super racist against Whites and Asians.”\n\nThe backdrop, per ITWeb: licence holders must be at least 30% owned by historically disadvantaged groups. Starlink offered to connect 5,000 mostly rural schools instead. Still no licence.\n\nRamaphosa says Musk “doesn’t fully understand” apartheid’s harm.",
+      "pull_quote": "South Africa is now super racist against Whites and Asians.",
+      "record": [
+        {
+          "date": "2026-11-16",
+          "label": "Semafor, 3:10 p.m. ET: “I have met Elon Musk in the past, and I’ve been awed by his brilliance. But I’d also like to chat to him about remembering his country,” Ramaphosa tells @jonkarl; “What you’ve become today is by dint of your own origins”",
+          "source": "Semafor on X",
+          "url": "https://x.com/semafor/status/2122422016418406793",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "label": "Musk, 9:09 p.m. ET, replying to Semafor: “South Africa is now super racist against Whites and Asians”",
+          "source": "his own post on X",
+          "url": "https://x.com/elonmusk/status/2122512328696758640",
+          "role": null
+        },
+        {
+          "date": "2026-11-17",
+          "label": "Interview at Semafor’s Silicon Valley event Nov. 16; Musk should “give back to this country”; “he doesn’t fully understand the extent of what the apartheid policies did to black South Africans”; Electronic Communications Act requires individual licence-holders to have at least 30% ownership by historically disadvantaged groups; Starlink previously offered to connect 5 000 predominantly rural schools; “Starlink has yet to secure the licences”",
+          "source": "ITWeb",
+          "url": "https://www.itweb.co.za/article/ramaphosa-challenges-elon-musk-to-give-back-to-sa/6GxRKqYQOd1qb3Wj",
+          "role": null
+        },
+        {
+          "date": "2026-11-17",
+          "label": "Ramaphosa: “When the apartheid government spent R12 on his education, it spent R1 on my education”; licence rule requires at least 30% ownership by historically disadvantaged groups",
+          "source": "The South African",
+          "url": "https://www.thesouthafrican.com/news/cyril-ramaphosa-says-elon-musk-should-remember-his-south-africa-roots/",
+          "role": null
+        },
+        {
+          "date": "2026-11-17",
+          "label": "Ramaphosa on Starlink: “There have been discussions and they revolve around policies. And he is one of those who has had difficulty in understanding the policy position”",
+          "source": "IOL",
+          "url": "https://iol.co.za/news/south-africa/2026-11-17-ramaphosa-elon-musk-owes-south-africa-a-contribution-to-its-development/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/ramaphosa-musk-remember-his-country.jpg",
+        "alt": "FNN graphic: remembering his country",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "South Africa’s president says Musk should “give back to this country.” Musk: “South Africa is now super racist against Whites and Asians.” Starlink still has no licence there.",
+        "caption": "“SUPER RACIST AGAINST WHITES AND ASIANS”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-17"
+    },
+    {
+      "slug": "pressley-majority-priorities-reparations-veto",
+      "section": "freedom",
+      "kicker": "MASSACHUSETTS · LATEST",
+      "headline": "Pressley’s To-Do List for the New Democratic Majority Starts With “Reparations.” Her Dare to Trump: Veto It.",
+      "deck": "The Boston Democrat posted her priorities Sunday, from reparations to abolishing ICE. Overriding a veto takes two-thirds of both chambers.",
+      "body": "Rep. Ayanna Pressley of Massachusetts posted her plan for the Democratic majority that takes over Congress in January: “Reparations. Abortion justice. Medicare for All. Abolishing ICE. Childcare. Paid leave. And more.”\n\nHer dare: “If Trump wants to veto any of this, then the people will know exactly where he stands.”\n\nThe Constitution’s fine print: an override needs two thirds of each House.\n\nBack in her own city, Boston paid Tufts $335,000 for the first volume of its reparations study. The report was canceled, and Tufts returned the full $335,000, GBH reported.\n\nFirst word on her list: Reparations.",
+      "pull_quote": "If Trump wants to veto any of this, then the people will know exactly where he stands.",
+      "record": [
+        {
+          "date": "2026-11-15",
+          "label": "Pressley, 6:30 p.m. ET: “We need to show people what Democrats can do with our majority. Reparations. Abortion justice. Medicare for All. Abolishing ICE. Childcare. Paid leave. And more. If Trump wants to veto any of this, then the people will know exactly where he stands. And we won’t stop fighting until we win.”",
+          "source": "her own post on X",
+          "url": "https://x.com/RepPressley/status/2122109986306195477",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "label": "Same message posted as a Substack note",
+          "source": "Pressley on Substack",
+          "url": "https://substack.com/@reppressley/note/c-388458224",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "label": "Pressley, 10:56 a.m. ET: “Under this new Democratic majority, I’ll keep pushing for reparations”; pushing to pass H.R. 40",
+          "source": "her own post on X",
+          "url": "https://x.com/RepPressley/status/2121995706588184659",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "label": "Graphic billed as “Rep. Ayanna Pressley’s Majority Priorities”; 13 items, including H.R. 40, “Affordable Housing” and “Lower Costs”",
+          "source": "Mass Daily News",
+          "url": "https://www.massdailynews.com/2026/11/15/ayanna-pressley-reparations-abolish-ice-medicare-trump-veto",
+          "role": null
+        },
+        {
+          "date": "1787-09-17",
+          "label": "Article I, Section 7: a returned bill becomes law only if “two thirds of that House shall agree to pass the Bill” and it is “approved by two thirds” of the other",
+          "source": "U.S. Constitution (National Archives)",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "role": null
+        },
+        {
+          "date": "2026-09-16",
+          "label": "City and Tufts “reluctantly come to a decision to cancel the contract for the first volume of the report”; “Tufts returned the full value of the contract — $335,000 — to the city”",
+          "source": "GBH News",
+          "url": "https://www.wgbh.org/news/local/2026-09-16/city-of-boston-nixes-reparations-report-after-concerns-around-tufts-researcher",
+          "role": null
+        },
+        {
+          "date": "2026-09-15",
+          "label": "Wu’s office: Tufts returned $335,000 meant for a report on Boston’s historic role in the slave trade",
+          "source": "Boston 25 News",
+          "url": "https://www.boston25news.com/news/local/boston-cancels-reparations-report-with-tufts-university-after-researcher-comes-under-fire/EVV6VBI2ONGWRPZTRGOEMGDYSA/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/pressley-majority-priorities-reparations-veto.jpg",
+        "alt": "FNN graphic: Pressley's majority to-do list",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Rep. Ayanna Pressley’s list for the new Democratic majority: “Reparations. Abortion justice. Medicare for All. Abolishing ICE.” Her dare: “If Trump wants to veto any of this…”",
+        "caption": "“REPARATIONS.” FIRST ON THE LIST."
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-17"
+    },
+    {
+      "slug": "rubio-americans-never-agreed-to-submit",
+      "section": "freedom",
+      "kicker": "FEATURE · AMERICA FIRST",
+      "headline": "Rubio to the International Criminal Court: “Americans Have Never Agreed to Submit to the ICC’s Authority”",
+      "deck": "In his first prepared speech since the midterms, the Secretary of State told the Federalist Society America won’t bow to “soulless global bureaucrats.”",
+      "body": "Secretary of State Marco Rubio told the Federalist Society’s national convention in Washington on Friday what America thinks of the International Criminal Court.\n\n“Americans have never agreed to submit to the ICC’s authority,” he said, “but that court and its allies in the global bureaucracy have appointed themselves judge and jury and executioner of the international order.”\n\nHis case for the country: “To submit to the sterile vision of radical judges or soulless global bureaucrats would be to betray who we are.”\n\nThen he quoted the Roman general Pompey: “Stop quoting laws to men with swords.”",
+      "pull_quote": "Americans have never agreed to submit to the ICC’s authority.",
+      "record": [
+        {
+          "date": "2026-11-13",
+          "label": "Rubio at the Federalist Society’s 2026 National Lawyers Convention: “Americans have never agreed to submit to the ICC’s authority, but that court and its allies in the global bureaucracy have appointed themselves judge and jury and executioner of the international order”; “To submit to the sterile vision of radical judges or soulless global bureaucrats would be to betray who we are”; Pompey: “Stop quoting laws to men with swords”",
+          "source": "U.S. Department of State (transcript)",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-of-state-marco-rubio-at-the-federalist-societys-2026-national-lawyers-convention/",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "label": "Speech at the Mayflower Hotel Nov. 13; “his first prepared remarks since Republicans were routed in the midterm elections”; U.S. sanctions on the ICC take effect in April unless supporters reach an agreement with Washington",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/3fec1b0a85a0/world/us/rubio-assails-international-court-speech-conservative-legal-group-2026-11-14/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/rubio-americans-never-agreed-to-submit.jpg",
+        "alt": "FNN graphic: never agreed to submit",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Rubio to the Federalist Society: “Americans have never agreed to submit to the ICC’s authority.” Then he quoted Pompey: “Stop quoting laws to men with swords.”",
+        "caption": "“NEVER AGREED TO SUBMIT”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-17"
+    },
+    {
+      "slug": "delta-leo-long-game-starlink",
+      "section": "thenvsnow",
+      "kicker": "ELON MUSK · THEN vs. NOW",
+      "headline": "March: Delta’s CEO Said Amazon Leo Is “the Best, Fastest and Most Cost-Effective Technology Available.”",
+      "headline_now": "Now: Installs Start in 2028. United Has Starlink on 697 Planes.",
+      "deck": "Ed Bastian is “very confident in our decision.” Musk’s reply to the “long game” talk: “I found a pic of ‘the long game.’”",
+      "body": "March 31, Delta picked Amazon’s Leo satellite Wi-Fi over Elon Musk’s Starlink. CEO Ed Bastian said it “gives us the best, fastest and most cost-effective technology available.”\n\nThe catch: installs start in 2028, on an initial 500 planes.\n\nLast Thursday, on Bloomberg, Bastian stood by it. Leo is “coming to the skies here relatively soon, over the next 18 months,” he said, and he’s “very confident in our decision.”\n\nUnited, meanwhile, has 697 Starlink-equipped aircraft, covering 51% of its daily flights, Simple Flying reports.\n\nMusk’s review: “I found a pic of ‘the long game.’”",
+      "pull_quote": "I found a pic of “the long game”",
+      "then": {
+        "text": "This agreement gives us the best, fastest and most cost-effective technology available to better connect the world today",
+        "date": "2026-03-31",
+        "source": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-delta-in-flight-wifi-2028",
+        "source_name": "Amazon announcement",
+        "who": "Delta CEO Ed Bastian",
+        "big": "2028"
+      },
+      "now": {
+        "text": "We know the Amazon Leo product is going to be a great product",
+        "date": "2026-11-12",
+        "source": "https://www.benzinga.com/markets/tech/26/11/63230596/elon-musk-predicted-trouble-for-delta-over-spacex-starlink-snub-ceo-ed-bastian-says-airline-is-playing-long-game",
+        "source_name": "Benzinga (Bloomberg interview)",
+        "who": "Ed Bastian"
+      },
+      "record": [
+        {
+          "date": "2026-03-31",
+          "label": "Bastian: “This agreement gives us the best, fastest and most cost-effective technology available to better connect the world today”; Leo on hundreds of Delta aircraft, beginning in 2028 with an initial 500",
+          "source": "Amazon",
+          "url": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-delta-in-flight-wifi-2028",
+          "role": "then"
+        },
+        {
+          "date": "2026-11-13",
+          "label": "Bloomberg interview Thursday (Nov. 12): “We know the Amazon Leo product is going to be a great product”; “coming to the skies here relatively soon, over the next 18 months”; “very confident in our decision”; rollout begins in 2028",
+          "source": "Benzinga",
+          "url": "https://www.benzinga.com/markets/tech/26/11/63230596/elon-musk-predicted-trouble-for-delta-over-spacex-starlink-snub-ceo-ed-bastian-says-airline-is-playing-long-game",
+          "role": "now"
+        },
+        {
+          "date": "2026-03-31",
+          "label": "“Initial installation on 500 aircraft beginning 2028”",
+          "source": "Delta News Hub",
+          "url": "https://news.delta.com/delta-amazon-leo-sign-agreement-deliver-next-era-connected-travel-and-digital-experiences",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "label": "United’s official tracker shows 697 equipped aircraft, 46% of its fleet and 51% of daily flights; Delta’s Leo installs begin in 2028",
+          "source": "Simple Flying",
+          "url": "https://simpleflying.com/united-starlink-wifi-half-daily-flights-delta-amazon-leo/",
+          "role": null
+        },
+        {
+          "date": "2026-11-17",
+          "label": "Fan account, 1:26 a.m. ET: says Bastian calls it “playing the long game” (Bastian’s words per Benzinga: “long game” with partnerships)",
+          "source": "X Freeze on X",
+          "url": "https://x.com/XFreeze/status/2122577137609912605",
+          "role": null
+        },
+        {
+          "date": "2026-11-17",
+          "label": "Musk, 2:14 a.m. ET, replying: “I found a pic of “the long game””",
+          "source": "his own post on X",
+          "url": "https://x.com/elonmusk/status/2122589089702813944",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/delta-leo-long-game-starlink.jpg",
+        "alt": "FNN graphic: Delta's long game, then and now",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "March: Delta’s CEO called Amazon Leo “the best, fastest and most cost-effective technology available.” Installs start in 2028. United has Starlink on 697 planes.",
+        "caption": "“THE LONG GAME”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-17"
+    },
     {
       "slug": "ship-42-could-be-reflown",
       "section": "freedom",
@@ -4895,6 +5139,267 @@
       "share": {
         "line": "Hexumlite got into a University of Florida dining hall for $13 in a $590 fake Rolex, logged about 34 approaches and one probable number, and flies to Miami Wednesday for a palatal expander.",
         "caption": "$13 AND A $590 FAKE ROLEX."
+      }
+    },
+    {
+      "slug": "felix-nmecha-crowns-down",
+      "date": "2026-11-17",
+      "section": "faith",
+      "kicker": "YOUNG CHRISTIAN LEADERS",
+      "headline": "“My Message Has Never Been About Promoting Intolerance”: Felix Nmecha, 26, Lays His Crown Down",
+      "deck": "The Dortmund and Germany midfielder knelt and laid an imaginary crown on the grass after two goals. Fans objected. His coach says he loves all people.",
+      "byline": "By FNN Desk",
+      "body": "After each of his two goals in Dortmund’s 2-1 win over Elversberg on Nov. 7, Felix Nmecha, 26, knelt and laid an imaginary crown on the grass, the AP reported. The gesture signifies “The King’s Return,” a campaign of the Christian footballers’ network Ballers in God.\n\nDortmund’s supporters’ group objected. Club president Hans-Joachim Watzke called it “divisive,” Outsports reported. Germany coach Jürgen Klopp says Nmecha won’t repeat it.\n\nNmecha, per BBC Sport: “My message has never been about promoting intolerance, discrimination, or hate in any form.”\n\nKlopp: “he loves all people and does not discriminate against anyone.”",
+      "pull_quote": "My message has never been about promoting intolerance, discrimination, or hate in any form.",
+      "record": [
+        {
+          "date": "2026-11-09",
+          "label": "Two goals in a 2-1 win over Elversberg on Saturday; “removing an imaginary crown while kneeling and placing it on the grass”; “The King’s Return” campaign linked to Ballers in God; supporters’ group statement; Nmecha 26",
+          "source": "Associated Press (via ABC News)",
+          "url": "https://abcnews.com/Sports/wireStory/germany-midfielder-nmecha-scrutiny-dortmund-celebrations-linked-evangelical-137975213",
+          "role": null
+        },
+        {
+          "date": "2026-11-09",
+          "label": "Ballers in God founded “to use the global platform of football to make Jesus known”; earlier crown celebrations vs. Paderborn and Curaçao",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/09/felix-nmecha-faith-borussia-dortmund-debate-bundesliga",
+          "role": null
+        },
+        {
+          "date": "2026-11-10",
+          "label": "Nmecha: “My message has never been about promoting intolerance, discrimination, or hate in any form”; Ballers in God: “point people to Jesus with grace and love”",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.com/sport/football/articles/cm3696yy9z64o",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "label": "Watzke told Nmecha the celebration is “divisive”; Klopp: “He will not be celebrating like that”",
+          "source": "Outsports",
+          "url": "https://www.outsports.com/2026/11/12/24147138/felix-nmecha-borussia-dortmund-goal-celebration-fans-gay-lgbtq-ballers-god/",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "label": "Klopp: “He told me that it had nothing to do with that at all, and that he loves all people and does not discriminate against anyone”; Nmecha agreed not to repeat the celebration",
+          "source": "DW",
+          "url": "https://www.dw.com/en/germanys-nmecha-wont-repeat-controversial-goal-celebration/a-79937994",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/felix-nmecha-crowns-down.jpg",
+        "alt": "FNN graphic: Crowns down",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Felix Nmecha laid an imaginary crown on the grass after two goals. His word: “My message has never been about promoting intolerance, discrimination, or hate in any form.”",
+        "caption": "“CROWNS DOWN”"
+      }
+    },
+    {
+      "slug": "kirk-get-married-get-yourself-some-kids",
+      "date": "2026-11-17",
+      "section": "faith",
+      "kicker": "FAITH, FAMILY AND FREEDOM",
+      "headline": "“Get Married, Get Yourself Some Kids”: The Advice Charlie Kirk Was Given, and Spent His Life Giving Away",
+      "deck": "Hillsdale’s Larry Arnn told a 19-year-old Charlie Kirk to marry and start a family. At Hillsdale’s commencement in May, Erika Kirk passed it on.",
+      "byline": "By FNN Desk",
+      "body": "Hillsdale College president Larry Arnn met Charlie Kirk in 2013, when Charlie was 19. At the May 9 commencement, he recalled: “One of the first things I told him was you gotta get married, get yourself some kids. He went around the rest of his life telling other people that.”\n\nCharlie did. In August 2025 he posted: “Having a family will change your life in the best ways, so get married and have kids. You won’t regret it.”\n\nErika Kirk, the speaker, urged graduates to marry young. “He would also say have more children than you can afford.”",
+      "pull_quote": "Having a family will change your life in the best ways, so get married and have kids. You won’t regret it.",
+      "record": [
+        {
+          "date": "2026-05-09",
+          "label": "Arnn: “One of the first things I told him was you gotta get married, get yourself some kids. He went around the rest of his life telling other people that”; Charlie then 19; Erika encouraged marrying young, “Not rushed, she said, quoting Charlie Kirk, but young”; “He would also say have more children than you can afford”; about 5,000 attended",
+          "source": "MLive",
+          "url": "https://www.mlive.com/news/jackson/2026/05/erika-kirk-encourages-learning-love-of-country-marrying-young-at-hillsdale-college.html",
+          "role": null
+        },
+        {
+          "date": "2026-05-10",
+          "label": "Arnn and Charlie Kirk met in 2013 when Charlie was 19; “He is the axis upon which all other priorities turn”",
+          "source": "MLive",
+          "url": "https://www.mlive.com/news/jackson/2026/05/erika-kirk-applauded-protested-in-hillsdale-as-she-talks-family-faith-purpose-5-takeaways.html",
+          "role": null
+        },
+        {
+          "date": "2025-09-12",
+          "label": "Charlie Kirk, August 2025 Instagram post for his daughter’s birthday: “Having a family will change your life in the best ways, so get married and have kids. You won’t regret it.”",
+          "source": "E! News",
+          "url": "https://www.eonline.com/photos/37884/charlie-kirks-family-life-after-death-at-31",
+          "role": null
+        },
+        {
+          "date": "2025-09-15",
+          "label": "Charlie Kirk on Fox News days before his death: “Having children is more important than having a good career”",
+          "source": "Institute for Family Studies",
+          "url": "https://ifstudies.org/blog/get-married-charlie-kirks-most-important-advice-to-young-men-and-women",
+          "role": null
+        },
+        {
+          "date": "2026-11-17",
+          "date_label": "Scripture",
+          "label": "Psalm 127:3 (KJV): “Lo, children are an heritage of the Lord”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm+127%3A3&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/kirk-get-married-get-yourself-some-kids.jpg",
+        "alt": "FNN graphic: Get married",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Larry Arnn told a 19-year-old Charlie Kirk: “you gotta get married, get yourself some kids.” Charlie: “You won’t regret it.”",
+        "caption": "“GET MARRIED, GET YOURSELF SOME KIDS”"
+      }
+    },
+    {
+      "slug": "linda-kevin-davis-say-little-pray-much",
+      "date": "2026-11-17",
+      "section": "faith",
+      "kicker": "FAMILY",
+      "headline": "“Say Little, Pray Much!”: She Prayed for Her Husband for Nearly 40 Years. Then He Reached for a Gideons Bible.",
+      "deck": "Linda Davis married Kevin in 1978 and came to faith two years later. In Woman Alive, the couple tell how one hospital night brought Kevin to Jesus.",
+      "byline": "By FNN Desk",
+      "body": "Linda Davis married Kevin in 1978 and became a committed Christian two years later. Kevin didn’t share her faith. She prayed nearly 40 years, the couple write in Woman Alive.\n\n“I remember one day the Lord laid it on my heart to thank him for Kevin every day,” she writes.\n\nIn 2024, after a knee replacement, Kevin couldn’t sleep. “Desperate, I reached for the Gideons Bible beside my bed and prayed: ‘Lord, get me through this.’ And He did. I now know that Jesus Christ is real and that He is my Saviour.”\n\nHer advice: “Say little, pray much!”",
+      "pull_quote": "I now know that Jesus Christ is real and that He is my Saviour.",
+      "record": [
+        {
+          "date": "2026-11-12",
+          "label": "Linda: “I married Kevin in 1978”; “two years later I became a committed Christian”; “I remember one day the Lord laid it on my heart to thank him for Kevin every day”; “Say little, pray much!”; Kevin: 2024 knee replacement, “Desperate, I reached for the Gideons Bible beside my bed and prayed: “Lord, get me through this.” And He did. I now know that Jesus Christ is real and that He is my Saviour”",
+          "source": "Woman Alive",
+          "url": "https://www.womanalive.co.uk/opinion/i-prayed-for-my-husband-to-become-a-christian-for-nearly-40-years-then-god-answered/22474.article",
+          "role": null
+        },
+        {
+          "date": "2026-11-17",
+          "date_label": "Scripture",
+          "label": "1 Thessalonians 5:17 (KJV): “Pray without ceasing”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=1+Thessalonians+5%3A17&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/linda-kevin-davis-say-little-pray-much.jpg",
+        "alt": "FNN graphic: Say little, pray much",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "She prayed for her husband for nearly 40 years. Then, one night in hospital, he reached for a Gideons Bible.",
+        "caption": "“SAY LITTLE, PRAY MUCH!”"
+      }
+    },
+    {
+      "slug": "nigeria-one-year-later-steps-are-not-results",
+      "date": "2026-11-17",
+      "section": "faith",
+      "kicker": "THE PERSECUTED CHURCH",
+      "headline": "“Steps Are Not Results”: A Year After Nigeria’s U.S. Designation, Officials Tell Congress “the Violence Has Not Stopped”",
+      "deck": "At a House hearing Nov. 12, State Department officials credited Nigeria with some steps. Rep. Riley Moore: “we cannot take this CPC designation off.”",
+      "byline": "By FNN Desk",
+      "body": "A year after the U.S. designated Nigeria a “country of particular concern” for religious freedom, a House Foreign Affairs subcommittee asked on Nov. 12 what has changed.\n\n“Unfortunately, the violence has not stopped,” Assistant Secretary of State Frank Garcia said, Reuters reported. Assistant Secretary Riley Barnes called the violence against Christians “appalling.”\n\nNigeria has hired police and increased arrests, Barnes said, but Christians in the Middle Belt are not safer for it.\n\nRep. Riley Moore, R-W.Va.: “But steps are not results.” And: “we cannot take this CPC designation off this country.”\n\nNigeria’s government rejected the designation as based on misinformation.",
+      "pull_quote": "But steps are not results.",
+      "record": [
+        {
+          "date": "2026-11-12",
+          "label": "Africa Subcommittee hearing, “One Year Later: Assessing Nigeria’s Efforts to protect Christians and Secure the Middle Belt,” Thu. Nov. 12, 2172 Rayburn; witnesses Garcia and Barnes",
+          "source": "House Foreign Affairs Committee",
+          "url": "https://foreignaffairs.house.gov/committee-activity/hearings/one-year-later-assessing-nigeria-s-efforts-to-protect-christians-and-secure-the-middle-belt",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "label": "Garcia: “Unfortunately, the violence has not stopped”; Barnes: Nigeria hired police, deployed forest guards, increased prosecutions and arrests, but these moves had not led to greater safety for Christians in the Middle Belt; Moore: “we cannot take this CPC designation off this country. They have not done enough”; Nigeria rejected the designation as based on misinformation and faulty data",
+          "source": "Reuters (via The Straits Times)",
+          "url": "https://www.straitstimes.com/world/us-officials-say-violence-against-christians-in-nigeria-remains-a-key-concern",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "label": "Barnes: “the levels of violence and atrocities committed against Christians in Nigeria are appalling”; Moore: “These steps followed sustained American engagement, and they are welcome… But steps are not results”",
+          "source": "EWTN News",
+          "url": "https://www.ewtnnews.com/world/us/republicans-demand-more-progress-in-halting-christian-persecution-in-nigeria",
+          "role": null
+        },
+        {
+          "date": "2026-11-17",
+          "date_label": "Scripture",
+          "label": "Hebrews 13:3 (KJV): “Remember them that are in bonds, as bound with them”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Hebrews+13%3A3&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/nigeria-one-year-later-steps-are-not-results.jpg",
+        "alt": "FNN graphic: Steps are not results",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "A year after the U.S. named Nigeria a country of concern, officials told Congress: “Unfortunately, the violence has not stopped.”",
+        "caption": "“STEPS ARE NOT RESULTS”"
+      }
+    },
+    {
+      "slug": "uw-red-square-worship-seattle",
+      "date": "2026-11-17",
+      "section": "faith",
+      "kicker": "FAITH ON CAMPUS",
+      "headline": "“Students Are Hungry Spiritually”: Worship Fills Red Square at the University of Washington",
+      "deck": "Students from different churches worshiped in UW’s Red Square Nov. 11. Sounders chaplain Jesse Bradley says hundreds of Bibles have been given away.",
+      "byline": "By FNN Desk",
+      "body": "On Wednesday, Nov. 11, students from different churches gathered in Red Square, the brick plaza at the heart of the University of Washington campus in Seattle, for an afternoon of worship. They worshiped “for hours,” CBN News reported.\n\nPastor Jesse Bradley, a former pro soccer player and chaplain for the Seattle Sounders, shared the gospel and handed out Bibles.\n\n“We have distributed hundreds of Bibles. Students are hungry spiritually; life is more than just academics,” he told CBN.\n\nThe setting: in Pew’s 2023-24 study, 44% of Seattle-area adults had no religious affiliation, tied with Portland for highest among 34 metros.",
+      "pull_quote": "Students are hungry spiritually; life is more than just academics.",
+      "record": [
+        {
+          "date": "2026-11-11",
+          "label": "Worship and Gathering at Red Square, Wed. Nov. 11, 2026, 3:30–5 p.m.; UW students lead worship; Bradley, pastor of Grace Community Church and a Sounders chaplain; Bibles on hand",
+          "source": "Northwest Revival (event listing)",
+          "url": "https://www.northwestrevival.com/events/worship-gathering-red-square-seattle/",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "label": "Student-led worship in Red Square, “joyfully pursuing God together for hours”; Bradley a former professional soccer player and chaplain for the Sounders and USMNT; “We have distributed hundreds of Bibles. Students are hungry spiritually; life is more than just academics”",
+          "source": "CBN News",
+          "url": "https://cbn.com/news/us/infinite-hope-jesus-shared-students-least-religious-city-america",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "label": "Students from different churches worshiped in Red Square; “answered prayers for perfect weather”",
+          "source": "SPIRIT 105.3",
+          "url": "https://www.spirit1053.com/blog/faith-filter-with-pastor-jesse-faith-on-campus-edition/",
+          "role": null
+        },
+        {
+          "date": "2025-03-07",
+          "label": "Pew 2023-24 Religious Landscape Study: 44% of Seattle-metro adults unaffiliated, tied with Portland for highest among 34 large metros",
+          "source": "The Seattle Times",
+          "url": "https://www.seattletimes.com/seattle-news/data/seattle-ties-as-the-least-religious-u-s-metro-area-in-new-study/",
+          "role": null
+        },
+        {
+          "date": "2026-11-17",
+          "date_label": "Scripture",
+          "label": "Mark 8:36 (KJV): “For what shall it profit a man, if he shall gain the whole world, and lose his own soul?”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Mark+8%3A36&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/uw-red-square-worship-seattle.jpg",
+        "alt": "FNN graphic: Hungry spiritually",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Worship filled Red Square at the University of Washington. Pastor Jesse Bradley: “Students are hungry spiritually.”",
+        "caption": "“STUDENTS ARE HUNGRY SPIRITUALLY”"
       }
     },
     {
