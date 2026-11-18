@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-17-pm1",
-  "date": "2026-11-17",
-  "updated_at": "2026-11-17T21:29:00-05:00",
+  "edition": "2026-11-18-am",
+  "date": "2026-11-18",
+  "updated_at": "2026-11-18T02:26:00-05:00",
   "lead": "ramaphosa-musk-remember-his-country",
   "stories": [
     {
@@ -1610,6 +1610,93 @@
       "share": {
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
+      }
+    },
+    {
+      "slug": "cobbruvs-miami-here-i-come-bologna-verdict",
+      "date": "2026-11-17",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · COBBRUVS",
+      "headline": "CobbRuvs Declares “Miami Baby, Here I Come,” Talks Fight Terms With Drago, Then Rules Tim Hortons Tastes Like Bologna",
+      "deck": "A seven-and-a-half-hour Toronto send-off: a Florida game plan, a live video call, a closed CN Tower and a sandwich verdict.",
+      "byline": "By FNN Desk",
+      "body": "CobbRuvs announced his next chapter from a Toronto high-rise, Coca-Cola in hand and nu-metal on the TV: “Miami baby, here I come.” He says he’ll fly out by Thursday at the latest, catch his brother there and walk the city with a selfie stick. Then he got Drago on a live video call to talk terms for a proposed fight. Drago pitched a streamable MMA-gym bout; nothing was settled. His Toronto goodbye found the CN Tower closed. At Tim Hortons he offered to pay, then ruled on the sandwich: “It smells and tastes like bologna. Welcome to Canada.”",
+      "pull_quote": "It smells and tastes like bologna. Welcome to Canada.",
+      "record": [
+        {
+          "date": "2026-11-17",
+          "date_label": "Tuesday, Nov. 17, 6:24 p.m. ET to about 1:56 a.m. ET Wednesday, Nov. 18 (7 hours, 31 minutes)",
+          "label": "A Toronto apartment stream and farewell walk. Livestream 138457024. The VOD had 11,330 views at about 2:04 a.m. ET, and he had 30,984 followers. The desk logged a live high of about 2,199 viewers around midnight ET. Cold approaches: 0; he says those are scheduled for Miami. Private people, including a guest and shop staff, are not named or shown.",
+          "source": "Kick VOD, CobbRuvs, livestream 138457024",
+          "url": "https://kick.com/cobbruvs/videos/f7585743-b796-4e6b-bf01-71c00558e575",
+          "role": null
+        },
+        {
+          "date": "2026-11-17",
+          "date_label": "VOD 0:06–0:33 (about 6:30–6:57 p.m. ET)",
+          "label": "The announcement: “Miami baby, here I come.” He said he has been “manifesting this,” and that he’s doing it “not only for me, I’m doing it for you guys.” On the plan: “We’re hitting Miami.” He said he would meet his brother there. He promised to walk Miami with his selfie stick: “It might not be good, but we gonna do it.”",
+          "source": "Kick VOD, CobbRuvs, livestream 138457024",
+          "url": "https://kick.com/cobbruvs/videos/f7585743-b796-4e6b-bf01-71c00558e575",
+          "role": null
+        },
+        {
+          "date": "2026-11-17",
+          "date_label": "VOD 0:33–0:45 (about 6:57–7:09 p.m. ET)",
+          "label": "He started a one-way flight search for the next day and said he would be there “by Thursday by the latest.” A completed ticket purchase never showed up on the tape.",
+          "source": "Kick VOD, CobbRuvs, livestream 138457024",
+          "url": "https://kick.com/cobbruvs/videos/f7585743-b796-4e6b-bf01-71c00558e575",
+          "role": null
+        },
+        {
+          "date": "2026-11-17",
+          "date_label": "VOD 1:28–2:05 (about 7:52–8:29 p.m. ET)",
+          "label": "A live video call with Drago, who appeared on camera in a fursuit head. CobbRuvs: “I called you out, so you get to pick how you want to fight me.” Drago said he would “prefer to do this in a way where it benefits both of us the most” and proposed an MMA-gym bout: “you can stream it.” No date, venue or terms were settled. CobbRuvs also apologized on the call for an earlier callout.",
+          "source": "Kick VOD, CobbRuvs, livestream 138457024",
+          "url": "https://kick.com/cobbruvs/videos/f7585743-b796-4e6b-bf01-71c00558e575",
+          "role": null
+        },
+        {
+          "date": "2026-11-17",
+          "date_label": "VOD 2:00 (about 8:24 p.m. ET)",
+          "label": "“Shout out to looksmax, and that was a fun little era. Now it’s back to content… I’m coming to Miami with my selfie stick.”",
+          "source": "Kick VOD, CobbRuvs, livestream 138457024",
+          "url": "https://kick.com/cobbruvs/videos/f7585743-b796-4e6b-bf01-71c00558e575",
+          "role": null
+        },
+        {
+          "date": "2026-11-17",
+          "date_label": "VOD 5:16–6:06 (about 11:40 p.m.–12:30 a.m. ET)",
+          "label": "“We’re doing a little Toronto goodbye, gentlemen.” He wanted to go into the CN Tower but learned it closes at 11, with the night already near midnight. He asked chat to pick the Bahamas or Cancun after Miami.",
+          "source": "Kick VOD, CobbRuvs, livestream 138457024",
+          "url": "https://kick.com/cobbruvs/videos/f7585743-b796-4e6b-bf01-71c00558e575",
+          "role": null
+        },
+        {
+          "date": "2026-11-17",
+          "date_label": "VOD 6:20–7:05 (about 12:44–1:29 a.m. ET)",
+          "label": "At Tim Hortons, which he pitched as “what Canada’s built off,” he offered to pay: “whatever you want, man, it’s on me.” Back on the couch, the beef-sandwich review: the bread is “not bad,” and he’d want “chipotle mayonnaise or maybe like an aioli.” Verdict: “It smells like a hot dog… no, it’s not hot dog, it’s bologna. It smells and tastes like bologna. Welcome to Canada.”",
+          "source": "Kick VOD, CobbRuvs, livestream 138457024",
+          "url": "https://kick.com/cobbruvs/videos/f7585743-b796-4e6b-bf01-71c00558e575",
+          "role": null
+        },
+        {
+          "date": "2026-11-17",
+          "date_label": "VOD 7:27–7:31 (about 1:51–1:56 a.m. ET)",
+          "label": "Late in the night: “I’m going home.” There was no formal good-night; the stream ended at about 1:56 a.m. ET.",
+          "source": "Kick VOD, CobbRuvs, livestream 138457024",
+          "url": "https://kick.com/cobbruvs/videos/f7585743-b796-4e6b-bf01-71c00558e575",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/cobbruvs-miami-here-i-come-bologna-verdict.jpg",
+        "alt": "CobbRuvs with his arms spread wide in a Toronto apartment, a Marilyn Monroe pop-art print on the wall behind him",
+        "credit": "Kick VOD, CobbRuvs",
+        "caption": "CobbRuvs lays out the Miami plan in Toronto, Tuesday, Nov. 17."
+      },
+      "share": {
+        "line": "CobbRuvs: “Miami baby, here I come.” A live video call with Drago about fight terms, a closed CN Tower, and the Tim Hortons verdict: “It smells and tastes like bologna.”",
+        "caption": "MIAMI BABY, HERE I COME."
       }
     },
     {
