@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-18-am2",
+  "edition": "2026-11-18-pm1",
   "date": "2026-11-18",
-  "updated_at": "2026-11-18T04:40:08-05:00",
+  "updated_at": "2026-11-18T15:57:25-05:00",
   "lead": "mariano-get-someone-polite-question-1",
   "stories": [
     {
@@ -1846,6 +1846,61 @@
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
       }
+    },
+    {
+      "slug": "clavicular-dictionaries-skechers-most-influential-year",
+      "date": "2026-11-18",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · CLAVICULAR",
+      "headline": "Clavicular Says the Dictionaries Crowned His Words and Sneaker Ads Copy Him, Asks Who Had a More Influential Year",
+      "deck": "His exhibit: a Skechers subway poster. Dictionary.com picked “maxxing.” Collins picked “mogging.” Neither names him.",
+      "byline": "By FNN Desk",
+      "body": "Clavicular has filed his year-end review. “First, they mock you. Then the various dictionaries declare your words the words of the years,” he posted at 2:46 p.m. ET Wednesday. “Name a creator who had a more influential year than me?”\n\nThe dictionaries are real. Dictionary.com picked “maxxing” on Oct. 25, with looksmaxxing among its examples. Collins picked “mogging” on Nov. 3. Neither names him.\n\nHe also says marketers copy him “to sell sneakers.” His evidence: a Skechers subway poster starring a cartoon man in a navy jacket. Visible slogans: “Arch Fit” and “Slip-ins.”\n\nOxford rules Dec. 1.",
+      "pull_quote": "Name a creator who had a more influential year than me?",
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/clavicular-dictionaries-skechers-most-influential-year.jpg",
+        "alt": "A Skechers Arcade subway poster with a cartoon man in a navy jacket and a graffiti-print slip-on shoe",
+        "credit": "X, @clavicular",
+        "caption": "The Skechers poster Clavicular posted Wednesday as his proof."
+      },
+      "share": {
+        "line": "Clavicular says dictionaries declared his words the words of the year and marketers copy him to sell sneakers. His proof: a Skechers subway ad.",
+        "caption": "WORDS OF THE YEARS."
+      },
+      "record": [
+        {
+          "date": "2026-11-18",
+          "date_label": "Wednesday, 2:46 p.m. ET, post with photo",
+          "label": "“First, they mock you. Then the various dictionaries declare your words the words of the years. Then every marketing agency in America copies you to sell sneakers. Just look at this advertisement. Name a creator who had a more influential year than me?” Photo shows a Skechers Arcade subway poster. 54,391 views, 838 likes, 19 reposts, 95 replies, 6 quotes, 62 bookmarks at about 3:56 p.m. ET.",
+          "source": "X, @clavicular",
+          "url": "https://x.com/clavicular/status/2123140792575484136",
+          "role": null
+        },
+        {
+          "date": "2026-10-25",
+          "date_label": "Oct. 25, Dictionary.com announcement",
+          "label": "Dictionary.com’s 2026 Word of the Year is “maxxing,” the practice of pursuing an activity to the fullest or optimizing an aspect of your life; examples include looksmaxxing. The announcement does not mention Clavicular.",
+          "source": "Dictionary.com",
+          "url": "https://www.dictionary.com/word-of-the-year",
+          "role": null
+        },
+        {
+          "date": "2026-11-03",
+          "date_label": "Nov. 3, Collins announcement",
+          "label": "“Mogging,” defined as outperforming or outshining someone or something else, is Collins’ Word of the Year 2026. The post does not mention Clavicular.",
+          "source": "Collins Dictionary Language Blog",
+          "url": "https://blog.collinsdictionary.com/language-lovers/collins-word-of-the-year-2026-a-year-of-being-outdone/",
+          "role": null
+        },
+        {
+          "date": "2026-11-17",
+          "date_label": "Nov. 17, Oxford shortlist",
+          "label": "Oxford’s 2026 shortlist: doomerism, microdrama, post-literate, slopaganda. Winner to be announced Dec. 1.",
+          "source": "Oxford University Press",
+          "url": "https://corp.oup.com/news/shortlist-unveiled-for-oxford-word-of-the-year-2026/",
+          "role": null
+        }
+      ]
     },
     {
       "slug": "cobbruvs-miami-here-i-come-bologna-verdict",
