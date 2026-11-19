@@ -1,9 +1,63 @@
 {
-  "edition": "2026-11-18-pm2",
+  "edition": "2026-11-18-pm3",
   "date": "2026-11-18",
-  "updated_at": "2026-11-18T22:41:00-05:00",
+  "updated_at": "2026-11-19T00:40:00-05:00",
   "lead": "mariano-get-someone-polite-question-1",
   "stories": [
+    {
+      "slug": "clavicular-lawyer-timing-speaks-for-itself",
+      "date": "2026-11-19",
+      "section": "freedom",
+      "kicker": "THE COURTS · HIS SIDE",
+      "headline": "Clavicular Pleads Not Guilty, and His Lawyer Says the Timing “Speaks for Itself”",
+      "deck": "Braden Peters “categorically denies these allegations.” His attorney points to a police visit days before an amended civil suit.",
+      "byline": "By FNN Desk",
+      "body": "Clavicular is standing his ground. Braden Peters pleaded not guilty in October, and his lawyer says he “categorically denies these allegations.”\n\nHe is now indicted on two rape counts and one count of providing alcohol to a minor over an alleged May 2025 night in Chatham. Every charge is an allegation. He is presumed innocent.\n\nAttorney David Meier points to the calendar. The allegations “first arose in June 2026,” he says, when the complainant and her Florida attorney went to Chatham police “just days before filing an amended civil lawsuit.”\n\nMeier: it “speaks for itself.”",
+      "pull_quote": "At no time did the complainant report anything to the police — or to anyone — because there was nothing to report.",
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/clavicular-lawyer-timing-speaks-for-itself.jpg",
+        "alt": "FNN graphic: speaks for itself",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Clavicular pleaded not guilty. His lawyer: he “categorically denies these allegations,” and the timing of the complaint “speaks for itself.”",
+        "caption": "“SPEAKS FOR ITSELF”"
+      },
+      "record": [
+        {
+          "date": "2026-11-18",
+          "date_label": "Nov. 18, attorney David Meier’s email to the Cape Cod Times",
+          "label": "Peters “categorically denies these allegations.” Meier: “The fact that these allegations first arose in June 2026 when the complainant and her Florida attorney appeared together at the Chatham Police Department just days before filing an amended civil lawsuit seeking thousands of dollars from Mr. Peters speaks for itself.” Superior Court charges, filed Nov. 13: two counts of rape and one of procuring liquor for a person under 21.",
+          "source": "Cape Cod Times (via Yahoo News)",
+          "url": "https://www.yahoo.com/news/us/articles/looksmaxxing-influencer-clavicular-indicted-chatham-213847993.html",
+          "role": null
+        },
+        {
+          "date": "2026-10-22",
+          "date_label": "Oct. 22, Orleans District Court arraignment",
+          "label": "Peters pleaded not guilty; a motion to dismiss all three counts for insufficient evidence was filed. Meier’s statement: “Braden Peters categorically denies these allegations. … they were involved in a professional and personal relationship that continued for another year. At no time did the complainant report anything to the police — or to anyone — because there was nothing to report.”",
+          "source": "The Cape Cod Chronicle",
+          "url": "https://www.capecodchronicle.com/articles/5282/view/clavicular-pleads-not-guilty-to-chatham-rape-charge-files-motion-to-dismiss",
+          "role": null
+        },
+        {
+          "date": "2026-10-22",
+          "date_label": "Oct. 22, Associated Press",
+          "label": "Peters denied the allegations through his lawyers, saying the encounter was consensual; his attorneys called the Florida lawsuit a “publicity grab.”",
+          "source": "AP via WBUR",
+          "url": "https://www.wbur.org/news/2026/10/22/clavicular-rape-charge-arriagnment-cape-cod",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "date_label": "Nov. 18, indictment report",
+          "label": "Indicted on two counts of rape and one count of providing alcohol to a minor. Prosecutors earlier dropped a charge alleging he drugged the complainant and replaced it with an additional rape count. He pleaded not guilty in October; a Superior Court arraignment date has not been set.",
+          "source": "Boston 25 News",
+          "url": "https://www.boston25news.com/news/local/social-media-influencer-clavicular-indicted-rape-charges-stemming-2025-cape-cod-incident/L5PPILU3TBDNDBJKERRK5UHCS4/",
+          "role": null
+        }
+      ]
+    },
     {
       "slug": "mariano-get-someone-polite-question-1",
       "section": "freedom",
