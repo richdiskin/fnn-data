@@ -1,9 +1,351 @@
 {
-  "edition": "2026-11-18-pm4",
-  "date": "2026-11-18",
-  "updated_at": "2026-11-19T00:35:00-05:00",
-  "lead": "mariano-get-someone-polite-question-1",
+  "edition": "2026-11-19-am",
+  "date": "2026-11-19",
+  "updated_at": "2026-11-19T04:43:20-05:00",
+  "lead": "musk-prison-first-crime-later",
   "stories": [
+    {
+      "slug": "musk-prison-first-crime-later",
+      "section": "freedom",
+      "kicker": "FEATURE · ELON MUSK",
+      "headline": "A Texas Democrat Wants Musk Prosecuted but Can’t Name the Crime. Musk: “It Was Like Prison First, Crime Later.”",
+      "deck": "Asked three times on NewsNation, Rep. Gene Wu said, “I don’t know. I just read what I read.” Musk at DealBook: “I haven’t committed any crimes.”",
+      "body": "Texas state Rep. Gene Wu, a Houston Democrat, says the word for Elon Musk is “prosecution.” On NewsNation, Katie Pavlich asked: for what?\n\nWu: “All I do is read the news and watch the news.” Then: “I don’t know. I just read what I read.”\n\nPressed again: “If Elon Musk has committed crimes in the state of Texas, it is upon our duty to investigate.”\n\nAt the DealBook Summit on Wednesday, Musk answered: “It was like prison first, crime later.” He added: “I haven’t committed any crimes.”\n\nHis rule of law: “It really needs to be first crime then prison.”",
+      "pull_quote": "It was like prison first, crime later.",
+      "record": [
+        {
+          "date": "2026-11-18",
+          "label": "NewsNation “Katie Pavlich Tonight” clip, posted 2:16 p.m. ET: Wu: “All I do is read the news and watch the news”; “I don’t know. I just read what I read”; “I’m just a little state rep here in Houston”; “If Elon Musk has committed crimes in the state of Texas, it is upon our duty to investigate”; prosecution “involves serious official investigation”; Pavlich: “You don’t know and yet you’re still accusing Elon Musk of maybe committing crimes” (FNN transcript of the 3:20 clip)",
+          "source": "NewsNation clip on X",
+          "url": "https://x.com/DogecoinRise/status/2123133201535098983",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "Pavlich pressed Wu three times for a specific crime; exchange transcribed",
+          "source": "HotAir",
+          "url": "https://hotair.com/david-strom/2026/11/18/whats-the-crime-prosecutorcongressman-well-find-it-somehow-n3821112",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "Wu, a Texas state representative, wanted Musk prosecuted and was pressed on what the charges should be",
+          "source": "Townhall",
+          "url": "https://townhall.com/news/mattvespa/2026/11/18/this-tx-dem-wants-elon-musk-prosecutedand-then-got-crushed-over-what-the-charges-should-be-n2686693",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "DealBook Summit, full interview: Musk: “I haven’t committed any crimes”; a Texas Democrat “said that I should go to prison and then they asked him for what crime and he couldn’t name a crime”; “It was like prison first crime later”; “show me the man, I’ll show you the crime”; “it really needs to be first crime then prison, you know, not the other way around” (FNN transcript, about 8:15–10:00 in the video)",
+          "source": "DealBook interview video on X (reposted by Musk)",
+          "url": "https://x.com/cb_doge/status/2123205279009677430",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "Full transcript, 00:10:29–00:11:28: “I don’t think I need a pardon, by the way, because I haven’t committed any crimes”",
+          "source": "The Singju Post",
+          "url": "https://singjupost.com/transcript-andrew-ross-sorkin-interviews-elon-musk-at-dealbook-summit-2026/",
+          "role": null
+        },
+        {
+          "date": "2026-11-08",
+          "label": "Earlier: Wu on MSNOW: “The word is called prosecution”",
+          "source": "MSNOW clip on X",
+          "url": "https://x.com/WesternLensman/status/2119442739192291384",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/musk-prison-first-crime-later.jpg",
+        "alt": "FNN graphic: prison first, crime later",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Texas Democrat Gene Wu wants Musk prosecuted. Asked for the crime: “I don’t know. I just read what I read.” Musk: “It was like prison first, crime later.”",
+        "caption": "“PRISON FIRST, CRIME LATER”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-19"
+    },
+    {
+      "slug": "musk-does-that-sound-pro-russian",
+      "section": "freedom",
+      "kicker": "FEATURE · ELON MUSK",
+      "headline": "Musk on the Ukraine Smears: Russia Couldn’t Knock Out Starlink. “Does That Sound Like a Pro-Russian Action to You?”",
+      "deck": "At DealBook, he said Starlink is civilian and he won’t make battlefield “kill decisions.” Offensive strikes belong on the government-run Starshield.",
+      "body": "Elon Musk told DealBook that most people “just believe the person on TV.”\n\nHis account: Starlink was pre-positioned in Ukraine before the invasion, and when Russia knocked out communications, “There was one system they could not disable, and that was Starlink.”\n\n“Now, does that sound like a pro-Russian action to you?”\n\nStarlink is civilian, he said, with a speed cap of about 80 miles an hour. Offensive drone strikes belong on Starshield, controlled by the U.S. government: “do not ask me as a private individual to make kill decisions.”\n\nLast week, Ukraine said Starshield was throttled. SpaceX said nothing changed.",
+      "pull_quote": "Now, does that sound like a pro-Russian action to you?",
+      "record": [
+        {
+          "date": "2026-11-18",
+          "label": "DealBook Summit, full interview: “most people in the public just believe the person on TV”; “there is no private individual who has helped Ukraine more than I have”; “I made sure that Starlink was in Ukraine, pre-positioned ahead of the Russian invasion”; “There was one system they could not disable, and that was Starlink”; “Now, does that sound like a pro-Russian action to you?”; speed limit “about 80 miles an hour”; “do not ask me as a private individual to make kill decisions that sometimes result in the loss of innocent lives” (FNN transcript, about 14:30–17:50 in the video)",
+          "source": "DealBook interview video on X (reposted by Musk)",
+          "url": "https://x.com/cb_doge/status/2123205279009677430",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "Full transcript, 00:16:04–00:21:23; Sorkin: “I don’t think that the public really knows the true story”",
+          "source": "The Singju Post",
+          "url": "https://singjupost.com/transcript-andrew-ross-sorkin-interviews-elon-musk-at-dealbook-summit-2026/",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "Musk spoke by video while accompanying President Trump in China",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "label": "Zelensky: “not random errors but systematic speed restrictions”; SpaceX: “This is false. There has been no change.”",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/11/12/ukraine-starshield-restricted-spacex-russia-zelensky",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/musk-does-that-sound-pro-russian.jpg",
+        "alt": "FNN graphic: does that sound pro-Russian",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Musk on the Ukraine smears: when Russia knocked out communications, “There was one system they could not disable, and that was Starlink.” “Does that sound like a pro-Russian action to you?”",
+        "caption": "“DOES THAT SOUND LIKE A PRO-RUSSIAN ACTION TO YOU?”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-19"
+    },
+    {
+      "slug": "musk-keep-your-deals-merger-award",
+      "section": "money",
+      "kicker": "MONEY · ELON MUSK",
+      "headline": "Tesla and SpaceX Better Together? Musk: “Probably Yes.” A Merger Payday for Him? “Unreasonable and Not Right.”",
+      "deck": "Musk says Tesla stock options tied to Tesla performance shouldn’t pay out “just because of a merger.” Any deal would need Tesla shareholders’ approval.",
+      "body": "Asked at the DealBook Summit whether Tesla and SpaceX belong together, Elon Musk pointed to AI and robotics: “There are so many areas of convergence.” His verdict: “Probably yes.”\n\nThen the money question. Would he collect his Tesla awards if the companies merged?\n\n“I don’t think I should be compensated with any kind of award just for doing a merger. That would be unreasonable and not right.”\n\nHis principle: “you should keep your deals.”\n\nThose options, he said, were for “Tesla performance, not just because of a merger.” And any deal needs Tesla shareholders’ approval.",
+      "pull_quote": "I don’t think I should be compensated with any kind of award just for doing a merger.",
+      "record": [
+        {
+          "date": "2026-11-18",
+          "label": "“Would they better together?” he said. “Probably yes.”; “There are so many areas of convergence”; a deal would need Tesla shareholder approval; “I should not receive those stock option awards simply for merging with SpaceX”",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "DealBook Summit, full interview: “I don’t think I should be compensated with with with any kind of award just for doing a merger. That would be unreasonable and not right”; “you should keep your deals”; “I should only get those stock options for Tesla performance not not just because of a merger” (FNN transcript, about 39:15–40:20 in the video)",
+          "source": "DealBook interview video on X (reposted by Musk)",
+          "url": "https://x.com/cb_doge/status/2123205279009677430",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "Full transcript, 00:41:16–00:42:01",
+          "source": "The Singju Post",
+          "url": "https://singjupost.com/transcript-andrew-ross-sorkin-interviews-elon-musk-at-dealbook-summit-2026/",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "Video: Musk on his compensation if Tesla were to merge with SpaceX",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/video/2026/11/18/elon-musk-more-areas-of-overlap-between-spacex-and-tesla-than-before.html",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/musk-keep-your-deals-merger-award.jpg",
+        "alt": "FNN graphic: keep your deals",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Musk on a Tesla–SpaceX merger: “Probably yes.” On collecting Tesla awards for it: “That would be unreasonable and not right.” “You should keep your deals.”",
+        "caption": "“YOU SHOULD KEEP YOUR DEALS”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-19"
+    },
+    {
+      "slug": "musk-huang-michael-jordan",
+      "section": "freedom",
+      "kicker": "LATEST · ELON MUSK",
+      "headline": "Musk on Nvidia Pushing Out Jensen Huang: “Then You Kick Michael Jordan Off Your Team.”",
+      "deck": "“There’s no one that can really replace Jensen,” Musk told DealBook. His caveat: it is, at the end of the day, “the Nvidia board decision.”",
+      "body": "Jensen Huang resigned as Nvidia’s CEO last week. Elon Musk, who calls him “an old friend,” gave the DealBook Summit his review.\n\n“I would call Jensen like, you know, Michael Jordan, perhaps at his peak level.” Picture the Bulls on a winning streak, “and then you kick Michael Jordan off your team. Doesn’t seem like a smart decision to me.”\n\n“There’s no one that can really replace Jensen,” Musk said. “He does the roles of like several people,” down to eating “street food in Korea and Taiwan with critical suppliers.”\n\nHis caveat: it’s “the Nvidia board decision.”",
+      "pull_quote": "There’s no one that can really replace Jensen.",
+      "record": [
+        {
+          "date": "2026-11-18",
+          "label": "DealBook Summit, full interview: “Jensen is an old friend of mine”; “I would call Jensen like, you know, Michael Jordan, perhaps at his peak level”; “and then you kick Michael Jordan off your team. Doesn’t seem like a smart decision to me”; “there’s no one that can really replace Jensen”; “He does the roles of like several people”; “street food in Korea and Taiwan with critical suppliers” (FNN transcript, 0:58–2:23 in the video)",
+          "source": "DealBook interview video on X (reposted by Musk)",
+          "url": "https://x.com/cb_doge/status/2123205279009677430",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "Huang resigned last week; Musk: “this is, at the end of the day, the Nvidia board decision”; “We’re not on the board, right?”; says Trump also thinks Huang should have stayed",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "Full transcript of the interview",
+          "source": "The Singju Post",
+          "url": "https://singjupost.com/transcript-andrew-ross-sorkin-interviews-elon-musk-at-dealbook-summit-2026/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/musk-huang-michael-jordan.jpg",
+        "alt": "FNN graphic: Michael Jordan off your team",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Musk on Nvidia pushing out Jensen Huang: “then you kick Michael Jordan off your team. Doesn’t seem like a smart decision to me.”",
+        "caption": "“MICHAEL JORDAN OFF YOUR TEAM”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-19"
+    },
+    {
+      "slug": "abc-major-stake-was-50-million",
+      "section": "fake",
+      "kicker": "MEDIA WATCH · CORRECTED",
+      "headline": "ABC Said Trump Jr.’s Firm Took a “Major Stake” in Anduril With $2.5 Billion. The Fix: $50 Million.",
+      "deck": "The Oct. 7 story vanished, then came back corrected. Two staffers are on paid leave, the Journal reports. ABC: “No one’s employment status has changed.”",
+      "body": "On Oct. 7, ABC News reported that 1789 Capital, the venture firm that lists Donald Trump Jr. as a partner, “claimed a major stake in Anduril in June 2025 from a $2.5 billion investment.”\n\nThe republished version: 1789 “invested $50 million into Anduril Industries as part of a larger $2.5 billion funding round.” Anduril put the stake at about 0.13 percent.\n\nABC’s editor’s note admits “errors in the description of certain company investments, government contracts and event chronologies.”\n\nThis week, The Wall Street Journal reported two staffers were placed on paid leave. ABC: “No one’s employment status has changed.”",
+      "pull_quote": "errors in the description of certain company investments, government contracts and event chronologies",
+      "record": [
+        {
+          "date": "2026-10-09",
+          "label": "Republished story with “CORRECTION: A version of this story published on Oct. 7 contained errors in the description of certain company investments, government contracts and event chronologies”; 1789 Capital “invested $50 million into Anduril Industries as part of a larger $2.5 billion funding round last year”; 1789 spokesperson: “Don Jr. has no ability to decide any investments at this fund”",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/new-shipyard-announced-amid-earlier-democratic-concerns-potential/story?id=137143004",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "Original Oct. 7 text: 1789 Capital “claimed a major stake in Anduril in June 2025 from a $2.5 billion investment into the company”; Wall Street Journal first reported the two staffers on “paid leave”; ABC: “No one’s employment status has changed”",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/media/abc-news-quietly-suspended-staffers-botched-story-trump-sons-business-dealings",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "Anduril said the investment represented approximately 0.13% of the company; ABC failed to contact 1789 Capital before publication, Status reported",
+          "source": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/journalism/abc-news-staffers-suspended-trump-jr-report/",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "Story pulled Oct. 8, said to be published “prematurely”; Semafor emails appeared to contradict that",
+          "source": "Mediaite",
+          "url": "https://www.mediaite.com/media/news/report-reveals-punishment-against-2-abc-news-staffers-over-botched-donald-trump-jr-story/",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "A source told the Post ABC’s editorial protocols were not followed",
+          "source": "New York Post",
+          "url": "https://nypost.com/2026/11/18/media/two-abc-news-journos-put-on-paid-leave-following-botched-donald-trump-jr-article-report/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/abc-major-stake-was-50-million.jpg",
+        "alt": "FNN graphic: a major stake",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "ABC News said Trump Jr.’s firm took a “major stake” in Anduril with $2.5 billion. The correction: $50 million in a $2.5 billion round. About 0.13 percent.",
+        "caption": "“A MAJOR STAKE”: $50 MILLION"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-19"
+    },
+    {
+      "slug": "colombia-nyt-totally-false",
+      "section": "fake",
+      "kicker": "MEDIA WATCH · DISPUTED",
+      "headline": "The Times Says Colombia Rejected Trump’s Joint-Strike Plan. Colombia’s President: “False.” Hegseth: “Totally False.”",
+      "deck": "Citing U.S. officials who asked not to be named, the paper said De La Espriella lacked the votes in Congress. He says he rejected no Trump proposal.",
+      "body": "The New York Times reported Wednesday, citing unnamed U.S. officials, that Colombian President Abelardo De La Espriella turned down joint U.S. military operations, saying he lacked the votes in Congress.\n\nDe La Espriella on X, translated by FNN: “The information published by The New York Times is false.” In capitals: “I HAVE NOT REJECTED ANY PROPOSAL FROM THE GOVERNMENT OF PRESIDENT DONALD TRUMP.”\n\nHe added that foreign troops would be up to Congress.\n\nWar Secretary Pete Hegseth: “Amen, Mr. President. The fake news cannot help themselves. Totally false.”\n\nDISPUTED: unnamed officials versus two governments.",
+      "pull_quote": "Amen, Mr. President. The fake news cannot help themselves. Totally false.",
+      "record": [
+        {
+          "date": "2026-11-18",
+          "label": "Times report citing U.S. officials who requested anonymity: De La Espriella told Washington he lacked the votes in Congress for joint operations (paywalled; FNN read the authorized Spanish edition below)",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/18/world/americas/colombia-us-joint-military.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "Spanish edition of the Times report, 7:04 p.m. ET: “según funcionarios estadounidenses”; Hegseth changed his four-country trip; cooperation “sigue siendo sólida”",
+          "source": "Infobae (The New York Times en Español)",
+          "url": "https://www.infobae.com/america/the-new-york-times/2026/11/19/colombia-rechaza-plan-conjunto-con-estados-unidos-para-combatir-a-los-narcotraficantes/",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "De La Espriella, 8:30 p.m. ET: “Es falsa la información publicada por The New York Times”; “NO HE RECHAZADO NINGUNA PROPUESTA DEL GOBIERNO DEL PRESIDENTE DONALD TRUMP”; foreign troops “sería competencia del Congreso de la República”",
+          "source": "his own post on X",
+          "url": "https://x.com/ABDELAESPRIELLA/status/2123227348770168857",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "Hegseth, 9:15 p.m. ET: “Amen, Mr. President. The fake news cannot help themselves. Totally false. Our partnership to defeat the narco-terrorists that threaten your country, and ours, is stronger than ever before.”",
+          "source": "his own post on X",
+          "url": "https://x.com/PeteHegseth/status/2123238686510776325",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "Government spokesman Miller Soto: “Lo que reporta el New York Times es absolutamente falso”",
+          "source": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-desmiente-version-de-the-new-york-times-sobre-cooperacion-con-estados-unidos-no-he-rechazado-ninguna-propuesta-de-trump-3602221",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "De La Espriella denied the plan was rejected, hours after the Times report",
+          "source": "CNN en Español",
+          "url": "https://cnnespanol.cnn.com/2026/11/18/colombia/espriella-rechaza-plan-eeuu-operaciones-conjuntas-nyt-orix",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "Hegseth backed the denial on X",
+          "source": "Noticias Caracol",
+          "url": "https://www.noticiascaracol.com/politica/abelardo-de-la-espriella-desmiente-al-new-york-times-no-rechace-propuesta-de-trump-rg10",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "Summary of the Times report: Hegseth had been expected in Bogotá Nov. 18",
+          "source": "Quartz",
+          "url": "https://qz.com/colombia-rejected-joint-military-operations-us-drug-gangs-111826",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/colombia-nyt-totally-false.jpg",
+        "alt": "FNN graphic: totally false",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "The Times, citing unnamed U.S. officials: Colombia rejected Trump’s joint-strike plan. Colombia’s president: “false.” Hegseth: “Totally false.”",
+        "caption": "“TOTALLY FALSE”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-19"
+    },
     {
       "slug": "clavicular-lawyer-timing-speaks-for-itself",
       "date": "2026-11-19",
@@ -5736,6 +6078,316 @@
       "share": {
         "line": "Hexumlite got into a University of Florida dining hall for $13 in a $590 fake Rolex, logged about 34 approaches and one probable number, and flies to Miami Wednesday for a palatal expander.",
         "caption": "$13 AND A $590 FAKE ROLEX."
+      }
+    },
+    {
+      "slug": "kirk-here-i-am-send-me",
+      "date": "2026-11-19",
+      "section": "faith",
+      "kicker": "FAITH, FAMILY AND FREEDOM",
+      "headline": "“Here I Am, Lord. Send Me.”: The Three Words Charlie Kirk Asked Every Believer to Say",
+      "deck": "At AmericaFest 2023, Kirk wore a “Here I Am” shirt and walked the crowd through Scripture’s yeses. Erika Kirk says God took him up on it.",
+      "byline": "By FNN Desk",
+      "body": "At AmericaFest 2023, Charlie Kirk pointed to his shirt: “as you can see in my shirt here here I am.”\n\nHe walked the crowd to Isaiah, who answered, “Here am I; send me.” His charge: “every single one of you need to say God I am willing use me use me for your purposes.”\n\nAnd a warning for the comfortable: “If you are comfortable, you’re not doing Christianity right.”\n\nAt his memorial, Erika Kirk said: “When you say, here I am, Lord, use me, God will take you up on that, and He did with Charlie.”",
+      "pull_quote": "When you say, here I am, Lord, use me, God will take you up on that.",
+      "record": [
+        {
+          "date": "2024-02-02",
+          "label": "Video and transcript of Kirk’s AmericaFest 2023 TPUSA Faith message: “as you can see in my shirt here here I am”; “every single one of you need to say God I am willing use me use me for your purposes”; “If you are comfortable, you’re not doing Christianity right”",
+          "source": "Remembering Charlie Kirk (charliekirk.co.za)",
+          "url": "https://www.charliekirk.co.za/video/charlie-kirk-challenges-americafest-attendees-to-say-here-i-am-to-gods-calling/22/",
+          "role": null
+        },
+        {
+          "date": "2025-09-22",
+          "label": "Erika Kirk at the Sept. 21, 2025 memorial: “Charlie, baby, please talk to me next time before you say that statement”; “When you say, here I am, Lord, use me, God will take you up on that, and He did with Charlie”",
+          "source": "Rev transcript",
+          "url": "https://www.rev.com/transcripts/erika-kirk-speaks-at-memorial",
+          "role": null
+        },
+        {
+          "date": "2025-09-21",
+          "date_label": "Sept. 2025",
+          "label": "Memorial held at State Farm Stadium in Glendale, Arizona; full transcript",
+          "source": "CBN News",
+          "url": "https://cbn.com/news/us/erika-kirk-forgives-charlies-killer-heartbreaking-memorial-speech-full-transcript",
+          "role": null
+        },
+        {
+          "date": "2025-09-28",
+          "label": "Speech dated to December 2023; “Here I Am, Lord. Send Me.”: Kirk’s call to action",
+          "source": "Charlie Kirk Exclusive",
+          "url": "https://members.charliekirk.com/here-i-am-lord-send-me-charlies-call-to-action-for-all-believers/",
+          "role": null
+        },
+        {
+          "date": "2026-10-08",
+          "label": "AmericaFest 2026 set for Dec. 17–20 in Phoenix",
+          "source": "AZFamily",
+          "url": "https://www.azfamily.com/2026/10/08/turning-point-usas-americafest-returns-phoenix-december-vp-vance-more-expected-attend/",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "date_label": "Scripture",
+          "label": "Isaiah 6:8 (KJV): “Whom shall I send, and who will go for us? Then said I, Here am I; send me”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah+6%3A8&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/kirk-here-i-am-send-me.jpg",
+        "alt": "FNN graphic: Here I am, send me",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Charlie Kirk’s challenge to every believer, and the surrender Erika Kirk saw him live out.",
+        "caption": "“HERE I AM, LORD. SEND ME.”"
+      }
+    },
+    {
+      "slug": "lila-rose-called-to-care-foster",
+      "date": "2026-11-19",
+      "section": "faith",
+      "kicker": "YOUNG CHRISTIAN LEADERS",
+      "headline": "“Every Child Is a Gift”: Lila Rose, 38, Asks Pro-Life Families to Open Their Homes to Foster Kids",
+      "deck": "The Live Action founder launched Called to Care this week, urging families to foster children who need a safe home now, days before National Adoption Day.",
+      "byline": "By FNN Desk",
+      "body": "Lila Rose founded Live Action at 15. This week, at 38, she launched Called to Care, a campaign urging families to foster.\n\n“We reject the lie that any child would be better off never having been born,” Rose said. “Every child is a gift, and every child deserves a family and community willing to stand beside them.”\n\nSpokeswoman Kelly Ninmer, a foster parent: “In two years, we’ve gotten to know, love, and pray for eight children.”\n\nLive Action’s word for nervous families: “You can always say no if the timing is wrong.” And: “The first step is simply learning more.”",
+      "pull_quote": "Every child is a gift, and every child deserves a family and community willing to stand beside them.",
+      "record": [
+        {
+          "date": "2026-11-17",
+          "label": "Called to Care launch; Rose: “We reject the lie that any child would be better off never having been born”; “Every child is a gift, and every child deserves a family and community willing to stand beside them”; Ninmer: “In two years, we’ve gotten to know, love, and pray for eight children”",
+          "source": "Live Action",
+          "url": "https://www.liveaction.org/press/called-to-care-campaign-encourages-families-to-support-foster-care",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "date_label": "Accessed Nov. 19, 2026",
+          "label": "Called to Care foster page (accessed Nov. 19): “The first step is simply learning more”; “You can always say no if the timing is wrong”",
+          "source": "Live Action",
+          "url": "https://www.liveaction.org/called-to-care-fostering",
+          "role": null
+        },
+        {
+          "date": "2026-10-26",
+          "label": "Rose at the Oct. 24 Life Awards Gala: “prayer is the most important part of our work”",
+          "source": "Live Action News",
+          "url": "https://www.liveaction.org/news/lila-rose-gala-prayer-most-important-work",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "date_label": "Accessed Nov. 19, 2026",
+          "label": "Born July 27, 1988; founded Live Action in 2003 at the age of 15",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lila_Rose",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "date_label": "Scripture",
+          "label": "Matthew 18:5 (KJV): “And whoso shall receive one such little child in my name receiveth me”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew+18%3A5&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/lila-rose-called-to-care-foster.jpg",
+        "alt": "FNN graphic: Every child is a gift",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Lila Rose asks pro-life families to open their homes to foster kids.",
+        "caption": "“EVERY CHILD IS A GIFT”"
+      }
+    },
+    {
+      "slug": "minnesota-dads-christian-homeschool-tax-credit",
+      "date": "2026-11-19",
+      "section": "faith",
+      "kicker": "RELIGIOUS LIBERTY",
+      "headline": "“Parents, Not the Government”: Minnesota Dads Sue Over a School Tax Break That Shuts Out Christian Lessons",
+      "deck": "Minnesota helps parents pay for tutoring, textbooks and music lessons, unless the lessons teach religion. Two homeschooling fathers are suing.",
+      "byline": "By FNN Desk",
+      "body": "Minnesota’s K-12 education credit and deduction help families pay for tutoring, textbooks and music lessons. But state law excludes “the teaching of religious tenets, doctrines, or worship.”\n\nOn Monday, Nathan Colestock, a pastor and father of four, and Joseph Osburn, a father of six, sued. Both families teach their children from a Christian worldview.\n\nTheir lawyers at Alliance Defending Freedom: “Nearly every Minnesota parent can claim this tax incentive, with one notable exception: The instruction can’t be religious.”\n\nADF’s Kate Anderson: “Parents, not the government, have the right to direct how their children are raised and educated.”",
+      "pull_quote": "Parents, not the government, have the right to direct how their children are raised and educated.",
+      "record": [
+        {
+          "date": "2026-11-18",
+          "label": "Suit filed Monday by ADF and Upper Midwest Law Center for the Colestock and Osburn families; credit offsets “tutoring, textbooks, instructional materials, and enrichment, such as music lessons”; “Nearly every Minnesota parent can claim this tax incentive, with one notable exception: The instruction can’t be religious”; Anderson: “Parents, not the government, have the right to direct how their children are raised and educated”",
+          "source": "Alliance Defending Freedom",
+          "url": "https://adflegal.org/press-release/minnesota-families-sue-state-for-discriminating-against-christian-education/",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "label": "Colestock v. Marquart case page",
+          "source": "Alliance Defending Freedom",
+          "url": "https://adflegal.org/case/colestock-v-marquart/",
+          "role": null
+        },
+        {
+          "date": "2026-11-17",
+          "label": "Colestock, “a Minnesota pastor and father of four”; Osburn, “a father of six”; Christian worldview education; Robbins: the state “cannot treat families differently simply because they choose to teach their children according to their religious faith”",
+          "source": "Upper Midwest Law Center",
+          "url": "https://www.umlc.org/minnesota-families-challenge-tax-rule-excluding-religious-education/",
+          "role": null
+        },
+        {
+          "date": "2025-12-15",
+          "label": "K-12 Education Subtraction and Credit rules",
+          "source": "Minnesota Department of Revenue",
+          "url": "https://www.revenue.state.mn.us/k-12-education-subtraction-and-credit",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "date_label": "Accessed Nov. 19, 2026",
+          "label": "Minn. Stat. 290.0674: excludes “the teaching of religious tenets, doctrines, or worship”",
+          "source": "Minnesota Office of the Revisor of Statutes",
+          "url": "https://www.revisor.mn.gov/statutes/cite/290.0674",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "date_label": "Scripture",
+          "label": "Deuteronomy 6:7 (KJV): “And thou shalt teach them diligently unto thy children”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A6-7&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/minnesota-dads-christian-homeschool-tax-credit.jpg",
+        "alt": "FNN graphic: Parents, not the government",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Two Minnesota fathers take the state to tax court over a school tax break that shuts out Christian lessons.",
+        "caption": "“PARENTS, NOT THE GOVERNMENT”"
+      }
+    },
+    {
+      "slug": "red-week-churches-lit-for-persecuted",
+      "date": "2026-11-19",
+      "section": "faith",
+      "kicker": "THE PERSECUTED CHURCH",
+      "headline": "“They Need Hope”: Notre-Dame, Sacré-Cœur and More Than 1,000 Churches Glow Red for Persecuted Christians",
+      "deck": "Churches and landmarks worldwide glow the color of martyrs’ blood. Aid to the Church in Need says persecution worsened in over half the countries it studied.",
+      "byline": "By FNN Desk",
+      "body": "Notre-Dame de Paris and Sacré-Cœur in Montmartre joined Red Week, lit red for the blood of the martyrs. For Red Wednesday, Nov. 18, more than 1,000 churches and landmarks were set to glow.\n\nAid to the Church in Need’s Regina Lynch: “They often feel alone. They feel isolated, and they need hope, and this is the hope we can give them through our prayers.”\n\nACN counts about 220 million Christians directly exposed to persecution. Its latest report found persecution worsened in almost 56 percent of 18 countries studied.\n\nACN’s Edward Clancy: “Christians are living it today.”",
+      "pull_quote": "They often feel alone. They feel isolated, and they need hope.",
+      "record": [
+        {
+          "date": "2026-11-18",
+          "label": "Red Week under way; Sacré-Cœur lit in red; Lynch video message: “We are illuminating churches and other buildings in red, the red of the blood of the martyrs”; “They often feel alone. They feel isolated, and they need hope, and this is the hope we can give them through our prayers”",
+          "source": "The Christian Post",
+          "url": "https://www.christianpost.com/news/churches-worldwide-flooded-with-red-to-mark-christian-persecution.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "date_label": "Accessed Nov. 19, 2026",
+          "label": "Notre-Dame joins Red Week Nov. 15–22 with Sacré-Cœur, the Concorde Obelisk and Pont Neuf; “This colour symbolises the blood of the martyrs” (the page cites nearly 280 million directly exposed; FNN uses ACN’s 220 million)",
+          "source": "Notre-Dame de Paris",
+          "url": "https://www.notredamedeparis.fr/en/redweek-2026-notre-dame-paris/",
+          "role": null
+        },
+        {
+          "date": "2026-11-11",
+          "label": "Red Wednesday, Nov. 18: more than 1,000 churches and landmarks, including at least 130 cathedrals; Clancy: “Persecution isn’t something from the history books. Christians are living it today”",
+          "source": "UCA News (OSV News)",
+          "url": "https://www.ucanews.com/news/red-week-highlights-persecuted-christians-right-of-religious-freedom/116135",
+          "role": null
+        },
+        {
+          "date": "2026-11-07",
+          "label": "413 million Christians in countries with serious violations; around 220 million directly exposed to persecution",
+          "source": "EWTN News",
+          "url": "https://www.ewtnnews.com/world/europe/monuments-around-the-world-to-be-lit-up-for-red-week-2026",
+          "role": null
+        },
+        {
+          "date": "2026-10-27",
+          "label": "“Persecuted and Forgotten?” report: persecution worsened in almost 56% of 18 countries studied, none improving",
+          "source": "ACN USA",
+          "url": "https://www.churchinneed.org/persecution-of-christians-worsens-in-55-of-countries-studied-with-none-improving/",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "date_label": "Accessed Nov. 19, 2026",
+          "label": "Red Week 2026 participation by country",
+          "source": "ACN International",
+          "url": "https://en.acn-global.org/red-week-2026-world-monuments-lit-red-for-persecuted-christians/",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "date_label": "Scripture",
+          "label": "1 Corinthians 12:26 (KJV): “whether one member suffer, all the members suffer with it”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+12%3A26&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/red-week-churches-lit-for-persecuted.jpg",
+        "alt": "FNN graphic: They need hope",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Churches and landmarks worldwide glow red for persecuted Christians.",
+        "caption": "“THEY NEED HOPE”"
+      }
+    },
+    {
+      "slug": "valor-christian-fifth-quarter-baptisms",
+      "date": "2026-11-19",
+      "section": "faith",
+      "kicker": "REVIVAL WATCH",
+      "headline": "“Our Generation Is on Fire for the Lord”: 96 Baptisms After the Final Whistle at a Colorado High School",
+      "deck": "At Valor Christian High School, a “5th Quarter” of worship and testimonies has led 96 students into the water, 17 on a night the team lost in the last second.",
+      "byline": "By FNN Desk",
+      "body": "At Valor Christian High School in Highlands Ranch, Colorado, the game doesn’t end at the final whistle. Five “5th Quarter” gatherings of worship and testimony since fall 2024 have ended with 96 students baptized.\n\nIn September, the team lost a showdown of the state’s top two teams in the last second. Seventeen students were baptized that night.\n\n“Our identity and worship are not dependent on the scoreboard,” said Jessika Caldwell, who started it after hearing about Ohio State players’ baptisms.\n\nOne senior told ACSI: “I want people to know that our generation is on fire for the Lord.”",
+      "pull_quote": "Our identity and worship are not dependent on the scoreboard.",
+      "record": [
+        {
+          "date": "2026-10-12",
+          "label": "Five 5th Quarter events since fall 2024; 96 baptisms; No. 1 vs No. 2 ranked teams, “last-second defeat”; 17 baptized; Caldwell: “our identity and worship are not dependent on the scoreboard”; senior: “I want people to know that our generation is on fire for the Lord”",
+          "source": "Association of Christian Schools International",
+          "url": "https://www.acsi.org/about/news-and-more/stories/story/96-baptisms",
+          "role": null
+        },
+        {
+          "date": "2026-09-23",
+          "label": "Valor Christian in Highlands Ranch; 96 baptized; 17 on Sept. 18; Caldwell inspired by Ohio State football players’ revival and baptisms",
+          "source": "The Christian Post",
+          "url": "https://www.christianpost.com/news/96-students-baptized-after-high-school-games-in-colorado.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "date_label": "Scripture",
+          "label": "Matthew 28:19 (KJV): “Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew+28%3A19&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/valor-christian-fifth-quarter-baptisms.jpg",
+        "alt": "FNN graphic: On fire for the Lord",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "96 baptisms after the final whistle at a Colorado Christian high school.",
+        "caption": "“ON FIRE FOR THE LORD”"
       }
     },
     {
