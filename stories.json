@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-18-pm1",
+  "edition": "2026-11-18-pm2",
   "date": "2026-11-18",
-  "updated_at": "2026-11-18T15:57:25-05:00",
+  "updated_at": "2026-11-18T22:41:00-05:00",
   "lead": "mariano-get-someone-polite-question-1",
   "stories": [
     {
@@ -1845,6 +1845,85 @@
       "share": {
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
+      }
+    },
+    {
+      "slug": "burtbronx-fake-friendship-kayfabe-for-the-cameras",
+      "date": "2026-11-18",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · BURT BRONX",
+      "headline": "Frank Joined Burt Bronx’s Zoom. Burt Passed on a Makeup: “It Was Just Kayfabe for the Cameras.”",
+      "deck": "A Fish Tank reunion with Bongo and Bingo, a Season 3 confession and three Discord accounts down in one Wednesday night.",
+      "byline": "By FNN Desk",
+      "body": "Burt Bronx says the Frank chapter is closed. On a Wednesday night Zoom with Fish Tank twins Bongo and Bingo, he explained his Season 3 strategy: “whenever people see me, I want them to remember me, like, forever.” Frank then joined, and the twins hoped the two would talk. Burt declined: “I don’t have any interest in repairing my fake friendship with Frank. It was just kayfabe for the cameras, and I think I moved on from it.” Frank said he wanted “to make things right.” Earlier, Burt said all three of his Discord accounts had been suspended.",
+      "pull_quote": "I don’t have any interest in repairing my fake friendship with Frank.",
+      "record": [
+        {
+          "date": "2026-11-18",
+          "date_label": "Wednesday, Nov. 18, 5:12 p.m. ET to about 9:25 p.m. ET (4 hours, 12 minutes)",
+          "label": "One Kick session that ran under three official titles: “Meet Burt’s Daddy AJ,” then “BURT + SISTER BRONX,” and finally the VOD title. It opened with a family visit and a night drive, then a TV watch-along and a Zoom. The VOD had 682 views at the 10:23 p.m. ET filing; the desk logged a live high of 149 viewers at 8:59 p.m. ET, and he had 10,129 followers. Cold approaches: 0. Family members and other private people are not named or shown.",
+          "source": "Kick VOD, Burt Bronx, livestream 138667097",
+          "url": "https://kick.com/burtbronx/videos/0634c287-asking-chatgpt-how-to-wipe-my-own-bottom",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "date_label": "VOD 0:00–1:00 (about 5:12–6:12 p.m. ET)",
+          "label": "At a family sit-down, Burt talked about acting work. He said he had been booked for “an eight episode season of this court room comedy series called Love and Justice,” on YouTube.",
+          "source": "Kick VOD, Burt Bronx, livestream 138667097",
+          "url": "https://kick.com/burtbronx/videos/0634c287-asking-chatgpt-how-to-wipe-my-own-bottom",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "date_label": "VOD 2:48–3:05 (about 8:00–8:17 p.m. ET)",
+          "label": "At his stream desk, Burt read account notices aloud and said “all three of my discord accounts have been suspended,” with the main account “permanently suspended.” He did not say whether that would be reversed.",
+          "source": "Kick VOD, Burt Bronx, livestream 138667097",
+          "url": "https://kick.com/burtbronx/videos/0634c287-asking-chatgpt-how-to-wipe-my-own-bottom",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "date_label": "VOD 3:05–3:18 (about 8:18–8:30 p.m. ET)",
+          "label": "The Zoom with Fish Tank twins Bongo and Bingo opened: “So, so, females, what did you want to do the interview about?”",
+          "source": "Kick VOD, Burt Bronx, livestream 138667097",
+          "url": "https://kick.com/burtbronx/videos/0634c287-asking-chatgpt-how-to-wipe-my-own-bottom",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "date_label": "VOD 3:18–3:40 (about 8:30–8:52 p.m. ET)",
+          "label": "On Season 3, his goal was “to be noticed and to get the most amount of screen time and attention.” Why, in his words: “growing up, I was ignored by pretty much everyone… So I basically decided to change my personality and create a, like, a persona where it was impossible to be ignored. Like, whenever people see me, I want them to remember me, like, forever.”",
+          "source": "Kick VOD, Burt Bronx, livestream 138667097",
+          "url": "https://kick.com/burtbronx/videos/0634c287-asking-chatgpt-how-to-wipe-my-own-bottom",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "date_label": "VOD 3:40–3:45 (about 8:53–8:57 p.m. ET)",
+          "label": "Frank joined the Zoom. The twins said they “would like frank and burt to speak to each other.” Burt: “The thing is I rather not. I don’t have any interest in repairing my fake friendship with Frank. It was just kayfabe for the cameras, and I think I moved on from it.” Frank: “I’m sorry that I hurt Burt. I feel really bad about it and I want to make things right.” Nothing was settled beyond that. FNN reports only what each man said on the call.",
+          "source": "Kick VOD, Burt Bronx, livestream 138667097",
+          "url": "https://kick.com/burtbronx/videos/0634c287-asking-chatgpt-how-to-wipe-my-own-bottom",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "date_label": "VOD 3:45–4:12 (about 8:57–9:25 p.m. ET)",
+          "label": "Back at the desk, he asked chat what he had done on the call “so I can know not to do it again,” then signed off: “Alright, peace out.”",
+          "source": "Kick VOD, Burt Bronx, livestream 138667097",
+          "url": "https://kick.com/burtbronx/videos/0634c287-asking-chatgpt-how-to-wipe-my-own-bottom",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/burtbronx-fake-friendship-kayfabe-for-the-cameras.jpg",
+        "alt": "Burt Bronx in a black tank top at his stream desk beside a studio microphone, a BURT poster on the wall behind him",
+        "credit": "Kick VOD, Burt Bronx",
+        "caption": "Burt Bronx at his stream desk, Wednesday night, Nov. 18."
+      },
+      "share": {
+        "line": "Frank joined Burt Bronx’s Zoom with the Fish Tank twins. Burt: “I don’t have any interest in repairing my fake friendship with Frank. It was just kayfabe for the cameras.”",
+        "caption": "JUST KAYFABE FOR THE CAMERAS."
       }
     },
     {
