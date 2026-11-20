@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-19-am2",
-  "date": "2026-11-19",
-  "updated_at": "2026-11-19T08:06:02-05:00",
+  "edition": "2026-11-20-am",
+  "date": "2026-11-20",
+  "updated_at": "2026-11-20T01:47:00-05:00",
   "lead": "musk-prison-first-crime-later",
   "stories": [
     {
@@ -2241,6 +2241,85 @@
       "share": {
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
+      }
+    },
+    {
+      "slug": "cobbruvs-drago-miami-squashed-it-cancun",
+      "date": "2026-11-19",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · COBBRUVS",
+      "headline": "CobbRuvs Flew to Miami to Settle It With Drago. By Midnight They’d Squashed It, and Drago Had a Cancun Invite",
+      "deck": "A paved path, a wet alley, a hug (“You’re my daddy, bro”), then a reconciliation on camera and a Thanksgiving pitch.",
+      "byline": "By FNN Desk",
+      "body": "CobbRuvs flew from Canada to settle it, and on Thursday night in Miami he met Drago. “I just flew from Canada to get it on.” The fight started on a paved path, where a uniformed officer broke up the first exchange, and ended in a wet alley with Drago pinned, then on his feet and out of breath. Cobb: “Who’s your daddy?” Drago: “You’re my daddy, bro.” They hugged. Hours later Drago walked into the house, and they squashed it on camera. Cobb’s verdict: “one of my favorite nights.” Next stop, he says: Cancun, with Drago invited.",
+      "pull_quote": "We squashed it with the boys, we squashed it with everyone, everything’s cool, everything’s good.",
+      "record": [
+        {
+          "date": "2026-11-19",
+          "date_label": "Thursday, Nov. 19, 6:18 p.m. ET to about 12:20 a.m. ET Friday, Nov. 20 (6 hours, 1 minute)",
+          "label": "A Miami IRL stream built around a promised meeting with fellow streamer Drago. The desk logged a session high of 2,699 live viewers at about 9:01 p.m. ET; the finished VOD had 13,888 views at 1:02 a.m. ET Nov. 20, and he had 31,134 followers, up 132 over the session. Cold approaches: 0. Private people, including his crew, are not named or shown.",
+          "source": "Kick VOD, CobbRuvs, “Live from vice city (Miami, Florida)”",
+          "url": "https://kick.com/cobbruvs/videos/515dad91594fbfda-live-from-vice-city-miami-florida-stake",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "date_label": "VOD 0:00–0:20 (about 6:18–6:38 p.m. ET)",
+          "label": "“Hello hello world hello Miami, I just flew from Canada to get it on.” On the heat after Canada: “it feels like hot breath on you when you walk outside.”",
+          "source": "Kick VOD, CobbRuvs, “Live from vice city (Miami, Florida)”",
+          "url": "https://kick.com/cobbruvs/videos/515dad91594fbfda-live-from-vice-city-miami-florida-stake",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "date_label": "VOD 1:00–2:00 (about 7:18–8:18 p.m. ET)",
+          "label": "The walk-up. He said it would be one-on-one, with no gloves or formal setup, and that his plan was to let Drago swing first and “dodge.”",
+          "source": "Kick VOD, CobbRuvs, “Live from vice city (Miami, Florida)”",
+          "url": "https://kick.com/cobbruvs/videos/515dad91594fbfda-live-from-vice-city-miami-florida-stake",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "date_label": "VOD 2:00–2:16 (about 8:18–8:34 p.m. ET)",
+          "label": "They met on a paved path near a club and went to the ground; at about 8:23 p.m. a person in a bright reflective uniform arrived and the first exchange stopped. Cobb afterward: “I let him swing first.” They moved to a narrow, wet alley, where it ended with Drago pinned and the crew pulling them apart. Cobb: “Who’s your daddy?” Drago: “You’re my daddy, bro.” They hugged. Account from the VOD as described in the desk report.",
+          "source": "Kick VOD, CobbRuvs, “Live from vice city (Miami, Florida)”",
+          "url": "https://kick.com/cobbruvs/videos/515dad91594fbfda-live-from-vice-city-miami-florida-stake",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "date_label": "VOD 2:16–3:21 (about 8:34–9:39 p.m. ET)",
+          "label": "At 9:10 p.m.: “Drago, I’m gonna personally invite you to Cancun… you’re a real one, I’ll take it, you’re good in my book.” He added that Drago “showed up, he literally Ubered and showed up… I got nothing but respect for that,” and called it “a celebration stream.”",
+          "source": "Kick VOD, CobbRuvs, “Live from vice city (Miami, Florida)”",
+          "url": "https://kick.com/cobbruvs/videos/515dad91594fbfda-live-from-vice-city-miami-florida-stake",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "date_label": "VOD 4:50–6:01 (about 11:08 p.m.–12:20 a.m. ET)",
+          "label": "Drago came to the house. At 11:56 p.m.: “We squashed it with the boys, we squashed it with everyone, everything’s cool, everything’s good… and we’ll probably be in Cancun with Drago.” Later: “Tonight was one of my favorite nights ever.” He hosted Drago’s channel as the VOD ended.",
+          "source": "Kick VOD, CobbRuvs, “Live from vice city (Miami, Florida)”",
+          "url": "https://kick.com/cobbruvs/videos/515dad91594fbfda-live-from-vice-city-miami-florida-stake",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "date_label": "What’s next, his words",
+          "label": "He said he would be live Friday with normal Miami content, pitched a Cancun trip around Thanksgiving with Drago invited (not confirmed), and said “this ain’t my last fight,” with nothing booked.",
+          "source": "Kick VOD, CobbRuvs, “Live from vice city (Miami, Florida)”",
+          "url": "https://kick.com/cobbruvs/videos/515dad91594fbfda-live-from-vice-city-miami-florida-stake",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/cobbruvs-drago-miami-squashed-it-cancun.jpg",
+        "alt": "CobbRuvs under purple light on a Miami street at night, palm trees and streetlights behind him",
+        "credit": "Kick VOD, CobbRuvs",
+        "caption": "CobbRuvs in Miami after the fight, Thursday night, Nov. 19."
+      },
+      "share": {
+        "line": "CobbRuvs flew to Miami and met Drago. Path, alley, “You’re my daddy, bro,” a hug, then a squash on camera and a Cancun invite: “one of my favorite nights.”",
+        "caption": "“WE SQUASHED IT.”"
       }
     },
     {
