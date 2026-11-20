@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-20-am2",
+  "edition": "2026-11-20-pm1",
   "date": "2026-11-20",
-  "updated_at": "2026-11-20T04:41:08-05:00",
+  "updated_at": "2026-11-20T17:36:00-05:00",
   "lead": "trump-nyt-lucky-loser-suit-survives",
   "stories": [
     {
@@ -2570,6 +2570,77 @@
       "share": {
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
+      }
+    },
+    {
+      "slug": "hexumlite-memphis-growler-campus-texas-next",
+      "date": "2026-11-20",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · HEXUMLITE",
+      "headline": "Hexumlite Walks Growler Across the University of Memphis: Seven Openers, Two ‘Married’ Walls, Then Texas",
+      "deck": "TikTok restricted his live before he started. He multistreamed anyway, found a quiet Friday campus and signed off promising Texas.",
+      "byline": "By FNN Desk",
+      "body": "Hexumlite brought his road trip and his German Shepherd, Growler, to the University of Memphis on Friday afternoon. TikTok restricted his live before he got going, so he read out the stream’s stated purpose, “to uplift, inspire, and spread positivity,” and kept multistreaming to Kick, YouTube and TikTok. The campus was quiet; students told him Fridays empty out. He threw seven openers and drew two clear married rejections, one covering two women. Zero contacts. He said Clavicular is getting a dog and floated a litter with Growler, then signed off: “I’m going to Texas here in like two weeks.”",
+      "pull_quote": "I’m going to Texas here in like two weeks, so it should be good, man.",
+      "record": [
+        {
+          "date": "2026-11-20",
+          "date_label": "Friday, Nov. 20, 3:46 p.m. to about 4:48 p.m. ET (1 hour, 2 minutes)",
+          "label": "An IRL walk across the University of Memphis with Growler on the leash and a cameraman along, multistreamed to Kick, YouTube and TikTok. The desk logged a high of 1,865 live viewers on Kick at about 4:05 p.m. ET; the finished VOD had 7,946 views by about 5:12 p.m. ET, and followers rose 22 to 18,221. Students, staff and the women approached are private people and are not named or shown.",
+          "source": "Kick VOD, Hexumlite, Memphis campus stream",
+          "url": "https://kick.com/hexumlite/videos/ace2ad30-4367-4464-b06d-69d6842d73ab",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "date_label": "VOD 1:10–2:30 (about 3:47–3:48 p.m. ET)",
+          "label": "“Oh my god, live already restricted.” He called it “a rough morning,” then read the stream’s purpose for TikTok’s moderators: “to uplift, inspire, and spread positivity and be kind.” “I’m multi-streaming right now, guys, to TikTok, YouTube, and Kick.”",
+          "source": "Kick VOD, Hexumlite, Memphis campus stream",
+          "url": "https://kick.com/hexumlite/videos/ace2ad30-4367-4464-b06d-69d6842d73ab",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "date_label": "VOD 5:50–19:20 (about 3:52–4:05 p.m. ET)",
+          "label": "He called it “a very dry campus,” stopped to read a historical sign about the school’s 1994 name change, and worked on getting Growler to walk “at the hip.” Students in the student center told him the campus empties out on Fridays.",
+          "source": "Kick VOD, Hexumlite, Memphis campus stream",
+          "url": "https://kick.com/hexumlite/videos/ace2ad30-4367-4464-b06d-69d6842d73ab",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "date_label": "Cold-approach log, VOD 4:00–51:54",
+          "label": "Seven openers, including one aborted and one unclear close. No number or Instagram confirmed on tape. Two clear married rejections: “I am very married,” and later “I have a husband,” with her friend also married. He took both politely.",
+          "source": "Kick VOD, Hexumlite, Memphis campus stream",
+          "url": "https://kick.com/hexumlite/videos/ace2ad30-4367-4464-b06d-69d6842d73ab",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "date_label": "VOD 23:56 (about 4:10 p.m. ET)",
+          "label": "“My friend, Clav, actually, he’s about to get a dog.” He said it might be a husky and floated a litter with Growler.",
+          "source": "Kick VOD, Hexumlite, Memphis campus stream",
+          "url": "https://kick.com/hexumlite/videos/ace2ad30-4367-4464-b06d-69d6842d73ab",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "date_label": "VOD 59:27–1:02:10 (about 4:45–4:48 p.m. ET)",
+          "label": "“I’m going to Texas here in like two weeks, so it should be good, man.” He said he didn’t feel like streaming that day and planned to work out instead, then signed off outside the Living Learning Complex. A planned hang with a fellow roast-comedy streamer named in the title did not happen on the VOD.",
+          "source": "Kick VOD, Hexumlite, Memphis campus stream",
+          "url": "https://kick.com/hexumlite/videos/ace2ad30-4367-4464-b06d-69d6842d73ab",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/hexumlite-memphis-growler-campus-texas-next.jpg",
+        "alt": "Hexumlite walks his German Shepherd along a sunny campus path past a bronze tiger sculpture and autumn trees",
+        "credit": "Kick VOD, Hexumlite",
+        "caption": "Hexumlite and Growler at the University of Memphis tiger sculpture, Friday, Nov. 20."
+      },
+      "share": {
+        "line": "Hexumlite took Growler across the University of Memphis: a TikTok restriction, seven openers, two married rejections, zero contacts, and Texas next.",
+        "caption": "“TEXAS IN LIKE TWO WEEKS.”"
       }
     },
     {
