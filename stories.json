@@ -1,9 +1,338 @@
 {
-  "edition": "2026-11-20-am",
+  "edition": "2026-11-20-am2",
   "date": "2026-11-20",
-  "updated_at": "2026-11-20T01:47:00-05:00",
-  "lead": "musk-prison-first-crime-later",
+  "updated_at": "2026-11-20T04:41:08-05:00",
+  "lead": "trump-nyt-lucky-loser-suit-survives",
   "stories": [
+    {
+      "slug": "trump-nyt-lucky-loser-suit-survives",
+      "section": "fake",
+      "kicker": "MEDIA WATCH · THE TIMES IN COURT",
+      "headline": "The Times Called It Tax Fraud. A Federal Judge Says Trump Can Take Seven of Those Lines to Court.",
+      "deck": "Judge Steven Merryday let four counts of Trump’s $15 billion suit go forward. The Times calls it “a baseless attack.” It has 28 days to answer.",
+      "body": "“Fraudulent tax evasion schemes.” “A likely tax fraud that went unnoticed.” Those lines from Lucky Loser, by Times reporters Susanne Craig and Russ Buettner, are going to court.\n\nOn Thursday, U.S. District Judge Steven Merryday let four counts of President Trump’s $15 billion defamation suit against the Times and Penguin Random House proceed.\n\nFor seven statements, he wrote, the complaint creates “at least a plausible inference” the authors knew no reliable tax-fraud conclusion was possible without expert analysis, “which they knowingly failed to obtain.”\n\nHe tossed two counts and 27 statements. The Times: “a baseless attack.” Nothing is proven yet.",
+      "pull_quote": "Which they knowingly failed to obtain.",
+      "record": [
+        {
+          "date": "2026-11-19",
+          "label": "Order, Case 8:25-cv-02487 (M.D. Fla.), Doc. 109: motion to dismiss Counts III and IV granted, Counts I, II, V and VI denied; seven statements survive, including “Donald Trump had received the equivalent of more than $400 million from his father, much of it through fraudulent tax evasion schemes” and “a likely tax fraud that went unnoticed”; “at least a plausible inference that the authors and the publishers knew that no reliable conclusion about violations of the tax laws … is possible without reliance on qualified opinion … which they knowingly failed to obtain”; 27 statements not actionable; answer due in 28 days",
+          "source": "U.S. District Court order (via Courthouse News)",
+          "url": "https://www.courthousenews.com/wp-content/uploads/2026/11/trump-v-nyt-deny-motion-to-dismiss.pdf",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "Judge lets the $15 billion suit move forward; two of six counts and 27 statements dismissed; Times: “a baseless attack on The Times and the rights of the free and independent press in this country”; the ruling does not establish that the reporting was false",
+          "source": "TheWrap",
+          "url": "https://www.thewrap.com/industry-news/public-policy-legal/trump-new-york-times-15-billion-defamation-lawsuit-ruling/",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "Times statement: “The Times is encouraged to see Judge Merryday’s dismissal of almost all claims against us”; Trump legal team spokesman: “President Trump continues holding the Fake News accountable for deceiving the American people”",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/media/trump-clears-hurdle-15-billion-lawsuit-against-new-york-times",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "Suit names reporters Susanne Craig, Russ Buettner and Peter Baker, two articles and the 2024 book Lucky Loser",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-lawsuit-new-york-times",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "NYT must face Trump defamation suit, judge rules (headline and lede; full story paywalled)",
+          "source": "Bloomberg Law",
+          "url": "https://news.bloomberglaw.com/litigation/new-york-times-must-face-trump-defamation-suit-judge-rules",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/trump-nyt-lucky-loser-suit-survives.jpg",
+        "alt": "FNN graphic: knowingly failed to obtain",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "The Times called it tax fraud. A federal judge says Trump can take seven of those lines to court: the authors “knowingly failed to obtain” expert analysis, he wrote.",
+        "caption": "“KNOWINGLY FAILED TO OBTAIN”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-20"
+    },
+    {
+      "slug": "musk-elections-not-just-about-money",
+      "section": "freedom",
+      "kicker": "FEATURE · ELON MUSK",
+      "headline": "Democrats Say Musk Tried to Buy the Election. Musk’s Own Scorecard: “American Elections Are Not Just About Money.”",
+      "deck": "Sen. Padilla vows to make “Elon’s worst nightmare come true.” Sen. Sanders calls it a threat to democracy. The Republicans Musk backed were routed anyway.",
+      "body": "Sen. Alex Padilla, California Democrat, on X Wednesday: “We’re going to do everything we can to make Elon’s worst nightmare come true next Congress: a democracy where the ultra-wealthy can’t buy elections.”\n\nSen. Bernie Sanders on Thursday: one billionaire spending “over $450 million to undermine our democracy.”\n\nOne problem: it didn’t buy much. At DealBook, Musk said Republicans “were routed” and he feels “pretty foolish about having spent so much money and not seeing much for it.”\n\nHis takeaway: “it certainly shows that American elections are not just about money.”",
+      "pull_quote": "It certainly shows that American elections are not just about money.",
+      "record": [
+        {
+          "date": "2026-11-18",
+          "label": "Post, 2:47 p.m. ET: “We’re going to do everything we can to make Elon’s worst nightmare come true next Congress: a democracy where the ultra-wealthy can’t buy elections.”",
+          "source": "Sen. Alex Padilla on X",
+          "url": "https://x.com/SenAlexPadilla/status/2123141039037046794",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "Post, 11:33 a.m. ET, quoting Musk’s DealBook clip: “No, Mr. Musk. What’s foolish is that our campaign finance system allows one billionaire to spend over $450 million to undermine our democracy”",
+          "source": "Sen. Bernie Sanders on X",
+          "url": "https://x.com/BernieSanders/status/2123454637848379420",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "DealBook Summit transcript: “the Republicans were routed in this election, and the money I spent was, I think, I feel pretty foolish about having spent so much money and not seeing much for it, or maybe it would have been much worse without that. But it certainly shows that American elections are not just about money”; “I’m not MAGA”",
+          "source": "The Singju Post",
+          "url": "https://singjupost.com/transcript-andrew-ross-sorkin-interviews-elon-musk-at-dealbook-summit-2026/",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "DealBook clip, posted 6:55 p.m. ET: “I feel pretty foolish about having spent so much money and, and not seeing much for it”",
+          "source": "HQ News Now on X",
+          "url": "https://x.com/HQNewsNow/status/2123203399822819751",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "Reply, 12:49 a.m. ET, to Sanders’ post that Musk “owns more wealth than the bottom 53% of households”: “Bernie, you have a lot more money than I do. It’s still yours. It’s not mine—or the government’s.”",
+          "source": "Sen. Mike Lee on X",
+          "url": "https://x.com/BasedMikeLee/status/2123655013503230380",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "Sanders post, 5:00 p.m. ET: “Elon owns more wealth than the bottom 53% of households”",
+          "source": "Sen. Bernie Sanders (official) on X",
+          "url": "https://x.com/SenSanders/status/2123537021402771819",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "On Padilla’s post: “This is not good faith oversight, it’s raw intimidation.”",
+          "source": "Laura Ingraham on X",
+          "url": "https://x.com/IngrahamAngle/status/2123432319029821614",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/musk-elections-not-just-about-money.jpg",
+        "alt": "FNN graphic: not just about money",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Padilla: make “Elon’s worst nightmare come true.” Sanders: “over $450 million to undermine our democracy.” Musk: “American elections are not just about money.”",
+        "caption": "“NOT JUST ABOUT MONEY”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-20"
+    },
+    {
+      "slug": "giga-shanghai-then-dance-now-810889",
+      "section": "thenvsnow",
+      "kicker": "ELON MUSK · THEN vs. NOW",
+      "headline": "January 2020: Musk Danced on Stage as Giga Shanghai Handed Over Its First Customer Cars.",
+      "headline_now": "Now: 810,889 Shipped in 10 Months. He Flew Back to Say Thanks.",
+      "deck": "Xinhua said the site was “still a wasteland” when building began in 2019. On the old dance clip, Musk posted Friday: “This is not AI 😂”",
+      "body": "January 7, 2020: Tesla’s Shanghai plant handed its first 10 China-made Model 3s to the public, a year after building began on land Xinhua called “still a wasteland.” Elon Musk danced on stage and praised “the incredible progress that has been made by the Tesla Shanghai team.”\n\nThursday, he flew in from Shenzhen to thank them again. Tesla VP Grace Tao said he praised the team’s manufacturing and execution, Teslarati reports.\n\nThe scoreboard: 810,889 cars shipped in 2026’s first ten months, up 21.4 percent, per figures cited by Reuters.\n\nMusk on the old dance clip: “This is not AI 😂”",
+      "pull_quote": "Let’s make the future look like the future.",
+      "then": {
+        "text": "The most amazing thing really is the incredible progress that has been made by the Tesla Shanghai team",
+        "date": "2020-01-07",
+        "source": "https://www.news.cn/english/2020-01/07/c_138685877.htm",
+        "source_name": "Xinhua",
+        "who": "Elon Musk, Giga Shanghai delivery ceremony"
+      },
+      "now": {
+        "text": "Let’s make the future look like the future.",
+        "date": "2026-11-19",
+        "source": "https://www.teslarati.com/elon-musk-makes-surprise-stop-at-giga-shanghai-with-a-message-for-teslas-china-team/",
+        "source_name": "Teslarati",
+        "who": "Elon Musk, Giga Shanghai",
+        "big": "810,889"
+      },
+      "record": [
+        {
+          "date": "2020-01-07",
+          "label": "First batch of 10 made-in-China Model 3s delivered to the public, one year after groundbreaking; construction began Jan. 7, 2019 “when the area was still a wasteland”; Musk: “The most amazing thing really is the incredible progress that has been made by the Tesla Shanghai team” (https page curl 200)",
+          "source": "Xinhua",
+          "url": "https://www.news.cn/english/2020-01/07/c_138685877.htm",
+          "role": "then"
+        },
+        {
+          "date": "2026-11-19",
+          "label": "Musk flew overnight from Shenzhen; Grace Tao on Weibo: he praised the team’s manufacturing capabilities and execution; “Let’s make the future look like the future”; 810,889 Model 3 and Model Y shipped in the first ten months of 2026, up 21.4 percent, per figures cited by Reuters",
+          "source": "Teslarati",
+          "url": "https://www.teslarati.com/elon-musk-makes-surprise-stop-at-giga-shanghai-with-a-message-for-teslas-china-team/",
+          "role": "now"
+        },
+        {
+          "date": "2020-01-07",
+          "label": "Musk danced on stage at the ceremony for the first Model 3s delivered to the public from the Shanghai factory",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2020/01/07/elon-musk-dancing-at-teslas-gigafactory-in-china.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "Grace Tao’s Weibo post on the 24-hour trip and the visit to Shanghai",
+          "source": "Sina / Weibo",
+          "url": "https://www.sina.cn/weibo/detail/5367148935381937.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "“Great to have Elon at Giga Shanghai! … Elon made a special stop to thank our teams across Asia in person”",
+          "source": "Tesla Asia on X",
+          "url": "https://x.com/Tesla_Asia/status/2123674470351310910",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "“He flew in from Shenzhen and talked about FSD and Optimus.” Reposted by Musk",
+          "source": "DogeDesigner on X",
+          "url": "https://x.com/cb_doge/status/2123410726111134071",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "Musk, 3:29 a.m. ET, quoting a post of the January 2020 dance video: “This is not AI 😂”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2123695317375992288",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "The quoted post with the January 2020 video",
+          "source": "X Freeze on X",
+          "url": "https://x.com/XFreeze/status/2123439181720612879",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/giga-shanghai-then-dance-now-810889.jpg",
+        "alt": "FNN graphic: Giga Shanghai then and now",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "2020: Musk danced as Giga Shanghai delivered its first customer cars. 2026: 810,889 shipped in ten months, and he flew back to say thanks.",
+        "caption": "GIGA SHANGHAI: THEN vs. NOW"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-20"
+    },
+    {
+      "slug": "boring-company-bna-22-feet-from-terminal",
+      "section": "money",
+      "kicker": "MONEY · ELON MUSK",
+      "headline": "Boring Company Signs a 40-Year Deal for a Loop Station 22 Feet From Nashville’s Terminal. BNA Pays to Build Nothing.",
+      "deck": "The company covers construction, operations and maintenance, and pays BNA a fee plus $5 a ride. Musk’s review: “Cool.”",
+      "body": "Nashville’s airport just said yes to a tunnel.\n\nOn Nov. 18, the Metropolitan Nashville Airport Authority and the Boring Company signed a 40-year licensing deal for a Music City Loop station at BNA, Aviation Pros reports.\n\nThe company covers all construction, operations and maintenance costs. It pays the airport a fee starting at $300,000 a year, rising 3 percent annually, plus $5 per pickup or drop-off.\n\nBoring says the ride from downtown takes under 10 minutes, to a station “22 feet from the terminal entrance.” Two boring machines are digging now. No opening date is set.\n\nMusk: “Cool.”",
+      "pull_quote": "Less than 10 minutes from downtown to a station located 22 feet from the terminal entrance.",
+      "record": [
+        {
+          "date": "2026-11-19",
+          "label": "40-year licensing agreement signed Nov. 18; Boring assumes all construction, operations and maintenance costs; fee starts at $300,000, rising 3% a year, plus $5 per pickup or drop-off; $600,000 reimbursement; two tunnel-boring machines operating, a third being prepared; early 2027 target, no definitive opening date",
+          "source": "Aviation Pros",
+          "url": "https://www.aviationpros.com/airport-business/airport-infrastructure-operations/news/55420211/nashville-international-airport-finalizes-tunnel-agreement-with-the-boring-company",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "Post, 5:06 p.m. ET: “The Boring Company and Metropolitan Nashville Airport Authority have signed a 40-year agreement for a Music City Loop station. Great user experience - less than 10 minutes from downtown to a station located 22 feet from the terminal entrance.”",
+          "source": "The Boring Company on X",
+          "url": "https://x.com/boringcompany/status/2123538445918224762",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "Musk reply, 10:00 p.m. ET: “Cool”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2123612464462082292",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "Station would be 22 feet from a terminal entrance; about 10 minutes BNA to Lower Broadway; no opening date announced",
+          "source": "Fox 17 Nashville",
+          "url": "https://fox17.com/news/local/the-boring-company-signs-deal-for-music-city-loop-station-at-nashville-airport",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "40-year agreement announced on social media; neither post gave an opening date",
+          "source": "WSMV",
+          "url": "https://www.wsmv.com/2026/11/20/boring-company-says-it-signed-40-year-agreement-music-city-loop-station-nashville-airport/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/boring-company-bna-22-feet-from-terminal.jpg",
+        "alt": "FNN graphic: 22 feet from the terminal",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Boring Company signs a 40-year deal for a Music City Loop station 22 feet from Nashville’s terminal. It covers the costs and pays the airport. Musk: “Cool.”",
+        "caption": "“22 FEET FROM THE TERMINAL”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-20"
+    },
+    {
+      "slug": "amodei-spacex-compute-high-quality",
+      "section": "money",
+      "kicker": "MONEY · SPACEX",
+      "headline": "The Talk Was That Anthropic Might Scale Back on SpaceX. Dario Amodei: “We’re Enjoying Working With SpaceX.”",
+      "deck": "A day after Musk said nobody at Anthropic set off his “evil detector,” its CEO told CNBC the SpaceX compute is “high-quality.”",
+      "body": "Wednesday at DealBook, Andrew Ross Sorkin asked Elon Musk about speculation that Anthropic might cut back on SpaceX computing power. Musk: “I think that it’s unlikely that they will do so.”\n\nHe said he vetted the company first, and “no one I met at Anthropic set off my ‘evil detector,’ for what it’s worth.”\n\nThursday, after Anthropic’s IPO, Sorkin asked CEO Dario Amodei on CNBC: true or untrue?\n\nAmodei: “you can’t be sure what you’re going to do in the future, but we’re finding that compute to be, to be high-quality. We’re enjoying working with SpaceX.”",
+      "pull_quote": "We’re enjoying working with SpaceX.",
+      "record": [
+        {
+          "date": "2026-11-19",
+          "label": "CNBC transcript, Sorkin: speculation “you might try to scale back some of your use of SpaceX compute and move elsewhere. True? Untrue?” Amodei: “I mean, we don’t, we don’t, you can’t be sure what you’re going to do in the future, but we’re finding that compute to be, to be high-quality. We’re enjoying working with SpaceX.”",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/19/cnbc-exclusive-transcript-anthropic-co-founders-dario-and-daniela-amodei-speak-with-andrew-ross-sorkin-on-cnbc-today.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "Amodei: “We’re finding that compute to be high quality. We’re enjoying working with SpaceX”",
+          "source": "CNBC-TV18",
+          "url": "https://www.cnbctv18.com/market/anthropics-record-ipo-amodei-siblings-on-usd-900-billion-ai-bets-safety-and-whats-next-20038095.htm",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "Clip, 11:33 a.m. ET, reposted by Musk",
+          "source": "DogeDesigner on X",
+          "url": "https://x.com/cb_doge/status/2123454575038677045",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "DealBook transcript, 00:44:28–00:46:34: “no one I met at Anthropic set off my ‘evil detector,’ for what it’s worth”; “relatively short-term deals that either party can terminate”; “I think that it’s unlikely that they will do so”; Anthropic’s “highest probability outcome is that they would like an incremental 10 gigawatts of compute from SpaceX” (Musk’s account)",
+          "source": "The Singju Post",
+          "url": "https://singjupost.com/transcript-andrew-ross-sorkin-interviews-elon-musk-at-dealbook-summit-2026/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/amodei-spacex-compute-high-quality.jpg",
+        "alt": "FNN graphic: enjoying working with SpaceX",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Speculation said Anthropic might scale back on SpaceX compute. Dario Amodei: “we’re finding that compute to be, to be high-quality. We’re enjoying working with SpaceX.”",
+        "caption": "“ENJOYING WORKING WITH SPACEX”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-20"
+    },
     {
       "slug": "musk-prison-first-crime-later",
       "section": "freedom",
@@ -6203,6 +6532,240 @@
       "share": {
         "line": "Hexumlite got into a University of Florida dining hall for $13 in a $590 fake Rolex, logged about 34 approaches and one probable number, and flies to Miami Wednesday for a palatal expander.",
         "caption": "$13 AND A $590 FAKE ROLEX."
+      }
+    },
+    {
+      "slug": "bishops-new-generation-of-seekers",
+      "date": "2026-11-20",
+      "section": "faith",
+      "kicker": "GEN Z REVIVAL",
+      "headline": "“This Generation Is Looking for Something Solid”: U.S. Bishops Hear How Young Adults Are Coming Back to Faith",
+      "deck": "New Catholic University and Gallup data: 64% of young Catholics say religion matters more to them than five years ago. Most point to beauty.",
+      "byline": "By FNN Desk",
+      "body": "At their Baltimore assembly on Nov. 18, America’s Catholic bishops asked: is something happening with young people and God?\n\nNew data from Catholic University and Gallup: 64% of Catholics ages 18 to 29 say religion has become more important to them over five years, versus 41% of older Catholics. Of those whose faith grew, 82% said encountering beauty mattered.\n\nThe honest part: only 24% of young Catholics go to Mass weekly.\n\nGen Z campus minister Joshua Abando told the bishops: “this generation is looking for something solid, something that is proven, something that is real.”",
+      "pull_quote": "This generation is looking for something solid.",
+      "record": [
+        {
+          "date": "2026-11-19",
+          "label": "Beauty and Belief Survey by CUA and Gallup, nearly 5,000 adults including 1,165 ages 18 to 29; 64% of young Catholics vs. 41% of Catholics over 30; 82% beauty; Abando: “I think more than ever, this generation is looking for something solid, something that is proven, something that is real, tangible, and that’s done with this Church and with this community”",
+          "source": "OSV News",
+          "url": "https://www.osvnews.com/catholic-experts-inform-bishops-on-how-a-new-generation-of-young-adults-is-seeking-faith/",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "Nov. 18 bishops’ meeting in Baltimore; 64% of young Catholics; 24% of young Catholics attend Mass weekly; Weldon: “a picture of renewal begins to emerge”",
+          "source": "National Catholic Register",
+          "url": "https://www.ncregister.com/news/beauty-and-belief-study-examines-surge-in-religious-interest",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "date_label": "Scripture",
+          "label": "Psalm 27:4 (KJV): “to behold the beauty of the LORD”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm+27%3A4&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/bishops-new-generation-of-seekers.jpg",
+        "alt": "FNN graphic: Something solid",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "U.S. bishops hear new data on young adults returning to faith.",
+        "caption": "“SOMETHING SOLID”"
+      }
+    },
+    {
+      "slug": "cam-little-be-where-my-feet-are",
+      "date": "2026-11-20",
+      "section": "faith",
+      "kicker": "YOUNG LEADERS OF FAITH",
+      "headline": "“Jesus Has Changed My Life”: Jaguars Kicker Cam Little, 23, Says Faith Has to Hold in the Hot Streaks Too",
+      "deck": "Back-to-back AFC Special Teams Player of the Week, and the NFL’s longest field goal. His hardest test of faith: staying humble when it’s going right.",
+      "byline": "By FNN Desk",
+      "body": "Jacksonville Jaguars kicker Cam Little, 23, was named AFC Special Teams Player of the Week on Nov. 18 for the second straight week, Heavy reports. His 68-yarder broke the NFL record.\n\nThe hard part of faith, he says, isn’t the miss. It’s the hot streak.\n\n“Jesus has changed my life,” he told the Identity Sports podcast, as quoted by Sports Spectrum. “Even when I was down in the low, Jesus was bringing me back up.”\n\nAt the top, he says, “I have to remain humble in my faith in those times.”\n\nHis reminder to himself: “be where my feet are.”",
+      "pull_quote": "Jesus has changed my life.",
+      "record": [
+        {
+          "date": "2026-11-19",
+          "label": "“Be where my feet are”; Identity Sports quotes: “Jesus has changed my life”; “Even when I was down in the low, Jesus was bringing me back up”; “I have to remain humble in my faith in those times”",
+          "source": "Sports Spectrum",
+          "url": "https://sportsspectrum.com/sport/football/2026/11/19/jaguars-kicker-cam-little-leagues-best-jesus-changed-life/",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "Named AFC Special Teams Player of the Week on Wednesday, Nov. 18, second consecutive week; 68-yard field goal Nov. 2, 2025, broke Justin Tucker’s 66-yard record",
+          "source": "Heavy",
+          "url": "https://heavy.com/sports/nfl/jacksonville-jaguars/jaguars-cam-little-nfl-honor/",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "date_label": "Scripture",
+          "label": "Romans 12:2 (KJV): “be not conformed to this world: but be ye transformed by the renewing of your mind”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Romans+12%3A2&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/cam-little-be-where-my-feet-are.jpg",
+        "alt": "FNN graphic: Be where my feet are",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Jaguars kicker Cam Little on staying humble at the top.",
+        "caption": "“BE WHERE MY FEET ARE”"
+      }
+    },
+    {
+      "slug": "kirk-answering-a-person",
+      "date": "2026-11-20",
+      "section": "faith",
+      "kicker": "FAITH, FAMILY AND FREEDOM",
+      "headline": "“You’re Answering a Person”: Charlie Kirk, His Mentor Frank Turek, and the Humility He Never Hid",
+      "deck": "In 2022, Kirk told apologist Frank Turek on air that Turek was better at bringing people “towards truth.” “I struggle with that at times.”",
+      "byline": "By FNN Desk",
+      "body": "On The Charlie Kirk Show in March 2022, Kirk hosted apologist Frank Turek, who he said had “a profound impact on my life.”\n\nTurek explained apologetics with 1 Peter 3:15: give a reason for your hope, “but do this with gentleness and respect.”\n\nKirk admitted: “you’re way better than I am at giving, like being magnanimous and trying to not own them, but trying to bring them towards truth. I struggle with that at times.”\n\nTurek: “You’re answering a person.”\n\nTurek was at Utah Valley University the day Kirk was killed. Now he says: “Jesus told us to keep going.”",
+      "pull_quote": "You’re answering a person.",
+      "record": [
+        {
+          "date": "2022-03-13",
+          "label": "The Charlie Kirk Show, “Proving God Exists — A Conversation with Apologist Frank Turek” (auto-generated transcript archive): Kirk: “he’s had a profound impact on my life”; “you’re way better than I am at giving, like being magnanimous and trying to not own them, but trying to bring them towards truth. I struggle with that at times”; Turek: “Always ready to give an answer, give a reason for the hope that you have, but do this with gentleness and respect”; “You’re answering a person”",
+          "source": "fight.fudgie.org transcript archive",
+          "url": "https://fight.fudgie.org/search/show/ck/episode/20220313_Sun",
+          "role": null
+        },
+        {
+          "date": "2026-10-22",
+          "label": "Turek witnessed Kirk’s assassination at Utah Valley University; “Jesus told us to keep going”; “Charlie would want us to go continue to do it”",
+          "source": "The Christian Post",
+          "url": "https://www.christianpost.com/news/frank-turek-vows-to-keep-sharing-gospel-reflects-on-charlie-kirk.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "Kirk was shot and killed during a campus event on Sept. 10, 2025",
+          "source": "KSL",
+          "url": "https://www.ksl.com/article/51646998/prosecutors-call-tyler-robinson-request-for-materials-used-in-uvu-report-a-fishing-expedition",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "date_label": "Scripture",
+          "label": "1 Peter 3:15 (KJV): “be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=1+Peter+3%3A15&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/kirk-answering-a-person.jpg",
+        "alt": "FNN graphic: You're answering a person",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Charlie Kirk and his mentor Frank Turek on answering with gentleness.",
+        "caption": "“YOU’RE ANSWERING A PERSON”"
+      }
+    },
+    {
+      "slug": "st-louis-archdiocese-communion-detainees",
+      "date": "2026-11-20",
+      "section": "faith",
+      "kicker": "RELIGIOUS LIBERTY",
+      "headline": "“Christ’s Command That We Minister to the Imprisoned”: St. Louis Archdiocese Sues, and a Jail Opens the Way to Communion",
+      "deck": "Priests could talk to Catholic detainees only by phone through glass. After a federal suit, the jail says Mass can begin Monday. Confession isn’t settled.",
+      "byline": "By FNN Desk",
+      "body": "At the Ste. Genevieve County Detention Center in Missouri, priests could meet Catholic immigration detainees only through glass, by phone, with no Mass, the National Catholic Reporter reported.\n\nOn Oct. 5, the Archdiocese of St. Louis sued. Archbishop Mitchell Rozanski: “We are not seeking special treatment.”\n\nNow, per a Nov. 12 affidavit reported by St. Louis Magazine, a priest will celebrate a livestreamed Mass starting Monday, then give the Host by hand through a steel door flap.\n\nThe affidavit doesn’t address confession. Mediation is set for Nov. 23.\n\nDHS says county rules “do not mean religious services are denied.”",
+      "pull_quote": "Our priests are committed to Christ’s command that we minister to the imprisoned.",
+      "record": [
+        {
+          "date": "2026-11-16",
+          "label": "Mass and Communion to start Monday, Nov. 23; affidavit filed Thursday, Nov. 12; steel-door flaps through which “communion may be directly administered”; livestreamed Mass; confession not addressed; mediation set for Nov. 23",
+          "source": "St. Louis Magazine",
+          "url": "https://www.stlmag.com/news/ste-genevieve-jail-ice-communion/",
+          "role": null
+        },
+        {
+          "date": "2026-10-07",
+          "label": "Suit filed Oct. 5; glass partition and telephone, no Mass; Rozanski: “Our priests are committed to Christ’s command that we minister to the imprisoned”; “We are not seeking special treatment”; DHS: “County restrictions on physical contact do not mean religious services are denied”",
+          "source": "National Catholic Reporter",
+          "url": "https://www.ncronline.org/news/st-louis-first-catholic-diocese-sue-ice-over-access-sacraments",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "date_label": "Scripture",
+          "label": "Matthew 25:36 (KJV): “I was in prison, and ye came unto me”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew+25%3A36&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/st-louis-archdiocese-communion-detainees.jpg",
+        "alt": "FNN graphic: Minister to the imprisoned",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "A Missouri jail opens the way for Mass and Communion for Catholic detainees.",
+        "caption": "“MINISTER TO THE IMPRISONED”"
+      }
+    },
+    {
+      "slug": "syria-patriarchs-not-scapegoats",
+      "date": "2026-11-20",
+      "section": "faith",
+      "kicker": "THE PERSECUTED CHURCH",
+      "headline": "“Not to Be Treated as Easy Targets”: An Archbishop Is Bound and Gagged in Homs. Syria’s Patriarchs Speak Out Together",
+      "deck": "Days after the Homs attack, three patriarchs of Antioch signed a joint statement asking a “grave question regarding the future of Christians in this country.”",
+      "byline": "By FNN Desk",
+      "body": "On Nov. 14, men entered a cathedral in Homs, Syria, assaulted Melkite Archbishop Youhanna Abdo Arbash, tied him up and took his office safe, Christian Solidarity International reports.\n\nOn Nov. 17, three patriarchs of Antioch signed a joint statement: he “was bound, blindfolded, and gagged.” The attacks “are not, and have never been, isolated incidents.”\n\nThey asked “a grave question regarding the future of Christians in this country.”\n\nBut no hatred: “Christians are not to be treated as easy targets for attack or as scapegoats.” They will keep “the closest possible relations with their Muslim brothers and sisters.”",
+      "pull_quote": "Christians are not to be treated as easy targets for attack or as scapegoats.",
+      "record": [
+        {
+          "date": "2026-11-17",
+          "label": "Joint Statement by the Patriarchs and Heads of Churches in Syria, Damascus, signed by John X, Mor Ignatius Aphrem II and Youssef I Absi: “He was bound, blindfolded, and gagged, while his office was ransacked”; “These attacks are not, and have never been, isolated incidents”; “a grave question regarding the future of Christians in this country”; “Christians are not to be treated as easy targets for attack or as scapegoats”",
+          "source": "Antiochian Orthodox Archdiocese (PDF)",
+          "url": "https://antiochianprodsa.blob.core.windows.net/websiteattachments/Joint%20Statement%20Syrian%20Attacks%20111726%20EN.pdf",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "Nov. 14 attack on Archbishop Arbash at the Cathedral of Our Lady of Peace in Homs; safe stolen; “unusually open rebuke”",
+          "source": "Christian Solidarity International",
+          "url": "https://www.csi-int.org/news/syrias-church-leaders-issue-alarm-over-kidnappings-and-attacks-on-christians/",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "State Department: “We are concerned by reports of attacks, kidnappings and violence against Christians in Syria”",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/world/syrias-christian-leaders-warn-grave-threat-communitys-future-amid-wave-attacks",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "date_label": "Scripture",
+          "label": "Hebrews 13:3 (KJV): “Remember them that are in bonds, as bound with them”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Hebrews+13%3A3&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/syria-patriarchs-not-scapegoats.jpg",
+        "alt": "FNN graphic: Not easy targets",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Syria’s patriarchs speak out after an archbishop is attacked in Homs.",
+        "caption": "“NOT TO BE TREATED AS EASY TARGETS”"
       }
     },
     {
