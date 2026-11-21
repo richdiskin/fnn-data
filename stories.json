@@ -1,9 +1,281 @@
 {
-  "edition": "2026-11-20-pm2",
-  "date": "2026-11-20",
-  "updated_at": "2026-11-20T19:32:00-05:00",
-  "lead": "trump-nyt-lucky-loser-suit-survives",
+  "edition": "2026-11-21-am",
+  "date": "2026-11-21",
+  "updated_at": "2026-11-21T04:44:27-05:00",
+  "lead": "lee-freedom-to-build-senate-62-33",
   "stories": [
+    {
+      "slug": "lee-freedom-to-build-senate-62-33",
+      "section": "freedom",
+      "kicker": "FEATURE · REPUBLICANS",
+      "headline": "Mike Lee Promised the “Freedom to Build.” The Senate Just Passed His Permitting Bill, 62-33.",
+      "deck": "Lee and Shelley Moore Capito led the rewrite of how America permits power lines, mines and power plants. More than half the Senate’s Democrats voted no.",
+      "body": "“VICTORY!!!!” Sen. Mike Lee posted late Thursday. The Senate had just passed his Bipartisan American Affordability and Jobs Act, 62-33.\n\nWritten by Lee and Shelley Moore Capito with Democrats Martin Heinrich and Sheldon Whitehouse, it rewrites permit reviews under the National Environmental Policy Act, the Endangered Species Act and the Clean Water Act, and aims to keep data centers’ power costs off ratepayers, Roll Call reports.\n\nVoting no: 31 Democrats, more than half their caucus, plus two Republicans.\n\nLee’s pitch: “the freedom to build.” Musk’s review: “Sounds promising.”\n\nNext stop: the House.",
+      "pull_quote": "The freedom to build things that the American people need.",
+      "record": [
+        {
+          "date": "2026-11-19",
+          "label": "Lee release: Senate passes the Bipartisan American Affordability and Jobs Act of 2026 (BAAJA), authored by Lee, Capito, Heinrich and Whitehouse; Lee: “BAAJA is all about giving the American people the freedom to build, the freedom to build things that the American people need”; Lee says the average family will save “at a minimum, hundreds of dollars every year on their electric power bill” (his claim); bill heads to the House",
+          "source": "Senate Energy and Natural Resources Committee",
+          "url": "https://www.energy.senate.gov/press/rep/senate-resoundingly-passes-chairman-lees-landmark-bipartisan-american-affordability-and-jobs-act/",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "Passed 62-33, with 31 Democrats and two Republicans (Josh Hawley and Mike Rounds) opposed; “opposition from more than half the Democratic Caucus”; changes reviews under NEPA, the National Historic Preservation Act, the Endangered Species Act, the Federal Power Act and the Clean Water Act; ratepayer protections on data-center power costs; new FERC authority over interstate transmission; House takes it up after Thanksgiving",
+          "source": "Roll Call",
+          "url": "https://rollcall.com/2026/11/19/sweeping-permitting-overhaul-passes-senate-on-to-house",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "Capito statement: BAAJA passed “by a vote of 62-33”; “we took a major step towards addressing the affordability concerns of the American people”",
+          "source": "Senate Environment and Public Works Committee",
+          "url": "https://www.epw.senate.gov/press/rep/senate-passes-capitos-bipartisan-american-affordability-and-jobs-act/",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "Lee, 11:40 p.m. ET: “VICTORY!!!! The Senate just passed the most significant permitting-reform bill in U.S. history.” He says it will save families “thousands of dollars a year” once law (his claim)",
+          "source": "Mike Lee on X",
+          "url": "https://x.com/BasedMikeLee/status/2123637472777371825",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "Musk, replying to Lee: “Sounds promising”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2123725026478465501",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/lee-freedom-to-build-senate-62-33.jpg",
+        "alt": "FNN graphic: the freedom to build",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Mike Lee promised “the freedom to build.” The Senate passed his permitting bill 62-33, and more than half the Senate’s Democrats voted no.",
+        "caption": "“THE FREEDOM TO BUILD”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-21"
+    },
+    {
+      "slug": "italy-tesla-assisted-driving-much-appreciated",
+      "section": "money",
+      "kicker": "FEATURE · ELON MUSK",
+      "headline": "Italy Is the First Major EU Country to Approve Tesla’s Supervised Self-Driving. Musk: “Thank You, Much Appreciated!”",
+      "deck": "Transport Minister Matteo Salvini cleared Tesla Assisted Driving after “a thorough technical feasibility assessment,” ahead of the EU’s own decision.",
+      "body": "Italy just said yes. Transport Minister Matteo Salvini announced Friday that his ministry gave provisional approval to Tesla Assisted Driving, formerly known as Full Self-Driving, after “a thorough technical feasibility assessment,” Reuters reports. That makes Italy the first major EU country to embrace it.\n\nIl Sole 24 Ore counts Italy as the twelfth European country to give the go-ahead since the Netherlands in April. Price: 99 euros a month.\n\nIt is still supervised. Italy’s ministry says hands stay on the wheel.\n\nSalvini: “Another step forward toward innovation, technology and the mobility of the future.” Musk: “Thank you, much appreciated!”",
+      "pull_quote": "Another step forward toward innovation, technology and the mobility of the future.",
+      "record": [
+        {
+          "date": "2026-11-20",
+          "label": "Italy gives provisional approval to Tesla's Assisted Driving System (TAD), “making it the first major European Union country to embrace the technology”; Salvini: “another step forward toward innovation, technology and the mobility of the future”; “a thorough technical feasibility assessment”; Musk: “Thank you, much appreciated!”; earlier approvals in the Netherlands (April), Lithuania, Estonia, Denmark and Belgium",
+          "source": "Reuters (via Euronext)",
+          "url": "https://live.euronext.com/en/financial-news/italy-gives-green-light-tesla-self-driving-system-ahead-eu-approval",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "“Italia is the twelfth European country to give the go-ahead, following the first approval granted by the Netherlands in April”; launched as a software update at “99 euros per month”",
+          "source": "Il Sole 24 Ore",
+          "url": "https://en.ilsole24ore.com/art/tesla-given-the-go-ahead-with-provisional-type-approval-for-driver-assistance-systems-AJwm4HNC",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "Italy's ministry: national recognition took place Nov. 19; the driver must always keep hands on the wheel, watch the road and be ready to intervene; EU-wide approval still pending",
+          "source": "At The Charger",
+          "url": "https://www.atthecharger.com/article/italy-tesla-tad-hands-on-ministry-dutch-guidance",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "Salvini’s announcement in Italian: “Un altro passo avanti verso l'innovazione, la tecnologia e la mobilità del futuro, sempre mettendo al primo posto la sicurezza dei cittadini”",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/11/20/salvini-da-mit-via-libera-a-omologazione-provvisoria-sistema-guida-assistita-tesla_687cc8c6-c69a-46d3-8ffd-ff83558ba88a.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "label": "Musk thanks Salvini; driver must stay able to supervise and take control",
+          "source": "Gazzetta dello Sport",
+          "url": "https://www.gazzetta.it/motori/la-mia-auto/21-11-2026/tesla-assisted-driving-autorizzata-in-italia-musk-ringrazia-salvini_amp.shtml",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "Salvini’s post announcing the ministry's provisional type-approval",
+          "source": "Matteo Salvini on X",
+          "url": "https://x.com/matteosalvinimi/status/2123739830194512067",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "Musk, 11:01 a.m. ET: “Thank you, much appreciated! 🇮🇹 ❤️”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2123808936562442708",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/italy-tesla-assisted-driving-much-appreciated.jpg",
+        "alt": "FNN graphic: Italy says yes",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Italy is the first major EU country to approve Tesla’s supervised self-driving. Salvini: “another step forward.” Musk: “Thank you, much appreciated!”",
+        "caption": "ITALY SAYS YES"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-21"
+    },
+    {
+      "slug": "neuralink-then-pong-now-gta-vi",
+      "section": "thenvsnow",
+      "kicker": "NEURALINK · THEN vs. NOW",
+      "headline": "April 2021: Neuralink Showed a Monkey Named Pager Playing Pong With His Mind.",
+      "headline_now": "Now: A Human Trial Participant Plays GTA VI the Day After Launch.",
+      "deck": "Before his implant, he says, he used “a mouth stick and an iPad.” Neuralink notes its devices are investigational and not FDA-approved.",
+      "body": "April 2021: Neuralink showed Pager, a nine-year-old macaque with a device in both sides of his brain, playing Pong with his mind, CNN reported. Reward: a banana smoothie.\n\nFriday: “Playing GTA VI with a Neuralink.” A trial participant steered a speedboat, threw punches and flew a plane a day after the game’s launch, by thinking about finger and foot movements.\n\n“Before the old chip and surgery, I was using a mouth stick and an iPad,” he said, per Inven Global.\n\nNeuralink says its devices are investigational.\n\nMusk: “We’ve had monkeys playing video while drinking banana smoothies for 5 years.”",
+      "pull_quote": "Playing GTA VI with a Neuralink",
+      "then": {
+        "text": "He’s learned to interact with a computer for a tasty banana smoothie delivered through a straw",
+        "date": "2021-04-09",
+        "source": "https://www.cnn.com/2021/04/09/tech/elon-musk-neuralink-pong-scli-intl",
+        "source_name": "CNN",
+        "who": "Neuralink video narrator, on Pager the macaque"
+      },
+      "now": {
+        "text": "Playing GTA VI with a Neuralink",
+        "date": "2026-11-20",
+        "source": "https://x.com/neuralink/status/2123890949029818800",
+        "source_name": "Neuralink on X",
+        "who": "Neuralink, posting a trial participant's gameplay",
+        "big": "GTA VI"
+      },
+      "record": [
+        {
+          "date": "2021-04-09",
+          "label": "“The nine-year old male macaque, named Pager, has a Neuralink device implanted in both sides of its brain”; narrator: “He’s learned to interact with a computer for a tasty banana smoothie delivered through a straw”",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2021/04/09/tech/elon-musk-neuralink-pong-scli-intl",
+          "role": "then"
+        },
+        {
+          "date": "2026-11-20",
+          "label": "Neuralink, 4:27 p.m. ET: “Playing GTA VI with a Neuralink” (two-minute video); follow-up: its devices “are investigational and have not been approved by the FDA or other regulatory authorities”",
+          "source": "Neuralink on X",
+          "url": "https://x.com/neuralink/status/2123890949029818800",
+          "role": "now"
+        },
+        {
+          "date": "2021-04-08",
+          "label": "Neuralink releases video of Pager playing Pong after a joystick-calibrated decoder",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2021/04/08/watch-a-monkey-equipped-with-elon-musks-neuralink-device-play-pong-with-its-brain/",
+          "role": null
+        },
+        {
+          "date": "2021-04-18",
+          "label": "Page dated April 18, 2021 (TechCrunch reported the post April 8). Pager Plays MindPong: fully implanted, wireless BCI; Pager’s preference is “often banana smoothie”",
+          "source": "Neuralink",
+          "url": "https://neuralink.com/updates/pager-plays-mindpong/",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "Participant: “Before the old chip and surgery, I was using a mouth stick and an iPad”; “Right now I'm just like tapping my ring finger”; team later “added my feet in, or at least my foot”; drives, flies a plane, fights; posted a day after the game's launch",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/28915/neuralink-shows-a-trial-participant-playing-gta-vi-with-its-brain-implant",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "Speedboat under a bridge; GTA VI launched Nov. 19; participant not named; 2024 demo by Noland Arbaugh with Civilization VI and Mario Kart",
+          "source": "Interesting Engineering",
+          "url": "https://interestingengineering.com/culture/neuralink-brain-implant-gta-vi-blindsight-approval",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "The clip arrived a day after Rockstar released the game; not everyone in the studies has console control",
+          "source": "Tesla North",
+          "url": "https://teslanorth.com/2026/11/20/neuralink-gta-6-brain-implant/",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "label": "Musk, 1:34 a.m. ET: “Playing GTA VI with Telepathy”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2124028719190749681",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "label": "Musk, 2:38 a.m. ET: “We’ve had monkeys playing video while drinking banana smoothies for 5 years. Not a bad life.”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2124044780099285426",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/neuralink-then-pong-now-gta-vi.jpg",
+        "alt": "FNN graphic: Neuralink then and now",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "2021: Neuralink’s monkey Pager played Pong with his mind for a banana smoothie. 2026: a human trial participant plays GTA VI the day after launch.",
+        "caption": "NEURALINK: THEN vs. NOW"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-21"
+    },
+    {
+      "slug": "spacex-cocoa-beach-flood-big-thank-you",
+      "section": "freedom",
+      "kicker": "LATEST · SPACEX",
+      "headline": "Floods Close Cocoa Beach City Hall. The City Thanks SpaceX for Food, Water and Starlinks. Then Starlink Goes Free.",
+      "deck": "“A BIG thank you to @SpaceX,” the city posted. A day later, Starlink made residential service free through Dec. 20 for Brevard County flood victims.",
+      "body": "Flooding hit Brevard County on Florida’s Space Coast this week. In Cocoa Beach, City Hall closed, and essential crews kept working around the clock.\n\nSpaceX showed up. “A BIG thank you to @SpaceX for supporting our emergency teams with food, water, and Starlink mobile units to keep crews connected in the field!” the city posted Thursday.\n\nOn Friday, Starlink followed: service is free through December 20 for new and existing residential customers affected by the flooding. Existing customers get the credit automatically, Tesla North reports.\n\nStarlink called the region home to “our neighbors on the Space Coast.”",
+      "pull_quote": "A BIG thank you to @SpaceX.",
+      "record": [
+        {
+          "date": "2026-11-19",
+          "label": "City of Cocoa Beach, 1:15 p.m. ET: “City Hall may be closed, but our essential staff are working around the clock to keep Cocoa Beach safe & essential services running. A BIG thank you to @SpaceX for supporting our emergency teams with food, water, and Starlink mobile units to keep crews connected in the field!”",
+          "source": "City of Cocoa Beach on X",
+          "url": "https://x.com/CocoaBeach_City/status/2123480278785982631",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "Starlink, 6:13 p.m. ET: “For new and existing residential customers affected by flooding in Brevard County, Starlink service is free through December 20. This region is home to our neighbors on the Space Coast”",
+          "source": "Starlink on X",
+          "url": "https://x.com/Starlink/status/2123917635058328025",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "Residential service fee waived through Dec. 20 in flood-affected parts of Brevard County; existing customers credited automatically; new customers buy equipment and contact support",
+          "source": "Tesla North",
+          "url": "https://teslanorth.com/2026/11/20/starlink-brevard-county-flood-relief/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/spacex-cocoa-beach-flood-big-thank-you.jpg",
+        "alt": "FNN graphic: a big thank you",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Floods closed Cocoa Beach City Hall. The city thanked SpaceX for food, water and Starlinks. Then Starlink made service free for Brevard flood victims.",
+        "caption": "“A BIG THANK YOU TO @SPACEX”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-21"
+    },
     {
       "slug": "trump-nyt-lucky-loser-suit-survives",
       "section": "fake",
@@ -6674,6 +6946,282 @@
       "share": {
         "line": "Hexumlite got into a University of Florida dining hall for $13 in a $590 fake Rolex, logged about 34 approaches and one probable number, and flies to Miami Wednesday for a palatal expander.",
         "caption": "$13 AND A $590 FAKE ROLEX."
+      }
+    },
+    {
+      "slug": "kirk-jesus-defeated-death-so-you-can-live",
+      "date": "2026-11-21",
+      "section": "faith",
+      "kicker": "FAITH, FAMILY AND FREEDOM",
+      "headline": "“Jesus Defeated Death So You Can Live”: Charlie Kirk’s Last Saturday Post, and the One Question He Said Really Matters",
+      "deck": "Four days before he was killed, Charlie Kirk posted seven plain words about the empty tomb. In 2013, he wrote that only one question really matters.",
+      "byline": "By FNN Desk",
+      "body": "On Saturday, Sept. 6, 2025, Charlie Kirk posted seven words on X: “Jesus defeated death so you can live.” Four days later he was shot and killed at Utah Valley University. He was 31.\n\nScott Polender of the Turning Point Academy Association gathered his last posts: “It’s all about Jesus.” “Tell someone about Jesus this weekend.”\n\nIn 2013, Kirk wrote: “Only one question really matters: Who is Jesus Christ?”\n\nOn the day he died, he “spoke about the resurrection, 1 Corinthians 15,” Teddy Sorrells wrote.\n\n“This was Charlie’s hope,” Polender wrote. “May it be all of ours, too.”",
+      "pull_quote": "Jesus defeated death so you can live.",
+      "record": [
+        {
+          "date": "2025-09-17",
+          "label": "Polender, Director of the Turning Point Academy Association, lists Kirk’s posts: Aug. 17, 2025, “It’s all about Jesus.”; Aug. 30, “Tell someone about Jesus this weekend.”; Sept. 6, “Jesus defeated death so you can live.”; “This was Charlie’s hope. May it be all of ours, too.”",
+          "source": "Christ Over All",
+          "url": "https://christoverall.com/article/concise/the-turning-point-of-a-generation-remembering-charlie-kirk/",
+          "role": null
+        },
+        {
+          "date": "2026-09-10",
+          "label": "“Four days before he was assassinated, he posted this”; Kirk, Sept. 24, 2013: “Only one question really matters: Who is Jesus Christ?”; “On the day he died, he spoke about the resurrection, 1 Corinthians 15, and the evidence that Jesus lived, died, and rose”; “He was 31”",
+          "source": "Center for Baptist Leadership",
+          "url": "https://centerforbaptistleadership.org/here-i-am-send-me-one-year-later-charlie-kirks-mission-lives-on/",
+          "role": null
+        },
+        {
+          "date": "2025-09-11",
+          "label": "Daniel Darling: “We should mourn death. We should rage at evil. And yet we knew that death has been defeated”; Baptist Press renders the post “Jesus defeated death, so you can live.”",
+          "source": "Baptist Press",
+          "url": "https://www.baptistpress.com/resource-library/news/first-person-remembering-charlie-kirk/",
+          "role": null
+        },
+        {
+          "date": "2026-09-11",
+          "label": "Anniversary memorial on the Utah Valley University campus; focus “was undeniably faith”; Kirk’s death at the age of 31",
+          "source": "Deseret News",
+          "url": "https://www.deseret.com/politics/2026/09/11/turning-point-usa-holds-memorial-for-charlie-kirk-anniversary-at-utah-valley-university/",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "date_label": "Scripture",
+          "label": "1 Corinthians 15:55, 57 (KJV): “O death, where is thy sting? O grave, where is thy victory? … But thanks be to God, which giveth us the victory through our Lord Jesus Christ.”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A3-4%2C55-57&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/kirk-jesus-defeated-death-so-you-can-live.jpg",
+        "alt": "FNN graphic: Jesus defeated death",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Four days before he was killed, Charlie Kirk posted seven words: “Jesus defeated death so you can live.”",
+        "caption": "“JESUS DEFEATED DEATH SO YOU CAN LIVE”"
+      }
+    },
+    {
+      "slug": "jacob-daulton-kidney-faith-football",
+      "date": "2026-11-21",
+      "section": "faith",
+      "kicker": "YOUNG CHRISTIAN LEADERS",
+      "headline": "“There Wasn’t a Hesitation”: Jacob Daulton Left Football for Ministry, Gave His Father a Kidney, and Came Back to Play",
+      "deck": "The Minnesota State linebacker gave up his last season to be a Catholic campus missionary, then gave his father a kidney. Today he opens the D-II playoffs.",
+      "byline": "By FNN Desk",
+      "body": "Minnesota State’s Jacob Daulton had a season of eligibility left after 2023. He chose ministry. “I thought God was calling me in the direction of ministry,” he told NCAA.com, and he served as a FOCUS campus missionary.\n\nThen his father, Ron, needed a kidney. Jacob was a perfect match. “There wasn’t a hesitation.” The transplant came Jan. 21, 2025.\n\nHe was told he’d never play contact sports again. Then his doctor said: “It sounds like you need to go do this.”\n\nToday, with one kidney, he plays at Michigan Tech in the playoffs. His father hasn’t missed a game.",
+      "pull_quote": "So, when it came down to it, there wasn’t a hesitation.",
+      "record": [
+        {
+          "date": "2026-11-12",
+          "label": "Daulton left football after 2023 for FOCUS ministry: “At the end of [the 2023 season], I thought God was calling me in the direction of ministry”; Ron Daulton, “father of seven children,” in kidney failure; “And then there was Jacob. A perfect match”; “So, when it came down to it, there wasn't a hesitation”; transplant “on Jan. 21, 2025”; “You get told you'll never play contact sports again”; doctor: “it sounds like you need to go do this”; Ron “hasn't missed one since”",
+          "source": "NCAA.com",
+          "url": "https://www.ncaa.com/news/football/article/2026-11-12/faith-father-and-football-minnesota-states-jacob-daultons-ties-bind",
+          "role": null
+        },
+        {
+          "date": "2026-11-17",
+          "label": "Saturday first-round NCAA Division II playoff game at Michigan Tech in Houghton; kickoff noon CT; fifth consecutive playoff berth",
+          "source": "Minnesota State Athletics",
+          "url": "https://msumavericks.com/news/2026/11/17/tickets-on-sale-for-maverick-football-playoff-game-at-michigan-tech-ncaa-playoffs-to-stream-on-espn.aspx",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "date_label": "Scripture",
+          "label": "John 15:13 (KJV): “Greater love hath no man than this, that a man lay down his life for his friends.”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=John+15%3A13%3BMatthew+5%3A44%3BLuke+18%3A16&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/jacob-daulton-kidney-faith-football.jpg",
+        "alt": "FNN graphic: There wasn't a hesitation",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Jacob Daulton chose ministry, gave his father a kidney, and came back to play.",
+        "caption": "“THERE WASN’T A HESITATION”"
+      }
+    },
+    {
+      "slug": "national-adoption-day-forever-families",
+      "date": "2026-11-21",
+      "section": "faith",
+      "kicker": "FAMILY",
+      "headline": "“We Now Officially Have a Family”: On National Adoption Day, Judges Give Up a Saturday So Kids Go Home for Thanksgiving",
+      "deck": "In Phoenix, a 17-year-old and a 3-year-old. In Fort Worth, four grandchildren. In Los Angeles, 101 children. And the adoption at the heart of the faith.",
+      "byline": "By FNN Desk",
+      "body": "Today is National Adoption Day, held the Saturday before Thanksgiving for children in foster care who are waiting for families.\n\nIn Phoenix, 17-year-old Corena Claussen and 3-year-old Heaven Harper are two of 58 children being adopted, with 21 judicial officers giving up their Saturday. In Los Angeles, 101 children are being adopted by 71 families.\n\nIn Fort Worth on Friday, Shane and Alicia Shelley adopted four grandchildren. “We get to do this all over again,” Alicia said. Adoptive parent Summer Evans: “We now officially have a family as of today.”\n\nPaul wrote of “the adoption of children by Jesus Christ.”",
+      "pull_quote": "We now officially have a family as of today.",
+      "record": [
+        {
+          "date": "2026-11-20",
+          "label": "Corena Claussen (17) and Heaven Harper (3) “are just two of 58 children to be adopted on National Adoption Day”; “Twenty-one judicial officers have volunteered their Saturday to conduct 45 hearings”; 4,534 children in Maricopa County foster care",
+          "source": "Maricopa County Superior Court",
+          "url": "https://superiorcourt.maricopa.gov/posts/press-releases/2026/toddlers-to-teens-to-be-adopted-on-national-adoption-day/",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "label": "Los Angeles: “101 children’s adoptions by 71 families will be finalized” at the Edelman Children’s Courthouse, “just in time for Thanksgiving”",
+          "source": "National Adoption Day",
+          "url": "https://www.nationaladoptionday.org/events/los-angeles-national-adoption-day-2026/",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "Tarrant County's 25th National Adoption Day: 22 children and teens adopted Friday; Shane and Alicia Shelley adopted four grandchildren; “We have four adult children, so we get to do this all over again”; Summer Evans: “We now officially have a family as of today”",
+          "source": "FOX 4 Dallas-Fort Worth",
+          "url": "https://www.fox4news.com/news/tarrant-county-national-adoption-day-helps-over-20-children-foster-care-find-forever-families",
+          "role": null
+        },
+        {
+          "date": "2026-10-27",
+          "label": "“National Adoption Day is celebrated nationwide on the Saturday before Thanksgiving to raise awareness about children and youth in foster care who are waiting for permanent families”",
+          "source": "Superior Court of California, County of San Joaquin",
+          "url": "https://www.sjcourts.org/news/san-joaquin-county-superior-court-celebrates-27th-annual-adoption-day",
+          "role": null
+        },
+        {
+          "date": "2026-11-07",
+          "label": "Odessa ceremony at Odessa Bible Church: five families, seven children; Eloy Rodriguez: “He changed my life ever since I got him”",
+          "source": "NewsWest 9",
+          "url": "https://www.newswest9.com/article/news/local/love-finds-a-way-odessa-celebrates-seven-adoptions/513-ae1dbdff-48ac-4745-86db-336b9c76020e",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "date_label": "Scripture",
+          "label": "Ephesians 1:5 (KJV): “Having predestinated us unto the adoption of children by Jesus Christ to himself”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Ephesians+1%3A5%3BGalatians+4%3A4-5&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/national-adoption-day-forever-families.jpg",
+        "alt": "FNN graphic: officially a family",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "On National Adoption Day, courthouses open on a Saturday so children can go home with their families.",
+        "caption": "“WE NOW OFFICIALLY HAVE A FAMILY”"
+      }
+    },
+    {
+      "slug": "south-sudan-gorom-church-attack",
+      "date": "2026-11-21",
+      "section": "faith",
+      "kicker": "THE PERSECUTED CHURCH",
+      "headline": "“We Continue to Pray for Peace and Forgiveness”: Two Pastors Hurt as Attackers Storm a Service in a South Sudan Camp",
+      "deck": "Refugees from Darfur, many of them converts from Islam, were attacked at worship outside Juba. Their church answered with a call to forgive and bless.",
+      "byline": "By FNN Desk",
+      "body": "At 8:30 a.m. on Sunday, Nov. 15, attackers stormed a Darfur Christian Council church service at the Gorom Refugee Settlement outside Juba, South Sudan, Morning Star News reports. They pelted worshippers with stones and beat them with sticks.\n\nPastor Drij Haruon Khamis lost a large portion of his left ear. Pastor Adel Idris Adam suffered head blows that caused internal bleeding. “We are under hospital treatment,” Adam said.\n\nMany in the congregation are converts from Islam.\n\nTheir church’s answer: “We continue to pray for peace and forgiveness.” Leaders also asked authorities for protection, an investigation and justice.",
+      "pull_quote": "We continue to pray for peace and forgiveness.",
+      "record": [
+        {
+          "date": "2026-11-19",
+          "label": "Nov. 15 attack at 8:30 a.m. on a Darfur Christian Council church at the Gorom Refugee Settlement, 26 km (16 miles) southwest of Juba; worshippers pelted with stones and beaten with sticks; Khamis “lost a large portion of his left ear”; Adam “suffered severe blows to the head that caused internal bleeding”; Adam: “We are under hospital treatment after the Sunday attack”; many camp Christians from Darfur “are converts from Islam”; church leaders: “We continue to pray for peace and forgiveness … teaching us as Christ did to forgive and bless”; call for protection, investigation and justice",
+          "source": "Christian News Network (Morning Star News)",
+          "url": "https://christiannews.net/2026/11/19/two-pastors-other-christians-injured-in-attack-in-south-sudan/",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "Tom Lantos Human Rights Commission hearing Nov. 18; Rep. Chris Smith on Open Doors’ 388 million figure: “That’s more than one in seven of the world’s Christians”",
+          "source": "Office of Rep. Chris Smith",
+          "url": "https://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=415919",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "date_label": "Scripture",
+          "label": "Matthew 5:44 (KJV): “Love your enemies, bless them that curse you, do good to them that hate you”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=John+15%3A13%3BMatthew+5%3A44%3BLuke+18%3A16&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/south-sudan-gorom-church-attack.jpg",
+        "alt": "FNN graphic: pray for peace and forgiveness",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Two pastors are hurt in an attack on a Sunday service at a South Sudan refugee camp.",
+        "caption": "“PRAY FOR PEACE AND FORGIVENESS”"
+      }
+    },
+    {
+      "slug": "washington-parents-supreme-court-reply-brief",
+      "date": "2026-11-21",
+      "section": "faith",
+      "kicker": "RELIGIOUS LIBERTY",
+      "headline": "“Opposing Teen Gender Transitions Is Not Abuse or Neglect”: Washington Parents File a Final Brief at the Supreme Court",
+      "deck": "The Ninth Circuit said they couldn’t even sue over a law that lets shelters contact the state instead of parents. The justices hear the case Dec. 7.",
+      "byline": "By FNN Desk",
+      "body": "Washington parents filed their reply brief Wednesday in International Partners for Ethical Care v. Ferguson. Argument is set for Dec. 7.\n\nThe law at issue: when a runaway is seeking what the state calls gender-affirming care, a shelter contacts a state department instead of the parents. The Ninth Circuit said the parents lacked standing to challenge it.\n\n“Opposing teen gender transitions is not abuse or neglect,” the brief says. Washington argues the change simply alters “who notifies parents.”\n\nFirst Liberty’s Ryan Gardner: “Parents should not have to wait until their children are irreparably harmed to seek protection from courts.”",
+      "pull_quote": "Opposing teen gender transitions is not abuse or neglect.",
+      "record": [
+        {
+          "date": "2026-11-18",
+          "label": "Reply Brief for Petitioners, No. 25-840: “Opposing teen gender transitions is not abuse or neglect, and parents may assert their federal rights in federal court when the State treats it that way”; “the shelter must contact the Department instead of contacting the youth’s parents directly”; respondents: “the amendments simply alter who notifies parents”",
+          "source": "U.S. Supreme Court (docket filing)",
+          "url": "https://www.supremecourt.gov/DocketPDF/25/25-840/433190/20261118161614052_IPEC%20SCOTUS%20Reply%2011.18.26.pdf",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "Docket: “SET FOR ARGUMENT on Monday, December 7, 2026”; Solicitor General's motion to argue as amicus granted Nov. 9; reply of petitioners filed Nov. 18",
+          "source": "U.S. Supreme Court",
+          "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-840.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "Case page: question presented and timeline",
+          "source": "SCOTUSblog",
+          "url": "https://www.scotusblog.com/cases/international-partners-for-ethical-care-inc-v-ferguson/",
+          "role": null
+        },
+        {
+          "date": "2026-09-09",
+          "label": "“The Ninth Circuit denied the parents’ standing to sue”; Ryan Gardner: “Parents should not have to wait until their children are irreparably harmed to seek protection from courts”",
+          "source": "First Liberty Institute",
+          "url": "https://firstliberty.org/cases/washington-parents-protecting-children/",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "Argument Dec. 7 on behalf of parents “who believe it’s their right and responsibility to raise their kids consistent with their faith and beliefs”",
+          "source": "First Liberty Institute",
+          "url": "https://firstliberty.org/news/november-20th-2026/",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "date_label": "Scripture",
+          "label": "Proverbs 22:6 (KJV): “Train up a child in the way he should go: and when he is old, he will not depart from it.”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Proverbs+22%3A6&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/washington-parents-supreme-court-reply-brief.jpg",
+        "alt": "FNN graphic: not abuse or neglect",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Washington parents file their final brief before the Supreme Court hears them Dec. 7.",
+        "caption": "“NOT ABUSE OR NEGLECT”"
       }
     },
     {
