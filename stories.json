@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-20-pm1",
+  "edition": "2026-11-20-pm2",
   "date": "2026-11-20",
-  "updated_at": "2026-11-20T17:36:00-05:00",
+  "updated_at": "2026-11-20T19:32:00-05:00",
   "lead": "trump-nyt-lucky-loser-suit-survives",
   "stories": [
     {
@@ -2570,6 +2570,77 @@
       "share": {
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
+      }
+    },
+    {
+      "slug": "burtbronx-nick-lee-beef-pushed-to-sunday",
+      "date": "2026-11-20",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · BURT BRONX",
+      "headline": "Burt Bronx Showed Up an Hour Early for the Nick Lee Beef Challenge. Then It Got Pushed to Sunday",
+      "deck": "A time-zone mix-up, a title typo fixed on air, 10,000 followers and an hour of CBS’s “Mom” on the couch. The beef never started.",
+      "byline": "By FNN Desk",
+      "body": "Burt Bronx cleared his Friday evening for the Nick Lee beef challenge and went live at 5:37 p.m. ET, a full hour early. He had read “5:30” as Jersey time; Nick Lee, in Austin, meant Texas time. Burt fixed a typo in his own title on air (it first read “BURT DIES”), crossed 10,000 followers, “oh yeah,” and waited it out on his couch with the CBS sitcom “Mom.” At about 6:54 p.m. he broke the news himself: the beef “is being pushed until Sunday,” the day he says he is flying to Los Angeles. He apologized and signed off.",
+      "pull_quote": "So, okay, so no beef session tonight, which is the main point why I started going live early today. Oh well.",
+      "record": [
+        {
+          "date": "2026-11-20",
+          "date_label": "Friday, Nov. 20, 5:37 p.m. to about 6:56 p.m. ET (about 1 hour, 18 minutes)",
+          "label": "A Just Chatting session from his apartment, built around the Nick Lee beef challenge. The desk logged 72 live viewers at 5:59 p.m. ET; the finished VOD had 336 views by about 7:04 p.m. ET, and followers were 10,131, up four from the 6 p.m. check. No cold approaches, and nobody else on camera.",
+          "source": "Kick VOD, Burt Bronx, “BURT DOES NICK LEE BEEF CHALLENGE”",
+          "url": "https://kick.com/burtbronx/videos/40c7639d-burt-does-nick-lee-beef-challenge",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "date_label": "VOD 4:55–6:00 (about 5:42–5:43 p.m. ET)",
+          "label": "Nick Lee wasn’t live yet. Burt dictated a question: “by 5:30 p.m. do you mean Texas time or New York City time?” Then: “I assume he meant Texas time. I just thought it was Jersey time… That’s a bummer.”",
+          "source": "Kick VOD, Burt Bronx, “BURT DOES NICK LEE BEEF CHALLENGE”",
+          "url": "https://kick.com/burtbronx/videos/40c7639d-burt-does-nick-lee-beef-challenge",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "date_label": "VOD 6:47 (about 5:44 p.m. ET)",
+          "label": "He caught the typo in his title, “BURT DIES NICK LEE BEEF CHALLENGE,” apologized to chat and read the fix aloud: “Burt does… Nick Lee… beef… challenge.” The corrected title was up by 6:01 p.m. ET.",
+          "source": "Kick VOD, Burt Bronx, “BURT DOES NICK LEE BEEF CHALLENGE”",
+          "url": "https://kick.com/burtbronx/videos/40c7639d-burt-does-nick-lee-beef-challenge",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "date_label": "VOD 13:20 (about 5:50 p.m. ET)",
+          "label": "“I’m an hour early, whoops, so I need to think of what type of content to do until the Nick Lee beef challenge starts.” He also booked a Saturday 1 p.m. barber appointment on air.",
+          "source": "Kick VOD, Burt Bronx, “BURT DOES NICK LEE BEEF CHALLENGE”",
+          "url": "https://kick.com/burtbronx/videos/40c7639d-burt-does-nick-lee-beef-challenge",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "date_label": "VOD 24:49–1:16:40 (about 6:02–6:54 p.m. ET)",
+          "label": "“All right, well, I have 10,000 followers now, oh yeah.” He set an alarm, moved to the couch and put on the CBS sitcom “Mom,” which carried most of the next 50 minutes; the desk does not count its dialogue as his words.",
+          "source": "Kick VOD, Burt Bronx, “BURT DOES NICK LEE BEEF CHALLENGE”",
+          "url": "https://kick.com/burtbronx/videos/40c7639d-burt-does-nick-lee-beef-challenge",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "date_label": "VOD 1:16:47–1:18:30 (about 6:54–6:56 p.m. ET)",
+          "label": "“Apparently, Nick Lee said… the beef thing is being pushed until Sunday, which I want to be around for because I’m flying to Los Angeles this Sunday.” He said it was confirmed as Texas time, apologized to chat, said he was tired, and floated a later stream or a Discord session if he regained energy. He did not say how the Sunday beef and the Sunday flight fit together.",
+          "source": "Kick VOD, Burt Bronx, “BURT DOES NICK LEE BEEF CHALLENGE”",
+          "url": "https://kick.com/burtbronx/videos/40c7639d-burt-does-nick-lee-beef-challenge",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/burtbronx-nick-lee-beef-pushed-to-sunday.jpg",
+        "alt": "Burt Bronx in a black tank top at his desk beside a studio microphone, eyes closed",
+        "credit": "Kick VOD, Burt Bronx",
+        "caption": "Burt Bronx at his desk working out the time zone, Friday, Nov. 20."
+      },
+      "share": {
+        "line": "Burt Bronx went live an hour early for the Nick Lee beef challenge, fixed a title typo, hit 10,000 followers, watched “Mom,” and learned it moved to Sunday.",
+        "caption": "“NO BEEF SESSION TONIGHT.”"
       }
     },
     {
