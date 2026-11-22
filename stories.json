@@ -1,9 +1,308 @@
 {
-  "edition": "2026-11-21-am",
-  "date": "2026-11-21",
-  "updated_at": "2026-11-21T04:44:27-05:00",
-  "lead": "lee-freedom-to-build-senate-62-33",
+  "edition": "2026-11-22-am",
+  "date": "2026-11-22",
+  "updated_at": "2026-11-22T04:41:50-05:00",
+  "lead": "tesla-fsd-v15-gta-irl",
   "stories": [
+    {
+      "slug": "tesla-fsd-v15-gta-irl",
+      "section": "money",
+      "kicker": "FEATURE · ELON MUSK",
+      "headline": "Tesla Starts Rolling Out FSD V15 and Its New “Reality View.” Musk’s Review: “FSD Is GTA IRL.”",
+      "deck": "The first wave of drivers gets a live, rendered picture of what the car plans to do next. Tesla claims a 25x better critical intervention rate.",
+      "body": "“Tesla FSD V15 is a banger release!” Elon Musk posted Saturday night, the day it reached its first wave of customers.\n\nThe showstopper is Reality View: a live, rendered overhead picture of the street, with the car’s planned path and turns drawn right in. Musk says you can tap any point on it and the car goes there.\n\nTesla’s release notes promise better detection of potholes, road signs, small animals and debris.\n\nThe big number: a 25x better critical intervention rate, by Tesla’s own measure. It is still supervised. Wider release: December.\n\nMusk’s review: “FSD is GTA irl.”",
+      "pull_quote": "FSD is GTA irl",
+      "record": [
+        {
+          "date": "2026-11-21",
+          "label": "Release notes for 2026.38.6.11 (FSD Supervised v15.0.1, HW4): upgraded vision encoder shared between FSD, Robotaxi and Optimus, “improving the critical intervention rate by 25x”; Tesla Reality View, a “real-time generative driving visualization”; “Improved detection of road signs, small animals, road debris, and chains”; “Improved detection of potholes”; school-zone speed handling; Bike Rack Mode; speed camera slowdown",
+          "source": "Not a Tesla App",
+          "url": "https://www.notateslaapp.com/software-updates/version/2026.38.6.11/release-notes",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "label": "Tesla claims “25x better handling of safety critical cases”; “Tesla still doesn’t share the actual number, only the multiplier”; list of fixes “reads like a list of FSD’s biggest current weaknesses”",
+          "source": "Electrek",
+          "url": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "label": "First group of customers on Nov. 21, confirmed by Tesla AI chief Ashok Elluswamy; separate from the wider release Musk said to expect in December; the 25x figure is “Tesla’s own intervention metric, not a finding that the software is 25 times safer”",
+          "source": "Tesla North",
+          "url": "https://teslanorth.com/2026/11/21/tesla-fsd-v15-first-rollout-reality-view/",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "label": "Elluswamy: “FSD v15 releasing to the first wave of customers today!!”",
+          "source": "Drive Tesla Canada",
+          "url": "https://driveteslacanada.ca/news/tesla-fsd-v15-rollout/",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "label": "Rolling out to Early Access Program members after Musk said the wide rollout would come in December",
+          "source": "Teslarati",
+          "url": "https://www.teslarati.com/tesla-full-self-driving-v15-rollout-begins-full-release-notes-improvements/",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "label": "Musk, 3:26 p.m. ET: “You can tap any point on the reality revisualizer to make your car go there.”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2124238164512714925",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "label": "Musk, 7:15 p.m. ET: “Tesla FSD V15 is a banger release!”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2124294755316310346",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "label": "Musk, 10:14 p.m. ET: “FSD is GTA irl”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2124340719397781824",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/tesla-fsd-v15-gta-irl.jpg",
+        "alt": "FNN graphic: FSD is GTA IRL",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Tesla started rolling out FSD V15 with Reality View, a live rendered picture of what the car plans to do. Musk: “FSD is GTA irl.”",
+        "caption": "“FSD IS GTA IRL”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-22"
+    },
+    {
+      "slug": "luckey-why-should-elon-lose-starlink",
+      "section": "freedom",
+      "kicker": "FEATURE · ELON MUSK",
+      "headline": "Palmer Luckey on the Starlink Fight: Washington Won’t Risk Its Own Satellites for Ukraine. Why Should Musk?",
+      "deck": "The Anduril founder made Musk’s case at DealBook. Two days later, the House Intelligence Committee’s top Democrat put SpaceX’s government funding in doubt.",
+      "body": "“I like Elon,” Anduril founder Palmer Luckey told DealBook on Wednesday. “So take it with a pound of salt.”\n\nThen he made Musk’s case. If Russia treats Starlink as fair game because Ukraine uses it for offensive strikes, it could go after satellites that also serve America. “The US government isn’t even willing to stand up for Ukraine because they’re afraid of losing their constellation,” he said.\n\nFriday, Rep. Jim Himes wrote Musk that it’s “difficult” to keep backing funding for SpaceX-built government systems without answers on October’s Starshield slowdowns.\n\nMusk’s line: offensive strikes belong on government-controlled Starshield.",
+      "pull_quote": "I’ve not heard a very good argument for why Elon should sacrifice the existence of the entire Starlink network.",
+      "record": [
+        {
+          "date": "2026-11-18",
+          "label": "DealBook transcript: Luckey: “I like Elon. I personally like the guy. So take it with a pound of salt”; Russia could say Starlink is military if used “for offensive military activity”; “I’ve not heard a very good argument for why Elon should sacrifice the existence of the entire Starlink network to prove a point about defending democracy, particularly given that it’s not America”; “The US government isn’t even willing to stand up for Ukraine because they’re afraid of losing their constellation” (third-party transcript)",
+          "source": "The Singju Post",
+          "url": "https://singjupost.com/transcript-palmer-luckey-interview-on-war-2-0-dealbook-summit-2026/",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "label": "Luckey spoke to Andrew Ross Sorkin at DealBook “on Wednesday,” defending Musk; Luckey says he fully supports Ukraine and Anduril has worked there since the second day of the war",
+          "source": "The Next Web",
+          "url": "https://thenextweb.com/news/palmer-luckey-dealbook-ukraine-starshield-nuclear-tests-meridian",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "Musk at DealBook: “Starlink is a civilian system”; offensive strikes need “Starshield, which is a separate system that is controlled by the US government”; he says Zelenskyy is lying about the Starshield slowdown (disputed by Ukraine)",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "Himes letter to Musk: asks SpaceX to explain the October 2026 Starshield disruptions and whether they were unilateral or directed by a U.S. official; “it is difficult for me to continue supporting the authorization of funding for these SpaceX developed, government-owned systems until I receive satisfactory answers”",
+          "source": "House Intelligence Committee Democrats",
+          "url": "https://democrats-intelligence.house.gov/uploadedfiles/11.20.12_letter_from_hpsci_ranking_member_jim_himes_to_musk.pdf",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "Himes will chair the committee in January; per CNN, the administration, Musk and SpaceX have offered differing accounts of who authorized the limits; Trump has denied direct involvement",
+          "source": "Quartz",
+          "url": "https://qz.com/himes-withhold-spacex-funding-ukraine-starshield-slowdown-112026",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "label": "No funding restrictions imposed; Zelensky: “These are not random errors but systematic speed restrictions”; SpaceX denied introducing new restrictions (Reuters, Nov. 14); Reuters earlier reported, citing officials, that the October order came from inside the White House",
+          "source": "Newsweek",
+          "url": "https://www.newsweek.com/spacex-funding-threat-ukraine-satellite-dispute-12750525",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/luckey-why-should-elon-lose-starlink.jpg",
+        "alt": "FNN graphic: afraid of losing their constellation",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Palmer Luckey at DealBook: Washington won’t risk its own satellites for Ukraine, so why should Musk risk all of Starlink? Now a top Democrat is threatening SpaceX’s funding.",
+        "caption": "“AFRAID OF LOSING THEIR CONSTELLATION”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-22"
+    },
+    {
+      "slug": "kennedy-nyt-grant-ending-not-research-ending",
+      "section": "fake",
+      "kicker": "MEDIA WATCH · DISPUTED",
+      "headline": "The Times Says Kids’ Brain Cancer Research “Stalled.” RFK Jr.: “A Grant Ending Is Not a Research Commitment Ending.”",
+      "deck": "NCI moved the 16-hospital consortium’s trials into a 42-site network, and says three reopen in late 2026 or early 2027. Kennedy wants a correction.",
+      "body": "“This Cancer Kills Children in a Year. Research Has Been Stalled for a Year.” That was the Times headline last week.\n\nHHS Secretary Robert F. Kennedy Jr. calls it “yet another deceptive hit piece.” His case: the consortium’s $4 million a year now goes to a bigger network, 42 hospitals instead of 16.\n\nNCI’s own page says it was “not undertaken as a cost-cutting measure,” and three trials reopen in late 2026 or early 2027.\n\nDISPUTED: Kennedy says Biden’s team made the call. The Times says it came on an August 2025 video call.",
+      "pull_quote": "A grant ending is not a research commitment ending.",
+      "record": [
+        {
+          "date": "2026-11-21",
+          "label": "Kennedy, 2:44 p.m. ET: the Times “published yet another deceptive hit piece targeting HHS”; “the Biden administration, in its final days—not the Trump administration—decided to end the grant” (his claim); funding to PEP-CTN “nearly $7.5 million”; “42 instead of 16”; “A grant ending is not a research commitment ending. The Times should correct its story.”",
+          "source": "Secretary Kennedy on X",
+          "url": "https://x.com/SecKennedy/status/2124227352284549327",
+          "role": null
+        },
+        {
+          "date": "2026-11-22",
+          "label": "NCI Q&A: PBTC had 16 sites, PEP-CTN 42; “In 2025, NCI made the decision to consolidate”; “enrollment had slowed in recent years”; “the transition was not undertaken as a cost-cutting measure”; three PBTC studies “planned to reopen to enrollment in late 2026 or early 2027”; two slow-accrual trials closed",
+          "source": "National Cancer Institute",
+          "url": "https://dctd.cancer.gov/research/networks/pediatric/clinical-trials-network-transition",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "label": "The Times story (blocked to our fetch; read via the republication below)",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/15/well/brain-cancer-children-dipg.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "label": "Spanish republication of the Times story: NCI dissolved the consortium on a video call on Aug. 14, 2025; $4 million annual grant not renewed; eight trials closed or paused; an NIH spokesperson said the move had been considered for years; the Trump administration doubled its childhood cancer data initiative to $100 million",
+          "source": "Diario.mx / The New York Times",
+          "url": "https://diario.mx/salud/2026/nov/16/este-cancer-mata-a-ninos-en-un-ano-la-investigacion-lleva-un-ano-estancada-1149032.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "label": "Excerpt: the Times summary: “For 27 years, the Pediatric Brain Tumor Consortium worked to save kids with brain cancer.” (the family in the story is not named here)",
+          "source": "Society of Environmental Journalists",
+          "url": "https://www.sej.org/headlines/cancer-kills-children-year-research-has-been-stalled-year",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/kennedy-nyt-grant-ending-not-research-ending.jpg",
+        "alt": "FNN graphic: a grant ending is not a research commitment ending",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "The Times says kids’ brain cancer research “stalled.” RFK Jr. says the money moved to a 42-hospital network, and NCI says three trials reopen by early 2027.",
+        "caption": "“A GRANT ENDING IS NOT A RESEARCH COMMITMENT ENDING”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-22"
+    },
+    {
+      "slug": "starlink-paraguay-800-schools",
+      "section": "freedom",
+      "kicker": "LATEST · STARLINK",
+      "headline": "800 Rural Schools in Paraguay Are Online Through Starlink. Musk: “Starlink Helps Education.”",
+      "deck": "Paraguay’s tech ministry says 400 more kits just arrived. The goal: 1,600 schools, then hospitals and family health clinics.",
+      "body": "Paraguay’s government says its first 800 Starlink kits are installed in hard-to-reach schools: 151 in Canindeyú, 148 in San Pedro, 141 in Itapúa and hundreds more.\n\nNow 400 more kits have arrived, the Ministry of Information and Communication Technologies says. The goal is 1,600 schools, with school installations due to be finished in December. Hospitals and family health clinics come next.\n\nThe state phone company, COPACO, is running the rollout with the ministry.\n\nElon Musk noticed, and posted the same review twice: “Starlink helps education.”",
+      "pull_quote": "Starlink helps education",
+      "record": [
+        {
+          "date": "2026-11-20",
+          "label": "MITIC: a lot of 400 Starlink kits arrived; project aims to connect 1,600 schools; first 800 kits installed (151 Canindeyú, 148 San Pedro, 141 Itapúa, 107 Caaguazú, 101 Concepción and others); schools to be completed in December, then hospitals and Family Health Units; run with COPACO, MEC and the health ministry",
+          "source": "Ministry of Information and Communication Technologies (Paraguay)",
+          "url": "https://mitic.gov.py/llegaron-400-nuevos-equipos-para-ampliar-la-conectividad-en-escuelas-y-centros-de-salud/",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "label": "Internet reaches 800 rural schools; half of the 1,600-kit goal",
+          "source": "DPL News",
+          "url": "https://dplnews.com/paraguay-internet-llega-800-instituciones-educativas-rurales/",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "label": "Musk “se hizo eco” of the kits; COPACO president Natalia Borgognon said about 800 antennas were installed before the new kits arrived",
+          "source": "ABC Color",
+          "url": "https://www.abc.com.py/nacionales/2026/11/21/elon-musk-se-hace-eco-de-entrega-de-kits-starlink-a-escuelas-de-paraguay/",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "Musk, 11:31 a.m. ET: “Starlink helps education”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2123816520002482305",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "label": "Musk, 4:17 a.m. ET: “Starlink helps education”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2124069585590813180",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/starlink-paraguay-800-schools.jpg",
+        "alt": "FNN graphic: Starlink helps education",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Paraguay says 800 rural schools are online through Starlink, 400 more kits just landed, and the goal is 1,600. Musk: “Starlink helps education.”",
+        "caption": "“STARLINK HELPS EDUCATION”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-22"
+    },
+    {
+      "slug": "wareham-killer-parole-4-2",
+      "section": "freedom",
+      "kicker": "LATEST · MASSACHUSETTS",
+      "headline": "A Jury Gave Him Life Without Parole. Then Massachusetts Changed the Rules. Now the Parole Board Votes 4-2 to Free Him.",
+      "deck": "Eric Pimental was 18 when he and a friend beat Thomas Loftus to death in the Wareham woods in 2004. Loftus’s family and a prosecutor opposed his release.",
+      "body": "June 9, 2004: Eric Pimental and Robert Silva, both 18, came across Thomas Loftus, 47, in the Wareham woods and “agreed that they would ‘roll’ him,” the Parole Board wrote. They kicked him. Silva jumped on his chest.\n\nA jury convicted Pimental of first-degree murder. Sentence: life without parole.\n\nThen in 2024, the state’s highest court struck down life without parole for anyone 18 to 20, calling them “emerging adults.”\n\nTuesday’s decision: 4-2 to parole him after another year in minimum security, citing “no violence in 22 years.” Loftus’s family testified against it.",
+      "pull_quote": "Agreed that they would ‘roll’ him.",
+      "record": [
+        {
+          "date": "2026-11-19",
+          "label": "Parole Board voted 4-2 to free Pimental, now 40, to a halfway house after another year in minimum security; ruling: the two “agreed that they would ‘roll’ him”; convicted in 2006 of first-degree murder; eligible after the SJC in 2024 struck down life without parole for those under 21; Plymouth ADA Elizabeth Mello Marvel and Loftus relatives opposed",
+          "source": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/11/19/metro/wareham-murder-parole-granted-killer/",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "label": "Decision dated Tuesday; Loftus’ family and a Plymouth County prosecutor testified against release; Commonwealth v. Mattis (2024) called 18-to-20-year-olds “emerging adults”; board cited “no violence in 22 years”; co-defendant Silva denied parole in March",
+          "source": "Mass Daily News",
+          "url": "https://www.massdailynews.com/2026/11/19/eric-pimental-parole-wareham-thomas-loftus-murder",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "Convicted of first-degree murder by extreme atrocity and cruelty; 4-2 vote; conditions include six months of electronic monitoring and no contact with the victim’s family",
+          "source": "Fall River Reporter",
+          "url": "https://fallriverreporter.com/massachusetts-man-granted-parole-with-conditions-after-violent-fatal-beating/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/wareham-killer-parole-4-2.jpg",
+        "alt": "FNN graphic: the Parole Board voted 4-2",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "A jury gave him life without parole for beating a man to death in the Wareham woods. The SJC changed the rules. Now the Parole Board has voted 4-2 to free him.",
+        "caption": "PAROLE BOARD: 4-2"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-22"
+    },
     {
       "slug": "lee-freedom-to-build-senate-62-33",
       "section": "freedom",
@@ -6946,6 +7245,233 @@
       "share": {
         "line": "Hexumlite got into a University of Florida dining hall for $13 in a $590 fake Rolex, logged about 34 approaches and one probable number, and flies to Miami Wednesday for a palatal expander.",
         "caption": "$13 AND A $590 FAKE ROLEX."
+      }
+    },
+    {
+      "slug": "elijah-hames-hays-tabernacle-watts",
+      "date": "2026-11-22",
+      "section": "faith",
+      "kicker": "YOUNG CHRISTIAN LEADERS",
+      "headline": "“God Is God”: At 27, Pastor Elijah Hames Takes the Pulpit of a 79-Year-Old Church in Watts",
+      "deck": "He restarted the food pantry, wants showers for homeless neighbors, and has a 95-year-old trustee holding the ladder.",
+      "byline": "By FNN Desk",
+      "body": "Hays Tabernacle CME Church has served Watts for 79 years. Its new pastor is 27.\n\n“You can change with the times, but I don’t believe God changes at all,” Elijah Hames told the Los Angeles Sentinel. “God is God and He’s multifaceted.”\n\nHe has restarted the food pantry twice a week and wants to finish showers and free meals for homeless neighbors.\n\nHarvey C. Story, the 95-year-old trustee chairman, passed on the roof inspection: “You go and I’ll hold the ladder.”\n\nPaul told young Timothy: “Let no man despise thy youth.”",
+      "pull_quote": "God is God and He’s multifaceted.",
+      "record": [
+        {
+          "date": "2026-11-04",
+          "label": "Hames, 27, appointed pastor of the 79-year-old Hays Tabernacle CME Church; Watts changed “from majority Black to 80% Latino”; “You can change with the times, but I don’t believe God changes at all. God is God and He’s multifaceted”; restarted food pantry twice a week; shower and free-meal project for homeless; Harvey C. Story, 95, trustee chairman: “You go and I’ll hold the ladder”; “I’ve been preaching since I was 21 and been pastoring since I was 23”",
+          "source": "Los Angeles Sentinel",
+          "url": "https://lasentinel.net/pastor-elijah-hames-appointed-to-lead-hays-tabernacle-cme-church.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-22",
+          "date_label": "Scripture",
+          "label": "1 Timothy 4:12 (KJV): “Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity.”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=John+15%3A18%3BRomans+12%3A21%3B1+Timothy+4%3A12%3BMatthew+17%3A20%3BActs+4%3A20%3BHebrews+13%3A3%3B2+Corinthians+5%3A17%3BMatthew+25%3A36%3BJohn+16%3A33&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/elijah-hames-hays-tabernacle-watts.jpg",
+        "alt": "FNN graphic: God is God",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "At 27, Elijah Hames takes the pulpit of a 79-year-old Watts church, and a 95-year-old trustee holds the ladder.",
+        "caption": "“GOD IS GOD”"
+      }
+    },
+    {
+      "slug": "jordan-st-george-church-attack-verdict",
+      "date": "2026-11-22",
+      "section": "faith",
+      "kicker": "THE PERSECUTED CHURCH",
+      "headline": "Gunmen Opened Fire on a Funeral at St. George’s Church in Jordan. Now a Court Has Sentenced Three Men to Death",
+      "deck": "Nine people were killed at the Greek Orthodox church in Hammoud, in Jordan’s Karak governorate. The ruling goes to automatic appeal.",
+      "byline": "By FNN Desk",
+      "body": "On Oct. 23, mourners gathered at St. George’s Greek Orthodox Church in Hammoud, in Jordan’s Karak governorate, for a funeral. Gunmen attacked. Nine people were killed.\n\nOn Nov. 15, Jordan’s State Security Court sentenced three men to death, the state news agency Petra reported. Two are brothers; the third is their brother-in-law, per AFP. The ruling faces automatic appeal.\n\nKing Abdullah II said those who thought bullets could divide Jordanians “have no chance in the face of our unity.”\n\nPray for the families of the nine: “Remember them that are in bonds, as bound with them.”",
+      "pull_quote": "Have no chance in the face of our unity.",
+      "record": [
+        {
+          "date": "2026-11-15",
+          "label": "State Security Court sentenced three to death for the Oct. 23 attack on St. George’s Greek Orthodox Church in Hammoud, Karak, during a funeral procession; nine killed; convictions include terrorist acts; one convicted of financing; “subject to automatic appeal before the Court of Cassation”; suspects arrested Oct. 26 in an abandoned house",
+          "source": "Petra (Jordan News Agency)",
+          "url": "https://petra.gov.jo/en/news/state-security-court-sentences-three-to-death-over-karak-terrorist-attack",
+          "role": null
+        },
+        {
+          "date": "2026-11-15",
+          "label": "Death by hanging; “two Jordanian brothers and their relative by marriage”; military statement: “State Security Court issued its ruling sentencing to death the three criminals who carried out the terrorist attack”; Christians about 300,000 of 11.5 million; reports 25 wounded",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "label": "Brothers and brother-in-law per AFP, names not public; king on X: attack “will be met with the harshest retaliation”; those who believed their bullets could divide Jordanians “have no chance in the face of our unity”; reports 34 wounded; town long Christian-majority",
+          "source": "The Christian Post",
+          "url": "https://www.christianpost.com/news/3-sentenced-to-death-for-church-mass-shooting-in-jordan.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-22",
+          "date_label": "Scripture",
+          "label": "Hebrews 13:3 (KJV): “Remember them that are in bonds, as bound with them; and them which suffer adversity, as being yourselves also in the body.”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=John+15%3A18%3BRomans+12%3A21%3B1+Timothy+4%3A12%3BMatthew+17%3A20%3BActs+4%3A20%3BHebrews+13%3A3%3B2+Corinthians+5%3A17%3BMatthew+25%3A36%3BJohn+16%3A33&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/jordan-st-george-church-attack-verdict.jpg",
+        "alt": "FNN graphic: our unity",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Nine mourners were killed at St. George’s Church in Karak. Jordan’s court has sentenced three men to death.",
+        "caption": "“NO CHANCE IN THE FACE OF OUR UNITY”"
+      }
+    },
+    {
+      "slug": "kirk-faith-was-a-habit",
+      "date": "2026-11-22",
+      "section": "faith",
+      "kicker": "CHARLIE KIRK REFLECTION",
+      "headline": "“He Knew That Faith Was a Habit”: The Bible Verses Charlie Kirk Texted Every Morning, and the Friends Who Kept Reading",
+      "deck": "Erika Kirk told a stadium about the daily verses. Sergio Gor said he’d miss them most. Three Fox News hosts now read Scripture daily “because of Charlie.”",
+      "byline": "By FNN Desk",
+      "body": "Every day on the ride into the office, Charlie Kirk went through his contact list and sent out Bible verses, Erika Kirk told his memorial in September 2025. “He knew that faith was a habit. The more you live it, the more it grows.”\n\nSergio Gor said he would miss that most: “a text every morning from Charlie with a daily Bible verse.”\n\nThat December, Jesse Watters said he, Greg Gutfeld and Harold Ford Jr. read a passage every morning and text about it. “It is because of Charlie.”\n\nToday: open the Word, then send someone a verse.",
+      "pull_quote": "He knew that faith was a habit. The more you live it, the more it grows.",
+      "record": [
+        {
+          "date": "2025-09-21",
+          "label": "Erika Kirk at the memorial: “Every day as Charlie rode into the office, he would go through his contact list … and send bible verses for the day. He knew that faith was a habit. The more you live it, the more it grows.”",
+          "source": "CNN (transcript)",
+          "url": "https://transcripts.cnn.com/show/cnr/date/2025-09-21/segment/06",
+          "role": null
+        },
+        {
+          "date": "2025-09-22",
+          "label": "Sergio Gor, then director of the White House Presidential Personnel Office: “One of the things I will miss the most is receiving a text every morning from Charlie with a daily Bible verse.”",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/politics/charlie-kirks-memorial-what-we-learned-from-those-who-knew-him-best",
+          "role": null
+        },
+        {
+          "date": "2025-12-09",
+          "label": "Watters on “The Five”: “Every morning we wake up and we read a passage, and then we text about it” … “And it is because of Charlie.”",
+          "source": "Mediaite",
+          "url": "https://www.mediaite.com/media/jesse-watters-reveals-he-created-a-daily-bible-study-group-with-greg-gutfeld-after-the-murder-of-charlie-kirk/",
+          "role": null
+        },
+        {
+          "date": "2026-11-22",
+          "date_label": "Scripture",
+          "label": "Psalm 5:3 (KJV): “My voice shalt thou hear in the morning, O Lord; in the morning will I direct my prayer unto thee, and will look up.”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm+5%3A3%3BLamentations+3%3A22-23%3BPsalm+119%3A105&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/kirk-faith-was-a-habit.jpg",
+        "alt": "FNN graphic: faith was a habit",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Every morning, Charlie Kirk texted friends a Bible verse. “He knew that faith was a habit,” Erika Kirk said.",
+        "caption": "“FAITH WAS A HABIT”"
+      }
+    },
+    {
+      "slug": "oklahoma-prison-revival-200-born-again",
+      "date": "2026-11-22",
+      "section": "faith",
+      "kicker": "REVIVAL",
+      "headline": "“Men Were Weeping, Lifting Their Hands”: 200 Inmates Give Their Lives to Christ in an Oklahoma Prison; 47 Baptized",
+      "deck": "About 300 incarcerated men gathered to seek God, the ministry God Behind Bars reports. It is the latest in a years-long wave of prison revivals.",
+      "byline": "By FNN Desk",
+      "body": "About 300 incarcerated men gathered inside an Oklahoma prison to seek God. By the end, 200 had given their lives to Christ and 47 were baptized on the spot, the ministry God Behind Bars reports, per CBN News.\n\n“Men were weeping, lifting their hands, and crying out to Jesus!” the ministry said. “Revival is not limited to church buildings.”\n\nIn 2022, it reported more than 450 inmates baptized, up from “only 90” the year before.\n\nThe ministry says up to 95% of inmates will be released someday. Jesus said: “I was in prison, and ye came unto me.”",
+      "pull_quote": "Revival is not limited to church buildings.",
+      "record": [
+        {
+          "date": "2026-11-17",
+          "label": "God Behind Bars reports about 300 men gathered in an Oklahoma prison; 200 gave their lives to Christ; 47 baptized “on the spot”; “Men were weeping, lifting their hands, and crying out to Jesus!”; “Revival is not limited to church buildings”; 2022: more than 450 baptized when “only 90 were baptized” the year before (facility not named)",
+          "source": "CBN News",
+          "url": "https://cbn.com/news/us/men-were-weeping-lifting-their-hands-massive-revival-hits-prison-oklahoma-200-born-again",
+          "role": null
+        },
+        {
+          "date": "2026-11-22",
+          "label": "Ministry exists “to introduce inmates to Jesus and connect them to the local church”; “up to as many as 95% of all incarcerated individuals will be released back to society at some point” (ministry figure)",
+          "source": "God Behind Bars",
+          "url": "https://www.godbehindbars.com/",
+          "role": null
+        },
+        {
+          "date": "2026-11-22",
+          "date_label": "Scripture",
+          "label": "Matthew 25:36 (KJV): “Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=John+15%3A18%3BRomans+12%3A21%3B1+Timothy+4%3A12%3BMatthew+17%3A20%3BActs+4%3A20%3BHebrews+13%3A3%3B2+Corinthians+5%3A17%3BMatthew+25%3A36%3BJohn+16%3A33&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/oklahoma-prison-revival-200-born-again.jpg",
+        "alt": "FNN graphic: revival behind bars",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "200 men gave their lives to Christ inside an Oklahoma prison, and 47 were baptized on the spot.",
+        "caption": "“REVIVAL IS NOT LIMITED TO CHURCH BUILDINGS”"
+      }
+    },
+    {
+      "slug": "steve-maile-watford-preacher-case-dropped",
+      "date": "2026-11-22",
+      "section": "faith",
+      "kicker": "RELIGIOUS LIBERTY",
+      "headline": "“This Is Not Hate. This Is Love”: English Police Drop Case Against a 66-Year-Old Street Preacher Handcuffed in Watford",
+      "deck": "Pastor Steve Maile was put in double handcuffs on the High Street in April. Now: no further action. He forgives the officers and will keep preaching.",
+      "byline": "By FNN Desk",
+      "body": "Steve Maile, 66, has preached for 45 years. On April 18, police in Watford, England, handcuffed him on the High Street.\n\nNow he faces no further action, the Watford Observer reported, per The Christian Post.\n\n“I had committed no crime,” Maile said, per CBN. “Criticizing Islam is not a criminal offense.”\n\nHe was held for as long as 12 hours. He says he forgives the officers but wants accountability, and he plans to keep preaching.\n\n“This is not hate. This is love,” he has said.\n\nChristian Concern’s Andrea Williams: “Once again, the process became the punishment.”",
+      "pull_quote": "This is not hate. This is love.",
+      "record": [
+        {
+          "date": "2026-11-21",
+          "label": "No further action seven months after officers handcuffed Maile, 66, on Watford’s High Street, per the Watford Observer citing Hertfordshire Police; arrested April 18; double handcuffs, held as long as 12 hours; leads Oasis City Church, preacher for 45 years; forgives those involved but wants someone held to account; vows to keep preaching; Andrea Williams: “Once again, the process became the punishment”",
+          "source": "The Christian Post",
+          "url": "https://www.christianpost.com/news/charges-dropped-against-street-preacher-speaking-against-islam.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "Maile: “I am relieved that the police have finally confirmed what I knew from the beginning: I had committed no crime… Criticizing Islam is not a criminal offense”; earlier: “This is not hate. This is love. This is compassion”",
+          "source": "CBN News",
+          "url": "https://cbn.com/news/world/brit-pastor-vindicated-after-shocking-arrest-during-religious-liberty-crackdown",
+          "role": null
+        },
+        {
+          "date": "2026-11-22",
+          "date_label": "Scripture",
+          "label": "Acts 4:20 (KJV): “For we cannot but speak the things which we have seen and heard.”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=John+15%3A18%3BRomans+12%3A21%3B1+Timothy+4%3A12%3BMatthew+17%3A20%3BActs+4%3A20%3BHebrews+13%3A3%3B2+Corinthians+5%3A17%3BMatthew+25%3A36%3BJohn+16%3A33&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/steve-maile-watford-preacher-case-dropped.jpg",
+        "alt": "FNN graphic: this is not hate, this is love",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Police in England dropped the case against Steve Maile, 66, handcuffed for street preaching in Watford.",
+        "caption": "“THIS IS NOT HATE. THIS IS LOVE”"
       }
     },
     {
