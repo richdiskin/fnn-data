@@ -1,9 +1,311 @@
 {
-  "edition": "2026-11-22-am",
-  "date": "2026-11-22",
-  "updated_at": "2026-11-22T04:41:50-05:00",
-  "lead": "tesla-fsd-v15-gta-irl",
+  "edition": "2026-11-23-am",
+  "date": "2026-11-23",
+  "updated_at": "2026-11-23T04:42:43-05:00",
+  "lead": "tarlov-fine-people-was-about-the-statues",
   "stories": [
+    {
+      "slug": "tarlov-fine-people-was-about-the-statues",
+      "section": "hoax",
+      "kicker": "HOAX FILES · THEN vs. NOW",
+      "headline": "August 2017: Fox’s Jessica Tarlov Said Trump Called Some Charlottesville Protesters “Very Fine People.”",
+      "headline_now": "Now: She Finally Listened to the Audio. “That Was Illuminating for Me.”",
+      "deck": "On The Bulwark, the co-host of The Five said the line was about the fight over Confederate statues, not Nazis. Trump said so in the same breath in 2017.",
+      "body": "August 2017: Jessica Tarlov wrote in InStyle that Americans were confused whether Trump thought white supremacists were “very fine people,” which she said is how he referred to some protesters.\n\nThis weekend, on The Bulwark’s Focus Group podcast, she admitted she “hadn’t listened to the audio.” Then she did: “the very fine people wasn’t the very fine Nazis, right? It was about the debate over pulling the statues down.”\n\nTrump, same press conference, 2017: “I’m not talking about the neo-Nazis and the white nationalists, because they should be condemned totally.”\n\nNine years. One audio file.",
+      "pull_quote": "That was illuminating for me.",
+      "then": {
+        "text": "too many Americans who are confused as to whether Trump actually thinks there are members of white-supremacist groups who are “very fine people”",
+        "date": "2017-08-17",
+        "source": "https://web.archive.org/web/20170820191931/http://www.instyle.com/videos/jessica-tarlov-importance-taking-sides-case-charlottesville",
+        "source_name": "InStyle (archived)",
+        "who": "Jessica Tarlov"
+      },
+      "now": {
+        "text": "the very fine people wasn’t the very fine Nazis, right? It was about the debate over pulling the statues down",
+        "date": "2026-11-21",
+        "source": "https://www.thebulwark.com/p/jessica-tarlov-explains-why-your",
+        "source_name": "The Bulwark, The Focus Group",
+        "who": "Jessica Tarlov",
+        "big": "ILLUMINATING"
+      },
+      "record": [
+        {
+          "date": "2017-08-17",
+          "label": "Tarlov, “The Importance of Choosing Sides in a Case Like Charlottesville”: “there are too many Americans who are confused as to whether Trump actually thinks there are members of white-supremacist groups who are “very fine people,” which is how he referred to some protestors at a press conference on Tuesday”",
+          "source": "InStyle (Wayback Machine, Aug. 20, 2017 capture)",
+          "url": "https://web.archive.org/web/20170820191931/http://www.instyle.com/videos/jessica-tarlov-importance-taking-sides-case-charlottesville",
+          "role": "then"
+        },
+        {
+          "date": "2026-11-21",
+          "label": "Episode “Jessica Tarlov Explains Why Your Arguments With MAGA Never Go Anywhere” with Sarah Longwell (paid episode). Tarlov: “that was a little embarrassing for me that I actually hadn’t listened to the audio of what Trump had said after the Unite the Right rally in Charlottesville”; “you hear that the very fine people wasn’t the very fine Nazis, right? It was about the debate over pulling the statues down”; “And that was illuminating for me.” Quotes checked against the 44-second clip below (FNN transcription)",
+          "source": "The Bulwark",
+          "url": "https://www.thebulwark.com/p/jessica-tarlov-explains-why-your",
+          "role": "now"
+        },
+        {
+          "date": "2026-11-22",
+          "label": "44-second clip of the podcast, posted 4:45 p.m. ET; reposted by Elon Musk",
+          "source": "@WesternLensman on X",
+          "url": "https://x.com/WesternLensman/status/2124620232287277091",
+          "role": null
+        },
+        {
+          "date": "2026-11-22",
+          "label": "Same Tarlov quotes; her August 2017 InStyle commentary; Trump’s 2017 line “I’m not talking about the neo-Nazis and the white nationalists, because they should be condemned totally”",
+          "source": "PJ Media",
+          "url": "https://pjmedia.com/matt-margolis/2026/11/22/jessica-tarlov-finally-admits-she-was-duped-by-charlottesville-hoax-n4959602",
+          "role": null
+        },
+        {
+          "date": "2026-11-22",
+          "label": "Same Tarlov quotes from the Bulwark clip",
+          "source": "Patriots Heart Network",
+          "url": "https://patriotsheartnetwork.com/2026/11/22/fox-news-liberal-jessica-tarlov-finally-admits-trump-wasnt-calling-neo-nazis-very-fine-people-after-listening-to-full-charlottesville-remarks-video/",
+          "role": null
+        },
+        {
+          "date": "2024-06-20",
+          "label": "“No, Trump Did Not Call Neo-Nazis and White Supremacists ‘Very Fine People’”: rated False; transcript excerpt: “and I’m not talking about the neo-Nazis and the white nationalists, because they should be condemned totally”",
+          "source": "Snopes",
+          "url": "https://www.snopes.com/fact-check/trump-very-fine-people/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/tarlov-fine-people-was-about-the-statues.jpg",
+        "alt": "FNN graphic: that was illuminating for me",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "2017: Jessica Tarlov said Trump called some protesters “very fine people.” 2026: she listened to the audio. “That was illuminating for me.”",
+        "caption": "“THAT WAS ILLUMINATING FOR ME”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-23"
+    },
+    {
+      "slug": "spacex-32-hour-pad-turnaround",
+      "section": "freedom",
+      "kicker": "FEATURE · SPACEX",
+      "headline": "SpaceX Launches Twice From the Same Pad in 32 Hours, 3 Minutes. The Next Goal: 24.",
+      "deck": "A Space Force mission Friday night, a spy-satellite mission before dawn Sunday, both from Vandenberg’s SLC-4E. The old record was 45 hours.",
+      "body": "Friday, 8:20 p.m. Pacific: a Falcon 9 lifts off from Vandenberg’s Space Launch Complex 4E carrying USSF-317 for the Space Force.\n\nSunday, 4:23 a.m.: another Falcon 9 leaves the same pad with NROL-136 for the National Reconnaissance Office.\n\nThe gap: 32 hours, 3 minutes, 21 seconds. Same pad, different rockets. The old record, 45 hours, was set at Cape Canaveral’s Pad 40.\n\n“Team got there with several hours of margin,” SpaceX launch VP Kiko Dontchev posted. “Next goal… the 24 hr turn!”\n\nBoth boosters landed. Sunday’s was flying for the 14th time.",
+      "pull_quote": "Next goal… the 24 hr turn!",
+      "record": [
+        {
+          "date": "2026-11-20",
+          "label": "USSF-317 launched Nov. 20 at 8:20 p.m. PT from SLC-4E; 11th flight for the booster, which landed on the droneship Of Course I Still Love You",
+          "source": "SpaceX",
+          "url": "https://www.spacex.com/launches/ussf317",
+          "role": null
+        },
+        {
+          "date": "2026-11-22",
+          "label": "NROL-136 launched Nov. 22 at 4:23 a.m. PT from SLC-4E; 14th flight for the booster, which landed at Landing Zone 4",
+          "source": "SpaceX",
+          "url": "https://www.spacex.com/launches/nrol136",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "Kiko Dontchev, SpaceX vice president of launch, on X: “32 hr, 3 min, 21 sec! This smashed the previous record of 45 hrs from Pad 40. Team got there with several hours of margin. Next goal… the 24 hr turn!”; NROL-136 was the NRO’s sixth launch of 2026",
+          "source": "Space.com",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
+          "role": null
+        },
+        {
+          "date": "2026-11-22",
+          "label": "The two missions used different boosters; SpaceX confirmed the 32-hour gap was its fastest turnaround between launches from the same pad",
+          "source": "Tesla North",
+          "url": "https://teslanorth.com/2026/11/22/spacex-nrol-136-vandenberg-32-hours/",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "Previous company record of 45 hours set at Cape Canaveral’s SLC-40 in January; previous SLC-4E record roughly 55 hours and 48 minutes",
+          "source": "The News International",
+          "url": "https://www.thenews.com.pk/latest/1424720-spacex-sets-32-hour-launchpad-turnaround-record-at-vandenberg-with-nrol-136-mission",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/spacex-32-hour-pad-turnaround.jpg",
+        "alt": "FNN graphic: 32 hours, 3 minutes",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Two Falcon 9 launches from the same California pad, 32 hours and 3 minutes apart. SpaceX’s next goal: “the 24 hr turn!”",
+        "caption": "“NEXT GOAL… THE 24 HR TURN!”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-23"
+    },
+    {
+      "slug": "fairfax-minter-sanctuary-lawsuit",
+      "section": "freedom",
+      "kicker": "LATEST · SANCTUARY POLICY",
+      "headline": "A Fairfax Police Commander Warned It Was “Not a Question of If, but Rather When.” Now the Victim’s Mother Is Suing.",
+      "deck": "Cheryl Minter’s federal suit targets the Board of Supervisors and Sheriff Stacey Kincaid over policies limiting cooperation with ICE. The county won’t comment.",
+      "body": "After Abdul Jalloh was released from Fairfax County custody in November 2025, a police commander warned prosecutors in writing: “it is not a question of if, but rather when he will maliciously wound (or worse) again.”\n\nIn February, Stephanie Minter was stabbed to death at a bus stop. Jalloh, who entered the U.S. illegally, faces a second-degree murder charge.\n\nNow her mother, Cheryl, is suing the Board of Supervisors and Sheriff Stacey Kincaid in federal court over county policies limiting cooperation with ICE.\n\nThe county says it doesn’t comment on pending litigation. The sheriff’s office didn’t respond.",
+      "pull_quote": "It is not a question of if, but rather when he will maliciously wound (or worse) again.",
+      "record": [
+        {
+          "date": "2026-11-20",
+          "label": "AFPI press release: Cheryl Minter suing the Board of Supervisors and Sheriff Stacey A. Kincaid; Stephanie Minter fatally stabbed at a Fairfax County bus stop Feb. 23, 2026; Jalloh, with a prior malicious wounding conviction, faces a second-degree murder charge; police commander’s written warning after his November 2025 release; claim brought under a federal civil-rights conspiracy law",
+          "source": "America First Policy Institute",
+          "url": "https://americafirstpolicy.com/issues/afpi-stands-with-stephanie-minters-family-in-lawsuit-over-fairfax-county-sanctuary-policies/",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "Complaint (draft dated 11.19, as posted): commander’s warning that “it is not a question of if, but rather when he will maliciously wound (or worse) again”",
+          "source": "Court filing (via Just the News)",
+          "url": "https://app.justthenews.com/sites/default/files/2026-11/america%20first%20lawsuit%20against%20fairfax%20county%20for%20minter%20murder.pdf",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "Jalloh entered the U.S. illegally from Sierra Leone in 2012, more than 30 arrests; charges in a May 2025 stabbing dropped; a county spokesperson said the county had not been served and doesn’t comment on pending litigation; sheriff’s office did not respond",
+          "source": "Courthouse News Service",
+          "url": "https://www.courthousenews.com/family-of-slain-virginia-woman-challenges-countys-immigrant-sanctuary-policies/",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "Suit filed in the Eastern District of Virginia; police warned Commonwealth’s Attorney Steve Descano in writing at least three times; the Board’s Trust Policy and Kincaid’s detainer practice",
+          "source": "WJLA (7News)",
+          "url": "https://wjla.com/news/local/virginia-mother-sues-fairfax-sheriff-county-leaders-over-daughters-wrongful-death",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/fairfax-minter-sanctuary-lawsuit.jpg",
+        "alt": "FNN graphic: not a question of if",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "A Fairfax County police commander warned it was “not a question of if, but rather when.” Stephanie Minter’s mother is now suing the county and its sheriff.",
+        "caption": "“NOT A QUESTION OF IF”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-23"
+    },
+    {
+      "slug": "neal-hearings-unwind-trump-tax-cuts",
+      "section": "freedom",
+      "kicker": "LATEST · MASSACHUSETTS",
+      "headline": "Rep. Richard Neal Eyes Trump’s Tax Cuts. His Pitch: “Affordability and Affordability and Affordability.”",
+      "deck": "The Massachusetts Democrat set to chair Ways and Means told the Financial Times he’ll hold hearings on tariffs and tax cuts. Trump: “I’m going to veto them.”",
+      "body": "Rep. Richard Neal of Massachusetts, in line to chair the House Ways and Means Committee in January, told the Financial Times he’ll hold hearings on Trump’s tariffs and examine his tax cuts. The FT called them the president’s “tax giveaways.”\n\nNeal’s message: “It’s back to affordability and affordability and affordability.”\n\nThe math the slogan skips: unwind a tax cut and what’s left is a tax hike.\n\nTrump already has his answer for the bills: “They’re going to send things my way, and I’m going to veto them.”\n\nOverriding him takes two-thirds of both chambers.",
+      "pull_quote": "It’s back to affordability and affordability and affordability.",
+      "record": [
+        {
+          "date": "2026-11-22",
+          "label": "Republication credited to the Financial Times (FT original paywalled, not opened): Neal “planned to investigate the full range of Trump’s tariffs” and would “examine the president’s tax giveaways, including steep tax cuts that have worsened the US deficit”; “It’s back to affordability and affordability and affordability”; restoring ACA credits for 22 million “an important consideration right away”; Trump: “They’re going to send things my way, and I’m going to veto them”; override needs two-thirds",
+          "source": "The Reader (Financial Times)",
+          "url": "https://thereader.ai/news/world/democrats-will-seek-to-unwind-trumps-tax-and-tariff-policies-6b02fc0b3c74d0b27245993b",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "Neal, ranking Democrat on Ways and Means, told the FT on Nov. 22 Democrats would examine tariffs and investment deals including South Korea’s $350 billion",
+          "source": "Financial News (Korea)",
+          "url": "https://en.fnnews.com/news/202611230901536143",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/neal-hearings-unwind-trump-tax-cuts.jpg",
+        "alt": "FNN graphic: affordability and affordability",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Massachusetts Rep. Richard Neal wants hearings on Trump’s tax cuts and tariffs. His pitch: “affordability and affordability and affordability.”",
+        "caption": "“AFFORDABILITY AND AFFORDABILITY”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-23"
+    },
+    {
+      "slug": "omar-aide-feeding-our-future-186000",
+      "section": "freedom",
+      "kicker": "LATEST · FEEDING OUR FUTURE",
+      "headline": "Ilhan Omar’s Aide Praised the Feeding Our Future Boss. Businesses Tied to the Fraud Paid His Wife $186,000.",
+      "deck": "Court records reviewed by the Star Tribune. Neither is charged, investigators found Omar got none of the money, and nobody has explained the payments.",
+      "body": "“Thank you, Aimee and Feeding Our Future and the staff, for the incredible work you’ve been doing,” Ali Isse, now Rep. Ilhan Omar’s deputy district director, said in June 2021.\n\nAimee Bock ran the $250 million fraud. Court records reviewed by the Minnesota Star Tribune show Isse pointed her to a state senator who could pressure regulators, and that businesses controlled by convicted fraudsters paid his wife more than $186,000.\n\nNeither is charged. Investigators found Omar got none of it.\n\nIsse: “I have nothing to contribute.” Omar’s spokesperson says she’ll “try to get answers to these things.”",
+      "pull_quote": "They never give up until they succeed.",
+      "record": [
+        {
+          "date": "2026-11-21",
+          "label": "Isse fielded requests from Bock and directed her to a state senator who could pressure regulators; businesses controlled by Safari Restaurant’s owners or associates paid his wife more than $186,000; Isse received $3,000 from a Safari co-owner; federal investigators determined Omar received none of the money; neither charged; Isse: “I have nothing to contribute”; spokesperson Jacklyn Rogers: “try to get answers to these things”; June 2021: “Thank you, Aimee and Feeding Our Future and the staff, for the incredible work you’ve been doing … They never give up until they succeed.”",
+          "source": "Minnesota Star Tribune",
+          "url": "https://www.startribune.com/ilhan-omar-aide-advocated-for-fraud-leader-as-wife-collected-payments-from-fraudsters/601925710",
+          "role": null
+        },
+        {
+          "date": "2026-11-22",
+          "label": "Feb. 5, 2021 email chain between Bock and Isse, cc an Omar staffer, “Re: Help with USDA Food Program”; no trial evidence accused Omar or her staff of participating; Bock sentenced to 500 months; state Rep. Kristin Robbins calls for a federal investigation",
+          "source": "Newsweek",
+          "url": "https://www.newsweek.com/ilhan-omar-office-probe-aide-wife-payment-federal-feeding-our-future-12753679",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/omar-aide-feeding-our-future-186000.jpg",
+        "alt": "FNN graphic: they never give up",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Ilhan Omar’s deputy district director praised Feeding Our Future’s boss. Businesses tied to the fraud paid his wife more than $186,000, the Star Tribune reports.",
+        "caption": "“THEY NEVER GIVE UP UNTIL THEY SUCCEED”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-23"
+    },
+    {
+      "slug": "wisconsin-dpi-scores-could-not-fall",
+      "section": "freedom",
+      "kicker": "LATEST · SCHOOLS",
+      "headline": "Wisconsin’s School Report Cards Had a Rule: If a Score Would Drop, Use Last Year’s. Auditors Noticed.",
+      "deck": "The nonpartisan Legislative Audit Bureau found no school’s 2023-24 score fell, “regardless of performance.” Superintendent Jill Underly calls it politics.",
+      "body": "Wisconsin’s Department of Public Instruction changed its test cut scores, then adjusted schools’ 2023-24 achievement scores. One more rule: if a school’s adjusted score came in lower than the year before, DPI used last year’s score instead.\n\nThe result, per the nonpartisan Legislative Audit Bureau: no school or district’s score fell, “regardless of performance.” DPI estimated it swapped in old scores for 63.8% of schools in English and 44.1% in math.\n\nDid anyone check whether those schools were slipping? DPI “did not conduct such an assessment.”\n\nSuperintendent Jill Underly: “This audit offers nothing new.”",
+      "pull_quote": "No school or school district’s student achievement score for school year 2023-2024 decreased from the previous year",
+      "record": [
+        {
+          "date": "2026-11-20",
+          "label": "Audit report 26-18: when an adjusted 2023-24 score would have been lower than 2022-23, DPI used the 2022-23 score; “As a result, no school or school district’s student achievement score for school year 2023-2024 decreased from the previous year, regardless of performance”; replaced for about 63.8% of schools (English) and 44.1% (math); DPI “did not conduct such an assessment”; Underly’s response: “commitment to fairness and consistency”",
+          "source": "Wisconsin Legislative Audit Bureau",
+          "url": "https://legis.wisconsin.gov/lab/media/xqid1tsk/26-18full.pdf",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "146-page report, 13 recommendations; Underly: “This audit offers nothing new” and the bureau’s job is “not play politics”",
+          "source": "WPR",
+          "url": "https://www.wpr.org/news/wisconsin-school-district-report-cards-lab-changes",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "label": "Auditors found DPI failed to meet legal requirements on school performance reports; Underly says the audit “reads like a continuation of last legislative session’s partisan political theater”",
+          "source": "Channel 3000",
+          "url": "https://www.channel3000.com/news/audit-faults-department-of-public-instruction-over-school-report-cards-testing-procedures/article_c3c2cfd8-272a-42d9-bda4-e5a2af075c84.html",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/wisconsin-dpi-scores-could-not-fall.jpg",
+        "alt": "FNN graphic: regardless of performance",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Wisconsin auditors: when a school’s adjusted score would have dropped, the state used last year’s instead. No score fell, “regardless of performance.”",
+        "caption": "“REGARDLESS OF PERFORMANCE”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-23"
+    },
     {
       "slug": "tesla-fsd-v15-gta-irl",
       "section": "money",
@@ -7245,6 +7547,224 @@
       "share": {
         "line": "Hexumlite got into a University of Florida dining hall for $13 in a $590 fake Rolex, logged about 34 approaches and one probable number, and flies to Miami Wednesday for a palatal expander.",
         "caption": "$13 AND A $590 FAKE ROLEX."
+      }
+    },
+    {
+      "slug": "asu-football-faith-spreading",
+      "date": "2026-11-23",
+      "section": "faith",
+      "kicker": "FAITH ON CAMPUS",
+      "headline": "“It’s Spreading Like a Virus”: Bible Studies, Baptisms and Pregame Prayer Draw Arizona State Football Closer to God",
+      "deck": "A lineman has never seen so many teammates at Wednesday Bible study. A coordinator prays the rosary daily. A top-10 pick: “the Lord’s doing work on me.”",
+      "byline": "By FNN Desk",
+      "body": "Before Arizona State played Colorado on Nov. 7, offensive lineman Leni Lapuaho led a large group of Sun Devils with heads bowed, Cronkite News reported.\n\n“It’s spreading like a virus,” senior defensive lineman C.J. Fite said. “I’ve seen so many guys being baptized.” Recent Wednesday Bible studies drew “the most guys I might have ever seen.”\n\nDefensive coordinator Brian Ward: “I pray the rosary every single day.”\n\nFormer receiver Jordyn Tyson, the Saints’ No. 8 pick, said on draft night: “The Lord’s doing work on me. He’s not done.”\n\nFite: “Faith is everything to me.”",
+      "pull_quote": "Faith is everything to me, faith is my No. 1 thing.",
+      "record": [
+        {
+          "date": "2026-11-20",
+          "label": "Lapuaho leads players “bowing their heads in prayer” before the Nov. 7 Colorado game; Fite: “It’s spreading like a virus”; “I’ve seen so many guys being baptized”; “The last two weeks, we had the most guys I might have ever seen in Bible study”; “Faith is everything to me, faith is my No. 1 thing”; Ward: “I pray the rosary every single day”; Tyson, No. 8 pick by the Saints: “I’m just so thankful, so blessed” … “The Lord’s doing work on me. He’s not done.”",
+          "source": "Cronkite News",
+          "url": "https://cronkitenews.azpbs.org/2026/11/20/asu-football-prayer-fellowship/",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "date_label": "Scripture",
+          "label": "Colossians 3:23 (KJV): “And whatsoever ye do, do it heartily, as to the Lord, and not unto men”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Ecclesiastes+4%3A12%3B2+Timothy+2%3A3%3BHebrews+13%3A3%3BColossians+3%3A23%3BProverbs+22%3A6&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/asu-football-faith-spreading.jpg",
+        "alt": "FNN graphic: spreading like a virus",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Bible studies, baptisms and pregame prayer: faith is spreading through Arizona State football.",
+        "caption": "“IT’S SPREADING LIKE A VIRUS”"
+      }
+    },
+    {
+      "slug": "colorado-christian-doctors-doj-backs-button",
+      "date": "2026-11-23",
+      "section": "faith",
+      "kicker": "RELIGIOUS LIBERTY",
+      "headline": "“Made in the Image of God”: A Colorado Family Doctor Sues the State, and the Justice Department Takes His Side",
+      "deck": "Dr. Marcus Button and a Christian doctors’ group say Colorado law forces gender-transition care on them. The Justice Department says they’re likely to win.",
+      "byline": "By FNN Desk",
+      "body": "Dr. Marcus Button runs a family practice in a small southern Colorado town under a written Life Policy: “a Faith-Based, Pro-Life Medical Clinic.” He “believes that each person is made in the image of God,” his complaint says.\n\nIn September, he and the Christian Medical & Dental Associations sued Colorado officials. They say state law, as Colorado’s Supreme Court has read it, requires them to provide gender-transition drugs and procedures.\n\nOn Nov. 20, the Justice Department told the court: “They have demonstrated a strong likelihood of success on multiple constitutional claims.”\n\nThe doctors’ next filing is due Dec. 18.",
+      "pull_quote": "They have demonstrated a strong likelihood of success on multiple constitutional claims.",
+      "record": [
+        {
+          "date": "2026-11-20",
+          "label": "Statement of interest: “Plaintiffs are entitled to preliminary relief. They have demonstrated a strong likelihood of success on multiple constitutional claims”; Boe v. Children’s Hospital Colorado read the Colorado Anti-Discrimination Act to require providers who offer hormones or procedures for other purposes to offer them for gender transition; plaintiffs “regularly provide medical care to all patients, including patients who identify as transgender”",
+          "source": "U.S. Department of Justice (filing hosted by ADF)",
+          "url": "https://adflegal.org/wp-content/uploads/2026/11/cmda-v-sullivan-2026-11-20-doj-statement-of-interest.pdf",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "ADF senior counsel Bryan Neihart: “Colorado should not yet again be at war with common sense, sound science, and religious freedom”; Button Family Practice serves patients in a small town in southern Colorado",
+          "source": "Alliance Defending Freedom",
+          "url": "https://adflegal.org/press-release/doj-supports-adfs-christian-healthcare-clients-challenging-colorado-law/",
+          "role": null
+        },
+        {
+          "date": "2026-09-09",
+          "label": "Verified complaint: Life Policy describes “a Faith-Based, Pro-Life Medical Clinic”; “Dr. Button believes that each person is made in the image of God”; CMDA has more than 13,000 members",
+          "source": "Court filing (hosted by ADF)",
+          "url": "https://adflegal.org/wp-content/uploads/2026/09/cmda-v-sullivan-2026-09-09-complaint.pdf",
+          "role": null
+        },
+        {
+          "date": "2026-10-01",
+          "label": "Order by Judge S. Kato Crews: Colorado’s response to the preliminary-injunction motion due on or before Nov. 20; plaintiffs’ reply due Dec. 18",
+          "source": "Justia Dockets",
+          "url": "https://dockets.justia.com/docket/colorado/codce/1:2026cv04236/258780",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "date_label": "Scripture",
+          "label": "Colossians 3:23 (KJV): “And whatsoever ye do, do it heartily, as to the Lord, and not unto men”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Ecclesiastes+4%3A12%3B2+Timothy+2%3A3%3BHebrews+13%3A3%3BColossians+3%3A23%3BProverbs+22%3A6&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/colorado-christian-doctors-doj-backs-button.jpg",
+        "alt": "FNN graphic: made in the image of God",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "A Colorado family doctor says the state can’t force him to act against his faith. The Justice Department agrees.",
+        "caption": "“MADE IN THE IMAGE OF GOD”"
+      }
+    },
+    {
+      "slug": "congo-beni-christians-killed-church-burned",
+      "date": "2026-11-23",
+      "section": "faith",
+      "kicker": "THE PERSECUTED CHURCH",
+      "headline": "“Tired of Burying Our People”: A Massacre, a Burned Church and 140 Christians Killed in Two Weeks in Eastern Congo",
+      "deck": "ISIS-linked fighters struck Cantine in North Kivu Nov. 5-6, then burned homes and a church in Kamahume days later. Survivors are pleading for protection.",
+      "byline": "By FNN Desk",
+      "body": "Overnight Nov. 5-6, armed men attacked Cantine, west of Beni in Congo’s North Kivu. Local leaders blamed the ADF, which pledged allegiance to the Islamic State in 2019, Al Jazeera reported. Radio Oasis later counted 41 dead.\n\nNov. 11-12, fighters hit Kamahume. A local church was “reduced to ashes,” MediaCongo reported.\n\nA survivor told International Christian Concern: “We are even tired of burying our people without heads.”\n\nCatholic World Report counts at least 140 Christians killed in eastern Congo in two weeks.\n\nScripture’s charge: “Remember them that are in bonds, as bound with them.”",
+      "pull_quote": "All we want is to live in peace and sleep in our homes.",
+      "record": [
+        {
+          "date": "2026-11-06",
+          "label": "Cantine, about 50 km west of Beni, attacked overnight; civil society leader Justin Paluku: “So far, we have counted 33 bodies and more than 50 houses set on fire”; ADF blamed; pledged allegiance to ISIL in 2019; 180 patients fled the Kelekele hospital",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/armed-men-kill-at-least-33-in-village-in-ebola-hit-eastern-drc",
+          "role": null
+        },
+        {
+          "date": "2026-11-08",
+          "label": "Eight more bodies found; toll rises to 41; farmers from Butembo among the dead",
+          "source": "Radio Oasis",
+          "url": "https://radio-oasis.cd/beni-huit-nouveaux-corps-decouverts-apres-le-massacre-de-cantine-le-bilan-passe-a-41-morts/",
+          "role": null
+        },
+        {
+          "date": "2026-11-13",
+          "label": "Kamahume attack, night of Nov. 11-12: four dead, seven homes burned; “Une église locale a également été réduite en cendres” (a local church was also reduced to ashes)",
+          "source": "MediaCongo",
+          "url": "https://www.mediacongo.net/article-actualite-169357_beni_quatre_morts_sept_maisons_d_habitation_et_une_eglise_incendiees_dans_une_attaque_des_adf.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-12",
+          "label": "Survivor Mulwahali: “We are even tired of burying our people without heads. All we want is to live in peace and sleep in our homes without fearing that we may never see another morning”; local Catholic bishop: “We want security, not another massacre”",
+          "source": "International Christian Concern",
+          "url": "https://persecution.org/2026/11/12/4-killed-days-after-cantine-massacre/",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "Beni civil society: 63 dead in attacks of Nov. 5, 6 and 11; “Trop de sang a coulé à Beni”",
+          "source": "MediaCongo",
+          "url": "https://www.mediacongo.net/article-actualite-169637_nord_kivu_la_societe_civile_denonce_63_morts_et_des_villages_incendies_lors_d_une_nouvelle_vague_de_massacres_attribues_aux_adf.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-22",
+          "label": "At least 140 Christians killed in two weeks; TRAC: “an armed assault on Christians”; Intersociety: at least 2,000 Christians killed in the DRC Jan. 1–Oct. 10, 2026",
+          "source": "Catholic World Report",
+          "url": "https://www.catholicworldreport.com/2026/11/22/at-least-140-christians-killed-in-two-weeks-in-the-democratic-republic-of-congo/",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "date_label": "Scripture",
+          "label": "Hebrews 13:3 (KJV): “Remember them that are in bonds, as bound with them; and them which suffer adversity, as being yourselves also in the body.”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Ecclesiastes+4%3A12%3B2+Timothy+2%3A3%3BHebrews+13%3A3%3BColossians+3%3A23%3BProverbs+22%3A6&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/congo-beni-christians-killed-church-burned.jpg",
+        "alt": "FNN graphic: all we want is to live in peace",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "A massacre, a burned church and 140 Christians killed in two weeks in eastern Congo.",
+        "caption": "“ALL WE WANT IS TO LIVE IN PEACE”"
+      }
+    },
+    {
+      "slug": "kirk-mrs-weber-fifth-grade",
+      "date": "2026-11-23",
+      "section": "faith",
+      "kicker": "CHARLIE KIRK REFLECTION",
+      "headline": "“I Still Call Her Mrs. Weber”: The Fifth-Grade Teacher Who Pointed Charlie Kirk to Jesus",
+      "deck": "He gave his life to Christ in her classroom and credited her by name years later. She says it was only the Holy Spirit; she “just happened to be there.”",
+      "byline": "By FNN Desk",
+      "body": "“Fifth grade at Christian Heritage Academy. I remember it,” Charlie Kirk told CBN, as aired by WORLD Radio, of when he accepted Christ.\n\nAt a 2023 summit he named the teacher: “I gave my life to the Lord thanks to Mrs Weber.”\n\nCindy Weber taught at the Illinois school for 18 years. On Fridays her class prayed for unsaved family and friends. At recess, she recalls, Charlie was always the quarterback, “and everybody was invited and included.”\n\nHer verdict: “It was only the Holy Spirit and I just happened to be there.”\n\nThis week, thank whoever pointed you to Him.",
+      "pull_quote": "It was only the Holy Spirit and I just happened to be there.",
+      "record": [
+        {
+          "date": "2025-10-02",
+          "label": "Cindy Weber, Kirk’s fifth-grade teacher, taught at Christian Heritage Academy for 18 years; “And then Fridays we prayed for unsaved family members and unsaved friends”; “he was always the quarterback, and everybody was invited and included”; “It was only the Holy Spirit and I just happened to be there”; Kirk to CBN: “Fifth grade at Christian Heritage Academy. I remember it.”",
+          "source": "WORLD Radio (transcript)",
+          "url": "https://wng.org/podcasts/daily-faithfulness-in-the-classroom-1759331392",
+          "role": null
+        },
+        {
+          "date": "2023-08-29",
+          "label": "Kirk at a Turning Point Academy educators summit: “I gave my life to the Lord thanks to Mrs Weber I still call her Mrs Weber”",
+          "source": "Remembering Charlie Kirk (transcript)",
+          "url": "https://www.charliekirk.co.za/video/charlie-kirk-explains-why-western-classical-christian-education-must-replace-modern-american-schooling/13291/",
+          "role": null
+        },
+        {
+          "date": "2022-06-17",
+          "label": "Kirk to Frank Turek: gave his life to the Lord at Christian Heritage Academy in Northfield, Illinois",
+          "source": "CrossExamined (transcript PDF)",
+          "url": "https://crossexamined.org/wp-content/uploads/2022/06/Charlie_Kirk_6-16-2022.pdf",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "date_label": "Scripture",
+          "label": "Galatians 6:9 (KJV): “And let us not be weary in well doing: for in due season we shall reap, if we faint not.”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Galatians+6%3A9%3BMatthew+19%3A14&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/kirk-mrs-weber-fifth-grade.jpg",
+        "alt": "FNN graphic: I just happened to be there",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Charlie Kirk gave his life to Christ in fifth grade, and he never stopped crediting Mrs. Weber.",
+        "caption": "“I JUST HAPPENED TO BE THERE”"
       }
     },
     {
