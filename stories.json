@@ -1,9 +1,339 @@
 {
-  "edition": "2026-11-23-am",
-  "date": "2026-11-23",
-  "updated_at": "2026-11-23T04:42:43-05:00",
-  "lead": "tarlov-fine-people-was-about-the-statues",
+  "edition": "2026-11-24-am",
+  "date": "2026-11-24",
+  "updated_at": "2026-11-24T04:44:15-05:00",
+  "lead": "musk-huang-mistake-has-been-corrected",
   "stories": [
+    {
+      "slug": "musk-huang-mistake-has-been-corrected",
+      "section": "thenvsnow",
+      "kicker": "THEN vs. NOW · ELON MUSK",
+      "headline": "Nov. 18: Musk Said Pushing Out Jensen Huang Was Like Deciding to “Kick Michael Jordan Off Your Team.”",
+      "headline_now": "Now: Nvidia’s Board Puts Huang Back. Musk: “The Mistake Has Been Corrected.”",
+      "deck": "The board voted unanimously Monday after input from senior U.S. officials. Nvidia stock closed up 31.5%. Hakeem Jeffries calls it “indefensible.”",
+      "body": "Nov. 18, DealBook Summit: Elon Musk compared Nvidia pushing out Jensen Huang to a team on a winning streak that decides to “kick Michael Jordan off your team.”\n\nMonday: Nvidia’s board voted unanimously to reinstate Huang as CEO, saying input from senior U.S. officials left it confident his return “poses no national security risk.” President Trump: “I made the deal.”\n\nMusk’s review: “The mistake has been corrected.”\n\nWall Street agreed. Nvidia closed up 31.5%, Reuters reported. Speaker-designate Hakeem Jeffries called it “indefensible.”\n\nThe board’s investigation continues. Huang has agreed to testify to the Senate Dec. 3.",
+      "pull_quote": "The mistake has been corrected",
+      "then": {
+        "text": "And then you kick Michael Jordan off your team. Doesn’t seem like a smart decision to me.",
+        "date": "2026-11-18",
+        "source": "https://singjupost.com/transcript-andrew-ross-sorkin-interviews-elon-musk-at-dealbook-summit-2026/",
+        "source_name": "DealBook Summit transcript",
+        "who": "Elon Musk, DealBook Summit, New York"
+      },
+      "now": {
+        "text": "The mistake has been corrected",
+        "date": "2026-11-23",
+        "source": "https://x.com/elonmusk/status/2124875939133751684",
+        "source_name": "his own post on X",
+        "who": "Elon Musk",
+        "big": "CORRECTED"
+      },
+      "record": [
+        {
+          "date": "2026-11-18",
+          "label": "Musk at the DealBook Summit, full transcript: “I would call Jensen Michael Jordan perhaps at his peak level”; “And then you kick Michael Jordan off your team. Doesn’t seem like a smart decision to me”",
+          "source": "The Singju Post (transcript)",
+          "url": "https://singjupost.com/transcript-andrew-ross-sorkin-interviews-elon-musk-at-dealbook-summit-2026/",
+          "role": "then"
+        },
+        {
+          "date": "2026-11-23",
+          "label": "Musk, 9:41 a.m. ET, quoting Nvidia’s announcement: “The mistake has been corrected”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2124875939133751684",
+          "role": "now"
+        },
+        {
+          "date": "2026-11-23",
+          "label": "Board “voted unanimously to reinstate Mr. Huang”; “the Board received input from senior levels of the United States government, and based on that input, the Board is confident that Mr. Huang’s reinstatement poses no national security risk”; the committee’s investigation “will proceed to conclusion”; Huang: “I can’t wait to get back to work”",
+          "source": "Nvidia press release",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "Trump to CNBC’s Eamon Javers: “I convinced them”; “I made the deal”; “We believe he’s fine. He’s absolutely fine”; Huang resigned Nov. 12 after reports of affairs, including with a woman suspected of spying for China",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "Nvidia closed up 31.5%; Huang has acknowledged being unfaithful and apologized; China denies the espionage allegations; Huang agreed to testify at a public Senate hearing Dec. 3; Trump owns between $11 million and $55 million in Nvidia stock (Reuters review); the White House says his portfolio is independently managed",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/3fec1b0a85a0/technology/nvidia-reinstates-jensen-huang-ceo-2026-11-23/",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "Statement: “The decision by the NVIDIA board to reinstate Jensen Huang is indefensible, irresponsible and incomprehensible”",
+          "source": "Speaker-designate Hakeem Jeffries",
+          "url": "https://jeffries.house.gov/2026/11/23/speaker-designate-jeffries-statement-on-the-reinstatement-of-jensen-huang-as-ceo-of-nvidia/",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "Musk, 12:53 p.m. ET: “Everyone is your friend when the chips are up, but those who support you when the chips are down are your real friends. Fair-weather friends are worthless.”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2124924349710741798",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/musk-huang-mistake-has-been-corrected.jpg",
+        "alt": "FNN graphic: the mistake has been corrected",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Nov. 18: Musk said pushing out Jensen Huang was like kicking Michael Jordan off the team. Monday, Nvidia put him back. Musk: “The mistake has been corrected.”",
+        "caption": "“THE MISTAKE HAS BEEN CORRECTED”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-24"
+    },
+    {
+      "slug": "huffpost-irresponsible-was-about-nvidia",
+      "section": "fake",
+      "kicker": "MEDIA WATCH · SPIN",
+      "headline": "HuffPost’s Headline: Trump’s “Irresponsible” Meddling. Its Own Story: “Irresponsible” Was About Nvidia’s Board.",
+      "deck": "Both times the word appears in the piece, critics aim it at Nvidia’s decision. In the browser tab, the quote marks disappear entirely.",
+      "body": "HuffPost’s headline Monday: “Bipartisan Critics Rip Trump’s ‘Irresponsible’ Meddling.” In the page title, the quote marks vanish: “Trump’s Irresponsible Meddling.”\n\nNow read the story. Rep. Debbie Dingell called Nvidia’s move an “irresponsible decision.” Hakeem Jeffries called Nvidia’s decision “indefensible, irresponsible, and incomprehensible.” Both aimed at the board, not Trump.\n\nThe subhead says “most elected officials” thought Trump’s push was a mistake. The story itself names 17 critics, Republicans included.\n\nThe lone dissent HuffPost found? Elon Musk: “The mistake has been corrected.”",
+      "pull_quote": "Bipartisan Critics Slam Trump’s Irresponsible Meddling",
+      "record": [
+        {
+          "date": "2026-11-23",
+          "label": "Page title: “Bipartisan Critics Slam Trump’s Irresponsible Meddling In Nvidia Reinstating Jensen Huang”; headline: “Bipartisan Critics Rip Trump’s ‘Irresponsible’ Meddling”; subhead: “Most elected officials and Trump allies thought Trump encouraging Nvidia to reinstate Huang was a mistake. Except for one.” In the body, Dingell: Nvidia reinstating Huang was an “irresponsible decision”; Jeffries called Nvidia’s decision “indefensible, irresponsible, and incomprehensible”; Musk: “The mistake has been corrected.” Critics named: Schumer, Magaziner, Warren, Curtis, Pritzker, Dingell, Casar, Jeffries, Ricketts, Krishnamoorthi, Van Hollen, Kasich, Nadler, Gallego, Bacon, Cornyn, Gingrich",
+          "source": "HuffPost (Paige Skinner)",
+          "url": "https://www.huffpost.com/entry/reactions-to-jensen-huang-reinstatement-nvidia_n_6b046ec7e4b0cf294a124b13",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "Jeffries’ statement: “The decision by the NVIDIA board to reinstate Jensen Huang is indefensible, irresponsible and incomprehensible”",
+          "source": "Speaker-designate Hakeem Jeffries",
+          "url": "https://jeffries.house.gov/2026/11/23/speaker-designate-jeffries-statement-on-the-reinstatement-of-jensen-huang-as-ceo-of-nvidia/",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "Musk: “The mistake has been corrected”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2124875939133751684",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/huffpost-irresponsible-was-about-nvidia.jpg",
+        "alt": "FNN graphic: whose irresponsible?",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "HuffPost’s headline pins “irresponsible” on Trump. In its own story, both “irresponsible” quotes are aimed at Nvidia’s board.",
+        "caption": "WHOSE “IRRESPONSIBLE”?"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-24"
+    },
+    {
+      "slug": "australia-duty-of-care-us-ambassador-free-speech",
+      "section": "freedom",
+      "kicker": "LATEST · FREE SPEECH",
+      "headline": "Australia Moves to Fine Social Media Up to 5% of Global Revenue. America’s Ambassador: It Will “Censor Lawful Speech.”",
+      "deck": "Labor cut a deal with the Greens to pass its Digital Duty of Care bill. The opposition calls it “a blank cheque for political censorship.”",
+      "body": "Australia’s Labor government struck a deal with the Greens Tuesday to pass its Digital Duty of Care bill through the Senate.\n\nThe price for platforms that breach the duty: fines up to 5% of global revenue, plus a new right for Australians to sue.\n\nU.S. Ambassador David Brat met Communications Minister Anika Wells and warned that “vaguely defined ‘harms’,” backed by those penalties, “will push platforms to censor lawful speech.”\n\nThe opposition Coalition calls the bill “a blank cheque for political censorship.”\n\nElon Musk, replying to a post warning about the bill: “!!”",
+      "pull_quote": "Free speech is the foundation of a free society, and protecting it is a US priority.",
+      "record": [
+        {
+          "date": "2026-11-24",
+          "label": "Labor-Greens deal to pass the digital duty of care legislation through the Senate; “private right of action”; maximum penalty raised to up to 5 per cent of a platform’s global revenue, from up to $109.2 million; users 16 and over can switch off algorithm-driven feeds; the Coalition remains opposed, citing freedom of speech",
+          "source": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-24/federal-politics-labor-makes-deal-greens-on-digital-duty-of-care/107420982",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "U.S. Ambassador David Brat after meeting Wells: “Free speech is the foundation of a free society, and protecting it is a US priority”; “vaguely defined ‘harms’, backed by penalties of up to 5 per cent of global revenue, will push platforms to censor lawful speech”; opposition spokesperson Sarah Henderson: “It is a blank cheque for political censorship”; news and religious organizations carved out",
+          "source": "SBS News (AAP)",
+          "url": "https://www.sbs.com.au/news/article/greens-strike-deal-with-labor-on-digital-duty-of-care-laws/564pk865q",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "Labor-Greens deal; the bill set to pass the Senate",
+          "source": "AAP",
+          "url": "https://aapnews.aap.com.au/news/social-media-overhaul-poised-to-pass-as-deal-reached",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "Musk, 4:34 a.m. ET, replying to Drew Pavlou: “!!”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2125161192293601624",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "Pavlou’s post that Musk replied to (his claims about the bill’s aims are his own and are not adopted by FNN)",
+          "source": "Drew Pavlou on X",
+          "url": "https://x.com/DrewPavlou/status/2125074690129740112",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/australia-duty-of-care-us-ambassador-free-speech.jpg",
+        "alt": "FNN graphic: censor lawful speech",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Australia is set to fine social media up to 5% of global revenue. The U.S. ambassador says the law “will push platforms to censor lawful speech.”",
+        "caption": "“CENSOR LAWFUL SPEECH”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-24"
+    },
+    {
+      "slug": "aer-lingus-free-starlink-europe",
+      "section": "freedom",
+      "kicker": "LATEST · STARLINK",
+      "headline": "Aer Lingus Takes Free Starlink Wi-Fi to Europe After a “Fantastic” Response on Its Flights to North America",
+      "deck": "The rollout starts with an A320 in retro paint. 29 short-haul jets are due by early 2027, starting with routes to Spain, Portugal and Morocco.",
+      "body": "Ireland’s Aer Lingus has started putting free Starlink Wi-Fi on its European flights.\n\nThe first jet: EI-DVM, an Airbus A320 in the airline’s retro paint. The plan: 29 short-haul aircraft by early 2027, starting with routes to Spain, Portugal and Morocco.\n\nWhy? The North American rollout was a hit. “The response from our customers to Starlink Wi-Fi travelling to our North American destinations has been fantastic,” said Chief Customer Officer Susanne Carberry.\n\nOn its A330s, passengers average 1.8GB per connected device, the airline says. That’s about 22 episodes of Bluey.",
+      "pull_quote": "The response from our customers to Starlink Wi-Fi travelling to our North American destinations has been fantastic",
+      "record": [
+        {
+          "date": "2026-11-23",
+          "label": "Press release: rollout begins with EI-DVM, an Airbus A320ceo in retro livery; 29 short-haul aircraft expected early 2027; Spain, Portugal and Morocco first; average 1.8GB per connected device (A330 fleet, Oct. 1–31, 2026), “around 22 episodes of Bluey”; Carberry quote",
+          "source": "Aer Lingus",
+          "url": "https://mediacentre.aerlingus.com/pressrelease/details/108/26607",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "Aer Lingus begins short-haul Starlink rollout; 29 aircraft in early 2027",
+          "source": "International Flight News",
+          "url": "https://international-flight-news.com/en/article/aer-lingus-starlink-short-haul/",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "Free Starlink Wi-Fi on short-haul flights",
+          "source": "Tesla North",
+          "url": "https://teslanorth.com/2026/11/23/aer-lingus-starlink-european-flights/",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "Installation across the short-haul fleet; 29 aircraft in 1Q2027",
+          "source": "CAPA – Centre for Aviation",
+          "url": "https://centreforaviation.com/news/aer-lingus-begins-installation-of-starlink-wifi-connectivity-across-short-haul-fleet-1380890",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/aer-lingus-free-starlink-europe.jpg",
+        "alt": "FNN graphic: free Starlink Wi-Fi",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Aer Lingus is taking free Starlink Wi-Fi to its European flights after a “fantastic” response on North American routes. 29 jets by early 2027.",
+        "caption": "FREE STARLINK, NOW IN EUROPE"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-24"
+    },
+    {
+      "slug": "tesla-spacex-merger-five-directors",
+      "section": "money",
+      "kicker": "LATEST · TESLA × SPACEX",
+      "headline": "REPORTED: Five Directors Are Now Negotiating a Tesla-SpaceX Merger. Musk Can’t Sit at the Table.",
+      "deck": "The Financial Times says the two special committees are working toward an all-stock deal. Musk called a merger “a good idea.” Reuters couldn’t verify it yet.",
+      "body": "REPORTED: Tesla and SpaceX have named five directors to negotiate a merger, the Financial Times reported Tuesday, according to Reuters.\n\nFor Tesla: chair Robyn Denholm, Kathleen Wilson-Thompson and Jack Hartung. For SpaceX: Roelof Botha and Randy Glein.\n\nThe bankers: Morgan Stanley and Goldman Sachs for SpaceX, Evercore for Tesla. The structure: all stock.\n\nMusk called a merger “a good idea” last month, but he can’t formally take part in the talks.\n\nReuters couldn’t immediately verify the report, and the companies didn’t comment. One source told the FT the committees aren’t close to a deal yet.",
+      "pull_quote": "They can’t afford to let Elon bulldoze them. They need to do this by the book.",
+      "record": [
+        {
+          "date": "2026-11-24",
+          "label": "FT report via Reuters: directors Roelof Botha and Randy Glein (SpaceX), Robyn Denholm, Kathleen Wilson-Thompson and Jack Hartung (Tesla); Musk on SpaceX’s third-quarter call: a merger would be “a good idea”; advisers Morgan Stanley and Goldman Sachs (SpaceX), Evercore (Tesla); all-stock; “Reuters could not immediately verify the FT report”",
+          "source": "Reuters (via Investing.com)",
+          "url": "https://www.investing.com/news/stock-market-news/spacex-and-tesla-entrusts-five-directors-for-merger-talks-ft-reports-5047055",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "Potential $3.5 trillion merger; Musk barred from formally participating under Texas governance rules; committees “not yet close to reaching an agreement”; Musk controls about 84% of SpaceX voting rights and about 20% at Tesla",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/spacex-tesla-directors-negotiate-potential-35-trillion-merger-ft-reports-5047091",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "FT source: “They can’t afford to let Elon bulldoze them. They need to do this by the book”",
+          "source": "Stocktwits",
+          "url": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-5-directors-lead-merger-discussions-investor-talks-warp-speed/cNbsbrxR9ke",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "Musk on the October call (in Portuguese translation): “Acho que seria uma boa ideia, mas isso realmente depende dos comitês especiais das duas empresas”",
+          "source": "g1 (Globo)",
+          "url": "https://g1.globo.com/economia/noticia/2026/11/24/tesla-e-spacex-negociam-fusao-ate-o-fim-do-ano.ghtml",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/tesla-spacex-merger-five-directors.jpg",
+        "alt": "FNN graphic: five directors",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "REPORTED: Tesla and SpaceX have named five directors to negotiate a merger, the FT says. Musk can’t formally take part in the talks.",
+        "caption": "FIVE DIRECTORS, ONE MERGER"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-24"
+    },
+    {
+      "slug": "warren-ice-locator-final-orders",
+      "section": "freedom",
+      "kicker": "LATEST · MASSACHUSETTS",
+      "headline": "Elizabeth Warren Wants a Watchdog Probe. Her Target: ICE No Longer Listing Detainees Already Ordered Deported.",
+      "deck": "Warren and 20 other senators say dropping final-order detainees from ICE’s online locator “eliminates transparency.” The watchdog passed on her last request.",
+      "body": "Sen. Elizabeth Warren of Massachusetts and 20 other senators want the Homeland Security inspector general to investigate ICE’s online detainee locator.\n\nTheir complaint: since mid-September, the locator has reportedly stopped listing detainees with final deportation orders.\n\nThe senators say erasing them “eliminates transparency” and leaves families and lawyers unable to find them.\n\nICE did “not confirm or deny” the change, the AP reported in September.\n\nThis is Warren’s second try. In April, she led a request asking the same watchdog to review the locator. In August, it said it didn’t intend to start one.",
+      "pull_quote": "Erasing detained individuals from a public searchable system eliminates transparency.",
+      "record": [
+        {
+          "date": "2026-11-23",
+          "label": "Warren, Van Hollen and Luján “led 18 of their Senate colleagues” asking DHS Inspector General Joseph Cuffari to investigate reports ICE stopped listing detainees with final deportation orders; “Erasing detained individuals from a public searchable system eliminates transparency”; April 2026 request led by Warren (32 members); in August the IG “did not intend to begin an evaluation at that time”",
+          "source": "Sen. Elizabeth Warren press release",
+          "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-van-hollen-lujan-colleagues-seek-watchdog-investigation-into-ices-removal-of-thousands-of-detainees-from-public-locator-system",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "Letter dated Nov. 22; change since Sept. 15; AP (Sept. 21) reported the agency “did not confirm or deny it”; the IG’s Aug. 31 reply",
+          "source": "MigraPrep",
+          "url": "https://migraprep.com/en/news/senators-ig-probe-ice-detainee-locator-removals-2026-11-23/",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "Legal-aid groups sued in Massachusetts federal court Oct. 28; the plaintiffs’ estimate of people affected is an inference from July data, not a head count",
+          "source": "The Intelligent",
+          "url": "https://theintelligent.us/politics/2026/senators-want-watchdog-second-guess-ices-detainee-locator",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/warren-ice-locator-final-orders.jpg",
+        "alt": "FNN graphic: final orders",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Elizabeth Warren wants a watchdog to investigate why ICE’s online locator stopped listing detainees with final deportation orders. The watchdog passed last time.",
+        "caption": "WARREN’S SECOND TRY"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-24"
+    },
     {
       "slug": "tarlov-fine-people-was-about-the-statues",
       "section": "hoax",
@@ -7547,6 +7877,271 @@
       "share": {
         "line": "Hexumlite got into a University of Florida dining hall for $13 in a $590 fake Rolex, logged about 34 approaches and one probable number, and flies to Miami Wednesday for a palatal expander.",
         "caption": "$13 AND A $590 FAKE ROLEX."
+      }
+    },
+    {
+      "slug": "ethiopia-arsi-orthodox-christians-killed",
+      "date": "2026-11-24",
+      "section": "faith",
+      "kicker": "THE PERSECUTED CHURCH",
+      "headline": "“Extremely Tragic Cruelty”: Ethiopia’s Orthodox Church Mourns 60 Faithful Killed in Oromia. Britain Now Condemns It",
+      "deck": "The church says 60 were killed in two October attacks in Arsi. A rights commission confirmed 48 dead in one district. An armed group disputes who died.",
+      "byline": "By FNN Desk",
+      "body": "The Ethiopian Orthodox Tewahedo Church says at least 60 of its faithful were killed in attacks on Oct. 20 and Oct. 24 in the Arsi area of Oromia, Al Jazeera reported. Its Holy Synod called it “extremely tragic cruelty.”\n\nEthiopia’s Human Rights Commission confirmed 48 killed in the Oct. 24 attacks in Shirka. The OLA admits its fighters attacked but calls the dead “part-time combatants.”\n\nNow Britain has answered: “The UK condemns all violence against civilians, including attacks against places of worship and people because of their religion.”\n\n“Whether one member suffer, all the members suffer with it.”",
+      "pull_quote": "The UK condemns all violence against civilians, including attacks against places of worship and people because of their religion.",
+      "record": [
+        {
+          "date": "2026-10-27",
+          "label": "Holy Synod: at least 60 Orthodox Christians killed Oct. 20 (14, Merti district) and Oct. 24 (46, Shirka district); more than 20 injured, 20 homes burned; “extremely tragic cruelty and suffering inflicted on our citizens”; a July report counted at least 432 civilians killed in East Arsi",
+          "source": "Al Jazeera (with Anadolu)",
+          "url": "https://www.aljazeera.com/news/2026/10/27/sixty-christians-killed-in-ethiopias-oromia-region",
+          "role": null
+        },
+        {
+          "date": "2026-10-29",
+          "label": "WCC General Secretary Jerry Pillay: “deeply troubled by the apparent pattern of violence directed against Orthodox Christian communities in Arsi and surrounding areas”; prayer “so that no community lives in fear because of its faith or identity”",
+          "source": "World Council of Churches",
+          "url": "https://www.oikoumene.org/news/wcc-condemns-repeated-killings-in-oromia-ethiopia",
+          "role": null
+        },
+        {
+          "date": "2026-11-04",
+          "label": "Ethiopian Human Rights Commission confirms 48 people killed in Shirka Woreda on Oct. 24",
+          "source": "Addis Standard via allAfrica",
+          "url": "https://allafrica.com/stories/202611040296.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-17",
+          "label": "OLA statement of Nov. 16: the attack “regrettably led to civilian deaths” but the dead were “part-time combatants”; more than 50 detained after burials",
+          "source": "Addis Standard via allAfrica",
+          "url": "https://allafrica.com/stories/202611170296.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "label": "Foreign Office minister Kirsty McNeill, written answer to Desmond Swayne MP: “We are concerned by reports of violence affecting communities in Ethiopia’s Oromia region, including in Arsi Zone. The UK condemns all violence against civilians, including attacks against places of worship and people because of their religion.”",
+          "source": "Premier Christian News",
+          "url": "https://premierchristian.news/us/news/article/uk-condemns-attacks-on-orthodox-christian-communities-in-ethiopia",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "date_label": "Scripture",
+          "label": "1 Corinthians 12:26 (KJV): “And whether one member suffer, all the members suffer with it”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+12%3A26&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/ethiopia-arsi-orthodox-christians-killed.jpg",
+        "alt": "FNN graphic: all the members suffer with it",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Ethiopia’s Orthodox Church mourns 60 faithful killed in Oromia, and Britain now condemns the attacks.",
+        "caption": "“ALL THE MEMBERS SUFFER WITH IT”"
+      }
+    },
+    {
+      "slug": "joseph-schoene-good-samaritan-ghana-beds",
+      "date": "2026-11-24",
+      "section": "faith",
+      "kicker": "YOUNG CHRISTIAN LEADERS",
+      "headline": "“You Just Can’t Stop”: A Senior Built Beds for Refugees in Ghana With His Deacon Dad. Then He Started a Nonprofit",
+      "deck": "Joseph Schoene, 18, raised $4,000 for 25 beds at a Ghana refugee camp. His late grandmother’s idea became The Good Samaritan Organization. Next: 175 beds.",
+      "byline": "By FNN Desk",
+      "body": "For his senior project, Joseph Schoene of Ontario, N.Y., went to Ghana. He raised $4,000 for 25 beds, rice, school supplies and soccer balls, then built the beds at the Tarikom Refugee Camp with his father, Deacon Michael Schoene.\n\n“It immensely improved our father-son relationship,” he told the Catholic Courier.\n\nHis grandmother suggested a nonprofit before she died. He filed the paperwork with his own money. His Good Samaritan Organization hopes to raise $69,000 for 175 beds and safer shelters.\n\nNow a nursing freshman, he’ll go back in 2027: “You get into this work, and you just can’t stop.”",
+      "pull_quote": "You get into this work, and you just can’t stop, because you see how it’s helping people and how grateful they are.",
+      "record": [
+        {
+          "date": "2026-11-05",
+          "label": "Feb. trip with Deacon Michael Schoene; $4,000 raised for 25 beds and mattresses, 42 bags of rice and salt, hygiene and school supplies and two soccer balls; “This trip was my first step into being able to be a part of humanitarian aid, and not just be a witness to it”; “It immensely improved our father-son relationship”; grandmother Lynn Pinkney’s suggestion; used his own money to file incorporation; organization established in May; 175 beds and permanent structures, $69,000 goal; Alfred State nursing; expects to return in 2027; “You get into this work, and you just can’t stop, because you see how it’s helping people and how grateful they are”",
+          "source": "Catholic Courier (Diocese of Rochester)",
+          "url": "https://catholiccourier.com/articles/young-adult-launches-nonprofit-to-bring-aid-to-ghana/",
+          "role": null
+        },
+        {
+          "date": "2026-11-07",
+          "label": "Same project and fundraising goal",
+          "source": "The Daily Goods",
+          "url": "https://thedailygoods.com/neighbors/getting-aid-to-ghana-is-this-young-nonprofit-founders-mission/",
+          "role": null
+        },
+        {
+          "date": "2026-02-23",
+          "label": "“Joey” presents 25 beds and relief items to Burkinabe refugees at Tarikom, “ensuring the donation was made with care and dignity”",
+          "source": "NABOCADO (Navrongo-Bolgatanga Catholic Diocesan Development Organization)",
+          "url": "https://nabocado.org.gh/media/news/18-year-old-american-youth-donates-25-beds-and-relief-items-to-burkinabe-refugees-at-tarikom",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "date_label": "Scripture",
+          "label": "Luke 10:37 (KJV): “Go, and do thou likewise.”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah+26%3A3%3BLuke+10%3A36-37%3B2+Timothy+1%3A5%3BMatthew+9%3A37-38%3BHebrews+13%3A3&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/joseph-schoene-good-samaritan-ghana-beds.jpg",
+        "alt": "FNN graphic: you just can't stop",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "An 18-year-old built beds for refugees in Ghana with his deacon dad, then started a nonprofit to finish the job.",
+        "caption": "“YOU JUST CAN’T STOP”"
+      }
+    },
+    {
+      "slug": "kirk-stay-grounded-its-going-to-be-ok",
+      "date": "2026-11-24",
+      "section": "faith",
+      "kicker": "CHARLIE KIRK REFLECTION",
+      "headline": "“It’s Going to Be OK”: Charlie Kirk’s Advice for Days When People Lose Their Minds, and the Pews That Filled After",
+      "deck": "Months before he was killed, Kirk posted: turn off your phone, read Scripture, see friends. A pastor says it steadied him. His church baptized a record number.",
+      "byline": "By FNN Desk",
+      "body": "June 17, 2025, Charlie Kirk posted: “Turn off your phone, read scripture, spend time with friends, and remember internet fury is not real life. It’s going to be ok.”\n\nAfter Kirk was killed, pastor Seth Troutt wrote in WORLD, “an old tweet from Charlie Kirk himself acted as a balm.”\n\nThe Sunday after, his church had “over 200 guests.” Then: “We baptized more people that fall and spring than in any other previous year of our church.”\n\nOne new believer, “Zach,” said he “went on a journey searching for basic moral coherence.”\n\nThis Thanksgiving week: phone down, Bible open.",
+      "pull_quote": "Turn off your phone, read scripture, spend time with friends, and remember internet fury is not real life.",
+      "record": [
+        {
+          "date": "2025-09-12",
+          "label": "Kirk’s June 17, 2025, 11:07 a.m. post: “When things are moving very fast and people are losing their minds, it’s important to stay grounded. Turn off your phone, read scripture, spend time with friends, and remember internet fury is not real life. It’s going to be ok.”; Shane Harris: “The context of the post was unclear at the time, but it seems especially prescient now”",
+          "source": "AMAC",
+          "url": "https://amac.us/newsline/the-charlie-kirk-tweet-that-every-american-should-read",
+          "role": null
+        },
+        {
+          "date": "2026-09-10",
+          "label": "Seth Troutt: “Then, an old tweet from Charlie Kirk himself acted as a balm”; “We had over 200 guests that Sunday”; “We baptized more people that fall and spring than in any other previous year of our church”; “Zach” (a pseudonym): “I went on a journey searching for basic moral coherence”",
+          "source": "WORLD",
+          "url": "https://wng.org/opinions/one-year-after-charlie-kirks-murder-1789022006",
+          "role": null
+        },
+        {
+          "date": "2026-08-21",
+          "label": "TPUSA Faith initiative inviting Christians “to honor Charlie’s mission to make Heaven crowded by inviting a friend or family member to church”",
+          "source": "Turning Point USA (press release PDF)",
+          "url": "https://tpusa.com/wp-content/uploads/2026/08/Freedom-Built-to-Last-Memorial-2026.pdf",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "date_label": "Accessed Nov. 24",
+          "label": "Make Heaven Crowded Tour: “a gospel centered gathering calling people to repentance, faith, and bold obedience to Jesus”; next stops Eugene, Ore., Nov. 30, and AmericaFest, Phoenix, Dec. 19",
+          "source": "TPUSA Faith Make Heaven Crowded Tour",
+          "url": "https://makeheavencrowdedtour.com",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "date_label": "Scripture",
+          "label": "Isaiah 26:3 (KJV): “Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee.”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah+26%3A3%3BLuke+10%3A36-37%3B2+Timothy+1%3A5%3BMatthew+9%3A37-38%3BHebrews+13%3A3&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/kirk-stay-grounded-its-going-to-be-ok.jpg",
+        "alt": "FNN graphic: it's going to be ok",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Charlie Kirk’s advice for the days when people lose their minds, and the church pews that filled after he was gone.",
+        "caption": "“IT’S GOING TO BE OK”"
+      }
+    },
+    {
+      "slug": "liberia-45000-students-forge-revival",
+      "date": "2026-11-24",
+      "section": "faith",
+      "kicker": "REVIVAL",
+      "headline": "“We Don’t Want a Decision Without a Disciple”: Ministry Reports 45,000 Students in Liberia Have Turned to Christ",
+      "deck": "It began with 28 young evangelists trained in November 2025, CBN reports. The count is the ministry’s own. Each new believer gets a Bible and a church.",
+      "byline": "By FNN Desk",
+      "body": "A year ago, a training in Liberia sent 28 young men and women into its schools and colleges with the gospel, CBN reported.\n\nNow the Denver-based ministry FORGE says 45,000 students, “from elementary school to college,” have turned to Christ. The figure is the ministry’s own; FNN hasn’t independently verified it.\n\n“Hearts are open to Jesus like never before,” FORGE president Charlie Marq told CBN.\n\nFollow-up matters: “We don’t want a decision without a disciple.” Each new believer gets a Bible and a path into a local church.\n\n“The harvest truly is plenteous, but the labourers are few.”",
+      "pull_quote": "Hearts are open to Jesus like never before.",
+      "record": [
+        {
+          "date": "2026-11-09",
+          "label": "FORGE says 45,000 students have turned to Christ through its church-based evangelism and discipleship program; November 2025 training, “28 young men and women who were equipped to take the gospel into schools and colleges”; Charlie Marq: “Hearts are open to Jesus like never before”; “God chooses and uses ordinary people”",
+          "source": "CBN News (Benjamin Gill)",
+          "url": "https://cbn.com/news/world/45000-students-turn-christ-massive-revival-sweeps-liberia",
+          "role": null
+        },
+        {
+          "date": "2026-11-10",
+          "date_label": "November 2026",
+          "label": "FORGE post: students “from elementary school to college”; Marq: “We don’t want a decision without a disciple”; each new believer gets a Bible and a “path into a local church”",
+          "source": "FORGE on LinkedIn",
+          "url": "https://www.linkedin.com/posts/forge-kingdom-building-ministries_forginglives-forgeglobal-liberia-activity-7524850098439176192-uBjS",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "date_label": "Accessed Nov. 24",
+          "label": "Multiplying Movements 12-week discipleship program; “Kingdom Laborers — People who love God, love others, and advance the Kingdom every day, everywhere”; based in Denver",
+          "source": "Forge Forward",
+          "url": "https://www.forgeforward.org/resources/books/mm/",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "date_label": "Scripture",
+          "label": "Matthew 9:37 (KJV): “The harvest truly is plenteous, but the labourers are few”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah+26%3A3%3BLuke+10%3A36-37%3B2+Timothy+1%3A5%3BMatthew+9%3A37-38%3BHebrews+13%3A3&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/liberia-45000-students-forge-revival.jpg",
+        "alt": "FNN graphic: a decision and a disciple",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "A ministry reports 45,000 students in Liberia have turned to Christ, and says each one gets a Bible and a church.",
+        "caption": "“WE DON’T WANT A DECISION WITHOUT A DISCIPLE”"
+      }
+    },
+    {
+      "slug": "lifeway-young-adults-faith-at-home-mom-dad",
+      "date": "2026-11-24",
+      "section": "faith",
+      "kicker": "FAMILY",
+      "headline": "“Praying Together”: Young Evangelicals Say Mom, Dad and Grandma Shaped Their Faith, and Tell Parents What Matters",
+      "deck": "A Lifeway Research survey of 1,318 evangelical young adults: 96% say someone at home was very influential in their walk with Jesus. Top advice: pray together.",
+      "byline": "By FNN Desk",
+      "body": "Lifeway Research asked 1,318 evangelical young adults, ages 18 to 29, what shaped their walk with Jesus. The answer: home.\n\nNinety-six percent said someone in their home growing up was very influential. Three in four named their mom, two in three their dad, about half a grandparent.\n\nTheir top advice to parents today: praying together (54%).\n\n“People at home have a significant impact on kids following Christ,” said Scott McConnell of Lifeway Research.\n\nIt starts young: of those who know when they came to Christ, 83% did before 20.\n\nThis Thanksgiving, pray out loud at the table.",
+      "pull_quote": "People at home have a significant impact on kids following Christ.",
+      "record": [
+        {
+          "date": "2026-11-17",
+          "label": "Survey of 1,318 evangelical young adults (18-29), March 10-April 3, 2026, margin ±3.1%: 96% say someone at home was very influential; mom 75%, dad 66%, grandparent 53%; top advice to parents: praying together (54%); of the 64% who know their age of conversion, 83% say before 20; Scott McConnell: “People at home have a significant impact on kids following Christ”",
+          "source": "Lifeway Research (Aaron Earls)",
+          "url": "https://news.lifeway.com/2026/11/17/young-adults-say-church-home-and-smartphones-have-shaped-their-faith-according-to-lifeway-research/",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "date_label": "Scripture",
+          "label": "2 Timothy 1:5 (KJV): “the unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and thy mother Eunice”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah+26%3A3%3BLuke+10%3A36-37%3B2+Timothy+1%3A5%3BMatthew+9%3A37-38%3BHebrews+13%3A3&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/lifeway-young-adults-faith-at-home-mom-dad.jpg",
+        "alt": "FNN graphic: praying together",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Young evangelicals say Mom, Dad and Grandma shaped their faith. Their top advice to parents: pray together.",
+        "caption": "“PRAYING TOGETHER”"
       }
     },
     {
