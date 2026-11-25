@@ -1,9 +1,417 @@
 {
-  "edition": "2026-11-24-pm1",
-  "date": "2026-11-24",
-  "updated_at": "2026-11-24T18:01:38-05:00",
-  "lead": "musk-huang-mistake-has-been-corrected",
+  "edition": "2026-11-25-am",
+  "date": "2026-11-25",
+  "updated_at": "2026-11-25T04:45:11-05:00",
+  "lead": "usaid-files-gdi-defund-downrank-deplatform",
   "stories": [
+    {
+      "slug": "usaid-files-gdi-defund-downrank-deplatform",
+      "section": "fake",
+      "kicker": "MEDIA WATCH · UNMASKED",
+      "headline": "USAID Opens Its Files. Inside: A News-Rating Group’s Pitch to “Defund,” “Downrank” and “Deplatform” Media",
+      "deck": "The Global Disinformation Index called itself “steadfastly bipartisan.” Its 2022 note for USAID proposed working with the platforms to do all three.",
+      "body": "USAID’s website now opens on a page called “USAID Files”: memos, emails and videos about the agency’s disinformation work, posted Tuesday.\n\nOne file is a 2022 concept note from the Global Disinformation Index, a group that rates news sites. It says GDI’s blacklist of “2500+” sites was embedded in thirteen ad tech companies.\n\nIts pitch for Moldova, Zambia and Armenia: work with the platforms to “Defund,” “Downrank” and “Deplatform.”\n\nPage one of the same note: GDI is “committed to neutrality, remaining steadfastly bipartisan.”\n\nThe release doesn’t say whether USAID took the pitch. Elon Musk: “Interesting.”",
+      "pull_quote": "We are committed to neutrality, remaining steadfastly bipartisan",
+      "record": [
+        {
+          "date": "2026-11-24",
+          "label": "USAID.gov now opens on “USAID Files”: “Under previous administrations, USAID was weaponized to advance a radical agenda fundamentally at odds with American values. In the interest of transparency and accountability, we are publishing files, memos, and internal communications detailing how the agency operated.” Listed files include “GDI Concept Note for USAID,” “DRAFT - Partnership Language for Facebook,” “Talking Points and Asks for Google and YouTube” and “Fwd: Request for Meeting between YouTube CEO Susan Wojcicki and Administrator Power”",
+          "source": "USAID.gov",
+          "url": "https://www.usaid.gov/",
+          "role": null
+        },
+        {
+          "date": "2022-08-01",
+          "date_label": "August 2022",
+          "label": "GDI concept note: the “GDI Dynamic Exclusion List” (of the “2500+ worst offending disinformation sites”) is “currently embedded in the systems of thirteen global ad tech companies”; “We are committed to neutrality, remaining steadfastly bipartisan”; proposed Media Market Reviews in “Moldova, Zambia, and Armenia,” with risk ratings “shared privately with USAID,” and a pilot to work with platforms to “Defund,” “Downrank” and “Deplatform” high-risk media “in these countries”",
+          "source": "Global Disinformation Index, concept note prepared for USAID",
+          "url": "https://www.usaid.gov/files/gdi-usaid-concept-note-august-2022-293a61098fd0.pdf",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "Edward Coristine: “Now on USAID.gov, you can read internal memos and communications showing how the agency actually operated behind the scenes”",
+          "source": "Edward Coristine on X",
+          "url": "https://x.com/as400495/status/2125408304444674380",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "Musk, 9:08 p.m. ET, quoting Coristine’s post: “Interesting”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2125411174993010839",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/usaid-files-gdi-defund-downrank-deplatform.jpg",
+        "alt": "FNN graphic: defund, downrank, deplatform",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "USAID just posted its own files. One is a 2022 pitch from a news-rating group that calls itself “steadfastly bipartisan”: “Defund,” “Downrank,” “Deplatform.”",
+        "caption": "DEFUND. DOWNRANK. DEPLATFORM."
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-25"
+    },
+    {
+      "slug": "hhs-radical-transparency-nih-twitter-memo",
+      "section": "freedom",
+      "kicker": "LATEST · RADICAL TRANSPARENCY",
+      "headline": "RFK Jr. Posts 92,000-Plus HHS Records. One of Them: Biden’s NIH Weighing Whether to Quit Twitter After Musk Bought It",
+      "deck": "The new site replaces HHS’s old FOIA reading room and includes Kennedy’s own calendars. HHS says more records are coming.",
+      "body": "HHS launched Radical Transparency on Tuesday: one searchable site for records from the FDA, CDC, NIH and more. Bloomberg Law counted more than 92,000 documents.\n\nFeatured: a Biden-era NIH memo examining whether the agency should leave Twitter after Elon Musk’s acquisition. Also posted: Kennedy’s calendars, which reporters had requested.\n\n“If the government makes decisions that affect your health, you deserve to see the evidence behind them,” Kennedy said. “Not simply to be told, ‘trust the science.’”\n\nOne FOIA expert told Federal News Network that HHS should disclose how it picks what goes up.",
+      "pull_quote": "Not simply to be told, ‘trust the science.’",
+      "record": [
+        {
+          "date": "2026-11-24",
+          "label": "HHS launches Radical Transparency, which replaces its “Online Reading Room”; Kennedy: “We will earn the public’s trust by opening our records and showing our work”; featured records include “a newly released Biden-era NIH memo examining whether the agency should leave Twitter after Elon Musk’s acquisition, along with Secretary Kennedy’s calendars”",
+          "source": "HHS press release",
+          "url": "https://www.hhs.gov/press-room/hhs-launches-radical-transparency-website-government-records.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "Site hosts “more than 92,000 documents”; about a quarter not previously made public, per a spokesperson",
+          "source": "Bloomberg Law (Jessica Nix)",
+          "url": "https://news.bloomberglaw.com/health-law-and-business/new-federal-health-site-shows-rfk-jr-calendars-covid-records",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "Kennedy video: “If the government makes decisions that affect your health, you deserve to see the evidence behind them. Not simply to be told, ‘trust the science.’” The calendars had been requested by reporters and “have not been publicly disclosed before now.” Democrats’ Nov. 19 letter cited “an alarming lack of public transparency”",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/politics/biden-admin-weighed-quitting-twitter-elon-musk-purchase-hhs-doc-drop-reveals",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "Ohio State FOIA expert Margaret Kwoka says the portal could increase transparency but HHS should disclose its criteria for choosing records",
+          "source": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/open-datatransparency/2026/11/hhs-unveils-new-foia-portal-pilots-ai-to-speed-up-record-reviews/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/hhs-radical-transparency-nih-twitter-memo.jpg",
+        "alt": "FNN graphic: radical transparency",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "HHS just put more than 92,000 records online, including a Biden-era NIH memo on whether to quit Twitter after Musk bought it. RFK Jr.: “Not simply to be told, ‘trust the science.’”",
+        "caption": "“SHOWING OUR WORK”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-25"
+    },
+    {
+      "slug": "spacex-forgoes-738-million-bead-free-dish",
+      "section": "money",
+      "kicker": "MONEY · STARLINK",
+      "headline": "SpaceX Walks Away From $738 Million in Broadband Subsidies. Rural Homes Still Get Starlink, and the Dish Is Free",
+      "deck": "Under NTIA’s new model deal, SpaceX keeps BEAD’s speed and testing rules at no cost to the program. Some states were caught by surprise.",
+      "body": "SpaceX won roughly $738 million in BEAD awards to connect rural America. Now it’s turning down the money and serving those locations anyway, Broadband Breakfast reports.\n\nNTIA’s new model agreement keeps the rules: required speeds, performance testing, a low-cost plan, and equipment “at no additional cost.”\n\n“I am pleased this new agreement has the potential to save taxpayers hundreds of millions of dollars while getting more Americans connected faster,” said NTIA Administrator Arielle Roth.\n\nThe trade: SpaceX skips state financial reporting and default penalties. States can sign on or rebid.\n\nMusk’s review: “Starlink.”",
+      "pull_quote": "save taxpayers hundreds of millions of dollars",
+      "record": [
+        {
+          "date": "2026-11-23",
+          "label": "Model agreement: the provider must serve at BEAD-required speeds, provide customer premises equipment “at no additional cost,” comply with performance testing, offer a low-cost option and file semi-annual reports; states that don’t use it must find a provider “at a cost comparable” to the original award",
+          "source": "NTIA BroadbandUSA",
+          "url": "https://broadbandusa.ntia.gov/waivers-policies/BEAD_Model_Zero_Outlay_Agreement",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "SpaceX forgoes “about $738 million”; SpaceX approached NTIA after contract disputes with states over financial reporting and default penalties; Roth: “I am pleased this new agreement has the potential to save taxpayers hundreds of millions of dollars while getting more Americans connected faster”",
+          "source": "Broadband Breakfast (Jake Neenan)",
+          "url": "https://broadbandbreakfast.com/spacex-declines-bead-winnings-wants-to-serve-locations-at-no-cost/",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "label": "Monthly subscription not waived; Telecompetitor put the forgone amount at about $636 million; a $0 award keeps other federal broadband money from going to competitors in those areas",
+          "source": "Teslarati",
+          "url": "https://www.teslarati.com/spacex-starlink-rejects-fed-subsidy/",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "State broadband offices now must sign or rebid",
+          "source": "Fierce Network",
+          "url": "https://www.fierce-network.com/broadband/spacex-declines-bead-awards-putting-state-broadband-offices-pickle",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "Musk, 6:00 p.m. ET, quoting Sawyer Merritt’s post on the deal: “Starlink”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2125363942977597554",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/spacex-forgoes-738-million-bead-free-dish.jpg",
+        "alt": "FNN graphic: $738 million, declined",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "SpaceX is turning down about $738 million in federal broadband subsidies and serving the rural homes it won anyway, with free Starlink equipment for new subscribers.",
+        "caption": "$738 MILLION: NO THANKS"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-25"
+    },
+    {
+      "slug": "musk-foundation-austin-foster-youth-housing",
+      "section": "freedom",
+      "kicker": "LATEST · ELON MUSK",
+      "headline": "Musk’s Foundation Gives $500,000 to House Austin’s Former Foster Kids. The City Matches It. Musk: “The News Is Accurate”",
+      "deck": "The $1 million total will help up to 100 young adults leaving foster care find housing and support, the City of Austin says.",
+      "body": "The City of Austin says it has secured $500,000 in matching funds from the Musk Foundation to house former foster youth experiencing homelessness.\n\nThat unlocks $500,000 Council Member Ryan Alter put in the city budget. Total: $1 million, for up to 100 young adults.\n\nThe money, Alter said, will “save taxpayers from supporting these kids for decades.”\n\nThe need is real: 33% of Texas youth who age out of foster care experience homelessness by 21, a 2025 University of Texas report found, the American-Statesman reported.\n\nMusk’s confirmation on X: “The news is accurate.”",
+      "pull_quote": "The news is accurate",
+      "record": [
+        {
+          "date": "2026-11-18",
+          "label": "City secures “$500,000 in matching funds from the Musk Foundation,” bringing the total to $1 million to help “up to 100 young adults”; the match won’t come from cutting existing homeless services; Alter: “These funds will not just help these kids be set up for success, they will save taxpayers from supporting these kids for decades”",
+          "source": "City of Austin",
+          "url": "https://www.austintexas.gov/homeless-strategies/news/city-austin-secures-matching-funds-expand-housing-assistance-former-foster",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "Texas Institute for Child and Family Wellbeing (UT) 2025 report: 33% of Texas youth who age out of foster care experience homelessness by age 21, vs. 29% nationally",
+          "source": "Austin American-Statesman (via Yahoo News)",
+          "url": "https://www.yahoo.com/news/us/articles/austin-secures-matching-grant-help-204909115.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "label": "Musk publicly confirmed the donation on X",
+          "source": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/report-claims-elon-musk-made-500000-donation-to-austin-to-help-homeless-young-adults-find-homes-tesla-ceo-responds/articleshow/136146401.cms",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "Musk, 7:11 p.m. ET, quoting a post on the city’s announcement: “The news is accurate”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2125381945672761599",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/musk-foundation-austin-foster-youth-housing.jpg",
+        "alt": "FNN graphic: $500,000 for former foster youth",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "The Musk Foundation put up $500,000, Austin matched it, and up to 100 young adults leaving foster care get help finding a home. Musk: “The news is accurate.”",
+        "caption": "$500,000 FOR FOSTER YOUTH"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-25"
+    },
+    {
+      "slug": "x-uk-high-court-creator-payout-judgment",
+      "section": "money",
+      "kicker": "LATEST · X",
+      "headline": "X Sued a Network It Says Gamed Creator Payouts. A London Court Just Entered Judgment Against Two of the Men",
+      "deck": "The defendants never answered the claim, and damages are still to be set. X’s top lawyer: “Do not mess with @X.”",
+      "body": "In September, X sued people it said ran a network of Bitcoin-focused accounts that boosted each other to farm Creator Revenue Sharing payouts.\n\nX claims the scheme collected at least £207,384, about $277,000, CryptoTimes reported.\n\nOn Nov. 20, the High Court in London entered a default judgment against two defendants, who never answered the claim. A later hearing will set what they owe.\n\n“We aren't kidding around,” wrote X general counsel James Burnham. “Fraudsters worldwide: Do not mess with @X.”\n\nElon Musk agreed: “Don’t mess with 𝕏.”",
+      "pull_quote": "Fraudsters worldwide: Do not mess with @X",
+      "record": [
+        {
+          "date": "2026-11-24",
+          "label": "Burnham: “In September, @X sued people who abused Creator Revenue Sharing by operating a network of accounts to manipulate engagement. The UK High Court has now entered a judgment against two of them. We aren't kidding around. Fraudsters worldwide: Do not mess with @X.”",
+          "source": "James Burnham on X",
+          "url": "https://x.com/BurnhamDC/status/2125292603331502105",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "label": "Order dated Nov. 20, 2026, claim BL-2026-001161; default judgment on liability because the defendants did not respond; X claims at least £207,384 (about $277,000); damages set at a later Disposal Hearing; defendants may still apply to set it aside",
+          "source": "CryptoTimes",
+          "url": "https://www.cryptotimes.io/2026/11/25/x-wins-uk-high-court-default-judgment-in-207k-bitcoin-creator-payout-case/",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "The court page shared does not show the judgment’s terms; the £207,000 figure is X’s claim, not a confirmed award; the program was wound down in September",
+          "source": "TeslaNorth",
+          "url": "https://teslanorth.com/2026/11/24/x-says-uk-court-entered-judgment-in-creator-payout-case/",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "label": "X’s court win over the alleged Bitcoin bot scheme",
+          "source": "crypto.news",
+          "url": "https://crypto.news/x-wins-bitcoin-creator-payout-fraud-lawsuit/",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "Musk, 7:18 p.m. ET, quoting Burnham: “Don’t mess with 𝕏”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2125383610266157090",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/x-uk-high-court-creator-payout-judgment.jpg",
+        "alt": "FNN graphic: don't mess with X",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "X sued a network it says farmed creator payouts with fake engagement. A London court entered judgment against two defendants who never answered. Musk: “Don’t mess with 𝕏.”",
+        "caption": "“DON’T MESS WITH 𝕏”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-25"
+    },
+    {
+      "slug": "campbell-sues-hud-mixed-status-housing-rule",
+      "section": "freedom",
+      "kicker": "LATEST · MASSACHUSETTS",
+      "headline": "Andrea Campbell Sues to Keep HUD Aid for Mixed-Status Homes. HUD: Up to $218 Million Goes to Americans on the Waitlist",
+      "deck": "The Massachusetts AG co-led 23 plaintiffs in federal court. HUD Secretary Scott Turner says the rule “ends the exploitation of taxpayer dollars.”",
+      "body": "Massachusetts AG Andrea Joy Campbell co-led a coalition suing HUD in federal court Monday.\n\nThe target: a HUD rule, set for Dec. 14, that cuts off assistance to any household with a member who isn’t a citizen or eligible immigrant. Today, aid is prorated to cover only eligible members.\n\nCampbell says the rule “will put more families at risk of homelessness,” and cites HUD’s own estimate: 55,000 fully eligible people could lose aid.\n\nHUD Secretary Scott Turner: “This change represents a reallocation of up to $218 million which will now go to eligible Americans that are currently on a waitlist.”",
+      "pull_quote": "ONLY AMERICAN citizens and certain eligible noncitizens will reside in HUD-funded housing",
+      "record": [
+        {
+          "date": "2026-11-23",
+          "label": "Campbell co-led “a coalition of 22 other states”; the rule would cut off any household “with at least one member who is not a U.S. citizen or eligible immigrant”; Campbell: “This rule will put more families at risk of homelessness”; HUD estimates about 20,000 mixed-status families (78,100 people), including 55,000 fully eligible people, will lose assistance; at least 900 Massachusetts households affected",
+          "source": "Massachusetts Attorney General’s Office (release, via Forth)",
+          "url": "https://www.forth.news/lists/maoag/ChLXybohmL5fFbhoEnXET",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "Complaint, California et al. v. HUD, U.S. District Court for the District of Massachusetts",
+          "source": "Court filing (California AG’s site)",
+          "url": "https://oag.ca.gov/system/files/attachments/press-docs/california-v-hud-d-mass-nov-23-2026-2.pdf",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "Turner: “HUD’s final rule fully implements the 1980 Housing and Community Development Act and ends the exploitation of taxpayer dollars. This rule guarantees ONLY AMERICAN citizens and certain eligible noncitizens will reside in HUD-funded housing. This change represents a reallocation of up to $218 million which will now go to eligible Americans that are currently on a waitlist”; the rule takes effect Dec. 14",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/news/us-news/states-sue-hud-rule-cut-housing-aid-mixed-immigration-status-families-rcna611077",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "Same Turner statement; Turner earlier called it closing a “decades-old loophole”",
+          "source": "LAist",
+          "url": "https://laist.com/news/housing-homelessness/california-states-sue-block-trump-housing-rule-immigrant-families",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "HUD press office statement attributed to Turner",
+          "source": "CalMatters",
+          "url": "https://calmatters.org/housing/2026/11/hud-mixed-status-lawsuit/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/campbell-sues-hud-mixed-status-housing-rule.jpg",
+        "alt": "FNN graphic: $218 million to the waitlist",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Massachusetts AG Andrea Campbell is suing to keep HUD aid flowing to households with ineligible members. HUD says the rule frees up to $218 million for Americans on the waitlist.",
+        "caption": "$218 MILLION FOR THE WAITLIST"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-25"
+    },
+    {
+      "slug": "doj-largest-scam-crackdown-no-left-coverage",
+      "section": "fake",
+      "kicker": "MEDIA WATCH · BURIED",
+      "headline": "DOJ’s Largest-Ever Scam Crackdown Hits 800-Plus Defendants. Left-Rated Outlets Covering It, per Ground News: Zero",
+      "deck": "Blanche and Patel announced it Tuesday. Ground News flagged it as a blindspot: all 10 sources it counted were rated right.",
+      "body": "Tuesday, the Justice Department announced what it calls its largest-ever crackdown on scammers: over 400 cases against over 800 defendants since President Trump’s March 6 executive order.\n\nThe FBI says it helped dismantle over 29 scam compounds and free more than 2,200 trafficked workers forced to run them.\n\n“Predatory scams against the American people will not be tolerated,” said Attorney General Todd Blanche.\n\nAmericans lost an estimated $68 billion to scams in 2025, according to Gallup.\n\nGround News’ Blindspot Report: “No Left Coverage.” Apparently, Grandma’s savings are a right-wing story.",
+      "pull_quote": "Predatory scams against the American people will not be tolerated",
+      "record": [
+        {
+          "date": "2026-11-24",
+          "label": "“over 400 cases against over 800 defendants” since Executive Order 14390 (March 6); FBI helped “dismantle over 29 scam compounds” and liberate “more than 2,200 trafficked workers”; Blanche: “Predatory scams against the American people will not be tolerated”; Gallup: Americans lost “an estimated $68 billion to scams in 2025”",
+          "source": "U.S. Department of Justice",
+          "url": "https://www.justice.gov/opa/pr/justice-department-announces-largest-ever-crackdown-scammers-targeting-over-800-defendants",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "Blindspot Report: “More than 800 people charged in scams that tried to steal $8 billion, DOJ announces”: “Blindspot: No Left Coverage · 10 sources”; “Right: 100%”",
+          "source": "Ground News",
+          "url": "https://ground.news/newsletters/blindspot-report/Nov-24-2026",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "Fox: over 800 charged, “recovering more than $8 billion in intended losses”",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/politics/doj-recovers-8b-charges-more-than-800-suspects-largest-anti-scam-surge-history",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "label": "Coverage of the crackdown",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/us-news/us-announces-largest-ever-anti-scam-crackdown-charges-over-800-defendants-and-recovers-8-billion-101795542367987.html",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/doj-largest-scam-crackdown-no-left-coverage.jpg",
+        "alt": "FNN graphic: no left coverage",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "DOJ charged 800-plus defendants in its largest-ever scam crackdown, and the FBI helped free 2,200 trafficked workers. Ground News found “No Left Coverage.”",
+        "caption": "“NO LEFT COVERAGE”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-25"
+    },
+    {
+      "slug": "doj-forfeit-1-1-billion-north-korea-binance",
+      "section": "money",
+      "kicker": "LATEST · NORTH KOREA",
+      "headline": "North Korea’s Hackers Stole $6 Billion From Binance. The Feds Froze Fast, and Now Move to Take $1.1 Billion Back",
+      "deck": "The U.S. says it has helped freeze, seize or return over $2.9 billion so far. About $2.35 billion is still out there, Elliptic says.",
+      "body": "On or about Oct. 29, North Korean hackers stole more than $6 billion in crypto from Binance, the Justice Department says.\n\nMonday, prosecutors filed to forfeit over $1.1 billion in frozen USDC. So far, the U.S. has helped freeze, seize or return over $2.9 billion.\n\n“Secret Service investigators worked with precision to identify and freeze stolen funds within minutes of the hack,” said Special Agent in Charge Todd Bratz.\n\nNot done yet: about $2.35 billion is still in wallets tied to the theft, CoinDesk reported, citing Elliptic. Binance covered customers from its own funds.",
+      "pull_quote": "freeze stolen funds within minutes of the hack",
+      "record": [
+        {
+          "date": "2026-11-23",
+          "label": "Action to forfeit “over $1.1 billion” in USDC; U.S. has assisted in “the freezing, seizing, and/or the return of over $2.9 billion”; Duva: hackers “stole more than $6 billion in cryptocurrency from Binance”; Bratz: “Secret Service investigators worked with precision to identify and freeze stolen funds within minutes of the hack”",
+          "source": "U.S. Department of Justice",
+          "url": "https://www.justice.gov/opa/pr/united-states-files-action-recover-more-1-billion-cryptocurrency-assets-stolen-north-korean",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "About $2.35 billion still in wallets linked to the theft (Elliptic); the forfeiture covers already-frozen funds, not new freezes; Binance replaced customer assets from its own funds and insurance reserves",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/11/24/u-s-seeks-usd1-1-billion-seized-in-binance-hack-as-north-korean-funds-keep-moving",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/doj-forfeit-1-1-billion-north-korea-binance.jpg",
+        "alt": "FNN graphic: $1.1 billion, frozen",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "North Korean hackers stole $6 billion from Binance. The feds froze funds within minutes and now move to forfeit $1.1 billion. About $2.35 billion is still loose.",
+        "caption": "$1.1 BILLION, FROZEN"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-25"
+    },
     {
       "slug": "musk-huang-mistake-has-been-corrected",
       "section": "thenvsnow",
@@ -7955,6 +8363,254 @@
       "share": {
         "line": "Hexumlite got into a University of Florida dining hall for $13 in a $590 fake Rolex, logged about 34 approaches and one probable number, and flies to Miami Wednesday for a palatal expander.",
         "caption": "$13 AND A $590 FAKE ROLEX."
+      }
+    },
+    {
+      "slug": "kirk-its-the-holy-spirit-self-control",
+      "date": "2026-11-25",
+      "section": "faith",
+      "kicker": "CHARLIE KIRK REFLECTION",
+      "headline": "“It’s the Holy Spirit”: Charlie Kirk Refused Credit for His Calm. A Virginia Lawyer Heard Him Say It and Found Jesus",
+      "deck": "Kirk called self-control the hardest fruit of the Spirit for him. After his death, a 40-year-old lawyer who had never believed asked God if Jesus was real.",
+      "byline": "By FNN Desk",
+      "body": "People always asked Charlie Kirk how he kept his cool. In a TPUSA Faith clip with George Janko, he answered: “I don’t actually, it’s the Holy Spirit.”\n\nSelf-control, he said, was “the hardest for me.”\n\nDamon Ferrara, a Falls Church, Virginia, lawyer, didn’t believe in Jesus “until I was 39.” After Kirk was shot, he watched the clips. One stuck.\n\nDays later, out on a run, he asked God: “Is Jesus real?”\n\n“My life now, I pray daily,” Ferrara told The Washington Post.\n\nGalatians 5: the fruit of the Spirit includes “self-control.”",
+      "pull_quote": "I don’t actually, it’s the Holy Spirit",
+      "record": [
+        {
+          "date": "2024-07-11",
+          "label": "Kirk, TPUSA Faith video with George Janko (“Struggling with Self-Control?”), transcript: self-control “the hardest for me”; “I would have no self-control which is hilarious because it’s one of the top compliments I receive”; “I don’t actually it’s the Holy Spirit” (auto-transcript; date as listed by the archive)",
+          "source": "Remembering Charlie Kirk (transcript)",
+          "url": "https://www.charliekirk.co.za/video/charlie-kirk-credits-the-holy-spirit-not-himself-for-the-self-control-people-praise-him-for/3079/",
+          "role": null
+        },
+        {
+          "date": "2024-07-11",
+          "date_label": "Video",
+          "label": "“Struggling with Self-Control?” with Charlie Kirk and George Janko, TPUSA Faith channel",
+          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=KpErp607i8c",
+          "role": null
+        },
+        {
+          "date": "2026-09-10",
+          "label": "Damon Ferrara, 40, Falls Church lawyer: did not believe “until I was 39”; recalls Kirk: “I can tell you it’s not me. If it was me, I’d be yelling and screaming. It’s the Holy Spirit”; “Is Jesus real?”; “My life now, I pray daily. Jesus Christ is the most important thing to me in the world”",
+          "source": "The Washington Post (republished by DNYUZ)",
+          "url": "https://dnyuz.com/2026/09/10/charlie-kirks-killing-a-year-ago-reshaped-their-lives-six-people-tell-how/",
+          "role": null
+        },
+        {
+          "date": "2026-09-10",
+          "label": "Same Washington Post story, syndicated",
+          "source": "The Seattle Times",
+          "url": "https://www.seattletimes.com/nation-world/charlie-kirks-killing-a-year-ago-reshaped-their-lives-6-people-tell-how/",
+          "role": null
+        },
+        {
+          "date": "2026-09-10",
+          "label": "Turning Point: Kirk “was willing to walk into difficult rooms, have uncomfortable conversations, and stand firmly for what he believed because he wanted others to know the hope and truth he had in Jesus”",
+          "source": "Turning Point USA",
+          "url": "https://tpusa.com/live/turning-point-honors-charlie-kirks-legacy-one-year-later/",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "date_label": "Scripture",
+          "label": "Galatians 5:22-23 (ESV): “But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Galatians+5%3A22-23&version=ESV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/kirk-its-the-holy-spirit-self-control.jpg",
+        "alt": "FNN graphic: it's the Holy Spirit",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Charlie Kirk never took credit for his calm: “It’s the Holy Spirit.” A Virginia lawyer heard him say it, asked “Is Jesus real?” and now prays every day.",
+        "caption": "“IT’S THE HOLY SPIRIT”"
+      }
+    },
+    {
+      "slug": "north-korea-christians-pray-eyes-open",
+      "date": "2026-11-25",
+      "section": "faith",
+      "kicker": "THE PERSECUTED CHURCH",
+      "headline": "“Are You Praying?”: North Korea’s Christians Pray With Their Eyes Open and Are Beaten for It, a New Report Says",
+      "deck": "A British rights group interviewed 570 North Korean escapees over five years. Most said they had experienced or witnessed persecution of Christians.",
+      "byline": "By FNN Desk",
+      "body": "In North Korea, Kim Bo-bin learned to pray with her eyes open. “If there are three people in a room, you are being spied on,” she told the BBC.\n\nKorea Future, a British rights group, interviewed 570 escapees over five years. Most said they had experienced or witnessed persecution of Christians, including beatings and torture as recently as last year.\n\nIn prison, Lee Young-joo said, guards shouted “Are you praying?” whenever an inmate shut her eyes.\n\nWhen her mother asked where they would ever live together, Lee answered: “In heaven.”\n\nBoth now live in South Korea.",
+      "pull_quote": "In heaven",
+      "record": [
+        {
+          "date": "2026-11-24",
+          "label": "Korea Future report: 570 escapees interviewed over five years; most experienced or witnessed persecution of Christians; beatings and torture as recently as last year; UN-cited estimate of 200,000 to 400,000 secret believers; Kim Bo-bin: “In North Korea, if there are three people in a room, you are being spied on”; guards shouted “Are you praying?”; Lee Young-joo to her mother: “In heaven”; Kang Dong-wan: “The North Korean leader’s authority is god-like” … “So they cannot allow gods whose authority is above him”",
+          "source": "BBC News (Jake Kwon, Seoul)",
+          "url": "https://www.bbc.com/news/articles/cqgkv8kp7145o",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/north-korea-christians-pray-eyes-open.jpg",
+        "alt": "FNN graphic: are you praying?",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "North Korean Christians pray with their eyes open so the guards won't know. A new report on 570 escapees documents beatings for their faith.",
+        "caption": "“ARE YOU PRAYING?”"
+      }
+    },
+    {
+      "slug": "maine-st-dominic-academy-supreme-court",
+      "date": "2026-11-25",
+      "section": "faith",
+      "kicker": "RELIGIOUS LIBERTY",
+      "headline": "“Stop Leaving Religious Families Out in the Cold”: Maine Catholic Schools Take Carson v. Makin Back to the Supreme Court",
+      "deck": "Becket’s petition, filed Nov. 20, says Maine rewrote its rules to keep schools with Catholic beliefs on marriage and family out of rural tuition aid.",
+      "byline": "By FNN Desk",
+      "body": "In rural Maine, towns without public high schools help pay private tuition. In 2022, the Supreme Court ruled 6-3 in Carson v. Makin that Maine couldn’t shut out religious schools.\n\nBecket says Maine changed the law first, giving its Human Rights Commission the last word on policies upholding Catholic beliefs about marriage and family.\n\nOn Nov. 20, Becket asked the justices to step in.\n\n“The Supreme Court told Maine to stop leaving religious families out in the cold,” said Becket’s Adèle Keim. “Instead, Maine passed a new law to ‘outmaneuver’ the Court.”\n\nSt. Dominic’s high school has closed.",
+      "pull_quote": "Maine should stop playing politics and let Maine families choose the school that's right for them",
+      "record": [
+        {
+          "date": "2026-11-23",
+          "label": "Becket announces cert petition; Keim: “The Supreme Court told Maine to stop leaving religious families out in the cold. Instead, Maine passed a new law to ‘outmaneuver’ the Court”; “Maine should stop playing politics and let Maine families choose the school that’s right for them”",
+          "source": "Becket (press release)",
+          "url": "https://becketfund.org/media/becket-to-supreme-court-end-maines-defiant-attack-on-faith-based-education/",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "date_label": "Accessed Nov. 25, 2026",
+          "label": "Suit filed June 13, 2023; district court loss August 2024; First Circuit loss July 2026; petition filed Nov. 20, 2026; Maine’s law gives the Human Rights Commission “the final word on admissions, conduct, speech, and policies upholding Catholic beliefs regarding marriage, gender, and family life”; St. Dominic now K–8",
+          "source": "Becket (case page)",
+          "url": "https://becketfund.org/case/st-dominic-academy-v-makin/",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "Carson v. Makin 6-3 (2022); schools taking public tuition must comply with Maine’s Human Rights law; Judge Woodcock: plaintiffs “cannot require the state to subsidize their religious teachings if they conflict with state antidiscrimination law”",
+          "source": "WMTW",
+          "url": "https://www.wmtw.com/article/catholic-schools-ask-supreme-court-to-review-maine-tuition-assistance-rules/74518342",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "Diocese of Portland and Becket ask the Supreme Court to hear the case",
+          "source": "The Catholic Herald",
+          "url": "https://thecatholicherald.com/article/maine-diocese-challenges-state-tuition-law-at-supreme-court",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/maine-st-dominic-academy-supreme-court.jpg",
+        "alt": "FNN graphic: out in the cold",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Maine lost Carson v. Makin in 2022. Its Catholic schools say the state rewrote the rules to keep them out anyway, and they're asking the Supreme Court to step in.",
+        "caption": "“OUT IN THE COLD”"
+      }
+    },
+    {
+      "slug": "stanford-catholic-converts-lilly-campus-ministry",
+      "date": "2026-11-25",
+      "section": "faith",
+      "kicker": "FAITH ON CAMPUS",
+      "headline": "“The Spirit Is Moving in Remarkable Ways”: Stanford Goes From Four Adult Baptisms a Year to 46 Entering the Church",
+      "deck": "And a national foundation is putting up to $300 million behind college ministry, citing a “significant uptick” in students at worship.",
+      "byline": "By FNN Desk",
+      "body": "For three decades, Stanford’s Catholic community averaged four adult baptisms a year, The Stanford Review reported. At Easter 2026, 46 students and young adults were fully initiated into the Church.\n\n“I find that young people are responding to beauty,” Father Bart Hutcherson told EWTN News. He won’t call it a revival yet: “The Spirit is moving in remarkable ways.”\n\nLilly Endowment is putting up to $300 million behind college ministry, citing “a significant uptick in the number of students who are participating in worship services.”\n\nHome for Thanksgiving? Ask the new believer at your table about it.",
+      "pull_quote": "The Spirit is moving in remarkable ways",
+      "record": [
+        {
+          "date": "2026-09-30",
+          "label": "Average of four adult baptisms a year for three decades; 46 initiated at Easter 2026 (16 baptized, 10 received, 20 confirmed), up from 14; Hallow data from about 60 ministries: OCIA participation up 115% on average",
+          "source": "The Stanford Review",
+          "url": "https://stanfordreview.org/catholic-conversions-surge-at-stanford-from-4-to-46-annually/",
+          "role": null
+        },
+        {
+          "date": "2026-10-19",
+          "label": "Hutcherson: “I find that young people are responding to beauty”; “I’ve been hesitant to call it a revival”; “The Spirit is moving in remarkable ways”",
+          "source": "Catholic World Report (EWTN News)",
+          "url": "https://www.catholicworldreport.com/2026/10/19/beauty-tradition-fellowship-drive-surge-in-new-catholic-converts-at-stanford-university/",
+          "role": null
+        },
+        {
+          "date": "2026-10-01",
+          "label": "Up to $300 million for two national initiatives; Coble: “a significant uptick in the number of students who are participating in worship services and other religious activities”",
+          "source": "Lilly Endowment",
+          "url": "https://lillyendowment.org/news/two-new-national-initiatives-seek-to-strengthen-ministries-with-college-students/",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "date_label": "Accessed Nov. 25, 2026",
+          "label": "Campus Ministry Initiative: concept papers due Jan. 25, 2027",
+          "source": "Lilly Endowment",
+          "url": "https://lillyendowment.org/campus-ministry-initiative/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/stanford-catholic-converts-lilly-campus-ministry.jpg",
+        "alt": "FNN graphic: from 4 to 46",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Stanford averaged four adult baptisms a year for three decades. At Easter 2026, 46 students and young adults entered the Church.",
+        "caption": "FROM 4 TO 46"
+      }
+    },
+    {
+      "slug": "churches-thanksgiving-meals-families-prayer",
+      "date": "2026-11-25",
+      "section": "faith",
+      "kicker": "FAMILY",
+      "headline": "“A Church Community They Can Come Back To”: Churches Put Thanksgiving on Thousands of Tables. 46 People Choose Christ",
+      "deck": "In Corpus Christi, one church fed 975 households. In Tyler, Texas, a congregation delivered hams and prayer door to door to more than 100 families.",
+      "byline": "By FNN Desk",
+      "body": "Food costs are up. Churches are stepping in.\n\nChurch Unlimited in Corpus Christi gave 730 turkeys and 150 hens to 975 households, The Christian Post reported. At its worship service, 46 people decided to follow Jesus.\n\n“We want families to leave with food for Thanksgiving and know they have a church community they can come back to for support,” said pastor Kat Rosales.\n\nIn Tyler, Texas, Crosspointe Church brought meals and prayer to more than 100 families. “I wasn’t expecting it,” one recipient told KLTV.\n\nMatthew 25:35: “I was an hungred, and ye gave me meat.”",
+      "pull_quote": "a church community they can come back to for support",
+      "record": [
+        {
+          "date": "2026-11-24",
+          "label": "Church Unlimited: 730 turkeys and 150 hens to 975 households on Nov. 18; about 600 at worship, 46 decided to follow Jesus; Rosales: “We want families to leave with food for Thanksgiving and know they have a church community they can come back to for support”; Tulane: wholesale turkey up 8%; Ark Church and Ravens players served about 300 families; New Birth served 2,000 families",
+          "source": "The Christian Post (Michael Gryboski)",
+          "url": "https://www.christianpost.com/news/churches-give-away-thousands-of-thanksgiving-meals.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "label": "Crosspointe Church delivered meals to 100+ families, a 10+ year tradition; Cynthia Butler: “I wasn’t expecting it”; Nathan Smith: “we’re truly, truly not seeing the love of God if we’re not showing the love of God to other people”",
+          "source": "KLTV",
+          "url": "https://www.kltv.com/2026/11/22/tyler-church-delivers-thanksgiving-meals-more-than-100-families/",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "The Reach Church, Salisbury, N.C.: 200 meals on Nov. 21 with a drive-through prayer line",
+          "source": "Salisbury Post (Karen Kistler)",
+          "url": "https://www.salisburypost.com/2026/11/24/hundreds-served-love-was-put-into-every-ounce-of-food/",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "date_label": "Scripture",
+          "label": "Matthew 25:35 (KJV): “For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew+25%3A35%3BGalatians+5%3A16&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/churches-thanksgiving-meals-families-prayer.jpg",
+        "alt": "FNN graphic: a seat at the table",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Food costs are up, so churches are putting Thanksgiving on thousands of tables. In Corpus Christi, 46 people also chose to follow Jesus.",
+        "caption": "A SEAT AT THE TABLE"
       }
     },
     {
