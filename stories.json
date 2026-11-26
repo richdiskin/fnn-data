@@ -1,9 +1,411 @@
 {
-  "edition": "2026-11-25-pm1",
-  "date": "2026-11-25",
-  "updated_at": "2026-11-25T18:40:52-05:00",
-  "lead": "usaid-files-gdi-defund-downrank-deplatform",
+  "edition": "2026-11-26-am",
+  "date": "2026-11-26",
+  "updated_at": "2026-11-26T04:43:58-05:00",
+  "lead": "musk-spacex-shares-every-kid-promise-kept",
   "stories": [
+    {
+      "slug": "musk-spacex-shares-every-kid-promise-kept",
+      "section": "thenvsnow",
+      "kicker": "THEN vs. NOW · ELON MUSK",
+      "headline": "Oct. 19: Musk Promised “One of My SpaceX Shares to Every Kid in America.”",
+      "headline_now": "Now: SpaceX Adds One of Its Own. Musk: Kids Get “Two SpaceX Shares.”",
+      "deck": "SpaceX will give a newly issued share to every active Trump Account, and Musk will match it. His share lands when his lockup ends in June.",
+      "body": "Oct. 19, Elon Musk: “Next year, I will give one of my SpaceX shares to every kid in America.”\n\nWednesday, SpaceX raised him one. It committed “one newly issued share” of its Class A stock to every currently active Trump Account, and said Musk “will personally match” it.\n\nMusk’s math: “two SpaceX shares, one from the company and one from me personally.” The company’s share moves next month; his, after his lockup expires in June.\n\nThe fine print, via CNBC: it’s unclear how many accounts count as active, and donated stock generally can’t be sold for up to five years.",
+      "pull_quote": "Every child in America will receive two SpaceX shares",
+      "then": {
+        "text": "Next year, I will give one of my SpaceX shares to every kid in America.",
+        "date": "2026-10-19",
+        "source": "https://x.com/elonmusk/status/2112089556615123114",
+        "source_name": "his own post on X",
+        "who": "Elon Musk"
+      },
+      "now": {
+        "text": "Every child in America will receive two SpaceX shares, one from the company and one from me personally",
+        "date": "2026-11-25",
+        "source": "https://x.com/elonmusk/status/2125797463047258119",
+        "source_name": "his own post on X",
+        "who": "Elon Musk",
+        "big": "TWO SHARES"
+      },
+      "record": [
+        {
+          "date": "2026-10-19",
+          "label": "Musk, 3:52 a.m. ET: “Next year, I will give one of my SpaceX shares to every kid in America. This will be the first of many.”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2112089556615123114",
+          "role": "then"
+        },
+        {
+          "date": "2026-11-25",
+          "label": "Musk, 10:43 p.m. ET: “Every child in America will receive two SpaceX shares, one from the company and one from me personally”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2125797463047258119",
+          "role": "now"
+        },
+        {
+          "date": "2026-11-25",
+          "label": "SpaceX “announced a commitment to contribute one newly issued share of its Class A common stock to every currently active Trump Account”; Musk “will personally match the number of shares donated by SpaceX”; Gwynne Shotwell “has separately announced a personal gift of over 2 million SpaceX shares”; the release carries a forward-looking-statements caution citing “third-party and government approvals”",
+          "source": "SpaceX investor update",
+          "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Invest-in-the-Next-Generation-of-Americans-2026-r_LYQ5cH94/default.aspx",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "label": "SpaceX, 2:21 p.m. ET: “Today, we are committing one SpaceX share to millions of American children”",
+          "source": "SpaceX on X",
+          "url": "https://x.com/SpaceX/status/2125671356339499494",
+          "role": null
+        },
+        {
+          "date": "2026-11-26",
+          "label": "Musk, 1:01 a.m. ET: “The share from SpaceX will be transferred next month. The share directly from me will be transferred when my lockup expires in June next year.” At 3:34 a.m. ET, replying to a post about foster youth: “We will try to get the foster kids shares anyway”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2125832205301878841",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "label": "The White House said in October that nearly 70 million Trump Accounts had been created; “It’s unclear how many are considered active.” SpaceX and Treasury “did not immediately respond” to requests for details",
+          "source": "CNBC (Lora Kolodny)",
+          "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
+          "role": null
+        },
+        {
+          "date": "2026-10-20",
+          "label": "Under Treasury’s temporary rules, families “cannot refuse stock gifted to Trump Accounts and generally cannot sell it until the earlier of five years or the end of the calendar year in which the beneficiary turns 17”",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/20/musk-spacex-trump-account-stock-rules.html",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/musk-spacex-shares-every-kid-promise-kept.jpg",
+        "alt": "FNN graphic: two SpaceX shares",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "October: Musk promised one SpaceX share to every kid in America. Wednesday: SpaceX added a share of its own, and Musk matched it. “Two SpaceX shares.”",
+        "caption": "ONE PROMISED. TWO PLEDGED."
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-26"
+    },
+    {
+      "slug": "fcc-approves-spacex-starmind-million-satellites",
+      "section": "money",
+      "kicker": "MONEY · SPACEX",
+      "headline": "The FCC Clears SpaceX for 1 Million Data-Center Satellites. Amazon Called It a “Lofty Ambition Rather Than a Real Plan”",
+      "deck": "Chairman Brendan Carr calls it “a historic first.” Musk: “This will be a great asset to America and the world.”",
+      "body": "Wednesday, the FCC authorized SpaceX’s Starmind system: up to 1,000,000 satellites built to work as data centers in orbit.\n\nChairman Brendan Carr: “Today, in a historic first, the FCC approved SpaceX’s request.” Musk: “Much appreciated.”\n\nAmazon, Viasat and the American Astronomical Society had asked the FCC to deny it. Amazon called Starmind a “lofty ambition rather than a real plan.”\n\nNow the clock runs: one satellite by November 2033, 10% by 2035, 50% by 2038. This grant covers backup and emergency command links; other parts were deferred.",
+      "pull_quote": "Today, in a historic first, the FCC approved SpaceX’s request for 1 million satellites",
+      "record": [
+        {
+          "date": "2026-11-25",
+          "label": "FCC Space Bureau order, adopted and released Nov. 25: SpaceX Orbital Data Center System (Starmind), “constellation of 1,000,000 satellites”; “GRANTED-IN PART/DEFERRED-IN PART”; scope: “backup and emergency telemetry, tracking, & command (TT&C)”; deploy one satellite by Nov. 25, 2033, 10% by Nov. 25, 2035, 50% by Nov. 25, 2038, the rest by Nov. 25, 2040",
+          "source": "FCC (order PDF)",
+          "url": "https://eu-assets.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltf4cdf2af47159e12/6b071c5f5506bb38bca5b0ec/FCC_report_and_order_on_SpaceX_Starmind_AI_constellation_11-25-2026.pdf",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "label": "Carr, 11:09 a.m. ET: “Today, in a historic first, the FCC approved SpaceX’s request for 1 million satellites (orbital compute modules) to create data centers in space”",
+          "source": "Brendan Carr on X",
+          "url": "https://x.com/BrendanCarrFCC/status/2125623026918002860",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "label": "Musk, 11:41 a.m. ET, replying to Carr: “Much appreciated. This will be a great asset to America and the world.”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2125630856140308743",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "label": "Petitions to deny from Kuiper Systems (Amazon Leo), Viasat and the American Astronomical Society; Amazon called Starmind a “lofty ambition rather than a real plan” and said it would take SpaceX “centuries”; Amazon declined to comment; critic Adam Becker: it “is going to further pollute the night sky”; Earthjustice faulted the lack of environmental review",
+          "source": "CNBC (Lora Kolodny, Annie Palmer)",
+          "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "label": "The FCC said approval permits SpaceX “to pioneer emergent technology that advances American leadership in space and artificial intelligence”; unclear whether SpaceX will put 1 million satellites up, where only 17,000 satellites exist now",
+          "source": "NBC News (Reuters)",
+          "url": "https://www.nbcnews.com/science/space/spacex-fcc-authorizes-1-million-satellites-data-centers-space-rcna611341",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "label": "U.S. approves SpaceX plan to send a million data satellites to space",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/fcc-approves-spacex-starmind-million-satellites.jpg",
+        "alt": "FNN graphic: data centers in space",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Amazon called it a “lofty ambition rather than a real plan.” The FCC just cleared SpaceX for up to 1 million data-center satellites. Carr: “a historic first.”",
+        "caption": "DATA CENTERS IN SPACE"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-26"
+    },
+    {
+      "slug": "neuralink-fda-link-pivotal-study-als",
+      "section": "money",
+      "kicker": "LATEST · NEURALINK",
+      "headline": "Neuralink Gets FDA Approval for America’s First Pivotal Trial of a Brain Implant. ALS Patients Can Sign Up Now",
+      "deck": "Over 30 people already have Neuralink implants. The new study tests whether people with paralysis can control devices “through thought.”",
+      "body": "Neuralink says the FDA approved its LINK Pivotal Study, “the first pivotal trial for an implantable brain-computer interface (BCI) in the United States.”\n\nIt will test safety and effectiveness in people with severe paralysis from ALS, and whether they can “control digital devices through thought.”\n\nIt builds on early studies in the U.S., Canada and the U.K., where “over 30 implanted participants” have logged “thousands of hours” of use.\n\nEnrollment is open. Neuralink calls it “an important step toward bringing implantable BCI technology to market.” A trial, not a sales license.",
+      "pull_quote": "the first pivotal trial for an implantable brain-computer interface (BCI) in the United States",
+      "record": [
+        {
+          "date": "2026-11-25",
+          "label": "Neuralink: FDA approval “to launch the LINK Pivotal Study, the first pivotal trial for an implantable brain-computer interface (BCI) in the United States”; goal: “evaluate the safety and effectiveness of the Neuralink BCI system in individuals with severe paralysis due to amyotrophic lateral sclerosis (ALS)”; “over 30 implanted participants have collectively contributed thousands of hours of real-world BCI use”; “Enrollment for the LINK Pivotal Study is now open”",
+          "source": "Neuralink",
+          "url": "https://neuralink.com/updates/neuralink-receives-fda-approval-to-launch-link-pivotal-study/",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "label": "Neuralink, 3:54 p.m. ET: “We’ve received FDA approval to launch LINK, the first pivotal trial for an implantable brain-computer interface in the US”",
+          "source": "Neuralink on X",
+          "url": "https://x.com/neuralink/status/2125694580544680185",
+          "role": null
+        },
+        {
+          "date": "2026-11-26",
+          "label": "The trial “will be open to a limited number of patients with ALS”; recalls participant Bradford Smith: “Neuralink has given me freedom, hope, and faster communication”",
+          "source": "Engadget (Steve Dent)",
+          "url": "https://www.engadget.com/2329008/neuralink-receives-fda-approval-for-brain-implant-trial-in-als-patients/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/neuralink-fda-link-pivotal-study-als.jpg",
+        "alt": "FNN graphic: the LINK pivotal study",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Neuralink says the FDA cleared “the first pivotal trial for an implantable brain-computer interface” in the U.S. People with ALS can now apply.",
+        "caption": "THE FIRST PIVOTAL TRIAL"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-26"
+    },
+    {
+      "slug": "spacex-colossus-3-arizona-mayes-wants-delay",
+      "section": "freedom",
+      "kicker": "LATEST · ARIZONA",
+      "headline": "SpaceX Offers Rural Arizona $50 Billion and 1,000 Permanent Jobs. Arizona’s Attorney General Wants the Vote Delayed",
+      "deck": "Kris Mayes says the AI campus raises “serious unanswered questions.” The county board chair on SpaceX’s interest: “I didn’t believe it.”",
+      "body": "SpaceX wants to build Colossus 3, a supercomputer campus in Cochise County, Arizona. Its pitch: “$50B+” invested, “1,000 local permanent jobs,” up to 5,500 construction jobs, and “no gas plant, no industrial water use.”\n\nMusk: it “will greatly benefit the Arizona community.”\n\nCounty board chair Frank Antenori says SpaceX pledged $3.6 billion in grid upgrades. “It will definitely benefit our schools and our hospital districts.”\n\nAttorney General Kris Mayes wants the Dec. 9 zoning vote delayed. At full build-out, she says, it could draw 6 gigawatts, nearly 20% of Arizona’s generating capacity.",
+      "pull_quote": "SpaceX Colossus 3 will greatly benefit the Arizona community",
+      "record": [
+        {
+          "date": "2026-11-25",
+          "label": "SpaceX, 12:07 p.m. ET: site “designed with Arizona in mind: no gas plant, no industrial water use, and a dry-cooling closed-loop water system. SpaceX will also invest $50B+ into the area, bringing 1,000 local permanent jobs and up to 5,500 construction jobs”",
+          "source": "SpaceX on X",
+          "url": "https://x.com/SpaceX/status/2125637438710153247",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "label": "Musk, 2:07 p.m. ET, quoting SpaceX: “SpaceX Colossus 3 will greatly benefit the Arizona community”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2125667762324541673",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "Board of Supervisors Chair Frank Antenori: “I didn’t believe it”; SpaceX pledged no groundwater use, $3.6 billion in grid upgrades and dark-sky compliance; “It will definitely benefit our schools and our hospital districts, our fire districts and whatnot in the county”; a Brookings co-author called the jobs estimate “plausible” but the secondary-jobs figure “a little high”",
+          "source": "Arizona’s Family (Amy Cutler)",
+          "url": "https://www.azfamily.com/2026/11/21/cochise-county-chair-reveals-what-spacex-promised-50-billion-data-center/",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "Mayes urged the Planning and Zoning Commission to delay its “December 9, 2026 vote”; “The company’s proposal raises serious unanswered questions about energy reliability, water use, emergency response capabilities, traffic impacts, and effects on surrounding communities”; up to 6 gigawatts, “nearly 20 percent of Arizona's current power-generating capacity”; town hall Dec. 3",
+          "source": "Arizona Attorney General’s Office",
+          "url": "https://www.azag.gov/press-release/attorney-general-mayes-urges-cochise-county-delay-vote-proposed-spacex-data-center",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "AG Mayes asks Cochise County officials to delay vote on planned SpaceX data center permit",
+          "source": "AZPM",
+          "url": "https://www.azpm.org/datacenters/2026-11-23/ag-mayes-asks-cochise-county-officials-to-delay-vote-on-planned-spacex-data-center-permit",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/spacex-colossus-3-arizona-mayes-wants-delay.jpg",
+        "alt": "FNN graphic: Colossus 3, Cochise County",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "SpaceX’s Arizona pitch: “$50B+,” 1,000 permanent jobs, no gas plant, no industrial water use. Arizona’s attorney general wants the vote delayed.",
+        "caption": "$50 BILLION FOR COCHISE COUNTY"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-26"
+    },
+    {
+      "slug": "campbell-sues-ice-courthouse-arrests",
+      "section": "freedom",
+      "kicker": "LATEST · MASSACHUSETTS",
+      "headline": "Andrea Campbell Sues ICE Over Courthouse Arrests. DHS: Arresting People Already Screened for Weapons Is “Common Sense”",
+      "deck": "The Massachusetts AG says ICE breaks a new state law “nearly every single day.” DHS says state officials should be “thanking agents.”",
+      "body": "Massachusetts AG Andrea Joy Campbell sued ICE in federal court Monday. Her complaint says agents break the state’s new PROTECT Act “nearly every single day” with civil arrests in courthouses: 38 without a judicial warrant from Nov. 3 to Nov. 20.\n\nDHS isn’t budging. It says courthouse arrests are safer, because everyone inside has been screened for weapons.\n\n“The ability of law enforcement to make arrests of criminal illegal aliens in courthouses is common sense,” a spokesperson told the Boston Globe.\n\nICE’s line, quoted in Campbell’s own complaint: “sanctuary politicians do not control federal law enforcement.”",
+      "pull_quote": "The ability of law enforcement to make arrests of criminal illegal aliens in courthouses is common sense",
+      "record": [
+        {
+          "date": "2026-11-23",
+          "label": "Complaint, Commonwealth of Massachusetts v. ICE et al. (D. Mass.): Defendants “are violating Massachusetts law nearly every single day by conducting civil arrests in Massachusetts state courthouses”; “From November 3, 2026, through November 20, 2026, ICE made civil arrests of 38 individuals in Massachusetts courthouses without a judicial warrant”; says that on or around Nov. 13 ICE told a media source that the “Supremacy Clause makes clear that sanctuary politicians do not control federal law enforcement.”",
+          "source": "Complaint (via Universal Hub)",
+          "url": "https://www.universalhub.com/files/attachments/2026/icearrests-complaint.pdf",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "DHS spokesperson: it is safer to arrest inside courthouses because people inside have already been screened for weapons; “These politicians should be thanking our law enforcement for removing dangerous criminals from Massachusetts—NOT vilifying law enforcement”; “The ability of law enforcement to make arrests of criminal illegal aliens in courthouses is common sense”; DHS listed five men it says were convicted of crimes including sexual assault, kidnapping and homicide",
+          "source": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/11/23/metro/campbell-briefing-ice-protect-act/",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "DHS spokesperson said the “vilification of ICE must stop” and that officials should be “thanking agents”; Campbell: “With our lawsuit, we hope to demonstrate that ICE’s policy violates federal law by interfering with Massachusetts’ ability to operate our courts and enforcing our state laws, including the PROTECT Act”; the Department of Justice declined to comment",
+          "source": "GBH News (Sarah Betancourt)",
+          "url": "https://www.wgbh.org/news/local/2026-11-23/massachusetts-sues-ice-for-arresting-immigrants-at-courthouses-in-breach-of-new-state-law",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "The courthouse part of the PROTECT Act took effect Nov. 3; Campbell’s suit is 38 pages",
+          "source": "Boston.com (Ross Cristantiello)",
+          "url": "https://www.boston.com/news/local-news/2026/11/23/ag-campbell-sues-ice-over-courthouse-arrests/",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "Mass. sues ICE over immigration arrests in state courts; the case may turn on anti-commandeering versus the Supremacy Clause",
+          "source": "WBUR",
+          "url": "https://www.wbur.org/news/2026/11/23/massachusetts-ice-lawsuit-courtroom-arrests",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/campbell-sues-ice-courthouse-arrests.jpg",
+        "alt": "FNN graphic: common sense",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Massachusetts AG Andrea Campbell is suing ICE for arresting people inside courthouses. DHS: they’ve already been screened for weapons, so it’s “common sense.”",
+        "caption": "“COMMON SENSE”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-26"
+    },
+    {
+      "slug": "silent-prayer-trial-vaughan-spruce-buried",
+      "section": "fake",
+      "kicker": "MEDIA WATCH · BURIED",
+      "headline": "A British Judge Sends a Woman to Trial for Silently Praying in Public. Left-Rated Coverage, per Ground News: 17%",
+      "deck": "Isabel Vaughan-Spruce faces five charges under England’s buffer-zone law. Her words: “Silent prayer can never be a crime in the UK.”",
+      "body": "Isabel Vaughan-Spruce, a Catholic charity volunteer, is accused of standing and praying silently near a Birmingham abortion clinic on five days in 2025.\n\nWednesday, Deputy Senior District Judge Tan Ikram refused to dismiss the charges. Trial: Jan. 25-29, 2027. She has pleaded not guilty.\n\nShe is the first person prosecuted under England and Wales’s national “buffer zone” law. In 2023, she was acquitted in an earlier silent-prayer case.\n\nHer words: “Silent prayer can never be a crime in the UK.”\n\nGround News flagged it as a blindspot: of 11 sources, 17% rated left.",
+      "pull_quote": "Silent prayer can never be a crime in the UK",
+      "record": [
+        {
+          "date": "2026-11-25",
+          "label": "Judge Ikram “decided at a hearing at Birmingham Magistrates’ Court today that the case will proceed to trial between 25-29 January 2027”; five charges under Section 9 of the Public Order Act 2023; Vaughan-Spruce: “Silent prayer can never be a crime in the UK. My criminal prosecution for alleged ‘thoughtcrime’ is clear evidence of the UK’s censorship crisis”; ADF’s Jeremiah Igunnubole: “Silent prayer is not a crime”; in 2023 she “was acquitted in court after being arrested for praying” in a local buffer zone",
+          "source": "ADF International",
+          "url": "https://adfinternational.org/news/christian-woman-to-face-trial-in-january/",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "At the October hearing, Ikram said: “standing is not a crime… It doesn’t matter how many times you do it, mere presence is not enough”, with the focus on whether she had “the requisite intent”",
+          "source": "ADF International",
+          "url": "https://adfinternational.org/news/tomorrow-judge-to-rule-on-abuse-of-process-arguments-made-by-legal-defence-of-christian-woman-criminally-prosecuted-for-silently-praying-on-public-street/",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "date_label": "Nov. 26 (viewed)",
+          "label": "Ground News Blindspot: “Judge Keeps Charges Over Alleged Silent Prayer Near Abortion Clinic,” 11 sources: Left 17%, Center 0%, Right 83% (“Only 17% Left”)",
+          "source": "Ground News Blindspot feed",
+          "url": "https://ground.news/blindspot",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "label": "Ikram refused to throw out the case; she is the first person in England and Wales prosecuted under the national buffer zone legislation; buffer zones cover 150 metres around abortion facilities",
+          "source": "GB News",
+          "url": "https://www.gbnews.com/news/christian-persecution-silent-prayer-woman-trial-abortion-clinic-isabel-vaughan-spruce",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "label": "Each count covers a separate day in 2025: June 13, July 2, July 23, Oct. 6 and Nov. 6; she pleaded not guilty on Oct. 7",
+          "source": "The Epoch Times",
+          "url": "https://www.theepochtimes.com/world/british-woman-to-stand-trial-over-praying-in-abortion-clinic-buffer-zone-6129332",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/silent-prayer-trial-vaughan-spruce-buried.jpg",
+        "alt": "FNN graphic: silent prayer on trial",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "A woman will stand trial in England for silently praying on a public street near an abortion clinic. Ground News: 17% of the coverage it counted came from left-rated outlets.",
+        "caption": "SILENT PRAYER, ON TRIAL"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-26"
+    },
+    {
+      "slug": "bbc-palestine-badge-editorial-breach",
+      "section": "fake",
+      "kicker": "MEDIA WATCH · UNMASKED",
+      "headline": "BBC London’s Reporter Wore a Palestinian Flag Badge on Air. The BBC: It “Did Not Meet Our Editorial Standards”",
+      "deck": "The badge sat on Asad Ahmad’s backpack strap during a Christmas parade report. The BBC admitted the breach after The Telegraph asked.",
+      "body": "Nov. 19, BBC London’s 6:30 p.m. bulletin: reporter Asad Ahmad covers a Christmas sleigh parade in Deptford. On his backpack strap, viewers spotted a Palestinian flag badge.\n\nThe BBC’s verdict: “The broadcast did not meet our editorial standards and is not available on iPlayer.” It says it has “reminded people about their responsibilities.”\n\nThe BBC’s own guidelines: impartiality “is fundamental to the BBC’s purpose.”\n\nDanny Cohen, former director of BBC Television, to The Telegraph: “It is another reminder to British Jews that the BBC newsroom has been politicised.”",
+      "pull_quote": "The broadcast did not meet our editorial standards",
+      "record": [
+        {
+          "date": "2026-11-25",
+          "label": "Ahmad “had the flag badge attached to his backpack” during the 6.30pm bulletin on Nov. 19 while reporting on a Christmas sleigh parade in Deptford; the BBC said he “had been reminded of his responsibility to be impartial after The Telegraph contacted the broadcaster”; BBC spokesman: “The broadcast did not meet our editorial standards and is not available on iPlayer. The editorial guidelines are clear on our obligations for news and current affairs staff to maintain impartiality, and we have reminded people about their responsibilities.” Danny Cohen: “And it is another reminder to British Jews that the BBC newsroom has been politicised.”",
+          "source": "The Telegraph (Gordon Rayner)",
+          "url": "https://www.telegraph.co.uk/news/2026/11/25/bbc-journalist-breaks-guidelines-by-wearing-palestine-badge/",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "label": "Same BBC statement given to GB News; BBC guidelines: “impartiality is fundamental to the BBC's purpose and is enshrined in the BBC's Charter”; GB News notes regional reports are replaced daily on iPlayer",
+          "source": "GB News (Alex Davies)",
+          "url": "https://www.gbnews.com/celebrity/bbc-london-palestine-pin-badge-reporter",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/bbc-palestine-badge-editorial-breach.jpg",
+        "alt": "FNN graphic: did not meet our editorial standards",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "A BBC London reporter wore a Palestinian flag badge on air at a Christmas parade. The BBC: it “did not meet our editorial standards.”",
+        "caption": "“DID NOT MEET OUR EDITORIAL STANDARDS”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-26"
+    },
     {
       "slug": "usaid-files-gdi-defund-downrank-deplatform",
       "section": "fake",
@@ -8409,6 +8811,275 @@
       "share": {
         "line": "Hexumlite got into a University of Florida dining hall for $13 in a $590 fake Rolex, logged about 34 approaches and one probable number, and flies to Miami Wednesday for a palatal expander.",
         "caption": "$13 AND A $590 FAKE ROLEX."
+      }
+    },
+    {
+      "slug": "egypt-said-abdelrazek-lawmakers-letter",
+      "date": "2026-11-26",
+      "section": "faith",
+      "kicker": "THE PERSECUTED CHURCH",
+      "headline": "“Mr. Abdelrazek Must Be Released Now”: A Senator and Five Congressmen Tell Egypt to Free a Christian Convert",
+      "deck": "Sen. Josh Hawley and five House Republicans wrote to President el-Sisi before Said Abdelrazek’s Dec. 8 hearing. Prosecutors want the “maximum penalty.”",
+      "byline": "By FNN Desk",
+      "body": "FNN first reported on Said Abdelrazek on Nov. 11. He left Islam for Christianity in 2018 and has been jailed in Egypt since July 2025, charged with crimes including “contempt for Islam.”\n\nNow Rep. Riley Moore, Sen. Josh Hawley and four more House Republicans have written to President Abdel Fattah el-Sisi. Prosecutors want the “maximum penalty,” they say: 25 years or execution. His next hearing is Dec. 8.\n\nThe letter says “nearly 200 Christians” are held on similar charges.\n\nIts last word to Cairo: “Mr. Abdelrazek must be released now.”",
+      "pull_quote": "Mr. Abdelrazek must be released now",
+      "record": [
+        {
+          "date": "2026-11-19",
+          "label": "Letter to President el-Sisi signed by Reps. Riley M. Moore, Barry Moore, Elijah Crane, Earl L. “Buddy” Carter, Marlin A. Stutzman and Sen. Josh Hawley: “Mr. Abdelrazek’s ongoing detention constitutes a grave violation of the fundamental human right to religious freedom”; prosecutors “will pursue the “maximum penalty””, “either 25 years imprisonment or execution”; “His next hearing date is scheduled for December 8, 2026”; “Our understanding is that nearly 200 Christians are currently being detained in Egyptian prisons under similar baseless charges”; “Mr. Abdelrazek must be released now”; copy forwarded to Secretary of State Marco Rubio",
+          "source": "Congressional letter (PDF via ADF International)",
+          "url": "https://adfinternational.org/wp-content/uploads/2026/11/Congressional-Letter-to-Egyptian-President_3301.pdf",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "Letter “drafted by Rep. Riley Moore (R-WV)”; Abdelrazek converted in 2018, was detained again in July 2025 “without a warrant, after he resumed posting about his beliefs online”; ADF’s Kelsey Zorzi: “Every day Said stays behind bars, Egypt shows it is willing to jail people for their faith”",
+          "source": "ADF International",
+          "url": "https://adfinternational.org/news/u-s-lawmakers-urge-president-of-egypt-to-intervene-in-case-of-christian-man-imprisoned/",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "Signers listed as Sen. Josh Hawley (R-MO), Rep. Marlin Stutzman (R-IN), Rep. Eli Crane (R-AZ), Rep. Barry Moore (R-AL), Rep. Buddy Carter (R-GA); “According to the letter, prosecutors intend to seek the maximum penalty, which could mean 25 years in prison or execution”; USCIRF has raised concerns",
+          "source": "Christian Today",
+          "url": "https://www.christiantoday.com/news/calls-for-egypt-to-release-christian-convert-facing-death-sentence",
+          "role": null
+        },
+        {
+          "date": "2026-11-11",
+          "label": "FNN’s first report on Said Abdelrazek’s case",
+          "source": "FNN",
+          "url": "https://www.fnnfakenewsnetwork.com/story/egypt-convert-said-abdelrazek-trial",
+          "role": null
+        },
+        {
+          "date": "2026-11-26",
+          "date_label": "Scripture",
+          "label": "Matthew 5:10 (KJV): “Blessed are they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven.”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+11%3A1%3BJohn+12%3A24%3BPhilippians+1%3A21%3B1+Corinthians+13%3A13%3BMatthew+5%3A10%3BRevelation+7%3A9%3BRomans+5%3A5&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/egypt-said-abdelrazek-lawmakers-letter.jpg",
+        "alt": "FNN graphic: must be released now",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Six Republicans in Congress to Egypt’s president about a Christian convert facing a possible death sentence: “Mr. Abdelrazek must be released now.”",
+        "caption": "“RELEASED NOW”"
+      }
+    },
+    {
+      "slug": "faith-hope-leyba-colorado-twins-named-in-prayer",
+      "date": "2026-11-26",
+      "section": "faith",
+      "kicker": "YOUNG CHRISTIAN LEADERS",
+      "headline": "“We Will Name Them Hope and Faith”: Colorado’s All-American Twins Were Born at 4 Pounds. Now They Play to Glorify Jesus",
+      "deck": "Doctors gave their parents a 30% chance of two healthy babies. On Friday, Hope and Faith Leyba’s Colorado team hosts Clemson in the NCAA Tournament.",
+      "byline": "By FNN Desk",
+      "body": "Joe and Kelly Leyba’s twins shared a placenta and an amniotic sac. Doctors gave them a 30% chance of two healthy babies, Kelly says. So they prayed.\n\n“God, if You let us have these babies, we will name them Hope and Faith,” Joe said.\n\nThe girls were born at about four pounds each. Now Hope leads Colorado with 13 goals, and Faith is a 2025 All-American defender.\n\nHope, on a season the goals stopped coming: she had to “trust that He had a plan for me.”\n\nFaith: “Your everyday life should glorify God.”",
+      "pull_quote": "We had hope and we had faith, and here they are today",
+      "record": [
+        {
+          "date": "2026-11-25",
+          "label": "Monoamniotic twins; “Doctors gave the couple just a 30% chance of having two healthy babies, Kelly said”; Joe: “God, if You let us have these babies, we will name them Hope and Faith”; “We had hope and we had faith, and here they are today”; born “weighing about four pounds each”; Kelly: “It is a miracle”; Hope “leads the team with 13 goals this season,” 45 for her career, 2025 first-team All-American; Faith “a 2025 third-team All-American” and 2026 Big 12 Defender of the Year; Hope, on a goalless first D-I season: she had to “trust that He had a plan for me”; Faith: “Your everyday life should glorify God pretty much throughout the whole day”",
+          "source": "Sports Spectrum (Cole Claybourn)",
+          "url": "https://sportsspectrum.com/sport/soccer/2026/11/25/faith-hope-leyba-colorado-soccer-parents-faith-hope/",
+          "role": null
+        },
+        {
+          "date": "2026-11-22",
+          "label": "No. 3 Colorado 3, Air Force 0; second round: No. 3 Colorado vs. No. 6 Clemson",
+          "source": "NCAA.com",
+          "url": "https://www.ncaa.com/news/soccer-women/article/2026-11-21/2026-di-womens-soccer-championship-bracket-schedule-scores",
+          "role": null
+        },
+        {
+          "date": "2026-11-26",
+          "date_label": "Scripture",
+          "label": "1 Corinthians 13:13 (KJV): “And now abideth faith, hope, charity, these three; but the greatest of these is charity.”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+11%3A1%3BJohn+12%3A24%3BPhilippians+1%3A21%3B1+Corinthians+13%3A13%3BMatthew+5%3A10%3BRevelation+7%3A9%3BRomans+5%3A5&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/faith-hope-leyba-colorado-twins-named-in-prayer.jpg",
+        "alt": "FNN graphic: Hope and Faith",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Their parents were given a 30% chance and promised God the names Hope and Faith. Now the Leyba twins are Colorado All-Americans who say the point is Jesus.",
+        "caption": "HOPE AND FAITH"
+      }
+    },
+    {
+      "slug": "kirk-on-ramp-to-jesus-his-pastor",
+      "date": "2026-11-26",
+      "section": "faith",
+      "kicker": "CHARLIE KIRK REFLECTION",
+      "headline": "“An On-Ramp to Jesus”: The California Pastor Charlie Kirk Called His Own, and What He Says Kirk Was Really Doing",
+      "deck": "Rob McCoy told a young Kirk the Bible says “a lot about civil government.” In 2021, the two co-founded Turning Point USA Faith.",
+      "byline": "By FNN Desk",
+      "body": "Charlie Kirk credited Rob McCoy, longtime pastor of Godspeak Calvary Chapel in Newbury Park, California, with telling him, about the Bible and civil government: “I think you should talk more publicly about that.”\n\nIn 2021, the two co-founded Turning Point USA Faith.\n\n“Charlie called me his pastor; I prefer to be considered his friend and his biggest fan,” McCoy said the night Kirk died.\n\nAt the memorial, McCoy named the mission: “Charlie looked at politics as an on-ramp to Jesus.”\n\nPhilippians 1:21: “For to me to live is Christ, and to die is gain.”",
+      "pull_quote": "Charlie looked at politics as an on-ramp to Jesus",
+      "record": [
+        {
+          "date": "2025-09-11",
+          "label": "Kirk, in a 2021 interview, recalled McCoy telling him: “You’re a Christian, and I want to tell you that not only does the Bible say a lot about civil government, not only does the Bible say a lot about how we should interact with our leaders, but I think you should talk more publicly about that”; Turning Point “had previously been an avowedly secular youth organization”",
+          "source": "Los Angeles Times (Essential California)",
+          "url": "https://www.latimes.com/california/newsletter/2025-09-11/essential-california-charlie-kirk-california-connection",
+          "role": null
+        },
+        {
+          "date": "2025-09-10",
+          "label": "McCoy: “Charlie called me his pastor; I prefer to be considered his friend and his biggest fan”; “Charlie fought vehemently, even for those who were detractors”",
+          "source": "FOX 11 Los Angeles",
+          "url": "https://www.foxla.com/news/pastor-charlie-kirk-didnt-die-today-he-began-truly-live",
+          "role": null
+        },
+        {
+          "date": "2025-09-21",
+          "label": "At the memorial: “Charlie looked at politics as an on-ramp to Jesus”; McCoy “co-founded Turning Point USA Faith in 2021 with Kirk”",
+          "source": "Fox News (Ashley J. DiMella)",
+          "url": "https://www.foxnews.com/lifestyle/who-pastor-rob-mccoy-charlie-kirks-pastor-delivers-emotional-tribute-memorial",
+          "role": null
+        },
+        {
+          "date": "2026-09-10",
+          "label": "McCoy, “the first pastor to invite him to speak at a church”; Mike McClure: “Charlie would call, text, and encourage me”; Mikey McCoy, recruited at 18, “ultimately as his chief of staff”: “That’s what Charlie did. We look to Charlie because he followed Christ as well. Let’s keep this legacy going.”",
+          "source": "Calvary Chapel Magazine",
+          "url": "https://calvarychapelmagazine.org/articles/charlie-kirk-year-anniversary",
+          "role": null
+        },
+        {
+          "date": "2026-11-26",
+          "date_label": "Scripture",
+          "label": "Philippians 1:21 (KJV): “For to me to live is Christ, and to die is gain.”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+11%3A1%3BJohn+12%3A24%3BPhilippians+1%3A21%3B1+Corinthians+13%3A13%3BMatthew+5%3A10%3BRevelation+7%3A9%3BRomans+5%3A5&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/kirk-on-ramp-to-jesus-his-pastor.jpg",
+        "alt": "FNN graphic: an on-ramp to Jesus",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Charlie Kirk’s pastor on what he was really doing on all those campuses: “Charlie looked at politics as an on-ramp to Jesus.”",
+        "caption": "“AN ON-RAMP TO JESUS”"
+      }
+    },
+    {
+      "slug": "maria-middleton-think-hope-thanksgiving-harlem",
+      "date": "2026-11-26",
+      "section": "faith",
+      "kicker": "FAMILY",
+      "headline": "“Think Hope”: The Teen Who Spent Thanksgivings Serving Families in Harlem Could Become the First Gen Z Saint",
+      "deck": "U.S. bishops voted Nov. 17 to support advancing Maria Middleton’s cause. A brain tumor took her at 18 in 2020. She kept serving to the end.",
+      "byline": "By FNN Desk",
+      "body": "Maria Middleton “spent several Thanksgiving holidays with her parents in Harlem, New York, distributing the collected items to families in need,” her U.S. bishops’ biography says.\n\nIn her sophomore year of high school, she was diagnosed with an inoperable brain tumor. She kept serving, even on a mission trip to Uganda. She died in October 2020, at 18. Her last journal words: “think hope.”\n\nOn Nov. 17, the bishops voted to support advancing her cause. USA TODAY says she could become the first Gen Z saint.\n\nHer father: “You don’t have to be weird to be holy.”",
+      "pull_quote": "You don’t have to be weird to be holy",
+      "record": [
+        {
+          "date": "2026-11-17",
+          "label": "USCCB: bishops “voted affirmatively to support advancing the cause of beatification and canonization on the diocesan level”; she “spent several Thanksgiving holidays with her parents in Harlem, New York, distributing the collected items to families in need”; diagnosed in her sophomore year with “an inoperable brain tumor”; died “October 8, 2020, at 18 years old”",
+          "source": "U.S. Conference of Catholic Bishops",
+          "url": "https://www.usccb.org/news/2026/us-bishops-vote-canonical-step-canonization-process-maria-middleton-lay-person-0",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "label": "Bishops “voted overwhelmingly”; she “may become the first Gen Z saint”; archdiocese spokesperson Kenneth Gavin: “at this time no evidence has been submitted, and no investigation into any alleged miracle has taken place”; final journal words: “think hope”",
+          "source": "USA TODAY (Saleen Martin)",
+          "url": "https://www.usatoday.com/story/news/nation/2026/11/25/deceased-teenager-first-gen-z-saint/92957877007/",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "label": "Archbishop Nelson J. Pérez’s edict; the Think Hope Foundation “established by her parents”",
+          "source": "CatholicPhilly",
+          "url": "https://catholicphilly.com/2026/11/news/local-news/cause-for-sainthood-of-maria-middleton-of-bucks-county-steps-forward/",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "Her father told ABC: “You don’t have to be weird to be holy”; “Think hope” is “now the name of a book about Middleton, authored by her parents”",
+          "source": "Deseret News (Mariya Manzhos)",
+          "url": "https://www.deseret.com/faith/2026/11/24/will-african-churches-influence-american-christianity/",
+          "role": null
+        },
+        {
+          "date": "2026-11-26",
+          "date_label": "Scripture",
+          "label": "Romans 5:5 (KJV): “And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+11%3A1%3BJohn+12%3A24%3BPhilippians+1%3A21%3B1+Corinthians+13%3A13%3BMatthew+5%3A10%3BRevelation+7%3A9%3BRomans+5%3A5&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/maria-middleton-think-hope-thanksgiving-harlem.jpg",
+        "alt": "FNN graphic: think hope",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "She spent Thanksgivings handing out coats in Harlem with her parents. Her last journal words were “think hope.” Now she could be the first Gen Z saint.",
+        "caption": "“THINK HOPE”"
+      }
+    },
+    {
+      "slug": "pew-africa-heart-of-christianity-2070",
+      "date": "2026-11-26",
+      "section": "faith",
+      "kicker": "THE CHURCH WORLDWIDE",
+      "headline": "“There Have Never Been a Billion Christians on Any Continent Before”: Pew: Most Christians Will Live in Africa by 2070",
+      "deck": "Pew projects 687 million more Christians worldwide by 2070, with Congo passing the U.S. And a warning for America: below half Christian.",
+      "byline": "By FNN Desk",
+      "body": "The Church isn’t dying. It’s moving.\n\nPew Research Center projects Christians worldwide will grow by about 687 million by 2070. In sub-Saharan Africa, their number is forecast to more than double, to 1.6 billion: 54% of all Christians.\n\nThe Democratic Republic of the Congo is projected to pass the United States, with 299 million Christians.\n\nThe U.S. projection: 48% Christian by 2070.\n\nHistorian Philip Jenkins: “There have never been a billion Christians on any continent before.”\n\nRevelation 7:9 saw it coming: “a great multitude, which no man could number, of all nations.”",
+      "pull_quote": "There have never been a billion Christians on any continent before",
+      "record": [
+        {
+          "date": "2026-11-18",
+          "label": "Christians “expected to increase in number by about 687 million people”; in sub-Saharan Africa “forecast to more than double in number, from 697 million to 1.6 billion”; “a majority of the world’s Christians (54%) will live in sub-Saharan Africa”; the DRC “will have 299 million Christians, or 10% of all Christians globally”; U.S. “217 million Christian residents as of 2020”; “48% of the population is projected to be Christian by 2070”",
+          "source": "Pew Research Center",
+          "url": "https://www.pewresearch.org/religion/2026/11/18/the-future-of-the-global-christian-population/",
+          "role": null
+        },
+        {
+          "date": "2026-11-18",
+          "label": "Alan Cooperman: “The global change in what one might think of as the center of gravity in Christianity is interesting”; Western decline “largely a result of religious switching”",
+          "source": "Christianity Today (Liam Adams)",
+          "url": "https://www.christianitytoday.com/2026/11/pew-research-christians-minority-2070-africa-growth/",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "Philip Jenkins, Baylor: “There have never been a billion Christians on any continent before”",
+          "source": "Deseret News (Mariya Manzhos)",
+          "url": "https://www.deseret.com/faith/2026/11/24/will-african-churches-influence-american-christianity/",
+          "role": null
+        },
+        {
+          "date": "2026-11-26",
+          "date_label": "Scripture",
+          "label": "Revelation 7:9 (KJV): “After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+11%3A1%3BJohn+12%3A24%3BPhilippians+1%3A21%3B1+Corinthians+13%3A13%3BMatthew+5%3A10%3BRevelation+7%3A9%3BRomans+5%3A5&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/pew-africa-heart-of-christianity-2070.jpg",
+        "alt": "FNN graphic: a billion on one continent",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Pew: by 2070, most of the world’s Christians will live in sub-Saharan Africa, and Congo will pass the U.S. “There have never been a billion Christians on any continent before.”",
+        "caption": "A BILLION ON ONE CONTINENT"
       }
     },
     {
