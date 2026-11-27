@@ -1,9 +1,323 @@
 {
-  "edition": "2026-11-26-am1",
-  "date": "2026-11-26",
-  "updated_at": "2026-11-26T08:02:18-05:00",
-  "lead": "musk-spacex-shares-every-kid-promise-kept",
+  "edition": "2026-11-27-am",
+  "date": "2026-11-27",
+  "updated_at": "2026-11-27T04:42:08-05:00",
+  "lead": "musk-another-spacex-share-every-kid-every-year",
   "stories": [
+    {
+      "slug": "musk-another-spacex-share-every-kid-every-year",
+      "section": "money",
+      "kicker": "ELON MUSK",
+      "headline": "Musk on Thanksgiving: “I Will Be Donating Another Share of SpaceX to All Kids in America Every Year”",
+      "deck": "A day after pledging two SpaceX shares per child with an active Trump Account, Musk made it yearly. SpaceX stock jumped 7.47% overnight.",
+      "body": "Wednesday's deal: two SpaceX shares for every child with an active Trump Account, one from the company and one from Elon Musk.\n\nThanksgiving Day, Musk made it a habit. “I will be donating another share of SpaceX to all kids in America every year,” he posted.\n\nHis reason, three hours later: “Vital that children have a stake in the future.”\n\nSpaceX shares jumped 7.47% in overnight trading, CNBC reported.\n\nThe fine print: Musk gave no start year and no terms, and SpaceX and Treasury had published nothing on a yearly gift as of Friday morning, TrumpAccounts.com noted.",
+      "pull_quote": "Vital that children have a stake in the future",
+      "record": [
+        {
+          "date": "2026-11-26",
+          "label": "Musk, 4:24 p.m. ET, replying to “Name a more awesome act of philanthropy”: “I will be donating another share of SpaceX to all kids in America every year”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2126064597039997254",
+          "role": null
+        },
+        {
+          "date": "2026-11-26",
+          "label": "Musk, 7:26 p.m. ET, quoting a post that put the yearly gift at “over $9 billion” at current prices: “Vital that children have a stake in the future”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2126110344120762593",
+          "role": null
+        },
+        {
+          "date": "2026-11-26",
+          "label": "“Shares of SpaceX jumped 7.47% in overnight trading on Blue Ocean ATS after CEO Elon Musk expanded his SpaceX share-donation plan”; nearly 70 million Trump Accounts created as of October, per the White House",
+          "source": "CNBC (Jenny Lee)",
+          "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-26",
+          "label": "“Elon Musk said on Thursday he will donate an additional share of SpaceX to all children in the U.S. every year, after earlier pledging to donate two shares to each American child”",
+          "source": "Investing.com (Ambar Warrick)",
+          "url": "https://www.investing.com/news/stock-market-news/musk-says-he-will-donate-another-spacex-share-to-american-kids-annually-5052757",
+          "role": null
+        },
+        {
+          "date": "2026-11-27",
+          "label": "Update: the reply “gives no start year and no terms, and SpaceX and Treasury had published nothing on a yearly gift as of Friday morning”",
+          "source": "TrumpAccounts.com",
+          "url": "https://trumpaccounts.com/articles/elon-musk-spacex-share-every-child-trump-accounts",
+          "role": null
+        },
+        {
+          "date": "2026-11-26",
+          "label": "FNN, Nov. 26: Musk's Oct. 19 promise and SpaceX's Nov. 25 share commitment",
+          "source": "FNN",
+          "url": "https://www.fnnfakenewsnetwork.com/story/musk-spacex-shares-every-kid-promise-kept",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/musk-another-spacex-share-every-kid-every-year.jpg",
+        "alt": "FNN graphic: another share, every year",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Thanksgiving Day, Elon Musk: “I will be donating another share of SpaceX to all kids in America every year.” Why: “Vital that children have a stake in the future.”",
+        "caption": "ANOTHER SHARE, EVERY YEAR"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-27"
+    },
+    {
+      "slug": "melania-trump-nine-more-children-reunited-43",
+      "section": "freedom",
+      "kicker": "FIRST LADY MELANIA TRUMP",
+      "headline": "Melania Trump Brings Nine More Children Back to Their Families. Her Total Now: 43",
+      "deck": "Her seventh reunification came “with the full cooperation of the Russian and Ukrainian leaders,” the first lady says. Russia says the kids went to relatives.",
+      "body": "First lady Melania Trump has done it again. Nine more children caught up in the Russia-Ukraine war are back with their families, the White House announced Wednesday. It's her seventh reunification. The total: 43.\n\n“Every child reunited with their parents brings humanity one step closer to a better world for everyone,” she said.\n\nRussia's children's commissioner said the nine went to relatives in Ukraine and Germany, Reuters reported. The Vatican helped in one case.\n\nBoth sides had already credited her for a six-day ceasefire around Oleshky last month. Her line: “Peace begins with our children.”",
+      "pull_quote": "Peace begins with our children",
+      "record": [
+        {
+          "date": "2026-11-25",
+          "label": "“First Lady Melania Trump has successfully facilitated her seventh reunion of Russian and Ukrainian children with their families, bringing the total number of children reunited through her humanitarian efforts to 43”; her statement: “We can heal the world through peace, and peace begins with our children. Every child reunited with their parents brings humanity one step closer to a better world for everyone.”",
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-secures-reunification-of-nine-additional-children-with-their-families/",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "label": "Both sides “credited her for a six-day ceasefire around the Russian-controlled frontline town of Oleshky last month”; Russia's Maria Lvova-Belova said the nine were heading “to live with relatives in Ukraine and Germany”; “The Vatican was also involved in the case of one of the children”; no immediate comment from Ukrainian authorities. Reuters notes the ICC has indicted Lvova-Belova, who calls the accusations false",
+          "source": "Reuters (via Investing.com)",
+          "url": "https://www.investing.com/news/world-news/more-ukrainian-children-are-reunited-with-their-families-white-house-and-russia-say-5050872",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "label": "The White House “did not specify how many of the nine children were returned to Ukraine and how many to Russia”; Ukraine's Bring Kids Back counts more than 20,000 children deported by Russia",
+          "source": "Hromadske",
+          "url": "https://hromadske.ua/en/war/274995-melania-trump-announces-reunification-of-nine-children-with-families-in-ukraine-and-russia",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/melania-trump-nine-more-children-reunited-43.jpg",
+        "alt": "FNN graphic: 43 children home",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Melania Trump's seventh reunification: nine more children back with their families, 43 in all. “Peace begins with our children.”",
+        "caption": "43 CHILDREN HOME"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-27"
+    },
+    {
+      "slug": "trump-signs-florida-flood-aid-thanksgiving-frankel",
+      "section": "freedom",
+      "kicker": "THANKSGIVING AT MAR-A-LAGO",
+      "headline": "Trump Spent Thanksgiving Signing $100 Million in Florida Flood Aid. A Democratic Congresswoman Said Thanks",
+      "deck": "Six flooded counties get FEMA help. Rep. Lois Frankel (D-Fla.): “I am grateful to President Trump for responding to our call.”",
+      "body": "Thanksgiving Day at Mar-a-Lago, President Trump held an event to sign a major disaster declaration for Florida: about $100 million, the Washington Examiner reported.\n\n“The state needs it and they need it quickly,” he said, per C-SPAN's transcript.\n\nIn the room: Democratic Rep. Lois Frankel, who had pushed for the aid. Her statement on his approval: “I am grateful to President Trump for responding to our call.”\n\nFEMA help covers residents of Brevard, Indian River, Martin, Okeechobee, Palm Beach and St. Lucie counties, hit by storms and flooding that began Oct. 31, FOX 35 reported.",
+      "pull_quote": "The state needs it and they need it quickly",
+      "record": [
+        {
+          "date": "2026-11-26",
+          "label": "“President Donald Trump signed $100 million in disaster relief for Florida on Thanksgiving”; “He signed the authorization from Mar-a-Lago”",
+          "source": "Washington Examiner (Brady Knox)",
+          "url": "https://www.washingtonexaminer.com/news/white-house/4816347/trum-florida-disaster-relief-thanksgiving/",
+          "role": null
+        },
+        {
+          "date": "2026-11-26",
+          "label": "C-SPAN closed-caption transcript, 5:17 p.m. ET: Trump: “we are delivering approximately” [caption timestamp] “$100 million. the state needs it and they need it quickly and we are going to get it quickly”; he then invites “lois” to speak",
+          "source": "C-SPAN (Internet Archive)",
+          "url": "https://archive.org/details/CSPAN_20261126_221700_Pres._Trump_Signs_Florida_Disaster_Relief_Declaration",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "Frankel release on the approval: “I am grateful to President Trump for responding to our call”; “Hundreds of Florida families have lost their homes, cars, and personal belongings and are facing an especially difficult Thanksgiving”",
+          "source": "Office of Rep. Lois Frankel",
+          "url": "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=5041",
+          "role": null
+        },
+        {
+          "date": "2026-11-26",
+          "label": "Per FEMA, assistance for “severe storms and flooding that began Oct. 31, 2026”; individual aid in Brevard, Indian River, Martin, Okeechobee, Palm Beach and St. Lucie counties",
+          "source": "FOX 35 Orlando",
+          "url": "https://www.fox35orlando.com/news/president-trump-approves-major-disaster-declaration-florida-flooding",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/trump-signs-florida-flood-aid-thanksgiving-frankel.jpg",
+        "alt": "FNN graphic: flood aid on Thanksgiving",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Thanksgiving at Mar-a-Lago: Trump signs about $100 million in Florida flood aid. Democratic Rep. Lois Frankel: “I am grateful to President Trump for responding to our call.”",
+        "caption": "THANKSGIVING FLOOD AID"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-27"
+    },
+    {
+      "slug": "boston-council-thanksgiving-national-day-of-mourning",
+      "section": "freedom",
+      "kicker": "MASSACHUSETTS · BOSTON CITY COUNCIL",
+      "headline": "Boston's City Council Marked Thanksgiving as a “National Day of Mourning.” 12 of 13 Councilors Signed On",
+      "deck": "The resolution says the 1621 harvest story “sanitizes the English colonists' invasion of Wampanoag homelands.” Third year in a row.",
+      "body": "Happy Thanksgiving from the Boston City Council, which recognized Thursday, Nov. 26, as a “National Day of Mourning” in the city.\n\nCouncilors Benjamin Weber and Ruthzee Louijeune filed it, Julia Mejia joined, and 12 of 13 councilors signed on. It passed Nov. 18 by voice vote, rules suspended.\n\nThe text says the 1621 harvest story “sanitizes the English colonists' invasion of Wampanoag homelands,” Mass Daily News reported.\n\nWeber: “We must also face the full truth of our country's history.”\n\nIt's symbolic, with no money attached. And it's the third straight year.",
+      "pull_quote": "We must also face the full truth of our country's history",
+      "record": [
+        {
+          "date": "2026-11-18",
+          "label": "File 2026-2174, “Resolution recognizing November 26, 2026 as National Day of Mourning in the City of Boston”; “On motion of Councilors Weber, Louijeune and Mejia the rules were suspended; the resolution was adopted”; 12 sponsors listed",
+          "source": "Boston City Council (Legistar)",
+          "url": "https://boston.legistar.com/LegislationDetail.aspx?GUID=A587083D-B831-400F-BAD8-435E86D318F0&ID=8322731",
+          "role": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": "Text says the 1621 story “sanitizes the English colonists' invasion of Wampanoag homelands”; “12 of the council's 13 members signed on”; “symbolic, with no policy or money attached”; National Day of Mourning is a Native protest held in Plymouth since 1970",
+          "source": "Mass Daily News",
+          "url": "https://www.massdailynews.com/2026/11/24/boston-city-council-thanksgiving-day-of-mourning-resolution",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "Weber: “While many of us will gather on Thanksgiving to celebrate family and gratitude, I hope this resolution serves as a reminder that we must also face the full truth of our country's history”; “the third straight year the council has taken up the measure”",
+          "source": "The New England Signal",
+          "url": "https://www.newenglandsignal.com/article/post_1795450835182-boston-city-council-again-recognizes-thanksgiving-day-as-national-day-of-mourning",
+          "role": null
+        },
+        {
+          "date": "2026-11-26",
+          "label": "Adopted “by voice vote on Nov. 18 after the rules were suspended”; “The measure has no legal force”; Mejia's remarks on the Thanksgiving story taught in schools",
+          "source": "VINnews",
+          "url": "https://vinnews.com/2026/11/26/boston-city-council-recognizes-thanksgiving-as-national-day-of-mourning/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/boston-council-thanksgiving-national-day-of-mourning.jpg",
+        "alt": "FNN graphic: Boston's day of mourning",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Boston's City Council recognized Thanksgiving as a “National Day of Mourning,” 12 of 13 councilors signed on. Third year running.",
+        "caption": "BOSTON'S THANKSGIVING: “MOURNING”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-27"
+    },
+    {
+      "slug": "youtube-demonetizes-neuralink-als-patient-brad-smith",
+      "section": "freedom",
+      "kicker": "BIG TECH · YOUTUBE",
+      "headline": "YouTube Cut Off Neuralink's ALS Patient on Thanksgiving for “Unsatisfying or Off-Putting Content,” He Says",
+      "deck": "Brad Smith can't speak. He narrates with an AI copy of his own pre-ALS voice. “It's not an AI persona or a content farm—it's literally how I talk.”",
+      "body": "Brad Smith has ALS. He's a full quadriplegic, he's nonverbal, and he's Neuralink's Patient 3. He talks with an AI-recreated version of his own pre-ALS voice.\n\nOn Thanksgiving, he says, YouTube suspended his channel from its Partner Program, the one that pays creators, for “unsatisfying or off-putting content.”\n\n“It's not an AI persona or a content farm—it's literally how I talk,” he posted. He filed a video appeal and asked for “a human second look.”\n\nElon Musk replied: “!!”\n\nYouTube says it answers appeals within 14 days. No public reply yet.",
+      "pull_quote": "It's not an AI persona or a content farm—it's literally how I talk",
+      "record": [
+        {
+          "date": "2026-11-26",
+          "label": "Smith, 2:48 p.m. ET: “Today @YouTube suspended my channel from the YouTube Partner Program for “unsatisfying or off-putting content.” I have ALS, I'm a full quadriplegic, and I'm nonverbal (@neuralink Patient 3)… It's not an AI persona or a content farm—it's literally how I talk. I just submitted my appeal video below. Would love a human second look”",
+          "source": "Bradford G. Smith on X",
+          "url": "https://x.com/ALScyborg/status/2126040444983443595",
+          "role": null
+        },
+        {
+          "date": "2026-11-26",
+          "label": "Musk, 7:12 p.m. ET, replying to Smith: “!!”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2126106970684018734",
+          "role": null
+        },
+        {
+          "date": "2026-11-26",
+          "label": "Neura Pod: “Please correct this mistake @YouTube. Brad uses an AI voice clone due to having ALS.”",
+          "source": "Neura Pod on X",
+          "url": "https://x.com/NeuraPod/status/2126042475097895024",
+          "role": null
+        },
+        {
+          "date": "2026-11-27",
+          "label": "YouTube's appeal page: “our teams will respond within 14 days with a decision”",
+          "source": "YouTube Help",
+          "url": "https://support.google.com/youtube/answer/9564590?hl=en",
+          "role": null
+        },
+        {
+          "date": "2026-11-26",
+          "label": "FNN, Nov. 26: Neuralink's FDA-approved pivotal study for ALS",
+          "source": "FNN",
+          "url": "https://www.fnnfakenewsnetwork.com/story/neuralink-fda-link-pivotal-study-als",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/youtube-demonetizes-neuralink-als-patient-brad-smith.jpg",
+        "alt": "FNN graphic: literally how I talk",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Neuralink's Patient 3 has ALS and speaks with an AI copy of his own voice. On Thanksgiving, he says, YouTube suspended his monetization for “unsatisfying or off-putting content.”",
+        "caption": "“LITERALLY HOW I TALK”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-27"
+    },
+    {
+      "slug": "bbc-apologized-for-trump-edit-now-says-not-in-florida",
+      "section": "fake",
+      "kicker": "MEDIA WATCH · SPIN",
+      "headline": "The BBC Apologized for Splicing Trump's Jan. 6 Speech. Now It Wants His $10 Billion Suit Tossed: Not in Florida",
+      "deck": "BBC lawyers say the Panorama film “never aired in the United States.” A federal judge already let the case go ahead. The BBC appealed: “urgent.”",
+      "body": "The BBC admits the edit was wrong. It apologized for the 2024 Panorama cut that spliced two parts of President Trump's Jan. 6, 2021, speech, almost an hour apart, The Guardian reports. It still denies defamation.\n\nWhat it wants now is out of Florida. After Judge Jeffrey Kuntz let Trump's $10 billion suit proceed, the BBC filed an “urgent” appeal.\n\nIts lawyers: the film “never aired in the United States.” Its spokesperson: “We did not show it in Florida, nor did any other broadcaster.”\n\nTrump called the ruling a “huge victory against fake news BBC.”",
+      "pull_quote": "We did not show it in Florida, nor did any other broadcaster",
+      "record": [
+        {
+          "date": "2026-11-25",
+          "label": "“While the broadcaster has apologised over the edit… it has always denied that the film defamed Trump”; the documentary “never aired in the United States”; BBC spokesperson: “We did not show it in Florida, nor did any other broadcaster”; spliced words “taken from sections of his speech almost an hour apart”; Trump: “huge victory against fake news BBC”; Trump's deposition postponed until January",
+          "source": "The Guardian (Michael Savage)",
+          "url": "https://www.theguardian.com/us-news/2026/nov/25/bbc-trump-defamation-case-10bn-urgent-appeal",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "label": "The BBC “has lodged an “urgent” appeal”, citing a “complete lack of evidence” that anyone in Florida accessed the programme",
+          "source": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cwdd1zn9npdpo",
+          "role": null
+        },
+        {
+          "date": "2026-11-17",
+          "label": "Petition for writ of mandamus, 11th Circuit: “The BBC never broadcast it in the U.S., nor did it have the rights to do so”",
+          "source": "BBC petition (PDF via Media Law Resource Center)",
+          "url": "https://medialaw.org/wp-content/uploads/2026/11/In-re-BBC-ECF-1-2-Petition-for-Writ-of-Mandamus.pdf",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "label": "“The British broadcaster maintains that the documentary at the center of the case never aired in the U.S.”",
+          "source": "TheWrap (A.J. Katz)",
+          "url": "https://www.thewrap.com/culture-lifestyle/culture/bbc-trump-defamation-lawsuit-appeal/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/bbc-apologized-for-trump-edit-now-says-not-in-florida.jpg",
+        "alt": "FNN graphic: not in Florida",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "The BBC apologized for splicing Trump's Jan. 6 speech. Now it's asking an appeals court to toss his $10 billion suit: “We did not show it in Florida.”",
+        "caption": "“WE DID NOT SHOW IT IN FLORIDA”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-27"
+    },
     {
       "slug": "musk-spacex-shares-every-kid-promise-kept",
       "section": "thenvsnow",
@@ -8865,6 +9179,275 @@
       "share": {
         "line": "Hexumlite got into a University of Florida dining hall for $13 in a $590 fake Rolex, logged about 34 approaches and one probable number, and flies to Miami Wednesday for a palatal expander.",
         "caption": "$13 AND A $590 FAKE ROLEX."
+      }
+    },
+    {
+      "slug": "brooke-rollins-christmas-easter-emails-ruling",
+      "date": "2026-11-27",
+      "section": "faith",
+      "kicker": "RELIGIOUS LIBERTY",
+      "headline": "“We're Going to Fight It All the Way to the Supreme Court”: A Judge Says Brooke Rollins' Jesus Emails Went Too Far",
+      "deck": "A federal judge barred the agriculture secretary from sending unwelcome religious messages to USDA staff. Her Easter email spoke of “our risen Lord.”",
+      "byline": "By FNN Desk",
+      "body": "Agriculture Secretary Brooke Rollins sent USDA staff a Christmas email about the birth of Jesus and an Easter email about His resurrection, calling Him “our Savior” and “our risen Lord.”\n\nOn Nov. 19, U.S. District Judge Trina Thompson barred her from sending unwelcome religious messages from her official account, finding she “appears to exploit her position of authority.”\n\nA USDA spokesperson called it “a completely unprecedented attempt to muzzle a Cabinet secretary.”\n\nRollins, on Fox News: “We're going to fight it all the way to the Supreme Court.”\n\nActs 5:29: “We ought to obey God rather than men.”",
+      "pull_quote": "We're going to fight it all the way to the Supreme Court",
+      "record": [
+        {
+          "date": "2026-11-24",
+          "label": "Rollins on Fox News: “We're going to fight it all the way to the Supreme Court”; Easter email: “Today we celebrate the greatest story ever told, the foundation of our faith, and the abiding hope of all mankind”; the Nov. 19 ruling: Rollins “appears to exploit her position of authority to convey a religious message beyond mere holiday wishes and amounting to coercion”",
+          "source": "Reuters (via Investing.com)",
+          "url": "https://www.investing.com/news/commodities-news/us-farm-secretary-pledges-to-fight-court-order-halting-her-religious-emails-5048674",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "label": "Judge Trina Thompson's preliminary injunction; Dec. 23, 2025, and April 5, 2026, emails calling Jesus “our Savior” and “our risen Lord”; USDA spokesperson: “a completely unprecedented attempt to muzzle a Cabinet secretary”; NFFE's Randy Erwin: “Federal employees are public servants, not an audience for their bosses' personal religious beliefs”",
+          "source": "Fox News (Elaine Mallon)",
+          "url": "https://www.foxnews.com/politics/trump-officials-holiday-emails-staff-calling-jesus-savior-went-too-far-judge-rules",
+          "role": null
+        },
+        {
+          "date": "2026-11-27",
+          "date_label": "Scripture",
+          "label": "Acts 5:29 (KJV): “Then Peter and the other apostles answered and said, We ought to obey God rather than men.”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=John+1%3A14%3BPhilippians+2%3A8%3BMatthew+5%3A4%3BJoshua+24%3A15%3BProverbs+22%3A6%3BMark+4%3A39%3BHebrews+13%3A3%3BIsaiah+40%3A8%3BActs+5%3A29%3BRomans+10%3A17%3BIsaiah+9%3A6&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/brooke-rollins-christmas-easter-emails-ruling.jpg",
+        "alt": "FNN graphic: all the way to the Supreme Court",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "A judge says Agriculture Secretary Brooke Rollins' Christmas and Easter emails calling Jesus “our Savior” went too far. Rollins: “We're going to fight it all the way to the Supreme Court.”",
+        "caption": "“ALL THE WAY TO THE SUPREME COURT”"
+      }
+    },
+    {
+      "slug": "daniella-rubio-always-putting-the-lord-first",
+      "date": "2026-11-27",
+      "section": "faith",
+      "kicker": "FAMILY",
+      "headline": "“The Importance of Always Putting the Lord First”: Marco Rubio's Daughter on Her Father's Greatest Legacy",
+      "deck": "Daniella Rubio, a UVA law student, introduced the secretary of state Nov. 13. On Fox, she named the family habits: Mass every Sunday, prayer at the table.",
+      "byline": "By FNN Desk",
+      "body": "Daniella Rubio, a third-year law student at the University of Virginia, introduced her father, Secretary of State Marco Rubio, at the Federalist Society's convention on Nov. 13.\n\n“His greatest legacy will always be the value he has instilled, the importance of always putting the Lord first,” she said.\n\nHer father's reply: “Was that cool or what?”\n\nOn Fox News Nov. 21, she named the habits that stuck: “go to mass every Sunday” and “pray at the dinner table.”\n\n“I'm very proud of them and the way that they have made sure that we have followed Christ.”",
+      "pull_quote": "The importance of always putting the Lord first",
+      "record": [
+        {
+          "date": "2026-11-13",
+          "label": "State Department transcript: Daniella Rubio: “Beyond all that he has achieved professionally, his greatest legacy will always be the value he has instilled, the importance of always putting the Lord first.” Secretary Rubio: “Was that cool or what?”",
+          "source": "U.S. State Department (via Forth)",
+          "url": "https://www.forth.news/lists/state/Ch23bpAQV3XJoA3GAJHUu",
+          "role": null
+        },
+        {
+          "date": "2026-11-14",
+          "label": "Daniella is “a third-year law student at the University of Virginia”; Rubio “praised his youngest child”",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/us-news/marco-rubio-can-t-hide-his-pride-after-daughter-daniellas-speech-at-dc-event-was-that-cool-or-what-101794652776115.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-25",
+          "label": "On Fox News' “Saturday in America,” Nov. 21: “go to mass every Sunday”; “pray at the dinner table”; “I'm very proud of them and the way that they have made sure that we have followed Christ”",
+          "source": "The Christian Post (Ryan Foley)",
+          "url": "https://www.christianpost.com/news/marco-rubios-daughter-thankful-for-familys-faith-in-jesus.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "label": "“Rubio's daughter reveals importance of faith within her family,” Saturday in America",
+          "source": "Fox News video",
+          "url": "https://www.foxnews.com/video/6408706322112",
+          "role": null
+        },
+        {
+          "date": "2026-11-27",
+          "date_label": "Scripture",
+          "label": "Joshua 24:15 (KJV): “but as for me and my house, we will serve the Lord”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=John+1%3A14%3BPhilippians+2%3A8%3BMatthew+5%3A4%3BJoshua+24%3A15%3BProverbs+22%3A6%3BMark+4%3A39%3BHebrews+13%3A3%3BIsaiah+40%3A8%3BActs+5%3A29%3BRomans+10%3A17%3BIsaiah+9%3A6&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/daniella-rubio-always-putting-the-lord-first.jpg",
+        "alt": "FNN graphic: putting the Lord first",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Marco Rubio's daughter Daniella on her father's greatest legacy: “the importance of always putting the Lord first.”",
+        "caption": "“ALWAYS PUTTING THE LORD FIRST”"
+      }
+    },
+    {
+      "slug": "kirk-jesus-is-king-of-the-world-christmas",
+      "date": "2026-11-27",
+      "section": "faith",
+      "kicker": "CHARLIE KIRK",
+      "headline": "“Jesus Is King of the World. Celebrate This Gift.”: Charlie Kirk's Christmas Message, as Advent Begins",
+      "deck": "As Advent begins Sunday, Erika Kirk leads Turning Point through a hard season, now mourning a 16-year-old Club America chapter president.",
+      "byline": "By FNN Desk",
+      "body": "Charlie Kirk wrote a Christmas message in 2019 that Turning Point USA shared again last December: “He humbled himself down to our sinner world to redeem us… He rose again. He lives. Jesus is king of the world. Celebrate this gift.”\n\nLast Christmas, her first without him, Erika Kirk wrote that “life is different now, and to be honest at times painful. But God is still so good.”\n\nThis week Turning Point mourns Hunter Stokes, 16, a Fort Myers Club America chapter president killed in a plane crash with five relatives.\n\nErika: “I am devastated for Hunter's family and friends.”",
+      "pull_quote": "Jesus is king of the world. Celebrate this gift.",
+      "record": [
+        {
+          "date": "2025-12-26",
+          "label": "TPUSA shared Kirk's 2019 message: “Today and tomorrow we celebrate God coming in human form down from the heavens to save us. He humbled himself down to our sinner world to redeem us. He was killed despite doing nothing wrong, a perfect life… He rose again. He lives. Jesus is king of the world. Celebrate this gift.”",
+          "source": "American Faith (Sarah Wagner)",
+          "url": "https://americanfaith.com/man-pays-tribute-to-charlie-kirk-in-christmas-lights/",
+          "role": null
+        },
+        {
+          "date": "2025-12-31",
+          "label": "Erika Kirk's Christmas post: “Again, life is different now, and to be honest at times painful. But God is still so good.”",
+          "source": "Life & Style",
+          "url": "https://www.lifeandstylemag.com/posts/erika-kirk-opens-up-about-her-first-christmas-without-charlie-kirk/",
+          "role": null
+        },
+        {
+          "date": "2025-12-30",
+          "label": "Erika Kirk on her first Christmas without Charlie",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/media/erika-kirk-opens-up-about-grief-faith-christmas-life-different-now",
+          "role": null
+        },
+        {
+          "date": "2026-11-26",
+          "label": "Hunter Stokes, 16, Fort Myers High School Club America chapter president, died with five family members returning from a fishing trip; TPUSA Students: “Hunter was a young patriot who loved his country and led by example”",
+          "source": "Fox News (Louis Casiano)",
+          "url": "https://www.foxnews.com/us/tpusa-mourns-florida-high-school-chapter-president-killed-family-devastating-plane-crash",
+          "role": null
+        },
+        {
+          "date": "2026-11-26",
+          "label": "Erika Kirk: “I am devastated for Hunter's family and friends, by the loss of such a passionate and young life”; the FAA and NTSB are investigating",
+          "source": "Newsweek (Rebecca Robinson)",
+          "url": "https://www.newsweek.com/erika-kirk-tribute-tpusa-president-killed-mississippi-plane-crash-12769854",
+          "role": null
+        },
+        {
+          "date": "2026-11-27",
+          "date_label": "Scripture",
+          "label": "Matthew 5:4 (KJV): “Blessed are they that mourn: for they shall be comforted.”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=John+1%3A14%3BPhilippians+2%3A8%3BMatthew+5%3A4%3BJoshua+24%3A15%3BProverbs+22%3A6%3BMark+4%3A39%3BHebrews+13%3A3%3BIsaiah+40%3A8%3BActs+5%3A29%3BRomans+10%3A17%3BIsaiah+9%3A6&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/kirk-jesus-is-king-of-the-world-christmas.jpg",
+        "alt": "FNN graphic: celebrate this gift",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Charlie Kirk's Christmas message: “He rose again. He lives. Jesus is king of the world. Celebrate this gift.”",
+        "caption": "“CELEBRATE THIS GIFT”"
+      }
+    },
+    {
+      "slug": "sweden-new-testament-advent-200000-copies",
+      "date": "2026-11-27",
+      "section": "faith",
+      "kicker": "REVIVAL",
+      "headline": "200,000 New Testaments for Advent Sunday: Sweden's Church Gives Away a New Translation, 500 Years After the First",
+      "deck": "On Nov. 29, Church of Sweden congregations hand worshippers NT 2026. Churches report “increased interest among young people.”",
+      "byline": "By FNN Desk",
+      "body": "This Sunday, Nov. 29, the first Sunday of Advent, Church of Sweden congregations will give worshippers a brand-new New Testament. Two hundred thousand copies have been bought to give away.\n\nNT 2026 is a completely new translation from Greek, arriving 500 years after the first New Testament was printed in Swedish, in 1526.\n\n“It is a joy to be able to give people this gift on the first Sunday of Advent specifically,” Archbishop Martin Modéus said.\n\nThe United Bible Societies says it's too early to call a reversal, but churches report “increased interest among young people.”",
+      "pull_quote": "It is a joy to be able to give people this gift on the first Sunday of Advent specifically",
+      "record": [
+        {
+          "date": "2026-11-25",
+          "label": "“Two hundred thousand copies have been purchased for distribution as gifts”; special edition with a foreword by Archbishop Martin Modéus; Modéus: “It is a joy to be able to give people this gift on the first Sunday of Advent specifically”; the 1981 translation remains in use",
+          "source": "Church of Sweden (press release via TT)",
+          "url": "https://via.tt.se/pressmeddelande/4656510/new-bible-translation-to-be-gifted-to-church-visitors-on-first-sunday-of-advent?lang=en&publisherId=1344892",
+          "role": null
+        },
+        {
+          "date": "2026-11-16",
+          "label": "First Swedish New Testament printed in 1526; NT 2026 “a completely new translation from Greek”; “it is too early to speak of a wider reversal, churches are reporting increased interest among young people”",
+          "source": "United Bible Societies",
+          "url": "https://unitedbiblesocieties.org/new-swedish-new-testament-launched-500-years-after-first-printed-edition/",
+          "role": null
+        },
+        {
+          "date": "2026-10-01",
+          "label": "Olof Edsinger: “Already last year — before the new translation — we saw a significant increase in young people buying Bibles.”",
+          "source": "Christian Daily International",
+          "url": "https://www.christiandaily.com/news/interest-in-jesus-among-young-swedes-continues-evangelical-leader-says",
+          "role": null
+        },
+        {
+          "date": "2026-11-03",
+          "label": "“The Church of Sweden plans to distribute 200,000 copies on Advent's first Sunday”",
+          "source": "Bible Gateway News",
+          "url": "https://www.biblegateway.com/learn/news/november-2026-bible-news/",
+          "role": null
+        },
+        {
+          "date": "2026-11-27",
+          "date_label": "Scripture",
+          "label": "Isaiah 40:8 (KJV): “The grass withereth, the flower fadeth: but the word of our God shall stand for ever.”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=John+1%3A14%3BPhilippians+2%3A8%3BMatthew+5%3A4%3BJoshua+24%3A15%3BProverbs+22%3A6%3BMark+4%3A39%3BHebrews+13%3A3%3BIsaiah+40%3A8%3BActs+5%3A29%3BRomans+10%3A17%3BIsaiah+9%3A6&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/sweden-new-testament-advent-200000-copies.jpg",
+        "alt": "FNN graphic: 200,000 New Testaments",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Sunday, Sweden's church gives away 200,000 copies of a brand-new New Testament, 500 years after the first one in Swedish.",
+        "caption": "200,000 NEW TESTAMENTS"
+      }
+    },
+    {
+      "slug": "uganda-gilbert-musede-thrown-into-lake",
+      "date": "2026-11-27",
+      "section": "faith",
+      "kicker": "THE PERSECUTED CHURCH",
+      "headline": "He Prayed, and the Storm Calmed. Then He Shared the Gospel, and Five Men Threw Him Into the Lake",
+      "deck": "Gilbert Musede, 32, a Ugandan father of three, drowned Nov. 5 after passengers taunted him with Jonah, a witness told Morning Star News.",
+      "byline": "By FNN Desk",
+      "body": "Gilbert Musede, 32, a husband and father of three from Kaliro, Uganda, was crossing Lake Lemwa by water taxi on Nov. 5 when a storm hit, a fellow passenger told Morning Star News. He stood and prayed, and the weather improved, she said.\n\nThen he shared the Gospel. Five Muslim passengers grew angry; one shouted “Allahu Akbar” and brought up Jonah. They threw him overboard, she said.\n\nDivers found his body about six hours later. Police had yet to investigate when the report ran.\n\nHebrews 13:3: “Remember them that are in bonds, as bound with them.”",
+      "pull_quote": "Remember them that are in bonds, as bound with them",
+      "record": [
+        {
+          "date": "2026-11-26",
+          "label": "Gilbert Musede, 32, of Kaliro Town Council, “drowned after five Muslims threw him into Lake Lemwa from a boat traveling from Saaka to Kapyani, Kibuku District, said Anna Maria Nausimba, one of the passengers”; body found after about six hours; police had yet to investigate; “Muslims make up no more than 12 percent of Uganda's population”",
+          "source": "Morning Star News",
+          "url": "https://morningstarnews.org/2026/11/christian-in-uganda-thrown-into-lake-drowns/",
+          "role": null
+        },
+        {
+          "date": "2026-11-26",
+          "label": "Republication of the Morning Star News report",
+          "source": "The Christian Post",
+          "url": "https://www.christianpost.com/news/muslims-throw-christian-into-lake-in-uganda-drowning-him.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-27",
+          "date_label": "Scripture",
+          "label": "Hebrews 13:3 (KJV): “Remember them that are in bonds, as bound with them; and them which suffer adversity, as being yourselves also in the body.”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=John+1%3A14%3BPhilippians+2%3A8%3BMatthew+5%3A4%3BJoshua+24%3A15%3BProverbs+22%3A6%3BMark+4%3A39%3BHebrews+13%3A3%3BIsaiah+40%3A8%3BActs+5%3A29%3BRomans+10%3A17%3BIsaiah+9%3A6&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/uganda-gilbert-musede-thrown-into-lake.jpg",
+        "alt": "FNN graphic: remember them",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "A Ugandan father of three shared the Gospel on a water taxi. Five men threw him into the lake, a witness says. Pray for his widow and children.",
+        "caption": "“REMEMBER THEM”"
       }
     },
     {
