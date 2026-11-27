@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-27-am",
+  "edition": "2026-11-27-am1",
   "date": "2026-11-27",
-  "updated_at": "2026-11-27T04:42:08-05:00",
+  "updated_at": "2026-11-27T08:01:15-05:00",
   "lead": "musk-another-spacex-share-every-kid-every-year",
   "stories": [
     {
@@ -4898,6 +4898,44 @@
         "line": "SpaceX posted notice of a $24 billion supercomputer in Starbase. Governor-elect Hinojosa promised “a ban” on data-center approvals.",
         "caption": "A $24 BILLION SUPERCOMPUTER"
       }
+    },
+    {
+      "slug": "clavicular-lasers-off-last-facial-hair-on-stream",
+      "date": "2026-11-27",
+      "section": "mogazine",
+      "kicker": "MOGAZINE · CLAVICULAR",
+      "headline": "Clavicular Has His Last Remaining Facial Hair Lasered Off on Stream, Citing Ingrown Hairs",
+      "deck": "“I dont want to have a beard,” he explained at 11:49 p.m. on Thanksgiving. About 1.2 million views followed.",
+      "byline": "By FNN Desk",
+      "body": "On Thanksgiving, Clavicular settled the beard question.\n\nAt 8:39 p.m. Thursday, the clip account @Pulcys posted video captioned “Clavicular gets the last remaining of his facial hair lasered off on stream.” It has drawn about 1.4 million views.\n\nAt 11:49 p.m., Clavicular quoted the clip with his reasoning: “I dont want to have a beard, shaving gives you acne/ingrown hairs typically.”\n\nBy 8 a.m. Friday, that explanation had about 1.2 million views, 7,273 likes and 1,123 replies.\n\nIt is No-Shave November.",
+      "pull_quote": "I dont want to have a beard, shaving gives you acne/ingrown hairs typically.",
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/clavicular-lasers-off-last-facial-hair-on-stream.jpg",
+        "alt": "FNN graphic: I dont want to have a beard",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Clavicular had the last of his facial hair lasered off on stream Thursday. His reasoning: “I dont want to have a beard, shaving gives you acne/ingrown hairs typically.”",
+        "caption": "“I DONT WANT TO HAVE A BEARD.”"
+      },
+      "record": [
+        {
+          "date": "2026-11-26",
+          "date_label": "Thursday, 11:49 p.m. ET, quote post",
+          "label": "“I dont want to have a beard, shaving gives you acne/ingrown hairs typically.” 1,198,416 views, 7,273 likes, 164 reposts, 1,123 replies, 115 quotes at about 8 a.m. ET Friday.",
+          "source": "X, @clavicular",
+          "url": "https://x.com/clavicular/status/2126176588857479396",
+          "role": null
+        },
+        {
+          "date": "2026-11-26",
+          "date_label": "Thursday, 8:39 p.m. ET, post with video (the clip he quoted)",
+          "label": "“Clavicular gets the last remaining of his facial hair lasered off on stream” 1,441,345 views, 1,178 likes, 199 replies at about 8 a.m. ET Friday.",
+          "source": "X, @Pulcys",
+          "url": "https://x.com/Pulcys/status/2126128865072263653",
+          "role": null
+        }
+      ]
     },
     {
       "slug": "clavicular-dancefloormaxing-dont-have-an-ego",
