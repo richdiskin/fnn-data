@@ -1,9 +1,224 @@
 {
-  "edition": "2026-11-27-am1",
-  "date": "2026-11-27",
-  "updated_at": "2026-11-27T08:01:15-05:00",
-  "lead": "musk-another-spacex-share-every-kid-every-year",
+  "edition": "2026-11-28-am",
+  "date": "2026-11-28",
+  "updated_at": "2026-11-28T04:40:32-05:00",
+  "lead": "trump-melania-thanksgiving-troops-victory-at-hand",
   "stories": [
+    {
+      "slug": "trump-melania-thanksgiving-troops-victory-at-hand",
+      "section": "freedom",
+      "kicker": "COMMANDER IN CHIEF",
+      "headline": "Trump and Melania Spent Thanksgiving on the Phone With Deployed Troops: “We Have Victory at Hand”",
+      "deck": "More than an hour of calls from Mar-a-Lago: an Army air defense battalion, Marines in the UAE, the USS Portland and an F-16 squadron in Saudi Arabia.",
+      "body": "Thanksgiving evening, President Trump and Melania Trump spent over an hour phoning deployed troops from Mar-a-Lago.\n\nTo an Army battalion: “You're going to continue that deployment. And we have victory at hand.”\n\nOn Iran: “We're giving them every chance to make a deal and save a lot of lives.”\n\nWould an F-16 commander trade for Trump's penthouse life? Lt. Col. Brent Smith: “This is what I wanted to do from when I was a child, and I wouldn't trade it for anything.”\n\nDessert? “Pumpkin pie, but it must have vanilla ice cream on top of it.”",
+      "pull_quote": "We have victory at hand",
+      "record": [
+        {
+          "date": "2026-11-26",
+          "label": "Full video: “President Trump and the First Lady Participate in Holiday Calls to Service Members”",
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/videos/president-trump-and-the-first-lady-participate-in-holiday-calls-to-service-members/",
+          "role": null
+        },
+        {
+          "date": "2026-11-27",
+          "label": "Trump and the first lady “spent more than an hour on the phone with U.S. service members deployed overseas”; Trump: “You're going to continue that deployment. And we have victory at hand”; clips of the “whenever I want it to be” remark “drew criticism from veterans and commentators”",
+          "source": "Horizon Reports (quotes checked against the White House video)",
+          "url": "https://horizonreports.org/article/trump-to-troops-on-thanksgiving-iran-war-ends-whenever-i-want-it-to-be",
+          "role": null
+        },
+        {
+          "date": "2026-11-27",
+          "label": "Trump: “We're trying to be nice. We're giving them every chance to make a deal and save a lot of lives, but I'm not sure if they are gonna take advantage of that”; calls to personnel at al-Dhafra and Prince Sultan air bases",
+          "source": "Al Jazeera / AFP",
+          "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops",
+          "role": null
+        },
+        {
+          "date": "2026-11-27",
+          "label": "Lt. Col. Brent Smith: “This is what I wanted to do from when I was a child, and I wouldn't trade it for anything”; calls with the 1st Battalion, 7th Air Defense Artillery Regiment and Marine Fighter Attack Squadron 312; Trump: “I would say pumpkin pie, but it must have vanilla ice cream on top of it”",
+          "source": "Newsweek (Rebecca Robinson)",
+          "url": "https://www.newsweek.com/trump-standout-exchanges-troops-thanksgiving-calls-12772889",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/trump-melania-thanksgiving-troops-victory-at-hand.jpg",
+        "alt": "FNN graphic: victory at hand",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Thanksgiving at Mar-a-Lago: President Trump and Melania spent more than an hour on the phone with deployed troops. Trump: “We have victory at hand.”",
+        "caption": "“WE HAVE VICTORY AT HAND”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-28"
+    },
+    {
+      "slug": "musk-give-directly-to-the-people-not-nonprofits",
+      "section": "freedom",
+      "kicker": "ELON MUSK",
+      "headline": "Musk on Charity: “Much Better to Give Directly to the People and Let Them Decide What They Want to Do”",
+      "deck": "A day after making his SpaceX share gift to every kid a yearly thing, Musk took aim at the nonprofit business. José Andrés invited him to Ukraine.",
+      "body": "Friday, John Arnold posted that Musk's SpaceX-share gift shows “why Trump Accounts are a fantastic new model for giving.” His case: “The impact is direct. Every dollar goes to the intended beneficiaries.”\n\nArnold didn't spare Musk: of the $8.3 billion Musk has given his foundation, “very little of that has reached operating charities,” he wrote.\n\nMusk: giving to “non-profits” “rarely benefits the people,” and such charities are “often merely a means of a wealthy donor buying power over people and governments.”\n\nHis fix: “Much better to give directly to the people.”\n\nChef José Andrés replied: “come to Ukraine with me!”",
+      "pull_quote": "Much better to give directly to the people and let them decide what they want to do.",
+      "record": [
+        {
+          "date": "2026-11-27",
+          "label": "Musk, 1:03 p.m. ET: “My observation is that giving money to “non-profits” rarely benefits the people and often results in hurting civilization”; “Such “charities” are often merely a means of a wealthy donor buying power over people and governments, while appearing to be a “philanthropist””; “Much better to give directly to the people and let them decide what they want to do.”",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2126376500584702103",
+          "role": null
+        },
+        {
+          "date": "2026-11-27",
+          "label": "John Arnold, 9:16 a.m. ET: “Elon's donation illustrates why Trump Accounts are a fantastic new model for giving”; “To date, Elon has given $8.3 billion to his foundation, though very little of that has reached operating charities”; “The impact is direct. Every dollar goes to the intended beneficiaries.”",
+          "source": "John Arnold on X",
+          "url": "https://x.com/johnarnold/status/2126319131506983061",
+          "role": null
+        },
+        {
+          "date": "2026-11-27",
+          "label": "José Andrés, 11:07 p.m. ET, quoting Musk: “I invite you to join @WCKitchen and you will see the impact……I invite you to join us…..come to Ukraine with me!”",
+          "source": "José Andrés on X",
+          "url": "https://x.com/chefjoseandres/status/2126528265674494027",
+          "role": null
+        },
+        {
+          "date": "2026-11-27",
+          "label": "FNN, Nov. 27: Musk pledges “another share of SpaceX to all kids in America every year”",
+          "source": "FNN",
+          "url": "https://www.fnnfakenewsnetwork.com/story/musk-another-spacex-share-every-kid-every-year",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/musk-give-directly-to-the-people-not-nonprofits.jpg",
+        "alt": "FNN graphic: give directly",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Elon Musk on the charity business: giving to “non-profits” “rarely benefits the people.” His fix: “Much better to give directly to the people and let them decide what they want to do.”",
+        "caption": "“GIVE DIRECTLY TO THE PEOPLE”"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-28"
+    },
+    {
+      "slug": "massachusetts-progressives-warren-markey-dump-schumer",
+      "section": "freedom",
+      "kicker": "MASSACHUSETTS",
+      "headline": "More Than 80 Massachusetts Progressives Tell Warren and Markey: Dump Schumer, Back Van Hollen",
+      "deck": "Their open letter: the party “does not need another leader committed to managing the status quo.” Warren and Markey hadn't answered WCVB.",
+      "body": "Democrats had a big midterm. In Massachusetts, the left already wants a new Senate boss.\n\nMore than 80 progressive local officials signed an open letter urging Sens. Elizabeth Warren and Ed Markey not to back Chuck Schumer for majority leader and to support Maryland's Chris Van Hollen instead, WCVB reported Friday.\n\n“The Democratic Party does not need another leader committed to managing the status quo,” they wrote.\n\nOrganizer Kyle Davis, a Salem city councilor, on Schumer: “Not only does he not support that progressive vision, but he is working to actively undermine it.”\n\nWarren and Markey hadn't answered.",
+      "pull_quote": "The Democratic Party does not need another leader committed to managing the status quo.",
+      "record": [
+        {
+          "date": "2026-11-27",
+          "label": "More than 80 progressive elected local officials signed an open letter to Warren and Markey; “The Democratic Party does not need another leader committed to managing the status quo”; Kyle Davis, Salem City Councilor At-Large: “Not only does he not support that progressive vision, but he is working to actively undermine it”; Schumer: “I will be elected majority leader. I'm confident we have the votes”; WCVB “has reached out to Warren and Markey regarding both letters, but has not heard back”; vote expected in early December by secret ballot",
+          "source": "WCVB (Arielle Mitropoulos)",
+          "url": "https://www.wcvb.com/article/progressive-democrats-in-massachusetts-call-for-warren-markey-to-support-van-hollen/74551971",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/massachusetts-progressives-warren-markey-dump-schumer.jpg",
+        "alt": "FNN graphic: dump Schumer",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "More than 80 Massachusetts progressive officials to Warren and Markey: dump Chuck Schumer. “The Democratic Party does not need another leader committed to managing the status quo.”",
+        "caption": "MASSACHUSETTS: DUMP SCHUMER"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-28"
+    },
+    {
+      "slug": "huffpost-despicable-headline-one-word-post",
+      "section": "fake",
+      "kicker": "MEDIA WATCH · SPIN",
+      "headline": "HuffPost's Headline Called Trump's Troop Call Remark “Despicable.” The Source: One X User's One-Word Post",
+      "deck": "The “backlash” in HuffPost's story was a string of X posts, several from pseudonymous accounts. The headline word: a post that read, in full, “Despicable.”",
+      "body": "HuffPost's Friday-morning headline put one word on President Trump's Thanksgiving call with deployed troops: “Despicable.”\n\nWho said it? HuffPost's story says critics seized on his remark, “with one describing his remarks as “despicable.”” The post it embeds is from a single X user. The full text: “Despicable.”\n\nThe rest of the “backlash” was more X posts, several from pseudonymous accounts.\n\nAlso in HuffPost's own story: Trump told the troops he and the first lady “join millions this holiday to pray for your safety and success.”\n\nThat line didn't make the headline.",
+      "pull_quote": "with one describing his remarks as “despicable.”",
+      "record": [
+        {
+          "date": "2026-11-27",
+          "label": "Headline: “Donald Trump's ‘Despicable’ Iran War Remark To U.S. Service Member Sparks Backlash” (Nov. 27, 6:40 a.m. ET); “Critics seized on Trump's suggestion that the timing of the war's conclusion was effectively his to decide, with one describing his remarks as “despicable.””; embedded X post, full text: “Despicable”; Trump: he and the first lady “join millions this holiday to pray for your safety and success”",
+          "source": "HuffPost (Lee Moran)",
+          "url": "https://www.huffpost.com/entry/donald-trump-iran-comment-reaction_n_6b092979e4b01f494a036ec4",
+          "role": null
+        },
+        {
+          "date": "2026-11-26",
+          "label": "Full video of the calls",
+          "source": "The White House",
+          "url": "https://www.whitehouse.gov/videos/president-trump-and-the-first-lady-participate-in-holiday-calls-to-service-members/",
+          "role": null
+        },
+        {
+          "date": "2026-11-27",
+          "label": "Trump: “You're going to continue that deployment. And we have victory at hand. It's going to be whenever, sort of, whenever I want it to be, to be honest”",
+          "source": "Horizon Reports",
+          "url": "https://horizonreports.org/article/trump-to-troops-on-thanksgiving-iran-war-ends-whenever-i-want-it-to-be",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/huffpost-despicable-headline-one-word-post.jpg",
+        "alt": "FNN graphic: one word, one post",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "HuffPost's headline called Trump's Thanksgiving troop call remark “Despicable.” Where the word came from: one X user's post. Full text: “Despicable.”",
+        "caption": "ONE WORD. ONE POST. ONE HEADLINE."
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-28"
+    },
+    {
+      "slug": "trump-harp-thanksgiving-photos-ai-fakes",
+      "section": "hoax",
+      "kicker": "HOAX FILES · THE RECORD",
+      "headline": "The “Intimate Thanksgiving Getaway” Photos of Trump and an Aide? Made With AI, a Hidden Watermark Shows",
+      "deck": "Lead Stories ran the images through Google's SynthID Detector: “This media was made or edited with OpenAI.” The site that ran them is weeks old.",
+      "body": "The pictures hit X on Thanksgiving: President Trump, 80, and aide Natalie Harp, 35, supposedly on an “intimate Thanksgiving getaway” at his West Palm Beach golf club.\n\nFake. Lead Stories uploaded the images to Google's SynthID Detector. Result: “This media was made or edited with OpenAI.”\n\nThe source: a site called USAtoss, “anonymously registered on Nov. 3, 2026,” with no publisher or owner listed.\n\nUsers online spotted another tell, Newsner noted: no Secret Service agents in sight.\n\nSeptember's version of the rumor had its own giveaway: a sharper image with an OpenAI watermark and a six-fingered hand.",
+      "pull_quote": "This media was made or edited with OpenAI",
+      "record": [
+        {
+          "date": "2026-11-27",
+          "label": "SynthID Detector on all three images: “SynthID was detected… This media was made or edited with OpenAI”; first published by “USAtoss” on Nov. 26, 2026; usatoss.com “was anonymously registered on Nov. 3, 2026”; no publisher or owner listed",
+          "source": "Lead Stories (Maarten Schenk)",
+          "url": "https://leadstories.com/hoax-alert/2026/11/fact-check-breaking-president-trump-80-caught-on-an-intimate-thanksgiving-getaway-with-35-year-old-a.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-27",
+          "label": "Fact-checkers say the photos are fake; users pointed out “Trump is constantly surrounded by Secret Service agents, of which there are none in the AI-generated picture with Harp”",
+          "source": "Newsner (Michael Panter)",
+          "url": "https://en.newsner.com/news/trump-and-natalie-harp-photos-fakes/",
+          "role": null
+        },
+        {
+          "date": "2026-09-15",
+          "label": "September image: the higher-resolution version carried an OpenAI watermark and showed Harp “holding her golf club with six fingers”; a White House spokesperson called it “clearly a fake”",
+          "source": "Snopes (Emery Winter)",
+          "url": "https://www.snopes.com/news/2026/09/15/trump-kissing-natalie-harp-photo/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/trump-harp-thanksgiving-photos-ai-fakes.jpg",
+        "alt": "FNN graphic: made with AI",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Those “intimate Thanksgiving getaway” photos of Trump and aide Natalie Harp? Google's SynthID Detector: “This media was made or edited with OpenAI.”",
+        "caption": "MADE WITH AI"
+      },
+      "byline": "By FNN Desk",
+      "date": "2026-11-28"
+    },
     {
       "slug": "musk-another-spacex-share-every-kid-every-year",
       "section": "money",
@@ -9217,6 +9432,264 @@
       "share": {
         "line": "Hexumlite got into a University of Florida dining hall for $13 in a $590 fake Rolex, logged about 34 approaches and one probable number, and flies to Miami Wednesday for a palatal expander.",
         "caption": "$13 AND A $590 FAKE ROLEX."
+      }
+    },
+    {
+      "slug": "joe-milton-the-man-above-thanksgiving-comeback",
+      "date": "2026-11-28",
+      "section": "faith",
+      "kicker": "YOUNG CHRISTIAN LEADERS",
+      "headline": "“I Can't Even Be Here Without Him”: Joe Milton, 26, Leads a Record Thanksgiving Comeback and Thanks “the Man Above”",
+      "deck": "He began the season on Dallas' practice squad. After beating the Cowboys for the Eagles, he thanked God. In 2019, he said, a prayer picked his college.",
+      "byline": "By FNN Desk",
+      "body": "Joe Milton began this season on the Dallas Cowboys' practice squad. On Thanksgiving, he led the Eagles back from 21 points down to beat Dallas 39-38, the biggest Thanksgiving comeback in NFL history, the team's site reported.\n\nThen he gave thanks. “My why is my family, my daughter, my girlfriend and my immediate family,” Milton said. “I can't even be here without Him, the man above.”\n\nIn 2019, he said a prayer in an Orlando church settled his college choice: “I saw it as a message from God.”\n\nJames 1:17: “Every good gift and every perfect gift is from above.”",
+      "pull_quote": "I can't even be here without Him, the man above.",
+      "record": [
+        {
+          "date": "2026-11-26",
+          "label": "Milton after the game: “My why is my family, my daughter, my girlfriend and my immediate family, but also just proving myself right. Proving the man above it right”; “I can't even be here without Him, the man above. So shout out to him and just so thankful for this moment tonight”",
+          "source": "The Dallas Morning News",
+          "url": "https://www.dallasnews.com/sports/cowboys/article/dallas-cowboys-eagles-nick-sirianni-joe-milton-22551956.php",
+          "role": null
+        },
+        {
+          "date": "2026-11-27",
+          "label": "“Joe Milton rockets the Eagles into biggest Thanksgiving comeback in NFL history”; “Signed off the Cowboys' practice squad in mid-October”",
+          "source": "PhiladelphiaEagles.com",
+          "url": "https://www.philadelphiaeagles.com/news/joe-milton-rockets-the-eagles-into-biggest-thanksgiving-comeback-in-nfl-history",
+          "role": null
+        },
+        {
+          "date": "2026-11-26",
+          "label": "A Brandon Aubrey field goal “gave the Cowboys a 31-10 lead” with 3:35 left in the third quarter",
+          "source": "Bleacher Report (Timothy Rapp)",
+          "url": "https://bleacherreport.com/articles/25537982-everything-joe-milton-said-after-eagles-historic-21-point-rally-beat-cowboys-thanksgiving",
+          "role": null
+        },
+        {
+          "date": "2026-10-16",
+          "label": "Milton, 26, “was waived by the Cowboys on Sept. 1 and placed on their practice squad two days later”; Eagles sign him off the practice squad",
+          "source": "New York Post",
+          "url": "https://nypost.com/2026/10/16/sports/eagles-sign-joe-milton-away-from-cowboys-after-jalen-hurts-injury-stunner/",
+          "role": null
+        },
+        {
+          "date": "2019-10-10",
+          "label": "“I said the names of each school at least five times”; “God just kept erasing them until the only one that stuck out was Michigan. I saw it as a message from God”",
+          "source": "University of Michigan Athletics",
+          "url": "https://mgoblue.com/news/2019/10/10/football-milton-possesses-everything-needed-to-excel-including-patience",
+          "role": null
+        },
+        {
+          "date": "2026-11-28",
+          "date_label": "Scripture",
+          "label": "James 1:17 (KJV): “Every good gift and every perfect gift is from above, and cometh down from the Father of lights”",
+          "source": "Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Proverbs+28%3A1%3B1+Corinthians+15%3A57%3BJohn+16%3A33%3BHebrews+13%3A3%3BJohn+2%3A5%3B1+Peter+3%3A15%3BJames+1%3A17%3BPsalm+127%3A3&version=KJV",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/joe-milton-the-man-above-thanksgiving-comeback.jpg",
+        "alt": "FNN graphic: the man above",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Joe Milton led the biggest Thanksgiving comeback in NFL history, then pointed up: “I can't even be here without Him, the man above.”",
+        "caption": "“WITHOUT HIM, THE MAN ABOVE”"
+      }
+    },
+    {
+      "slug": "kirk-plant-that-apple-tree-not-allowed-to-be-nihilistic",
+      "date": "2026-11-28",
+      "section": "faith",
+      "kicker": "CHARLIE KIRK",
+      "headline": "“We Are Planting That Apple Tree Today”: Charlie Kirk's Answer to Christians Who Want to Give Up, Heard Again",
+      "deck": "At Awaken Church in 2023, Kirk said end-times worry is no excuse to quit. His show re-aired the message on Nov. 22, the Sunday before Thanksgiving.",
+      "byline": "By FNN Desk",
+      "body": "On Nov. 22, The Charlie Kirk Show re-aired a message Kirk gave at Awaken Church in California in March 2023. The show's summary: “Nihilism may be popular, but no self-proclaimed Christian can be a nihilist.”\n\nWhy not quit? Kirk: “If you believe that Jesus is coming back soon, you should have the opposite view. You should be leaning in.”\n\nHe quoted Martin Luther: “even if the world was ending today, I would plant an apple tree.”\n\nHis close: “We are planting that apple tree today, even though it might look like the world is ending.”\n\n“The battle is already won.”",
+      "pull_quote": "We are planting that apple tree today, even though it might look like the world is ending.",
+      "record": [
+        {
+          "date": "2026-11-22",
+          "label": "Episode description: the March 2023 Awaken Church message is “even more relevant now after a difficult midterm and with growing angst over AI”; “Nihilism may be popular, but no self-proclaimed Christian can be a nihilist”",
+          "source": "Podscan (The Charlie Kirk Show)",
+          "url": "https://podscan.fm/podcasts/the-charlie-kirk-show/episodes/from-the-archive-charlie-on-why-christians-must-reject-nihilism",
+          "role": null
+        },
+        {
+          "date": "2026-11-22",
+          "label": "Episode page: “From the Archive: Charlie on Why Christians Must Reject Nihilism”",
+          "source": "CharlieKirk.com",
+          "url": "https://www.charliekirk.com/podcasts/from-the-archive-charlie-on-why-christians-must-reject-nihilism",
+          "role": null
+        },
+        {
+          "date": "2026-11-22",
+          "label": "Episode audio (FNN transcription, about 38:41 to 39:20 and 63:28 to 63:39): “If you believe that Jesus is coming back soon, you should have the opposite view. You should be leaning in”; “The great Martin Luther said, even if the world was ending today, I would plant an apple tree”; “We are planting that apple tree today, even though it might look like the world is ending”; “We're not allowed to be cynical. The battle is already won”",
+          "source": "The Charlie Kirk Show (audio via Omny)",
+          "url": "https://traffic.omny.fm/d/clips/5e27a451-e6e6-4c51-aa03-a7370003783c/c865b590-c84f-4f7e-a43e-ac64014b61d9/614cb446-e6e0-4cb6-a1fb-b508017b9968/audio.mp3",
+          "role": null
+        },
+        {
+          "date": "2023-04-19",
+          "label": "Speech at Awaken's San Marcos campus, March 29, 2023; closing line as published: “The battle is already won”",
+          "source": "Left Coast Right Watch",
+          "url": "https://leftcoastrightwatch.org/articles/charlie-kirk-says-antiracism-is-apostasy-at-awaken-church/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/kirk-plant-that-apple-tree-not-allowed-to-be-nihilistic.jpg",
+        "alt": "FNN graphic: plant the apple tree",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Charlie Kirk to discouraged Christians, re-aired Thanksgiving week: “We are planting that apple tree today, even though it might look like the world is ending.”",
+        "caption": "“PLANTING THAT APPLE TREE”"
+      }
+    },
+    {
+      "slug": "pakistan-shahzad-masih-death-row-at-16",
+      "date": "2026-11-28",
+      "section": "faith",
+      "kicker": "THE PERSECUTED CHURCH",
+      "headline": "Arrested at 16 for Repeating Another Man's Words, Now on Death Row: Pakistani Christian Shahzad Masih Still Waits",
+      "deck": "A U.N. working group called his detention arbitrary and urged his release. His appeal has been pending in the Lahore High Court since 2022, his lawyers say.",
+      "byline": "By FNN Desk",
+      "body": "Shahzad Masih was a 16-year-old Christian hospital worker in Punjab in 2017 when a Muslim coworker questioned him about religion, the American Center for Law and Justice says. He repeated derogatory words he said came from his father's Muslim friend, and was charged with blasphemy.\n\nOn Nov. 22, 2022, a court sentenced him to death by hanging. His appeal is still pending.\n\nA U.N. working group called his detention arbitrary and urged his immediate release.\n\nThe ACLJ's CeCe Heil: “We urge Pakistani authorities to uphold fundamental human rights, overturn this unjust conviction, and bring Shahzad home to his family.”",
+      "pull_quote": "Bring Shahzad home to his family.",
+      "record": [
+        {
+          "date": "2026-11-19",
+          "label": "ACLJ release: arrested July 13, 2017, at 16; “his father's Muslim friend named Ali used the derogatory words”; charged under Section 295-C; sentenced to death Nov. 22, 2022; appeal pending before the Lahore High Court; at least four petitions to hear it; CeCe Heil: “We urge Pakistani authorities to uphold fundamental human rights, overturn this unjust conviction, and bring Shahzad home to his family”",
+          "source": "GlobeNewswire (ACLJ press release)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/19/3406887/0/en/aclj-fights-to-save-pakistani-christian-sentenced-to-death-after-arrest-for-blasphemy-at-age-16.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-17",
+          "label": "U.N. Working Group on Arbitrary Detention found his imprisonment arbitrary and called for his immediate release; Pakistan has never carried out a state execution for blasphemy",
+          "source": "Christian Daily International",
+          "url": "https://www.christiandaily.com/news/release-of-christian-sentenced-to-death-for-blasphemy-urged",
+          "role": null
+        },
+        {
+          "date": "2026-11-21",
+          "label": "Coworker asked about his belief in Jesus; ACLJ: “we'll take this case all the way to Pakistan's Supreme Court”",
+          "source": "International Christian Concern",
+          "url": "https://persecution.org/2026/11/21/advocacy-efforts-for-pakistani-christians-release-grow-more-urgent/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/pakistan-shahzad-masih-death-row-at-16.jpg",
+        "alt": "FNN graphic: bring him home",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Shahzad Masih was arrested at 16 for repeating another man's words. Nine years later, the Pakistani Christian is on death row, his appeal unheard.",
+        "caption": "“BRING SHAHZAD HOME”"
+      }
+    },
+    {
+      "slug": "pope-leo-young-people-off-screens-advent-parishes",
+      "date": "2026-11-28",
+      "section": "faith",
+      "kicker": "THE CHURCH WORLDWIDE",
+      "headline": "“Our Young People Have a Great Need”: Pope Leo Says Sport Can Pull Kids Off Screens, Then Opens Advent Parish by Parish",
+      "deck": "The first American pope told Catholic sports chaplains Nov. 27 that many young people are isolated online. Then he visited the first of five Rome parishes.",
+      "byline": "By FNN Desk",
+      "body": "The day after Thanksgiving, Chicago-born Pope Leo XIV spoke at the Vatican to chaplains of the Italian Sports Centre.\n\n“In a cultural and social context that leads many young people to a certain isolation, spending a lot of time on the internet and on social networks, sport is one of the activities that most effectively encourages them to go out, to meet others,” he said.\n\n“Our young people have a great need for these formative experiences.”\n\nThat afternoon he visited Sant'Andrea delle Fratte, first of five Rome parishes before Christmas, Vatican News reported.",
+      "pull_quote": "Our young people have a great need for these formative experiences",
+      "record": [
+        {
+          "date": "2026-11-27",
+          "label": "Official English text: “In a cultural and social context that leads many young people to a certain isolation, spending a lot of time on the internet and on social networks, sport is one of the activities that most effectively encourages them to go out, to meet others”; “Our young people have a great need for these formative experiences”",
+          "source": "Holy See Press Office",
+          "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/27/261127d.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-27",
+          "label": "Summary of the address to the Italian Sports Centre's chaplains",
+          "source": "Vatican News",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-says-sport-can-help-young-people-overcome-isolation.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-27",
+          "label": "Visit to Sant'Andrea delle Fratte “on the afternoon of Friday, 27 November, beginning a series of five pastoral visits to parishes across the Diocese of Rome ahead of Christmas”; homily on the Wedding at Cana",
+          "source": "Vatican News",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-homily-parish-rome-advent-visit.html",
+          "role": null
+        },
+        {
+          "date": "2025-05-08",
+          "label": "Born in Chicago Sept. 14, 1955; elected May 8, 2025, the first pope from the United States",
+          "source": "U.S. Conference of Catholic Bishops",
+          "url": "https://www.usccb.org/popes/pope-leo-xiv",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/pope-leo-young-people-off-screens-advent-parishes.jpg",
+        "alt": "FNN graphic: off the screens",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "Pope Leo XIV, the first pope from the United States, says too many young people are isolated online, and sport can pull them out: “Our young people have a great need.”",
+        "caption": "“OUR YOUNG PEOPLE HAVE A GREAT NEED”"
+      }
+    },
+    {
+      "slug": "ut-dallas-russell-hunter-arrested-gospel-plaza",
+      "date": "2026-11-28",
+      "section": "faith",
+      "kicker": "FAITH ON CAMPUS",
+      "headline": "“We Just Have Permission, Until Someone Complains”: A Christian Talked With UT Dallas Students for Hours. Then: Cuffs",
+      "deck": "T. Russell Hunter talked with students for nearly three hours Nov. 18, then was arrested for trespass. UT Dallas says its outdoor areas aren't a public forum.",
+      "byline": "By FNN Desk",
+      "body": "T. Russell Hunter, founder of the Christian anti-abortion group Abolitionists Rising, spent nearly three hours talking with University of Texas at Dallas students on Nov. 18, The Christian Post reported. An administrator called police. He was arrested for criminal trespass and held about 24 hours.\n\nHis lawyer, C.J. Grisham: “If a dean can have you arrested because your opinion made someone uncomfortable, none of us has free speech on that campus. We just have permission, until someone complains.”\n\nUT Dallas says its outdoor areas “are not a traditional public forum” and its policy is applied “in a viewpoint-neutral manner.”",
+      "pull_quote": "We just have permission, until someone complains.",
+      "record": [
+        {
+          "date": "2026-11-23",
+          "label": "Nearly three hours of one-on-one conversations; arrested for criminal trespass; “Hunter spent about 24 hours in custody”; campus crime log: “cleared by arrest”; Grisham: “If a dean can have you arrested because your opinion made someone uncomfortable, none of us has free speech on that campus. We just have permission, until someone complains.”",
+          "source": "The Christian Post",
+          "url": "https://www.christianpost.com/news/abortion-abolitionist-releases-ut-dallas-arrest-video.html",
+          "role": null
+        },
+        {
+          "date": "2026-11-23",
+          "label": "UT Dallas statement: the group had “no affiliation to the university”; “After the group declined repeated requests, campus police arrested one individual”; outdoor areas “are not a traditional public forum”; “The University applies this policy in a viewpoint-neutral manner, regardless of the speaker or the message.”",
+          "source": "The College Fix",
+          "url": "https://www.thecollegefix.com/pro-life-activist-arrested-at-ut-dallas-vows-to-sue-university-for-free-speech-violations/",
+          "role": null
+        },
+        {
+          "date": "2026-11-19",
+          "label": "Abolitionists Rising: Hunter “was arrested at the University of Texas at Dallas for peacefully discussing abortion and the gospel of Christ with students”",
+          "source": "Townhall",
+          "url": "https://townhall.com/news/scott-mcclallen/2026/11/19/abortion-abolitionist-arrested-at-ut-dallas-during-campus-talk-n2686802",
+          "role": null
+        },
+        {
+          "date": "2026-11-20",
+          "label": "Released on bond; group plans to fight the charges",
+          "source": "Protestia",
+          "url": "https://protestia.com/2026/11/20/arrested-anti-abortion-activist-released-from-jail-legal-update-lawsuit-incoming/",
+          "role": null
+        }
+      ],
+      "image": {
+        "src": "https://richdiskin.github.io/fnn-data/heroes/ut-dallas-russell-hunter-arrested-gospel-plaza.jpg",
+        "alt": "FNN graphic: until someone complains",
+        "credit": "FNN"
+      },
+      "share": {
+        "line": "A Christian talked with UT Dallas students about abortion and the Gospel for nearly three hours. Then came handcuffs. His lawyer: “We just have permission, until someone complains.”",
+        "caption": "“UNTIL SOMEONE COMPLAINS”"
       }
     },
     {
